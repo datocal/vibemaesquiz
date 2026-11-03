@@ -1,3 +1,37 @@
 {
-  "categories": []
+  "categories": [
+    {
+      "id": "aprendizaje-desarrollo-personalidad",
+      "name": "Aprendizaje y desarrollo de la personalidad",
+      "description": "Desarrollo del adolescente, procesos psicológicos y teorías del aprendizaje",
+      "icon": "🧠",
+      "quizzes": [
+        "ud1_aprendizaje_desarrollo_personalidad.json",
+        "ud2_aprendizaje_desarrollo_personalidad.json",
+        "ud3_aprendizaje_desarrollo_personalidad.json"
+      ]
+    },
+    {
+      "id": "procesos-contextos-educativos",
+      "name": "Procesos y contextos educativos",
+      "description": "Calidad educativa, sistema educativo y organización de los centros",
+      "icon": "🏫",
+      "quizzes": [
+        "ud1_procesos_contextos_educ.json",
+        "ud2_procesos_contextos_educ.json",
+        "ud3_procesos_contextos_educ.json"
+      ]
+    },
+    {
+      "id": "sociedad-familia-educacion",
+      "name": "Sociedad, Familia y Educación",
+      "description": "Sociología de la educación, familia, escuela y diversidad",
+      "icon": "👨‍👩‍👧",
+      "quizzes": [
+        "ud1_sociedad_familia_educ.json",
+        "ud2_sociedad_familia_educ.json",
+        "ud3_sociedad_familia_educ.json"
+      ]
+    }
+  ]
 }

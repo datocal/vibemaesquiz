@@ -1,0 +1,2208 @@
+{
+  "title": "UD 1. El desarrollo del adolescente",
+  "description": "Quiz de nivel difícil sobre el desarrollo del adolescente: pubertad, cerebro, Piaget, Kohlberg, Erikson, autoestima y relaciones sociales, con retos para el profesorado.",
+  "category": "aprendizaje-desarrollo-personalidad",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "¿Qué significa etimológicamente el término «psicología» según la unidad?",
+      "options": [
+        "Estudio de la conducta y del comportamiento humano",
+        "Ciencia del cerebro y del sistema nervioso",
+        "Tratado del alma o de la mente",
+        "Análisis de la razón y del espíritu"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Etimológicamente psicología significa «tratado del alma» o «de la mente», aunque hoy es una ciencia que va más allá y estudia la conducta humana y su relación con el medio."
+    },
+    {
+      "question": "¿Qué rama de la psicología estudia los procesos de cambio y desarrollo a lo largo de la vida de la persona?",
+      "options": [
+        "Psicología del desarrollo",
+        "Psicología básica",
+        "Psicología de la personalidad",
+        "Psicología social"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La psicología del desarrollo se ocupa de los procesos de cambio a lo largo de la vida. La básica estudia procesos como memoria o atención, la de la personalidad los rasgos y la social las relaciones en contextos sociales."
+    },
+    {
+      "question": "¿Cuál es el campo de estudio de la psicología básica?",
+      "options": [
+        "Los rasgos que caracterizan a cada persona",
+        "Las relaciones de las personas en contextos sociales",
+        "Los cambios evolutivos a lo largo del ciclo vital",
+        "Los procesos psicológicos como memoria, aprendizaje o atención"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La psicología básica estudia los procesos psicológicos (memoria, aprendizaje, atención, etc.). Los rasgos corresponden a la personalidad, las relaciones a la social y los cambios vitales a la del desarrollo."
+    },
+    {
+      "question": "¿Qué estudia la psicología de la personalidad?",
+      "options": [
+        "Cómo se relacionan las personas en los contextos sociales",
+        "Los diferentes rasgos que caracterizan a las personas",
+        "Los procesos de memoria y atención",
+        "Los cambios del desarrollo a lo largo de la vida"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La psicología de la personalidad estudia los rasgos que caracterizan a las personas. Las otras opciones describen la psicología social, la básica y la del desarrollo respectivamente."
+    },
+    {
+      "question": "La psicología cognitiva o cognitivismo y la psicología humanista son ejemplos de:",
+      "options": [
+        "Etapas del ciclo vital de la persona",
+        "Ramas de estudio según su ámbito",
+        "Subetapas propuestas para la adolescencia",
+        "Corrientes o puntos de vista dentro de cada rama"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Dentro de cada rama existen diferentes puntos de vista o corrientes, como el cognitivismo o el humanismo. No son ramas (desarrollo, básica, personalidad, social) ni etapas del ciclo vital."
+    },
+    {
+      "question": "Según Papalia y Martorell (2021), la división del ciclo vital humano en etapas es:",
+      "options": [
+        "Un hecho biológico con límites objetivos y universales",
+        "Un constructo social sin un momento objetivo de transición",
+        "Una clasificación fijada por la maduración hormonal",
+        "Una división idéntica en todas las culturas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La división del ciclo vital es un constructo social: no existe un momento objetivo y concreto de paso de una etapa a otra y puede variar de una cultura a otra."
+    },
+    {
+      "question": "¿En cuántas etapas divide el desarrollo humano la propuesta adoptada por lo general en las sociedades industriales occidentales?",
+      "options": [
+        "Seis",
+        "Siete",
+        "Nueve",
+        "Ocho"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Se adopta la división en ocho etapas: prenatal, primera infancia, segunda infancia, niñez o tercera infancia, adolescencia, juventud, vida adulta y ancianidad."
+    },
+    {
+      "question": "En la división en ocho etapas, ¿qué etapa sigue inmediatamente a la adolescencia?",
+      "options": [
+        "Vida adulta o adultez media",
+        "Niñez o tercera infancia",
+        "Ancianidad o adultez tardía",
+        "Juventud o adultez temprana"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El orden es: prenatal, primera infancia, segunda infancia, niñez, adolescencia, juventud o adultez temprana, vida adulta y ancianidad. La adultez media es posterior a la juventud."
+    },
+    {
+      "question": "Según Díaz y Pérez (2022), el desarrollo se da debido a la influencia de:",
+      "options": [
+        "La herencia genética y la maduración neuronal",
+        "El ambiente y la educación recibida en la escuela",
+        "La herencia, el ambiente y la interacción entre ellos",
+        "La cultura y la interacción con los iguales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El desarrollo se debe a factores de herencia, ambiente y su interacción. Considerar un único factor, genético o ambiental, es una visión parcial."
+    },
+    {
+      "question": "¿Qué áreas del desarrollo se abordan en las secciones de la unidad?",
+      "options": [
+        "Físico, cognitivo, psicosocial y moral",
+        "Físico, afectivo, lingüístico y moral",
+        "Cognitivo, motor, psicosocial y espiritual",
+        "Biológico, cognitivo, emocional y social"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La unidad organiza el desarrollo en cuatro áreas: físico (pubertad), cognitivo (Piaget), moral (Kohlberg) y psicosocial (Erikson, autoestima, relaciones)."
+    },
+    {
+      "question": "¿Cuándo se define la adolescencia como una etapa independiente del desarrollo?",
+      "options": [
+        "En el siglo XX",
+        "En el siglo XIX",
+        "En el Renacimiento",
+        "En el siglo XVIII"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La adolescencia es un constructo social que no se define como etapa independiente hasta el siglo XX; antes se pasaba a la adultez al madurar físicamente o empezar a trabajar."
+    },
+    {
+      "question": "En las sociedades preindustriales, ¿cuándo se consideraba que un niño alcanzaba la etapa adulta?",
+      "options": [
+        "Al cumplir los 18 años de edad",
+        "Al terminar la escolarización obligatoria",
+        "Al formar una familia propia",
+        "Al madurar físicamente o comenzar a trabajar"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Según Papalia y Martorell (2021), en sociedades preindustriales se alcanzaba la adultez cuando se maduraba físicamente o se comenzaba a trabajar, lo que muestra el carácter social de la adolescencia."
+    },
+    {
+      "question": "¿Qué consenso existe respecto a la pubertad dentro de la adolescencia?",
+      "options": [
+        "Es el último periodo de la adolescencia y el inicio de la adultez",
+        "Es el primer periodo de la adolescencia y el final de la infancia",
+        "Es una etapa independiente entre la infancia y la adolescencia",
+        "Es un periodo que afecta a los cambios sociales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Existe consenso en que la pubertad es el primer periodo de la adolescencia y el final de la infancia, y en que actualmente la adolescencia dura más tiempo."
+    },
+    {
+      "question": "¿Por qué algunos autores recomiendan dividir la adolescencia en subetapas (Palacios et al., 2014)?",
+      "options": [
+        "Porque cada subetapa corresponde a un estadio de Piaget",
+        "Porque los cambios físicos terminan antes de los sociales",
+        "Porque en cada subetapa cambia el tipo de personalidad",
+        "Por la dificultad de establecer su duración exacta y la falta de consenso mundial"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Dada la dificultad de fijar la duración exacta y la ausencia de consenso a nivel mundial, se recomienda dividir el periodo en subetapas. No se vincula a los estadios de Piaget."
+    },
+    {
+      "question": "A lo largo de las subetapas de la adolescencia, ¿en qué orden se manifiestan los cambios?",
+      "options": [
+        "Primero los físicos, luego los sociales y finalmente los psicológicos o cognitivos",
+        "Primero los físicos, luego los psicológicos o cognitivos y finalmente los sociales",
+        "Primero los cognitivos, luego los físicos y finalmente los sociales",
+        "Primero los sociales, luego los físicos y finalmente los cognitivos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto indica que los cambios se manifiestan secuencialmente: primero los físicos y, finalmente, los psicológicos o cognitivos pasando por los sociales."
+    },
+    {
+      "question": "¿Cuál es la importancia de los cambios de la adolescencia según la unidad?",
+      "options": [
+        "Determinan de forma irreversible el rendimiento académico futuro",
+        "Perfilan el adulto potencial y facilitan un determinado tipo de personalidad",
+        "Marcan el fin definitivo del desarrollo cognitivo del individuo",
+        "Sustituyen la influencia de la herencia por la del ambiente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La importancia radica en que perfilan el adulto potencial y facilitan la generación de un determinado tipo de personalidad."
+    },
+    {
+      "question": "¿Qué adquiere el individuo durante la pubertad, además del crecimiento?",
+      "options": [
+        "La capacidad de pensamiento abstracto",
+        "La identidad personal definitiva",
+        "El razonamiento moral posconvencional",
+        "La capacidad reproductiva"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La pubertad es una etapa de crecimiento hacia la madurez sexual en la que se adquiere la capacidad reproductiva."
+    },
+    {
+      "question": "¿Dónde comienza la cascada de respuestas hormonales de la pubertad?",
+      "options": [
+        "En el hipotálamo",
+        "En la hipófisis",
+        "En los ovarios y testículos",
+        "En la corteza prefrontal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Todo comienza en el hipotálamo, que produce en gran cantidad la hormona liberadora de gonadotropina; ésta estimula la hipófisis y luego se activan las gónadas."
+    },
+    {
+      "question": "¿Qué hormona produce el hipotálamo en gran cantidad al iniciarse la pubertad?",
+      "options": [
+        "Hormona luteinizante",
+        "Hormona foliculoestimulante",
+        "Hormona liberadora de gonadotropina",
+        "Testosterona"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El hipotálamo produce la hormona liberadora de gonadotropina. La luteinizante y la foliculoestimulante las produce la hipófisis, y la testosterona los testículos."
+    },
+    {
+      "question": "¿Qué dos hormonas produce la hipófisis al ser estimulada por el hipotálamo?",
+      "options": [
+        "Estrógenos y andrógenos",
+        "Hormona luteinizante y hormona foliculoestimulante",
+        "Gonadotropina y testosterona",
+        "Hormona luteinizante y estrógenos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La hipófisis, situada justo debajo del hipotálamo, produce la hormona luteinizante y la foliculoestimulante, que activan las gónadas. Estrógenos y andrógenos los producen las gónadas."
+    },
+    {
+      "question": "¿Qué hormonas aumentan los ovarios en las niñas y los testículos en los niños durante la pubertad?",
+      "options": [
+        "Ovarios: andrógenos; testículos: estrógenos",
+        "Ovarios: estrógenos; testículos: andrógenos",
+        "Ovarios: estrógenos; testículos: hormona luteinizante",
+        "Ovarios: foliculoestimulante; testículos: testosterona"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En las niñas los ovarios aumentan la secreción de estrógenos y en los niños los testículos aumentan la producción de andrógenos (testosterona)."
+    },
+    {
+      "question": "Según Berger (2016), ¿qué estructuras regulan las hormonas que afectan a los patrones de estrés y sueño?",
+      "options": [
+        "La amígdala y la corteza prefrontal",
+        "Los ovarios y los testículos",
+        "El hipotálamo y la hipófisis",
+        "El tálamo y el hipocampo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Berger señala que el hipotálamo y la hipófisis regulan las hormonas que afectan los patrones de estrés, el sueño y otros biorritmos."
+    },
+    {
+      "question": "¿Por qué algunos adolescentes están despiertos y con apetito a medianoche y adormecidos por la mañana?",
+      "options": [
+        "Porque los ciclos de sueño-vigilia se retrasan",
+        "Porque los ciclos de sueño-vigilia se adelantan",
+        "Porque disminuye la secreción de hormonas sexuales",
+        "Porque la poda sináptica altera la mielina"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los ciclos de sueño-vigilia se retrasan por los cambios hormonales, de modo que por la noche hay actividad y apetito y por la mañana somnolencia y falta de apetito."
+    },
+    {
+      "question": "¿Cómo son los cambios físicos de la adolescencia en chicos y chicas según Pérez-Pérez y Navarro-Soria (2012)?",
+      "options": [
+        "Idénticos y simultáneos en ambos sexos",
+        "Distintos a nivel fisiológico y con ritmos de desarrollo desiguales",
+        "Distintos en el aspecto, pero con el mismo ritmo",
+        "Iguales a nivel hormonal pero distintos en el calendario"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los cambios son diferentes a nivel fisiológico/hormonal en chicos y chicas y se dan en ritmos de desarrollo desiguales."
+    },
+    {
+      "question": "¿Cuál de los siguientes es un carácter sexual primario?",
+      "options": [
+        "Vello facial y axilar",
+        "Ensanchamiento de las caderas",
+        "Voz grave",
+        "Vesículas seminales y próstata"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los caracteres primarios son los órganos relacionados con la reproducción (ovarios, útero, testículos, vesículas seminales, próstata). Voz, vello y caderas son secundarios."
+    },
+    {
+      "question": "¿Cuál de los siguientes es un carácter sexual secundario?",
+      "options": [
+        "Útero",
+        "Escroto",
+        "Amplitud de hombros",
+        "Trompas de Falopio"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los caracteres secundarios son características fisiológicas no relacionadas directamente con los genitales, como la amplitud de hombros, la voz grave o el vello. Los demás son órganos reproductores (primarios)."
+    },
+    {
+      "question": "¿Cómo se definen los caracteres sexuales secundarios?",
+      "options": [
+        "Órganos directamente relacionados con la reproducción",
+        "Características fisiológicas no relacionadas directamente con los genitales",
+        "Cambios hormonales que ocurren en el hipotálamo",
+        "Signos que aparecen tras la menarquia o la espermarquia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los caracteres secundarios son rasgos fisiológicos que no están relacionados directamente con los genitales y evidencian la madurez sexual. Los órganos reproductores son los primarios."
+    },
+    {
+      "question": "¿Cuáles son las primeras señales de madurez sexual en varones y en niñas, respectivamente?",
+      "options": [
+        "Menarquia y espermarquia",
+        "Espermarquia y menarquia",
+        "Espermarquia y desarrollo de mamas",
+        "Voz grave y menarquia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La espermarquia (primera eyaculación) es la primera señal en los varones y la menarquia (primera menstruación) en las niñas."
+    },
+    {
+      "question": "¿Qué efecto visible tiene el estirón puberal al comparar chicos y chicas de la misma edad?",
+      "options": [
+        "Los varones son más altos que las mujeres de su edad",
+        "Ambos sexos alcanzan la misma estatura y peso",
+        "Las mujeres pueden ser más altas, fuertes y pesadas que los varones",
+        "Las mujeres presentan menor desarrollo muscular y de peso"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El crecimiento rápido o estirón, que antecede a la madurez sexual, hace que las mujeres de la misma edad sean más altas y con mayor fuerza y peso que los varones."
+    },
+    {
+      "question": "¿Qué rito se menciona como ejemplo de paso a la vida adulta en muchos países de Latinoamérica?",
+      "options": [
+        "La circuncisión ritual",
+        "La fiesta de quince años o quinceañera",
+        "El bautismo de iniciación",
+        "La ceremonia de la mayoría de edad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La fiesta de quince años o quinceañera presenta en sociedad a la mujer que deja de ser niña. La circuncisión se cita como rito en algunos países africanos."
+    },
+    {
+      "question": "¿Por qué puede ser crítico el momento cronológico en que se alcanza la pubertad?",
+      "options": [
+        "Porque determina la edad de la menarquia en las hijas",
+        "Porque el adolescente dispondrá de más o menos herramientas cognitivas para afrontar el cambio",
+        "Porque fija definitivamente el estatus de identidad",
+        "Porque modifica el número de sinapsis del cerebro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El adolescente puede contar con más o menos herramientas cognitivas para afrontar el cambio de etapa según cuándo alcance la pubertad."
+    },
+    {
+      "question": "La cita sobre jóvenes sin control ni respeto a los mayores, que parece actual, fue atribuida a:",
+      "options": [
+        "Platón",
+        "Sócrates",
+        "Aristóteles",
+        "Cicerón"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La unidad atribuye la frase a Aristóteles, hace más de dos mil años, para mostrar que las quejas sobre la juventud son antiguas."
+    },
+    {
+      "question": "En la cita de Dahl (2004), ¿con qué se compara la adolescencia?",
+      "options": [
+        "Un barco sin timón en medio de una tormenta",
+        "Un conductor experto con un vehículo antiguo",
+        "Un motor turbo en manos de un conductor inexperto",
+        "Un tren de alta velocidad sin frenos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dahl compara la adolescencia con poner en marcha un vehículo con motor turbo en manos de un conductor inexperto, aludiendo a la desigual maduración de la emoción y del control."
+    },
+    {
+      "question": "Según Díaz y Pérez (2022), la psicología reflexiona sobre:",
+      "options": [
+        "La influencia de la herencia genética en la conducta",
+        "El pensamiento abstracto de los adolescentes",
+        "Cómo el medio afecta al comportamiento y cómo este afecta al medio",
+        "Los procesos neuronales que regulan el aprendizaje"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La psicología es una ciencia de la conducta humana que reflexiona sobre cómo el medio o contexto afecta al comportamiento y cómo éste afecta al medio, una relación bidireccional."
+    },
+    {
+      "question": "Ante el estirón del alumnado, ¿qué ajustes puede necesitar el docente?",
+      "options": [
+        "Reducir los contenidos de las materias",
+        "Cambios en la distribución del aula, los materiales y las actividades",
+        "Separar al alumnado por sexo en el aula",
+        "Sustituir las actividades grupales por individuales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cuando la talla aumenta mucho en poco tiempo, puede ser necesario modificar la distribución del aula, los materiales y las actividades para adecuarlos a la nueva realidad del alumnado."
+    },
+    {
+      "question": "Respecto a las «bromas pesadas» entre alumnos adolescentes, ¿qué debe hacer el profesorado?",
+      "options": [
+        "Ignorarlas, pues forman parte del proceso de socialización",
+        "Seguirlas para ganar cercanía con el alumnado",
+        "Identificarlas rápidamente sin ignorarlas ni seguirlas",
+        "Derivarlas a las familias del alumnado implicado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Debe estar atento para identificarlas rápidamente; en ningún caso se deben ignorar y mucho menos seguir, porque las actitudes de otros hacia su cuerpo pueden causar daños difíciles de reparar."
+    },
+    {
+      "question": "¿Por qué las bromas sobre el cuerpo son especialmente dañinas en la adolescencia?",
+      "options": [
+        "Porque el adolescente aún no distingue broma de realidad",
+        "Porque la corteza prefrontal ya está totalmente madura",
+        "Porque el humor no se comprende hasta las operaciones formales",
+        "Porque las actitudes de otros hacia su cuerpo pueden causar daños difíciles de reparar"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En esta etapa la imagen corporal es muy sensible, y la actitud de los demás hacia el cuerpo puede causar daños difíciles de reparar."
+    },
+    {
+      "question": "Según Larson y Wilson (2013), ¿qué tipos de cambios se producen en la adolescencia?",
+      "options": [
+        "Físicos, cognitivos, emocionales y sociales",
+        "Físicos, sexuales y morales",
+        "Cognitivos, lingüísticos y emocionales",
+        "Biológicos, económicos y académicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Larson y Wilson señalan cambios físicos, cognitivos, emocionales y sociales, aunque concretar un inicio o final unitario de la etapa es difícil."
+    },
+    {
+      "question": "¿Qué ocurre con las hormonas sexuales respecto a la conducta, según el apartado de efectos psicológicos?",
+      "options": [
+        "Explican conductas nuevas como el aumento del deseo sexual y la inestabilidad emocional",
+        "Afectan al cuerpo y no tienen relación con la conducta",
+        "Explican los cambios en el rendimiento escolar del alumnado",
+        "Reducen la inestabilidad emocional al inicio de la pubertad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El efecto de las hormonas sexuales puede explicar conductas como el aumento del deseo sexual y la inestabilidad emocional, además de generar malestar por la falta de control de los deseos."
+    },
+    {
+      "question": "¿Qué dificultad enfrenta el adolescente según el desfase entre cuerpo y cognición?",
+      "options": [
+        "Un cuerpo infantil con un sistema cognitivo adulto",
+        "Un cuerpo adulto con un sistema cognitivo con mecanismos aún infantiles",
+        "Un cuerpo adulto con razonamiento moral posconvencional",
+        "Un cuerpo en retraso con un cerebro plenamente maduro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El cuerpo comienza a desarrollarse antes que los procesos cognitivos, por lo que el adolescente debe afrontar un cuerpo adulto con un sistema cognitivo con mecanismos aún infantiles."
+    },
+    {
+      "question": "¿Qué determina en gran medida la visión positiva o negativa que el adolescente tiene de su desarrollo?",
+      "options": [
+        "El momento hormonal en que se inicia la pubertad",
+        "La actitud de sus círculos de influencia familiar, social y cultural",
+        "Su cociente intelectual y rendimiento escolar",
+        "La cantidad de amigos que tiene en el centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La actitud del entorno familiar, social y cultural determina en gran medida la visión (positiva o negativa) del desarrollo y el bienestar con la nueva realidad."
+    },
+    {
+      "question": "¿Dónde se ubica la hipófisis respecto al hipotálamo?",
+      "options": [
+        "Justo debajo",
+        "Justo encima",
+        "Delante de los lóbulos frontales",
+        "En el centro de las gónadas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto indica que la hipófisis se encuentra justo debajo del hipotálamo, formando el eje hipotálamo-hipofisario responsable de los cambios hormonales."
+    },
+    {
+      "question": "Según la unidad, ¿cómo se perciben muchos trastornos asociados a la adolescencia?",
+      "options": [
+        "Se originan por la poda sináptica excesiva",
+        "Comienzan a partir de percepciones sobre la valoración del entorno hacia los cambios corporales",
+        "Se deben a la herencia genética de los progenitores",
+        "Derivan de un retraso en el pensamiento formal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Muchos trastornos asociados a la adolescencia comienzan a partir de las percepciones del individuo sobre cómo su entorno valora los cambios que se han producido en su cuerpo."
+    },
+    {
+      "question": "¿Qué función cumple el eje hipotálamo-hipofisario en la pubertad?",
+      "options": [
+        "Es el responsable de los cambios hormonales",
+        "Regula la poda sináptica y la mielinización",
+        "Controla la atención selectiva y la planificación",
+        "Gestiona el razonamiento moral posconvencional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El eje hipotálamo-hipofisario es el responsable de la cascada de cambios hormonales de la pubertad. La poda y la mielinización son procesos neuronales, y la planificación depende de la corteza prefrontal."
+    },
+    {
+      "question": "¿Qué ejemplo de reto para el docente se plantea en relación con los cambios físicos de los adolescentes?",
+      "options": [
+        "Aumentar el tiempo de recreo del alumnado",
+        "Eliminar las actividades en grupo en el aula",
+        "Evaluar el nivel de hormonas del alumnado",
+        "Adaptar el aula y las actividades tras el estirón"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El reto consiste en tener en cuenta los cambios físicos, como el estirón, y adaptar la distribución del aula, los materiales y las actividades."
+    },
+    {
+      "question": "¿Qué ocurre durante el paso de la pubertad a la edad adulta en distintas culturas según el apartado «Sabías que»?",
+      "options": [
+        "Se evita cualquier ceremonia pública de iniciación",
+        "Se aplican exámenes de madurez cognitiva al adolescente",
+        "Existen ritos y ceremonias de paso, como la quinceañera o la circuncisión",
+        "Se retrasa la entrada en la edad adulta hasta los 18 años"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Diferentes culturas celebran ritos y ceremonias asociados al paso a la vida adulta, por ejemplo la quinceañera en Latinoamérica o la circuncisión en algunos países africanos."
+    },
+    {
+      "question": "Según la unidad, ¿por qué es importante que el docente aprenda nociones de psicología?",
+      "options": [
+        "Para sustituir la labor del orientador del centro",
+        "Para diagnosticar trastornos en el alumnado",
+        "Para comprender las características del alumnado adolescente y atender su diversidad",
+        "Para clasificar al alumnado según su nivel de madurez"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La unidad pretende que el futuro docente comprenda cómo es y se comporta el adolescente y tome conciencia de la variabilidad de comportamientos y necesidades en una misma clase."
+    },
+    {
+      "question": "¿Qué sucede con la duración de la adolescencia en la actualidad según el consenso que recoge la unidad?",
+      "options": [
+        "Ha disminuido respecto a épocas anteriores",
+        "Dura más tiempo",
+        "Es idéntica en todas las culturas",
+        "Ha desaparecido como etapa diferenciada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Existe consenso en que en la actualidad la adolescencia dura más tiempo, aunque no hay acuerdo unitario sobre su duración exacta."
+    },
+    {
+      "question": "¿A qué se debe el «desequilibrio» que genera la adolescencia en el individuo según la unidad?",
+      "options": [
+        "A la influencia exclusiva de las hormonas sexuales",
+        "A la ruptura con el grupo de iguales",
+        "A la abrupta sucesión de cambios que se producen en esta etapa",
+        "A la falta de normas en el entorno escolar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La adolescencia es una etapa de cambios que se suceden de manera tan abrupta que generan un desequilibrio en quien la atraviesa."
+    },
+    {
+      "question": "¿Qué ejemplo de la unidad ilustra la influencia del medio sobre el comportamiento y de este sobre el medio?",
+      "options": [
+        "La definición de psicología de Díaz y Pérez (2022)",
+        "La clasificación de caracteres sexuales de Papalia",
+        "La teoría de las etapas psicosociales de Erikson",
+        "El esquema de estadios cognitivos de Piaget"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Díaz y Pérez (2022) definen la psicología como la ciencia que reflexiona cómo el medio afecta al comportamiento y cómo éste afecta al medio. Las demás opciones son teorías o clasificaciones de áreas concretas del desarrollo."
+    },
+    {
+      "question": "¿Dónde se ubica la corteza prefrontal?",
+      "options": [
+        "En la base del encéfalo, junto al hipotálamo",
+        "Justo delante de los lóbulos frontales",
+        "En el interior del sistema límbico",
+        "Detrás de los lóbulos parietales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La corteza prefrontal es una parte del encéfalo situada justo delante de los lóbulos frontales. El hipotálamo y el sistema límbico son estructuras subcorticales."
+    },
+    {
+      "question": "¿Cuál de las siguientes funciones NO corresponde a la corteza prefrontal según la unidad?",
+      "options": [
+        "Atención selectiva",
+        "Planificación y toma de decisiones",
+        "Regulación de la propia conducta",
+        "Producción de hormonas sexuales"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La corteza prefrontal se encarga de la atención selectiva, la toma de decisiones, la planificación y la regulación de la conducta. Las hormonas sexuales las producen las gónadas."
+    },
+    {
+      "question": "¿Qué capacidad adquieren los sujetos cuando termina de desarrollarse la corteza prefrontal (Goldberg, 2004)?",
+      "options": [
+        "Pensar sobre el pensamiento y la conducta",
+        "Memorizar de forma más rápida los contenidos",
+        "Reconocer emociones ajenas de forma automática",
+        "Eliminar las sinapsis excesivas de la infancia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El desarrollo de la corteza prefrontal en la adolescencia permite pensar sobre el pensamiento y la conducta. La poda sináptica es un proceso distinto, de nivel neuronal."
+    },
+    {
+      "question": "Según Damasio (2010), además de la planificación, la corteza prefrontal controla:",
+      "options": [
+        "Las conductas socialmente indeseables y los aspectos y pensamientos morales",
+        "Los biorritmos de sueño y vigilia",
+        "La secreción de gonadotropinas durante la pubertad",
+        "Los reflejos primitivos y el estado de alerta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Esta estructura controla las conductas socialmente indeseables y la gestión de aspectos y pensamientos morales. Los biorritmos dependen de hipotálamo e hipófisis."
+    },
+    {
+      "question": "¿Qué estructura subcortical, considerada el centro de las emociones, muestra durante la adolescencia una actividad muy superior a etapas anteriores?",
+      "options": [
+        "El hipocampo",
+        "El tálamo",
+        "La corteza prefrontal",
+        "La amígdala"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La amígdala, considerada el centro de las emociones, tiene una actividad muy superior a la de etapas anteriores y a la actividad frontal en la adolescencia."
+    },
+    {
+      "question": "¿Qué explica la mayor actividad de la amígdala frente a la actividad frontal en la adolescencia?",
+      "options": [
+        "La mayor estabilidad emocional y el control de impulsos",
+        "La mejora en la toma de decisiones complejas",
+        "La impulsividad, las conductas de riesgo y la incapacidad para demorar la recompensa",
+        "El aumento de la capacidad de planificación a largo plazo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Al predominar la amígdala sobre las estructuras de control cognitivo, se explican la impulsividad, las conductas de riesgo y la dificultad para demorar la recompensa."
+    },
+    {
+      "question": "¿En qué consiste la poda sináptica?",
+      "options": [
+        "En la creación masiva de nuevas conexiones neuronales en la pubertad",
+        "En el aumento del tamaño de la amígdala",
+        "En la eliminación de las sinapsis excesivas e innecesarias de los primeros años de vida",
+        "En el engrosamiento de la cobertura de mielina de los axones"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La poda sináptica reorganiza las conexiones neuronales eliminando las sinapsis excesivas e innecesarias establecidas en los primeros años para mejorar la eficacia de los circuitos. El engrosamiento de la mielina es la mielinización."
+    },
+    {
+      "question": "¿Qué efectos produce el proceso de poda sináptica en el cerebro adolescente?",
+      "options": [
+        "Aumento de sustancia gris y reducción de mielinización",
+        "Reducción de sustancia gris y aumento de mielinización",
+        "Aumento de sustancia gris y de mielinización",
+        "Reducción de sustancia gris y de mielinización"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La poda produce una reducción de la sustancia gris y un aumento de la mielinización, lo que hace los circuitos más eficientes."
+    },
+    {
+      "question": "¿Qué función cumple la mielinización?",
+      "options": [
+        "Genera nuevas neuronas en la corteza prefrontal",
+        "Elimina las sinapsis que no se utilizan",
+        "Regula la secreción de hormonas sexuales",
+        "Protege las neuronas y facilita futuras conexiones sinápticas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La mielinización aumenta la cobertura de mielina de los axones para proteger las neuronas y facilitar futuras conexiones sinápticas."
+    },
+    {
+      "question": "Según Toro (2010), ¿qué implica la mayor facilidad de comunicación entre regiones corticales y subcorticales?",
+      "options": [
+        "Una disminución de la actividad emocional",
+        "Un funcionamiento más eficiente e integral de los sistemas morales, emocionales y cognitivos",
+        "La desaparición de las conductas de riesgo adolescentes",
+        "Un retraso en el desarrollo de las operaciones formales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Una mejor comunicación entre regiones corticales y subcorticales hace que los sistemas morales, emocionales y cognitivos funcionen de forma más eficiente e integral. No elimina las conductas de riesgo."
+    },
+    {
+      "question": "¿Qué rasgo de la corteza prefrontal se relaciona con el trastorno de déficit de atención según la unidad?",
+      "options": [
+        "Que es la encargada de la atención selectiva",
+        "Que regula la memoria a largo plazo",
+        "Que produce la mielina de los axones",
+        "Que gestiona las emociones primarias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La unidad indica que la corteza prefrontal es la encargada de la atención selectiva, que es la parte afectada en las personas con trastorno de déficit de atención."
+    },
+    {
+      "question": "¿Cuántos estadios plantea Piaget en su teoría del desarrollo cognitivo?",
+      "options": [
+        "Tres",
+        "Cinco",
+        "Seis",
+        "Cuatro"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Piaget establece cuatro estadios: sensoriomotor, preoperacional, operaciones concretas y operaciones formales. Los seis estadios corresponden a la teoría moral de Kohlberg."
+    },
+    {
+      "question": "¿Qué rango de edad abarca el estadio sensoriomotor?",
+      "options": [
+        "Del nacimiento a los 2 años",
+        "De los 2 a los 6 años",
+        "De los 7 a los 11 años",
+        "Del nacimiento a los 4 años"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El estadio sensoriomotor transcurre desde el nacimiento hasta los 2 años; el preoperacional abarca de los 2 a los 6 años."
+    },
+    {
+      "question": "¿Cuál de estos es un hito del estadio sensoriomotor?",
+      "options": [
+        "Comprender la conservación de la materia",
+        "Razonar de forma hipotético-deductiva",
+        "Atribuir vida a los objetos inanimados",
+        "La permanencia del objeto"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La permanencia del objeto (reconocer que existe aunque no se vea) es un hito sensoriomotor. El animismo es preoperacional, la conservación es de operaciones concretas y el razonamiento hipotético-deductivo, de operaciones formales."
+    },
+    {
+      "question": "En el estadio sensoriomotor, la imitación diferida consiste en:",
+      "options": [
+        "Repetir algo que se ha retenido en la memoria",
+        "Interpretar imágenes y dibujos",
+        "Representar un objeto con otro durante el juego",
+        "Concentrarse en un solo aspecto de la situación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La imitación diferida es repetir algo retenido en la memoria. Interpretar imágenes es el desarrollo simbólico (competencia pictórica), el juego con objetos es juego simbólico y centrarse en un aspecto es centración."
+    },
+    {
+      "question": "¿Qué se desarrolla con la competencia pictórica en el estadio sensoriomotor?",
+      "options": [
+        "La conservación de líquidos",
+        "El desarrollo simbólico, aprendiendo a interpretar imágenes",
+        "La capacidad de revertir acciones mentalmente",
+        "El razonamiento con proposiciones verbales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El desarrollo simbólico permite aprender a interpretar imágenes (competencia pictórica), y es uno de los hitos del periodo sensoriomotor."
+    },
+    {
+      "question": "¿Qué edades abarca el estadio preoperacional?",
+      "options": [
+        "De los 4 a los 10 años",
+        "De los 7 a los 11 años",
+        "De los 2 a los 6 años",
+        "De los 3 a los 8 años"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El estadio preoperacional va de los 2 a los 6 años, antes de las operaciones concretas, que se extienden de los 7 a los 11 años."
+    },
+    {
+      "question": "Hacer que una zapatilla sea un coche es un ejemplo de:",
+      "options": [
+        "Animismo",
+        "Centración",
+        "Irreversibilidad",
+        "Juego simbólico"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En el juego simbólico un objeto representa algo más. El animismo es atribuir vida a objetos, la centración concentrarse en un aspecto y la irreversibilidad, no poder revertir mentalmente acciones."
+    },
+    {
+      "question": "La incapacidad de revertir mentalmente acciones, propia del estadio preoperacional, se llama:",
+      "options": [
+        "Irreversibilidad",
+        "Centración",
+        "Egocentrismo",
+        "Seriación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La irreversibilidad es no poder revertir mentalmente acciones. La centración es fijarse en un aspecto, el egocentrismo es no considerar el punto de vista ajeno y la seriación es una operación concreta."
+    },
+    {
+      "question": "Atribuir vida a objetos inanimados es una característica del pensamiento preoperacional denominada:",
+      "options": [
+        "Centración",
+        "Animismo",
+        "Egocentrismo",
+        "Conservación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se denomina animismo. La conservación es una conquista del estadio posterior de operaciones concretas."
+    },
+    {
+      "question": "¿Qué es la centración en el estadio preoperacional?",
+      "options": [
+        "La tendencia a atribuir vida a los juguetes",
+        "La capacidad de ver la situación desde varios ángulos",
+        "La tendencia a concentrarse en un aspecto e ignorar el resto",
+        "La dificultad para repetir conductas agradables"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La centración es concentrarse en un aspecto e ignorar el resto, lo que dificulta considerar el punto de vista de otra persona (egocentrismo)."
+    },
+    {
+      "question": "¿Qué consecuencia tiene la centración en el pensamiento del niño preoperacional?",
+      "options": [
+        "Le impide considerar el punto de vista de otra persona (egocentrismo)",
+        "Le permite razonar de forma hipotética",
+        "Le facilita la comprensión de la conservación",
+        "Le hace reconocer la permanencia del objeto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Al centrarse en un solo aspecto, el niño no sabe considerar el punto de vista ajeno, lo que se llama egocentrismo."
+    },
+    {
+      "question": "¿Qué edades abarca el estadio de operaciones concretas?",
+      "options": [
+        "De los 6 a los 12 años",
+        "De los 7 a los 11 años",
+        "De los 2 a los 7 años",
+        "De los 11 a los 15 años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las operaciones concretas se sitúan entre los 7 y los 11 años; desde los 11 años en adelante comienza el estadio de operaciones formales."
+    },
+    {
+      "question": "¿Qué comprende el niño en el estadio de operaciones concretas respecto a la conservación?",
+      "options": [
+        "Que una cantidad se mantiene aunque cambie su forma o apariencia",
+        "Que un objeto sigue existiendo si no se ve",
+        "Que las hipótesis se verifican con un caso concreto",
+        "Que los objetos inanimados tienen vida propia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conservación es comprender que una cantidad se mantiene aunque cambie su forma o apariencia, tanto para la materia como para los líquidos. La permanencia del objeto pertenece al estadio sensoriomotor."
+    },
+    {
+      "question": "¿Qué limitación caracteriza al razonamiento en el estadio de operaciones concretas?",
+      "options": [
+        "Es incapaz de clasificar por varios criterios",
+        "Resuelve problemas, pero limitado a la situación real inmediata",
+        "No entiende la relación causa-efecto",
+        "Carece de pensamiento deductivo e inductivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los niños resuelven problemas y razonan, pero limitados a la situación real inmediata. Sí clasifican por varios criterios, comprenden causa-efecto y usan razonamiento inductivo y deductivo."
+    },
+    {
+      "question": "¿Cuál de estas habilidades se desarrolla en el estadio de operaciones concretas?",
+      "options": [
+        "Elaborar hipótesis sin casos concretos",
+        "Seriación ascendente y mejora del cálculo",
+        "Juego simbólico generalizado",
+        "Imitación diferida por primera vez"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En operaciones concretas mejora la capacidad de cálculo: estimación y seriación ascendente. El juego simbólico es preoperacional, la imitación diferida sensoriomotora y las hipótesis, formales."
+    },
+    {
+      "question": "El niño en operaciones concretas que saca conclusiones generales de algo particular emplea razonamiento:",
+      "options": [
+        "Deductivo",
+        "Inductivo",
+        "Hipotético-deductivo",
+        "Proposicional"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sacar conclusiones generales de algo particular es razonamiento inductivo; partir de una premisa general y aplicarla a lo particular es deductivo. Ambos aparecen en operaciones concretas."
+    },
+    {
+      "question": "¿Desde qué edad se sitúa el estadio de operaciones formales en el esquema de Piaget?",
+      "options": [
+        "Desde los 7 años",
+        "Desde los 9 años",
+        "Desde los 11 años en adelante",
+        "Desde los 15 años en adelante"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el esquema inicial, las operaciones formales aparecen desde los 11 años en adelante. Las críticas posteriores retrasan su aparición hacia los 15 años."
+    },
+    {
+      "question": "¿Qué capacidad caracteriza al estadio de operaciones formales?",
+      "options": [
+        "Aprender por ensayo-error y exploración sensorial",
+        "Pensar en abstracto y sobre conceptos hipotéticos",
+        "Clasificar objetos con criterios sencillos",
+        "Entender la conservación de la materia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El adolescente adquiere la capacidad de pensar en abstracto y sobre conceptos hipotéticos, con mayor flexibilidad y eficacia al manejar información."
+    },
+    {
+      "question": "¿Cómo se describe el razonamiento hipotético-deductivo que se estrena en la etapa formal?",
+      "options": [
+        "Va de lo particular a lo general",
+        "Parte de casos concretos y reales observados",
+        "Va de lo general a lo particular: se formula una hipótesis y se demuestra con un caso",
+        "Consiste en repetir conductas por ensayo-error"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el razonamiento hipotético-deductivo se formula una premisa o hipótesis y luego se demuestra con un caso concreto, yendo de lo general a lo particular."
+    },
+    {
+      "question": "En la etapa formal, ¿cómo se llaman los enunciados verbales a partir de los cuales razonan los adolescentes?",
+      "options": [
+        "Proposiciones",
+        "Operaciones",
+        "Esquemas",
+        "Conservaciones"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Al partir de ideas y no de hechos concretos, formulan enunciados verbales denominados proposiciones; el lenguaje cobra gran importancia."
+    },
+    {
+      "question": "¿Cuál es el punto de partida para resolver problemas en el pensamiento formal (García-Madruga y Delval, 2010)?",
+      "options": [
+        "La realidad observable inmediata",
+        "Un conjunto de posibilidades con todas las combinaciones de variables",
+        "La experiencia directa con objetos manipulables",
+        "La imitación de modelos adultos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el pensamiento formal el punto de partida ya no es la realidad, sino un conjunto de posibilidades con todas las combinaciones posibles de variables que influyen en el problema."
+    },
+    {
+      "question": "El adolescente en etapa formal puede, según la unidad:",
+      "options": [
+        "Comprobar experimentalmente cada acción posible, una a una",
+        "Sustituir parte de la experimentación por un razonamiento verbal",
+        "Limitarse a la situación real inmediata",
+        "Prescindir por completo de las hipótesis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No necesita comprobar experimentalmente todas las acciones posibles, sino que puede sustituirlas por un razonamiento verbal. Limitarse a lo real es propio de operaciones concretas."
+    },
+    {
+      "question": "Respecto al momento de aparición de las operaciones formales, ¿qué llegó a aceptar el propio Piaget?",
+      "options": [
+        "Que aparecen antes de los 11 años",
+        "Que se dan más tarde, en torno a los 15 años, y se extienden hasta los 20",
+        "Que se adquieren a los 12 años y se consolidan a los 14",
+        "Que se alcanzan a los 18 años de forma universal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Piaget aceptó que el pensamiento formal tiene lugar más tarde de lo propuesto, en torno a los 15 años, y se extiende hasta los 20. Algunos autores afirman que no todo el mundo lo alcanza."
+    },
+    {
+      "question": "¿Qué crítica a Piaget se relaciona con la escolarización?",
+      "options": [
+        "Que no considera ciertas diferencias individuales que afectan a la adquisición del pensamiento formal",
+        "Que sitúa el pensamiento formal antes de los 7 años",
+        "Que exagera la importancia de los hijos de Piaget",
+        "Que niega la existencia del pensamiento abstracto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La teoría no tiene en cuenta diferencias individuales como la escolarización o su falta, que afectan a la adquisición del pensamiento formal."
+    },
+    {
+      "question": "¿Qué crítica se refiere a la complejidad de las tareas de pensamiento formal?",
+      "options": [
+        "Que las tareas formales exigen un mismo nivel de complejidad",
+        "Que no tienen el mismo nivel de complejidad, lo que influye en el tipo de pensamiento escogido",
+        "Que las tareas formales se resuelven por ensayo-error",
+        "Que las tareas complejas no pueden resolverse hasta los 20 años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No todas las tareas que requieren pensamiento formal tienen la misma complejidad, y esto influye en el tipo de pensamiento que el adolescente escoge usar."
+    },
+    {
+      "question": "¿Qué cuestiona la crítica del llamado pensamiento posformal?",
+      "options": [
+        "Que el pensamiento formal sea la cúspide del desarrollo cognitivo",
+        "Que exista un estadio sensoriomotor",
+        "Que los adolescentes puedan formular hipótesis",
+        "Que la conservación se adquiera a los 7 años"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se cuestiona que el pensamiento formal sea la cúspide del desarrollo cognitivo, pues podrían existir tipos de pensamiento más elevados, como el posformal."
+    },
+    {
+      "question": "¿Qué permitiría integrar el pensamiento posformal (Martín et al., 2011)?",
+      "options": [
+        "Lo concreto, lo literal y lo observable",
+        "Lo subjetivo, lo emocional y lo simbólico",
+        "Lo hipotético, lo proposicional y lo deductivo",
+        "Lo sensorial, lo motor y lo reflejo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El pensamiento posformal sería un pensamiento superior que permitiría integrar lo subjetivo, lo emocional y lo simbólico."
+    },
+    {
+      "question": "Según la unidad, ¿a partir de qué observación desarrolló Piaget su teoría del desarrollo cognitivo?",
+      "options": [
+        "La observación de sus propios hijos",
+        "Experimentos con adolescentes de secundaria",
+        "El estudio de dilemas morales",
+        "El análisis de historias clínicas de adultos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El vídeo recomendado indica que Piaget desarrolló su teoría a partir de la observación de sus propios hijos. Los dilemas morales corresponden a Kohlberg."
+    },
+    {
+      "question": "El niño aprende por ensayo-error y realiza conductas intencionadas en el estadio:",
+      "options": [
+        "Preoperacional",
+        "De operaciones concretas",
+        "Sensoriomotor",
+        "De operaciones formales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el sensoriomotor el niño pasa de la conducta refleja a las conductas intencionadas, anticipa sucesos y aprende por ensayo-error mediante los sentidos y la actividad motora."
+    },
+    {
+      "question": "Chuparse el dedo como repetición de conductas agradables ejemplifica el estadio:",
+      "options": [
+        "Sensoriomotor",
+        "Preoperacional",
+        "De operaciones concretas",
+        "De operaciones formales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el estadio sensoriomotor el niño pasa de la conducta refleja a la repetición de conductas agradables, como chuparse el dedo."
+    },
+    {
+      "question": "Al elaborar hipótesis, ¿qué efecto tiene en el adolescente en etapa formal?",
+      "options": [
+        "Necesita casos concretos para razonar",
+        "Descarta mentalmente explicaciones rudimentarias y comprueba empíricamente la validez de sus hipótesis",
+        "Mantiene las explicaciones propias de niños menores",
+        "Evita el razonamiento verbal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Al poder elaborar hipótesis ya no necesitan casos concretos, descartan mentalmente explicaciones propias de niños menores y pueden comprobar empíricamente las hipótesis formuladas (Martín et al., 2011)."
+    },
+    {
+      "question": "¿Qué estadio de Piaget presenta como característica el razonamiento a partir de la realidad inmediata, pero con clasificación por varios criterios?",
+      "options": [
+        "Preoperacional",
+        "Sensoriomotor",
+        "De operaciones formales",
+        "De operaciones concretas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En operaciones concretas interpretan relaciones espaciales, conocen la relación causa-efecto y clasifican por varios criterios, siempre ligados a la situación real inmediata."
+    },
+    {
+      "question": "En el estadio preoperacional, la categorización de las cosas se caracteriza por ser:",
+      "options": [
+        "Compleja y multicriterio",
+        "Sencilla, por ejemplo grande o pequeño",
+        "Basada en proposiciones lógicas",
+        "Inexistente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pueden categorizar las cosas, pero de manera sencilla (grande o pequeño). La clasificación por varios criterios llega con las operaciones concretas."
+    },
+    {
+      "question": "¿Qué reto se propone al profesorado para promover las operaciones formales?",
+      "options": [
+        "Evitar actividades abiertas que exijan formular hipótesis",
+        "Relacionar de forma aislada cada causa con el efecto y después considerar sus combinaciones",
+        "Presentar los problemas con casos concretos ya resueltos",
+        "Repetir las tareas por ensayo-error hasta acertar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se propone fomentar el razonamiento hipotético-deductivo y las hipótesis proposicionales, relacionando primero cada posible causa con el efecto y luego considerando las posibles combinaciones."
+    },
+    {
+      "question": "¿Qué ocurre con la mielinización y la comunicación cerebral tras la poda sináptica?",
+      "options": [
+        "Se dificulta la conexión entre regiones cerebrales",
+        "Se facilita la comunicación entre regiones corticales y subcorticales",
+        "Se detiene la maduración de los circuitos nerviosos",
+        "Se incrementa el número de sinapsis innecesarias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La poda y la mielinización hacen más eficaces los circuitos y facilitan la comunicación entre regiones cerebrales corticales y subcorticales."
+    },
+    {
+      "question": "¿Qué nivel cerebral describe la «poda sináptica y aumento de la mielinización»?",
+      "options": [
+        "Nivel cortical",
+        "Nivel subcortical",
+        "Nivel neuronal",
+        "Nivel hormonal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La unidad distingue tres niveles: cortical (corteza prefrontal), subcortical (amígdala) y neuronal (poda sináptica y mielinización)."
+    },
+    {
+      "question": "¿Qué función se atribuye al docente en relación con la actividad de la amígdala y las conductas de riesgo?",
+      "options": [
+        "Comprender que la impulsividad responde a la inmadurez del control frontal",
+        "Eliminar las emociones del aula",
+        "Exigir autocontrol equivalente al de un adulto",
+        "Ignorar las conductas de riesgo hasta que maduren"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Conocer que la mayor actividad de la amígdala frente al control frontal explica la impulsividad permite al docente comprenderla y acompañarla, sin exigir el autocontrol de un adulto ni ignorarla."
+    },
+    {
+      "question": "¿Qué tipo de aprendizaje caracteriza al niño en el estadio sensoriomotor?",
+      "options": [
+        "Aprendizaje por exploración, a través de los sentidos y la actividad motora",
+        "Aprendizaje mediante razonamiento verbal con proposiciones",
+        "Aprendizaje basado en clasificaciones con varios criterios",
+        "Aprendizaje por deducción a partir de hipótesis"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el sensoriomotor el niño aprende por la experiencia exploratoria, a través de los sentidos y de su actividad motora. Las otras opciones corresponden a estadios posteriores."
+    },
+    {
+      "question": "¿Qué diferencia fundamental hay entre el razonamiento inductivo de operaciones concretas y el hipotético-deductivo de las formales?",
+      "options": [
+        "El inductivo parte de lo particular y el hipotético-deductivo de hipótesis o premisas generales",
+        "El inductivo parte de hipótesis y el hipotético-deductivo de la observación",
+        "Ambos parten de la observación de casos concretos",
+        "No existe diferencia entre ambos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El razonamiento inductivo saca conclusiones generales desde casos particulares, mientras que el hipotético-deductivo formula una hipótesis y la demuestra después con un caso concreto."
+    },
+    {
+      "question": "Según Elkind (1978), ¿qué dos grandes características típicas manifiesta el pensamiento adolescente?",
+      "options": [
+        "Egocentrismo y conservación",
+        "Idealismo y autoconciencia",
+        "Centración y animismo",
+        "Idealismo y pensamiento posformal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Elkind describe como características típicas el idealismo y la autoconciencia. La centración y el animismo son propios del pensamiento preoperacional."
+    },
+    {
+      "question": "¿Qué permite al adolescente la nueva capacidad de pensar en abstracto en relación con el idealismo?",
+      "options": [
+        "Aceptar la realidad sin cuestionarla",
+        "Discernir entre lo que es, lo que puede ser y lo que desearían que fuera",
+        "Centrarse en la situación real inmediata",
+        "Evitar la comparación con los adultos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pueden distinguir entre lo que es, lo que puede ser y lo que desearían que fuera, aunque sus deseos siguen siendo en ocasiones fantasiosos e incluso imposibles."
+    },
+    {
+      "question": "En la figura 5 de la unidad, ¿cómo se representan las «situaciones justas o ideales»?",
+      "options": [
+        "Con un círculo grande que contiene la realidad",
+        "Con una estrella pequeña, por ser un aspecto muy concreto de la realidad",
+        "Con un triángulo situado fuera de la realidad",
+        "Con una línea que une realidad y posibilidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se representan con una estrella pequeña, al ser un aspecto muy concreto de la realidad que a veces queda fuera incluso de lo posible."
+    },
+    {
+      "question": "¿Ante qué se muestran especialmente sensibles los adolescentes debido a su idealismo?",
+      "options": [
+        "A las normas académicas y a los horarios",
+        "A las injusticias y a la hipocresía",
+        "A las opiniones de los progenitores sobre su futuro",
+        "A las críticas de sus iguales en redes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gracias a la capacidad de posicionarse política y socialmente, son especialmente sensibles a las injusticias y a la hipocresía."
+    },
+    {
+      "question": "¿Qué provoca la disonancia entre realidad e idealidad en el adolescente?",
+      "options": [
+        "Mayor aceptación de las figuras de autoridad",
+        "Incomodidad notable y cuestionamiento constante de las figuras de autoridad",
+        "Una reducción de la autoconciencia",
+        "Una mayor facilidad para tomar decisiones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La disonancia realidad-idealidad produce una notable incomodidad y un cuestionamiento constante de las figuras de autoridad que tenían hasta entonces."
+    },
+    {
+      "question": "¿Qué dificultad cotidiana se asocia al idealismo adolescente?",
+      "options": [
+        "Falta de interés por la apariencia física",
+        "Imposibilidad de formular hipótesis",
+        "Resolución impulsiva de todos los dilemas",
+        "Dificultad en la toma de decisiones simples, como qué prenda ponerse"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Les cuesta decidirse y tienen dificultades en decisiones simples (qué prenda ponerse o si salir con un amigo). En cambio, sí se preocupan mucho por la apariencia."
+    },
+    {
+      "question": "Según Mariscal et al. (2009), ¿a qué puede derivar la preocupación por la justicia sumada a la impaciencia adolescente?",
+      "options": [
+        "A un aumento de la autoestima académica",
+        "A conductas delictivas y poco responsables como el ciberacoso o el acoso escolar",
+        "A una mayor aceptación de las normas del centro",
+        "A la ausencia de conflictos con los iguales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La preocupación por la justicia unida a la impaciencia puede derivar en conductas delictivas (ciberacoso, divulgación de información confidencial, acoso escolar) y poco responsables."
+    },
+    {
+      "question": "¿Por qué la preocupación por la apariencia física ideal conlleva inseguridades?",
+      "options": [
+        "Porque el cuidado estético reduce el tiempo de estudio",
+        "Porque los progenitores critican la imagen del adolescente",
+        "Porque la preocupación por su yo físico, aun con mucho cuidado personal, genera inseguridad",
+        "Porque la apariencia solo importa ante los docentes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Aunque dediquen mucho tiempo al cuidado personal y estético y parezca que les da seguridad, la preocupación por su yo físico conlleva muchas inseguridades."
+    },
+    {
+      "question": "La autoconciencia adolescente se define como:",
+      "options": [
+        "Una toma de conciencia de sí mismos desorbitada, que lleva a pensar que los demás piensan como ellos",
+        "La capacidad de valorar con objetividad sus propias limitaciones",
+        "La tendencia a ignorar la opinión de los iguales",
+        "El rechazo a las figuras de apego"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Es una toma de conciencia de sí mismos desorbitada: se preocupan por su estado mental y creen que los demás piensan como ellos (Elkind, 1978)."
+    },
+    {
+      "question": "¿Qué sensación del egocentrismo adolescente explica los comportamientos de riesgo?",
+      "options": [
+        "Sensación de fracaso",
+        "Sensación de invencibilidad",
+        "Sensación de aislamiento",
+        "Sensación de culpa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El egocentrismo hace que se vean capaces de todo y genera una sensación de invencibilidad que marca conductas de riesgo, como drogas, absentismo escolar o acoso."
+    },
+    {
+      "question": "¿Cómo puede reaccionar un adolescente muy sensible ante una crítica sobre una tarea?",
+      "options": [
+        "Con indiferencia y desinterés",
+        "Con un llanto descontrolado o aislándose del grupo",
+        "Agradeciendo la evaluación recibida",
+        "Reclamando una evaluación más estricta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Por su mayor sensibilidad a la crítica y su rechazo a sentirse evaluados, pueden reaccionar de forma desproporcionada, con llanto descontrolado o aislamiento."
+    },
+    {
+      "question": "La «audiencia imaginaria» consiste en:",
+      "options": [
+        "Creer que son especiales y únicos",
+        "Percibir que todo el mundo los mira, aunque desean pasar desapercibidos",
+        "Pensar que sus ideas son más acertadas que las de los adultos",
+        "Imaginar un futuro profesional idealizado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Perciben que todo el mundo los mira pero desean pasar desapercibidos. Creerse únicos corresponde a la fábula personal y creerse más listos que los adultos, al idealismo."
+    },
+    {
+      "question": "¿Qué paradoja se da en la audiencia imaginaria respecto a los deseos del adolescente?",
+      "options": [
+        "Desean ser el centro de atención y lo consiguen",
+        "Desean ser invisibles, pero su preocupación por ser el centro de atención lo impide",
+        "Desean ser evaluados y nadie lo hace",
+        "Desean romper normas y no pueden"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Al preocuparse por ser el centro de atención, el deseo de «ser invisibles» no se cumple y pueden cambiar de actitud con conductas que reclamen atención, reforzando la percepción de ser observados."
+    },
+    {
+      "question": "Creer que toda la clase está mirando un pequeño grano en la cara es un ejemplo de:",
+      "options": [
+        "Fábula personal",
+        "Idealismo",
+        "Audiencia imaginaria",
+        "Pensamiento posformal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La certeza de que todos están pendientes de un defecto físico concreto ejemplifica la audiencia imaginaria. La fábula personal es sentirse único y especial."
+    },
+    {
+      "question": "La «fábula personal» se caracteriza porque el adolescente:",
+      "options": [
+        "Se siente observado por todo el mundo",
+        "Se cree especial y único, y que no debe seguir las reglas del resto",
+        "Cuestiona las figuras de autoridad por injusticias",
+        "Reacciona con exceso ante una crítica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Están convencidos de ser especiales y únicos, sienten que el mundo no los comprende y creen que no deben seguir las reglas del resto."
+    },
+    {
+      "question": "Saltar al mar desde alturas imprudentes o pasar de un balcón a otro ejemplifica:",
+      "options": [
+        "Audiencia imaginaria",
+        "Mayor sensibilidad",
+        "Idealismo",
+        "Fábula personal"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Estas conductas de riesgo se explican por la fábula personal: el adolescente se cree especial y exento de las consecuencias que afectan a los demás."
+    },
+    {
+      "question": "¿Cómo puede reducirse la sensación de que nadie les comprende y que su caso es único?",
+      "options": [
+        "Con el contacto con un grupo de pares",
+        "Con una mayor supervisión de los adultos",
+        "Evitando las redes sociales",
+        "Con evaluaciones más frecuentes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La sensación de ser único e incomprendido se reduce cuando el adolescente está en contacto con un grupo de pares."
+    },
+    {
+      "question": "Para tratar las inquietudes e intereses del alumnado, ¿qué procedimiento propone la unidad al docente?",
+      "options": [
+        "Corregir sus opiniones de forma inmediata",
+        "Escucha activa, recogida de respuestas sin juzgar y devolución de información para hacerles pensar",
+        "Evitar los temas conflictivos en el aula",
+        "Imponer el tema de debate de forma directiva"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se propone escucha activa y recogida de respuestas sin juzgar, evaluarlas y devolver la información para hacerles pensar, sin prejuicios ni opiniones apresuradas, que provocarían rechazo."
+    },
+    {
+      "question": "¿Qué recursos del adulto favorecen un notable avance del alumno según la unidad?",
+      "options": [
+        "El elogio de las aportaciones y el uso del humor en los intercambios",
+        "La crítica constante de sus errores",
+        "La minimización de sus opiniones",
+        "La comparación con otros alumnos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cuando padres o docentes elogian las aportaciones del alumno o usan el humor como herramienta, el avance del alumno es notable."
+    },
+    {
+      "question": "¿Cuál de estas frases ilustra una actitud inadecuada del docente porque invalida su capacidad de discernimiento?",
+      "options": [
+        "«Cuéntame por qué piensas eso»",
+        "«Tú dices lo que oyes»",
+        "«Entiendo que te preocupe»",
+        "«¿Qué ocurriría si lo planteamos al revés?»"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Frases como «Tú dices lo que oyes» o «Qué edad más tonta» invalidan su capacidad de discernimiento. Minimizar opiniones o imagen personal («Eso es una tontería») tampoco aporta nada."
+    },
+    {
+      "question": "Según la unidad, ¿cuándo se adquiere la capacidad de hacer juicios morales más complejos?",
+      "options": [
+        "Al alcanzar la pubertad",
+        "Cuando se alcanzan niveles de desarrollo cognitivo más elevados",
+        "Al terminar la educación primaria",
+        "Cuando se tiene autonomía económica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La capacidad de hacer juicios más complejos se adquiere una vez que se alcanzan niveles de desarrollo cognitivo más elevados."
+    },
+    {
+      "question": "¿Por qué se considera el pensamiento moral un salto cualitativo de la niñez a la adolescencia?",
+      "options": [
+        "Porque el niño no puede aprender normas",
+        "Porque el adolescente puede reflexionar sobre el pensamiento y sentimiento de otros y ponerse en su situación",
+        "Porque el adolescente rechaza las normas sociales",
+        "Porque el niño desconoce el castigo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El niño que no se pone en la situación de la persona afectada no puede dilucidar la moralidad de una acción; el adolescente, al reflexionar sobre pensamientos y sentimientos ajenos, sí puede."
+    },
+    {
+      "question": "¿A través de qué método desarrolla Kohlberg (1969) su teoría del desarrollo moral?",
+      "options": [
+        "Observación de sus propios hijos",
+        "Estudio de las respuestas a dilemas morales",
+        "Análisis de casos clínicos de adolescentes",
+        "Cuestionarios sobre autoestima"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kohlberg estudia las respuestas a dilemas morales, situaciones en las que no queda claro cuál es la opción éticamente correcta."
+    },
+    {
+      "question": "En el dilema de Heinz, ¿qué decide hacer Heinz?",
+      "options": [
+        "Pedir un préstamo para pagar el medicamento",
+        "Denunciar al farmacéutico ante la justicia",
+        "Robar el medicamento para salvar a su esposa",
+        "Esperar a que el precio del medicamento baje"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ante el precio desproporcionado y la negativa del farmacéutico a abaratarlo o aceptar el pago aplazado, Heinz, desesperado, decide robar el medicamento."
+    },
+    {
+      "question": "¿Cuántos niveles y etapas propone la teoría de Kohlberg?",
+      "options": [
+        "Dos niveles con tres etapas cada uno",
+        "Tres niveles con dos etapas cada uno, seis en total",
+        "Cuatro niveles con una o dos etapas",
+        "Tres niveles con tres etapas cada uno"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Establece tres niveles de desarrollo (preconvencional, convencional y posconvencional), cada uno con dos etapas, es decir, seis etapas."
+    },
+    {
+      "question": "¿Qué determina la etapa moral en la que se sitúa una persona según Kohlberg?",
+      "options": [
+        "Que esté a favor o en contra de la conducta",
+        "El razonamiento que hay detrás de cada respuesta",
+        "La edad cronológica del individuo",
+        "El nivel educativo alcanzado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La etapa la marca el razonamiento que sustenta la respuesta, no que se esté a favor o en contra de la conducta."
+    },
+    {
+      "question": "¿A qué edades es característico el nivel I (moral preconvencional)?",
+      "options": [
+        "De 2 a 6 años",
+        "De 4 a 10 años",
+        "De 7 a 11 años",
+        "De 10 a 15 años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El nivel preconvencional es característico de los 4 a los 10 años. El convencional se alcanza después de los 10 años."
+    },
+    {
+      "question": "«No debería robar porque puede ir a la cárcel» es una respuesta típica de la etapa:",
+      "options": [
+        "1: orientación hacia el castigo y la obediencia",
+        "2: propósito instrumental e intercambio",
+        "3: aprobación de los demás",
+        "4: preocupación social y conciencia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El razonamiento se centra en evitar el castigo, propio de la etapa 1. En la etapa 2 se argumenta por necesidades propias y recompensa."
+    },
+    {
+      "question": "«Roba porque ama a su mujer» o «si su mujer se muere se queda solo» corresponde a la etapa:",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Son respuestas de la etapa 2 (propósito instrumental e intercambio), basadas en las propias necesidades. La etapa 3 apela a lo que pensarán los demás."
+    },
+    {
+      "question": "¿Qué ocurre con el nivel convencional según la unidad?",
+      "options": [
+        "Se alcanza antes de los 10 años",
+        "Se alcanza después de los 10 años y muchas personas no lo superan ni en la edad adulta",
+        "Es alcanzado por la totalidad de los adultos",
+        "Aparece de forma tardía en la adultez temprana"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El nivel convencional se alcanza después de los 10 años y muchas personas no lo superan, ni siquiera al llegar a la edad adulta."
+    },
+    {
+      "question": "«Si no roba la medicina pensarán que es mal marido» es una respuesta de la etapa:",
+      "options": [
+        "2: propósito instrumental",
+        "3: mantenimiento de relaciones mutuas y aprobación de los demás",
+        "4: preocupación social y conciencia",
+        "5: contrato social"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La preocupación por lo que pensarán familia o vecinos refleja la etapa 3, basada en la aprobación del grupo y el deseo de ser percibido como buena persona."
+    },
+    {
+      "question": "«Aunque sea injusto no debe robar» o «si roba debe aceptar su castigo» corresponde a la etapa:",
+      "options": [
+        "1: orientación hacia el castigo",
+        "3: aprobación de los demás",
+        "4: preocupación social y conciencia",
+        "6: principios éticos universales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En la etapa 4 la ley y el orden social no se cuestionan: robar está mal para todos. En la etapa 1 el motivo sería evitar el castigo, no el deber con las normas."
+    },
+    {
+      "question": "¿Cuándo puede lograrse el nivel III (moral posconvencional)?",
+      "options": [
+        "Antes de los 10 años",
+        "En la niñez media",
+        "En la adolescencia o en la adultez temprana",
+        "En la vejez, tras la jubilación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Este nivel puede lograrse en la adolescencia o en la adultez temprana, aunque pocos individuos parecen alcanzarlo."
+    },
+    {
+      "question": "¿Qué caracteriza la etapa 5 (moral de contrato social y derechos individuales)?",
+      "options": [
+        "Hay leyes que ya no sirven y habría que actualizarlas",
+        "Se cumplen las normas para evitar un castigo",
+        "Se sigue la ley porque es lo que se debe hacer",
+        "Se actúa para obtener una recompensa personal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el nivel posconvencional, orientado al contrato social, se entiende que algunas leyes pueden dejar de ser útiles y deben actualizarse. Las otras opciones son de niveles inferiores."
+    },
+    {
+      "question": "«La vida humana vale más que la propiedad de alguien» es una respuesta típica de la etapa:",
+      "options": [
+        "2",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Es una respuesta de la etapa 5, que prioriza derechos individuales y la vida sobre la propiedad. La etapa 6 apela a principios éticos universales como el deber moral de salvar una vida."
+    },
+    {
+      "question": "«Usar medios inmorales puede dañar el principio de integridad» es una respuesta de la etapa:",
+      "options": [
+        "5: contrato social",
+        "4: preocupación social",
+        "6: principios éticos universales",
+        "3: aprobación de los demás"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pertenece a la etapa 6, basada en principios éticos universales como la integridad o el deber moral de salvar una vida."
+    },
+    {
+      "question": "Durante los primeros años de la adolescencia, ¿qué transición moral se produce según Kohlberg?",
+      "options": [
+        "De la moral preconvencional a la convencional",
+        "De la moral convencional a la posconvencional",
+        "De la moral posconvencional a la convencional",
+        "Del nivel universal al contrato social"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Hay una transición de la moral preconvencional a la convencional, definida por la necesidad de aceptación del grupo."
+    },
+    {
+      "question": "Según Kohlberg, ¿en qué nivel permanecerá la mayoría de las personas?",
+      "options": [
+        "Preconvencional",
+        "Convencional",
+        "Posconvencional",
+        "En el que corresponda a su edad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para Kohlberg la mayoría permanece en el nivel convencional y solo algunos individuos acceden al posconvencional."
+    },
+    {
+      "question": "¿Cuál es la crítica más potente a la teoría de Kohlberg?",
+      "options": [
+        "Que realizó su investigación con niños pequeños",
+        "La universalidad del último nivel, pues pocos individuos parecen alcanzarlo",
+        "Que no usó dilemas morales",
+        "Que situó el nivel convencional antes de los 4 años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La crítica más potente es la universalidad de la etapa posconvencional, ya que pocos individuos parecen alcanzarla; además es poco probable que el desarrollo moral sea unitario en todas las dimensiones."
+    },
+    {
+      "question": "¿Qué distinción introduce Turiel (1998) frente a Kohlberg?",
+      "options": [
+        "Entre moral individual y moral colectiva",
+        "Entre el campo moral (justicia, imparcialidad) y el campo social (convencionalismos)",
+        "Entre moral convencional y posconvencional",
+        "Entre razonamiento masculino y femenino"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Turiel diferencia el campo moral (robar, mentir, matar) del campo social (reglas como ser educado), distinción que Kohlberg no hacía siempre."
+    },
+    {
+      "question": "Comer con las manos, visto como rudeza en España, es un ejemplo de:",
+      "options": [
+        "Tema moral relacionado con la justicia",
+        "Convencionalismo social con pocas consideraciones éticas",
+        "Principio ético universal",
+        "Conducta propia del nivel preconvencional"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pertenece al campo social, no al moral: no merece muchas consideraciones éticas, a diferencia de la violencia, el hurto o el asesinato."
+    },
+    {
+      "question": "¿Qué encontró Carol Gilligan (1982) en su investigación con mujeres y niñas?",
+      "options": [
+        "Que mujeres y varones razonan de forma idéntica",
+        "Que las mujeres se preocupaban más por las relaciones y la responsabilidad hacia los demás, y los varones por la justicia abstracta",
+        "Que las mujeres alcanzan antes el nivel posconvencional",
+        "Que los varones se preocupan más por las relaciones interpersonales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gilligan halló que los varones se interesaban por el concepto abstracto de justicia y las mujeres por las relaciones interpersonales y la responsabilidad de atender las necesidades de otros."
+    },
+    {
+      "question": "¿Por qué el modelo alternativo de Gilligan no cuenta con apoyo científico suficiente?",
+      "options": [
+        "Porque estudió a varones de forma predominante",
+        "Porque no se han encontrado diferencias sustanciales entre hombres y mujeres",
+        "Porque no utilizó entrevistas",
+        "Porque contradice la teoría de Erikson"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Aunque señalaba el sesgo de Kohlberg (muestra principalmente masculina), su modelo carece de apoyo porque no se han hallado diferencias sustanciales entre sexos."
+    },
+    {
+      "question": "Como reto en el desarrollo moral, ¿de qué debe tomar conciencia el docente?",
+      "options": [
+        "De que los valores de una cultura pueden no ser los de otra y cambian con su evolución",
+        "De que la moral es universal e invariable",
+        "De que el desarrollo moral es independiente del contexto",
+        "De que el nivel posconvencional es el deseable"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Puesto que el desarrollo moral depende del contexto, el docente debe ser consciente de que los valores varían entre culturas y evolucionan dentro de una misma cultura."
+    },
+    {
+      "question": "¿Qué crítica a Kohlberg se relaciona con la muestra de su investigación?",
+      "options": [
+        "Que se realizó principalmente con varones",
+        "Que se realizó con mujeres de entornos rurales",
+        "Que se hizo con adultos mayores",
+        "Que se hizo con niños menores de 4 años"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La tercera crítica señala que Kohlberg investigó la moralidad principalmente con varones, lo que motivó el modelo alternativo de Gilligan."
+    },
+    {
+      "question": "¿Qué conducta orientada al grupo caracteriza el nivel II (moral convencional)?",
+      "options": [
+        "Cumplir las normas para que los demás los perciban como buena persona",
+        "Cumplir las normas para evitar un castigo inmediato",
+        "Cuestionar las leyes que ya no sirven",
+        "Defender derechos universales por encima de las leyes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el nivel convencional las normas están interiorizadas y el razonamiento depende de la aprobación de los demás o del orden social. Evitar el castigo es preconvencional y cuestionar leyes, posconvencional."
+    },
+    {
+      "question": "¿Qué rasgo del razonamiento comparten las etapas 5 y 6 del nivel posconvencional?",
+      "options": [
+        "Comprender los principios morales en que se basan las normas, que pesan más que las normas en sí",
+        "Basarse en la aprobación de la familia y los vecinos",
+        "Orientarse a evitar el castigo y obedecer",
+        "Aceptar la ley sin cuestionarla"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el nivel III hay comprensión e interiorización de los principios morales; los principios racionales importan más que las normas. Las otras opciones describen niveles inferiores."
+    },
+    {
+      "question": "¿Qué rasgo del nivel preconvencional se menciona respecto a los demás?",
+      "options": [
+        "Las personas valoran cómo afectan sus actos a otros",
+        "No se plantean cómo puede afectar su conducta a otros",
+        "Dependen de la admiración del grupo",
+        "Se guían por derechos individuales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el nivel preconvencional el razonamiento se basa en reglas impuestas y necesidades propias, sin plantearse el efecto en los demás."
+    },
+    {
+      "question": "Respecto a la aplicación de la teoría de Kohlberg a la adolescencia, ¿cómo se explica que su moral esté definida por la necesidad de aceptación del grupo?",
+      "options": [
+        "Porque transitan hacia el nivel convencional",
+        "Porque ya alcanzan el nivel posconvencional",
+        "Porque permanecen en el nivel preconvencional",
+        "Porque su moral no depende del grupo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Al producirse la transición de la moral preconvencional a la convencional, el razonamiento queda marcado por la aprobación del grupo."
+    },
+    {
+      "question": "Dentro del nivel convencional, ¿qué diferencia hay entre las etapas 3 y 4?",
+      "options": [
+        "La 3 se orienta a la admiración del grupo y la 4 a la importancia de la ley y el orden social",
+        "La 3 se orienta al castigo y la 4 a la recompensa",
+        "La 3 se orienta a principios universales y la 4 al contrato social",
+        "La 3 busca beneficio personal y la 4 el intercambio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ambas etapas son convencionales: la 3 se mueve por la aprobación y admiración del grupo; la 4 por el deber de cumplir la ley y el orden social."
+    },
+    {
+      "question": "Según Erikson (1974), el desarrollo de la personalidad está delimitado por:",
+      "options": [
+        "Una serie de estadios cognitivos universales",
+        "Una serie de crisis psicosociales entre las exigencias sociales y las necesidades biológicas y psicológicas",
+        "Una secuencia de niveles de razonamiento moral",
+        "La maduración hormonal del eje hipotálamo-hipofisario"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Erikson postula crisis psicosociales que suponen un conflicto entre dos extremos (exigencias de la sociedad y necesidades biológicas y psicológicas) y comprometen la integridad del «yo»."
+    },
+    {
+      "question": "¿Por qué se considera la teoría de Erikson la más completa para explicar la identidad adolescente?",
+      "options": [
+        "Porque explica la identidad mediante la exploración de posibilidades hasta hallar la que encaja con lo que se quiere ser",
+        "Porque la basa en el estudio del cerebro adolescente",
+        "Porque describe la moral posconvencional",
+        "Porque define las etapas de la pubertad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Explica la conformación de la identidad mediante la exploración de varias posibilidades buscando la que encaja con lo que se quiere ser."
+    },
+    {
+      "question": "Según Papalia y Martorell (2021), la identidad se constituye por:",
+      "options": [
+        "Los valores, las metas y las creencias con las que se establece un compromiso",
+        "Los rasgos hereditarios y las hormonas",
+        "Las normas del grupo de iguales",
+        "La aprobación de la familia y los docentes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La identidad se constituye por los valores, las metas y las creencias con las que la persona establece un compromiso."
+    },
+    {
+      "question": "¿De qué dos factores depende el estatus de identidad?",
+      "options": [
+        "De la edad y del sexo biológico",
+        "De la crisis (exploración) y del compromiso",
+        "Del autoconcepto y de la autoestima",
+        "De la familia y del grupo de iguales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El estatus resulta de la crisis (exploración) que ha de resolverse y del compromiso que permite seleccionar una alternativa y tomar una decisión consciente."
+    },
+    {
+      "question": "El adolescente que se ha comprometido con una posibilidad sin haber explorado otras se encuentra en el estatus de:",
+      "options": [
+        "Difusión",
+        "Moratoria",
+        "Exclusión",
+        "Logro de identidad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En la exclusión hay compromiso sin exploración (no existe crisis). En la moratoria hay crisis sin compromiso y en la difusión no hay ni crisis ni compromiso."
+    },
+    {
+      "question": "El estatus de logro de identidad se caracteriza por:",
+      "options": [
+        "Compromiso sin crisis previa",
+        "Crisis sin compromiso",
+        "Crisis explorada y compromiso adquirido con la opción que mejor encaja",
+        "Ausencia de crisis y de compromiso"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El logro implica que tras la crisis, en la que se buscaron y exploraron opciones, se ha adquirido el compromiso que mejor encaja con los ideales del sujeto."
+    },
+    {
+      "question": "¿En qué tres aspectos implica el logro de identidad haberse comprometido realmente (Martín et al., 2011)?",
+      "options": [
+        "Ideología, ocupación y aspecto interpersonal",
+        "Autoestima, autoconcepto y moral",
+        "Familia, grupo de iguales y escuela",
+        "Valores, creencias y vida sexual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Son la ideología (valores guía), la ocupación (objetivos profesionales) y el aspecto interpersonal (orientación de género, que influye en las formas de amistad e intimidad)."
+    },
+    {
+      "question": "¿Cuál es el estatus de identidad en el que no hay ni búsqueda ni compromiso?",
+      "options": [
+        "Moratoria",
+        "Exclusión",
+        "Logro",
+        "Difusión"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En la difusión el adolescente no ha realizado proceso de búsqueda ni se ha comprometido; está confuso por falta de experiencia. No hay compromiso ni crisis."
+    },
+    {
+      "question": "El adolescente que sigue buscando su identidad, pero no se decide, está en:",
+      "options": [
+        "Exclusión",
+        "Moratoria",
+        "Difusión",
+        "Logro de identidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En la moratoria hay crisis (exploración), pero no compromiso tras ella."
+    },
+    {
+      "question": "¿Por qué aumentan los estereotipos de género en la adolescencia (Palacios et al., 2014)?",
+      "options": [
+        "Porque la identidad personal se integra con identidades grupales y buscan subrayar su identidad",
+        "Porque la poda sináptica refuerza las normas sociales",
+        "Porque disminuye la influencia del grupo de iguales",
+        "Porque se rechazan las figuras de apego"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La identidad personal está integrada por identidades grupales y el aumento de los estereotipos de género tiene la finalidad de subrayar la propia identidad."
+    },
+    {
+      "question": "¿Qué suele implicar por lo general iniciar la pubertad de forma temprana?",
+      "options": [
+        "Efectos negativos, pues deben asumir cambios y exigencias sin estar preparados ni tener referencias de iguales",
+        "Efectos positivos por mayor madurez cognitiva",
+        "Ausencia de diferencias con quienes la inician tarde",
+        "Mejor ajuste social en ambos sexos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Por lo general la pubertad temprana implica efectos negativos, ya que asumen cambios y exigencias sociales para los que no están preparados, sin referencias de iguales ni información suficiente. No obstante, difiere según el sexo."
+    },
+    {
+      "question": "¿Cuál es una vivencia positiva de la pubertad temprana en los chicos según la tabla 2?",
+      "options": [
+        "Introversión y deseo de pasar desapercibidos",
+        "Rendimiento atlético y mayor confianza y autoestima",
+        "Absentismo escolar y calificaciones bajas",
+        "Inestabilidad emocional"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En los chicos la pubertad temprana se vive de forma positiva: rendimiento atlético, reconocimiento y liderazgo, más confianza y autoestima. Las demás opciones se asocian a la vivencia negativa de las chicas."
+    },
+    {
+      "question": "¿Qué ajuste social favorece en los chicos la pubertad temprana?",
+      "options": [
+        "Mayor ajuste social con las chicas, al desarrollarse a la par que ellas",
+        "Rechazo del grupo de iguales",
+        "Aislamiento social",
+        "Inseguridad en las relaciones con los adultos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Poseen un mayor ajuste social con las chicas, pues su desarrollo es paralelo al de ellas."
+    },
+    {
+      "question": "¿Qué vivencia negativa se asocia a la pubertad temprana en las chicas?",
+      "options": [
+        "Mayor rendimiento atlético",
+        "Liderazgo en el grupo",
+        "Introversión, falta de apoyo en el grupo y disconformidad con la escuela",
+        "Alto estatus en el grupo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se muestran introvertidas, con problemas de autoestima, sienten falta de apoyo, manifiestan disconformidad con la escuela, bajas calificaciones, absentismo e inestabilidad emocional."
+    },
+    {
+      "question": "¿Qué caracteriza a los chicos con pubertad tardía en la vivencia negativa?",
+      "options": [
+        "Verse «enclenques», con menor confianza, e intentar llamar la atención",
+        "Mostrar una buena imagen de sí mismos",
+        "Tener más tiempo para observar los cambios en sus pares",
+        "Ocupar lugares de alto estatus en el grupo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los chicos con pubertad tardía se visualizan con desfase respecto a las chicas, se ven «enclenques», muestran menos confianza y, para no aislarse, llaman la atención (habladores e inquietos)."
+    },
+    {
+      "question": "¿Qué ventajas presenta la pubertad tardía en las chicas según la tabla 2?",
+      "options": [
+        "Facilidad en las relaciones interpersonales, seguridad y buena imagen de sí mismas",
+        "Absentismo escolar y baja autoestima",
+        "Inestabilidad emocional y falta de apoyo",
+        "Introversión y rechazo del grupo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tienen más tiempo para observar los cambios en sus pares, muestran buena imagen de sí mismas, mayor seguridad y autoestima y facilidad en las relaciones interpersonales, con alto estatus en el grupo."
+    },
+    {
+      "question": "Según la unidad, no abordar los problemas de incomodidad asociados a los cambios puberales en los primeros años de la edad adulta puede conducir a:",
+      "options": [
+        "Trastornos de ansiedad o relaciones sexuales poco satisfactorias en el futuro",
+        "Un mejor ajuste con los iguales",
+        "Un estatus de logro de identidad",
+        "Mayor rendimiento académico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "No abordarlos puede conducir a trastornos de ansiedad o a no poder tener relaciones sexuales satisfactorias en el futuro."
+    },
+    {
+      "question": "¿En qué se diferencian autoconcepto y autoestima (Martínez-Otero, 2018)?",
+      "options": [
+        "El autoconcepto es el afecto hacia uno mismo y la autoestima el conocimiento de uno mismo",
+        "El autoconcepto es el conocimiento de uno mismo y la autoestima el afecto que uno se tiene",
+        "Son sinónimos con pequeñas diferencias gramaticales",
+        "El autoconcepto es emocional y la autoestima es racional"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El autoconcepto se refiere al conocimiento de uno mismo (dimensión cognitiva) y la autoestima al afecto hacia uno mismo (dimensión afectiva). Aunque están relacionados, no son lo mismo."
+    },
+    {
+      "question": "¿Qué dimensión es más cognitiva y cuál más afectiva?",
+      "options": [
+        "Autoestima cognitiva y autoconcepto afectivo",
+        "Autoconcepto cognitivo y autoestima afectiva",
+        "Ambas son estrictamente cognitivas",
+        "Ambas son estrictamente afectivas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El autoconcepto tiene una dimensión más cognitiva (racional y lógica) y la autoestima una más afectiva (emocional)."
+    },
+    {
+      "question": "La autoestima es definida en la unidad como:",
+      "options": [
+        "La percepción cognitiva y consciente de uno mismo",
+        "La dimensión valorativa del autoconcepto",
+        "El conjunto de rasgos hereditarios de la persona",
+        "La conducta orientada a la aprobación del grupo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La autoestima es la consideración o estima hacia uno mismo, la dimensión valorativa del autoconcepto. La percepción cognitiva y consciente es el autoconcepto."
+    },
+    {
+      "question": "¿Cuáles son los tres componentes de la autoestima (Martínez, 2010)?",
+      "options": [
+        "Afectivo, conductual y cognitivo",
+        "Moral, social y físico",
+        "Emocional, familiar y escolar",
+        "Afectivo, social y académico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tiene un componente afectivo (sentimientos), uno conductual (actuaciones acordes a la valoración propia) y uno cognitivo (ideas, creencias y representaciones sobre sí mismo)."
+    },
+    {
+      "question": "¿Qué recoge el componente conductual de la autoestima?",
+      "options": [
+        "Los sentimientos que se perciben sobre uno mismo",
+        "Las creencias sobre uno mismo en distintas parcelas de la vida",
+        "Las actuaciones acordes a la valoración que se tiene de uno mismo",
+        "La opinión de los progenitores sobre el adolescente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El componente conductual son las actuaciones acordes con la valoración propia. Los sentimientos son el componente afectivo y las ideas y creencias, el cognitivo."
+    },
+    {
+      "question": "¿Cuál de los siguientes NO se menciona como factor del que depende una alta o baja autoestima?",
+      "options": [
+        "La necesidad de vinculación o pertenencia",
+        "La percepción de singularidad (sentirse especial)",
+        "La percepción de poder",
+        "El nivel de colesterol y la dieta"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los factores citados son la necesidad de pertenencia, la de singularidad, la de poder y los demás como modelos y espejos. La dieta no se menciona."
+    },
+    {
+      "question": "En la autoestima, ¿qué papel cumplen los demás individuos como «modelos» y como «espejos»?",
+      "options": [
+        "Modelos para evaluar y espejos para castigar",
+        "Modelos para imitar y espejos para recoger impresiones sobre uno mismo",
+        "Modelos para compararse y espejos para ignorar",
+        "Modelos para obedecer y espejos para rechazar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los demás son modelos (para imitar) y espejos (para recoger impresiones sobre sí mismo), por lo que las figuras de apego de la infancia son muy relevantes."
+    },
+    {
+      "question": "¿Qué se relaciona con una mayor seguridad y confianza en sí mismos según Palacios et al. (2014)?",
+      "options": [
+        "La cohesión familiar y el afecto del núcleo más íntimo",
+        "La independencia respecto a la familia",
+        "La ausencia de normas en casa",
+        "La pertenencia a un único grupo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La cohesión familiar y el afecto del núcleo íntimo se relacionan con mayor seguridad y confianza en sí mismos; la autoestima comienza a configurarse en las primeras etapas de la vida."
+    },
+    {
+      "question": "¿Cómo se desarrolla el autoconcepto del adolescente?",
+      "options": [
+        "A partir de la interacción con los demás y los atributos que le devuelven",
+        "Por la herencia genética de los progenitores",
+        "Por la maduración de la corteza prefrontal",
+        "Por la evaluación académica final"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El autoconcepto se desarrolla a partir de la interacción con los demás y los atributos que éstos le devuelven; primero los padres, luego compañeros y docente."
+    },
+    {
+      "question": "¿Qué responsabilidad tiene el docente respecto al autoconcepto del alumnado?",
+      "options": [
+        "Ser consciente del impacto de sus mensajes de reconocimiento y valoración",
+        "Reducir los mensajes de valoración al alumnado",
+        "Delegar en las familias el refuerzo del autoconcepto",
+        "Compararlos con sus compañeros"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Compañeros y docente consolidan la concepción que el adolescente tiene de sí mismo, por lo que el profesor debe ser consciente del impacto de sus mensajes de valoración."
+    },
+    {
+      "question": "¿Qué puede ocurrir cuando el adolescente busca aumentar su autoestima mediante la aceptación de su grupo?",
+      "options": [
+        "Descuida el ámbito académico",
+        "Mejora su rendimiento en todas las materias",
+        "Rechaza el grupo de iguales",
+        "Disminuye su necesidad de pertenencia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "No son pocas las ocasiones en que el adolescente descuida lo académico para aumentar su autoestima a través de la aceptación del grupo."
+    },
+    {
+      "question": "Atender exclusivamente a los estudios o a las relaciones familiares, según Palacios et al. (2014), podría producir:",
+      "options": [
+        "Mayor autonomía emocional",
+        "Dependencia e inestabilidad emocional",
+        "Un estatus de identidad de logro",
+        "Un mejor ajuste conductual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Con menos frecuencia, pero también ocurre, que atender sólo a estudios o a la familia produzca dependencia e inestabilidad emocional."
+    },
+    {
+      "question": "¿Cómo son las relaciones de amistad adolescentes frente a las que se tienen con progenitores o docentes?",
+      "options": [
+        "Jerárquicas y asimétricas",
+        "Simétricas e igualitarias",
+        "Dependientes y protectoras",
+        "Normativas y formales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según Díaz y Pérez (2022), las relaciones de amistad son simétricas e igualitarias, a diferencia de las que se viven con progenitores o docentes."
+    },
+    {
+      "question": "¿Cuál es el principal grupo de referencia en la adolescencia, en contraposición con la infancia?",
+      "options": [
+        "Los progenitores",
+        "Los docentes",
+        "Los pares o iguales",
+        "Los medios de comunicación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En la adolescencia los pares son el principal grupo de referencia; en la infancia el referente eran los progenitores."
+    },
+    {
+      "question": "¿Cuál de las siguientes es una función del grupo de iguales (Martín et al., 2011)?",
+      "options": [
+        "Sustituir la influencia de los docentes",
+        "Validación de la propia competencia y apoyo instrumental para problemas prácticos",
+        "Evitar la presión de grupo",
+        "Frenar la exploración de la identidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los grupos aportan pertenencia, soporte y comprensión, validación de la propia competencia y apoyo instrumental. No eliminan la presión de grupo."
+    },
+    {
+      "question": "Según Oliva et al. (2010), ¿qué se corresponde con las buenas relaciones con los pares?",
+      "options": [
+        "Un peor ajuste conductual",
+        "Un mejor ajuste emocional y conductual",
+        "Un mayor absentismo escolar",
+        "Una reducción de la autoestima"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Aunque se suele considerar negativa, la influencia de los compañeros se corresponde con un mejor ajuste emocional y conductual cuando las relaciones son buenas."
+    },
+    {
+      "question": "¿Cómo evolucionan los grupos de iguales en la adolescencia (Díaz y Pérez, 2022)?",
+      "options": [
+        "De pandillas mixtas a grupos reducidos del mismo sexo",
+        "De grupos reducidos del mismo sexo a pandillas o grupos mixtos",
+        "De grupos mixtos a relaciones individuales",
+        "Se mantienen sin cambios hasta la juventud"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Al principio los grupos son reducidos y de amigos del mismo sexo con afinidades; después evolucionan en pandillas o grupos mixtos."
+    },
+    {
+      "question": "¿Qué efecto tiene la presión de grupo en la conducta del adolescente?",
+      "options": [
+        "Les hace adoptar a veces conductas con las que no están de acuerdo para ser aceptados",
+        "Reduce la necesidad de aceptación",
+        "No influye en sus formas de comunicación",
+        "Los aleja de las modas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La conducta se vuelve más maleable: presión de grupo, modas y mensajes de modelos hacen que adopten conductas o actitudes que no comparten del todo para ser aceptados."
+    },
+    {
+      "question": "Según la nota de la unidad, ¿qué puede producir mantener a los adolescentes apartados de las redes sociales?",
+      "options": [
+        "Un sentimiento de aislamiento social",
+        "Una mejora en el rendimiento académico",
+        "Mayor autoestima",
+        "Menor presión de grupo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se ha demostrado que mantenerlos apartados de las redes sociales a través de las que contactan con sus iguales puede producir un sentimiento de aislamiento social."
+    },
+    {
+      "question": "¿Qué cambio en las relaciones familiares refleja la búsqueda de independencia?",
+      "options": [
+        "Aceptación de las reglas familiares sin discusión",
+        "Cuestionamiento de las reglas y normas familiares, como la hora de volver",
+        "Mayor dependencia de los progenitores",
+        "Reducción de la rebeldía"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La necesidad de autonomía lleva a cuestionar reglas y normas familiares (hora de volver a casa, dormir fuera) y aparece la rebeldía como «arma» contra la amenaza de sus ideas."
+    },
+    {
+      "question": "¿Por qué los padres pierden su lugar de figuras de referencia?",
+      "options": [
+        "Porque el desarrollo cognitivo permite identificar y argumentar mejor las desavenencias",
+        "Porque dejan de cuidar al adolescente",
+        "Porque el adolescente ya ha alcanzado la autonomía total",
+        "Porque los docentes los sustituyen"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El desarrollo cognitivo permite identificar y argumentar mejor las desavenencias con los padres, que pierden su lugar de figuras de referencia."
+    },
+    {
+      "question": "¿Qué configura de manera decisiva la personalidad en formación del adolescente respecto a la familia?",
+      "options": [
+        "El número de hermanos",
+        "El estilo de crianza experimentado",
+        "La profesión de los padres",
+        "El nivel de ingresos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La vivencia de los cambios está influida por los estilos educativos parentales, ya que el estilo de crianza experimentado configura de manera decisiva la personalidad que se está formando."
+    },
+    {
+      "question": "¿Qué consecuencia académica tiene la baja autoestima?",
+      "options": [
+        "Mayor participación para demostrar su valía",
+        "Temor a equivocarse y menor participación para evitar sentirse juzgado",
+        "Mayor iniciativa ante los desafíos",
+        "Mayor facilidad para el trabajo colaborativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El alumnado con baja autoestima teme equivocarse y participa menos, perdiendo oportunidades de afrontar desafíos y adquirir aprendizajes nuevos."
+    },
+    {
+      "question": "¿Por qué el alumnado con alta autoestima adquiere más aprendizajes nuevos?",
+      "options": [
+        "Porque evita los errores",
+        "Porque tiene mayor iniciativa y mejores modelos de afrontamiento, y percibe positivamente la experiencia aunque falle",
+        "Porque recibe más tiempo del docente",
+        "Porque participa menos en clase"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Al percibirse eficaces tienen más iniciativa y ganas de participar y mejores modelos de afrontamiento; aunque hagan mal la tarea su percepción es buena y encuentran más desafíos."
+    },
+    {
+      "question": "¿Cómo se relaciona la autoestima positiva con el clima del aula?",
+      "options": [
+        "Con mayores habilidades sociales, más confianza y facilidad para relaciones sociales",
+        "Con aislamiento y desconfianza",
+        "Con rechazo al trabajo colaborativo",
+        "Con menor apertura hacia los iguales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Quienes se perciben positivamente son más confiados, cercanos y abiertos, interactúan más relajados con los iguales y crean relaciones con mayor facilidad (Martín et al., 2011)."
+    },
+    {
+      "question": "¿Qué actividades grupales propone la unidad para favorecer la validación de la propia competencia?",
+      "options": [
+        "Buscar los puntos fuertes de cada compañero y la tutorización de pares",
+        "Competiciones individuales con ranking",
+        "Exámenes orales sin apoyo",
+        "Trabajos sin interacción"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se propone diseñar actividades grupales de búsqueda de los puntos fuertes de cada compañero y la tutorización de pares como metodología."
+    },
+    {
+      "question": "Dado que comienzan a sentirse atraídos sexualmente, ¿qué conviene que sea el aula?",
+      "options": [
+        "Un espacio donde evitar el tema",
+        "Un espacio donde hablar de sexualidad, identidad sexual, pareja, relaciones y rechazo de forma sana",
+        "Un espacio de separación por sexos",
+        "Un espacio exclusivo de contenidos académicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Conviene presentar el aula como un espacio donde pueda hablarse de sexualidad, identidad sexual, pareja, relaciones y rechazo de una manera sana."
+    },
+    {
+      "question": "¿Cómo conviene distribuir los grupos de trabajo, dado que las agrupaciones voluntarias mixtas se dan más tarde que las del mismo sexo?",
+      "options": [
+        "Dejarles elegir compañeros, pero no en todas las ocasiones, para lograr grupos equilibrados",
+        "Dejarles elegir libremente a sus compañeros",
+        "Formar grupos por sexos separados",
+        "Asignar grupos por rendimiento"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Lo ideal es dejarles elegir sus compañeros, pero no en todas las ocasiones, para poder crear grupos equilibrados en número de chicos y chicas."
+    },
+    {
+      "question": "¿Qué beneficio tiene favorecer la integración del alumnado en varios grupos?",
+      "options": [
+        "Previene problemas emocionales, de autoestima y otras conductas inadecuadas",
+        "Aumenta la presión de grupo",
+        "Reduce el rendimiento académico",
+        "Fomenta el aislamiento de quienes pertenecen a un grupo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Integrarse en varios grupos permite prevenir problemas emocionales y de autoestima, además de otras conductas inadecuadas."
+    },
+    {
+      "question": "¿Qué se propone respecto al uso de las nuevas tecnologías y redes sociales en el aula?",
+      "options": [
+        "Prohibirlas por su influencia negativa",
+        "Diseñar actividades dirigidas que las usen adecuadamente para resolver la tarea",
+        "Restringirlas al ocio fuera del centro",
+        "Ignorarlas como recurso educativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dada su influencia positiva cuando se usan adecuadamente, se propone diseñar actividades dirigidas que las utilicen para resolver la tarea."
+    },
+    {
+      "question": "Según el resumen, ¿qué función principal tiene el futuro docente ante la diversidad de comportamientos de una clase?",
+      "options": [
+        "Homogeneizar el comportamiento del alumnado",
+        "Dar respuesta a necesidades específicas para que todo el alumnado logre el aprendizaje",
+        "Seleccionar al alumnado más maduro",
+        "Evitar atender diferencias individuales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El reto del futuro docente es tomar conciencia de la gran variabilidad de comportamientos y características de una clase y dar respuesta a las necesidades específicas para que el alumnado logre el aprendizaje."
+    },
+    {
+      "question": "Según Palacios et al. (2014), ¿qué agentes sociales son los más determinantes en la adolescencia?",
+      "options": [
+        "Los pares y la familia",
+        "Los docentes y los medios de comunicación",
+        "Los vecinos y los familiares lejanos",
+        "Las instituciones y el centro escolar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La unidad señala que los agentes sociales más determinantes en este momento vital son los pares y la familia."
+    },
+    {
+      "question": "Respecto a la pubertad temprana en las chicas, ¿qué la distingue de la de los chicos, según la unidad?",
+      "options": [
+        "Las implicaciones del desarrollo precoz difieren significativamente según el sexo biológico",
+        "No hay diferencias entre sexos",
+        "Es positiva en ambos sexos",
+        "Es negativa para los chicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La unidad indica que las diferencias en las implicaciones del desarrollo precoz en función del sexo biológico son realmente significativas: positivas para los chicos y negativas para las chicas."
+    }
+  ]
+}

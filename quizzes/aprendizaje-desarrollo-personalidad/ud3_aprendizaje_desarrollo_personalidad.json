@@ -1,0 +1,2208 @@
+{
+  "title": "UD 3. Teorías clásicas del aprendizaje",
+  "description": "Quiz sobre las teorías clásicas del aprendizaje: conductismo, condicionamiento clásico y operante, perspectiva cognitivo-social, aprendizaje relacional derivado, habituación y sensibilización.",
+  "category": "aprendizaje-desarrollo-personalidad",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "Según la definición de Fernández-Abascal et al. (2016) citada en la unidad, el aprendizaje es:",
+      "options": [
+        "un cambio relativamente permanente de los mecanismos de la conducta, debido a la experiencia con los acontecimientos del medio",
+        "un cambio temporal de los estados internos del sujeto, debido a la maduración biológica del organismo",
+        "una modificación estable de las estructuras cognitivas, debida a la reflexión introspectiva del individuo",
+        "un cambio relativamente permanente de la conducta, debido a la acción de fármacos o a la fatiga"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La definición subraya que es un cambio relativamente permanente, que afecta a los mecanismos de la conducta y que se debe a la experiencia con el medio. Los cambios por maduración, fatiga o fármacos no se consideran aprendizaje."
+    },
+    {
+      "question": "El conductismo surge como reacción a los métodos introspectivos de finales del siglo XIX porque se consideraba que estos:",
+      "options": [
+        "requerían instrumentos de medición demasiado costosos",
+        "eran demasiado subjetivos y sus resultados poco fiables",
+        "ignoraban los procesos de maduración biológica",
+        "negaban la existencia de los estímulos del ambiente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pozo (1989) señala que la introspección se veía como demasiado subjetiva y sus resultados como no fiables, lo que llevó a defender el método experimental y la conducta observable como objeto de estudio."
+    },
+    {
+      "question": "¿Cuál es el objeto de estudio válido de la psicología para el conductismo?",
+      "options": [
+        "Los procesos mentales inconscientes",
+        "Las emociones y los pensamientos del sujeto",
+        "La conducta que puede ser medida y observada",
+        "Las expectativas y creencias sobre el entorno"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El conductismo defiende el método experimental y la conducta observable y medible como único objeto válido; no considera los estados internos como emociones o pensamientos."
+    },
+    {
+      "question": "Las dos corrientes principales del conductismo recogidas en la unidad son:",
+      "options": [
+        "el condicionamiento clásico y el aprendizaje vicario",
+        "el condicionamiento operante y el aprendizaje relacional derivado",
+        "la habituación y la sensibilización",
+        "el condicionamiento clásico y el condicionamiento operante"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El conductismo se divide en condicionamiento clásico (Pávlov) y operante o instrumental (Skinner). El aprendizaje vicario pertenece a la perspectiva cognitivo-social y la habituación y sensibilización son aprendizaje no asociativo."
+    },
+    {
+      "question": "Los estudios de Pávlov que dieron origen al condicionamiento clásico se realizaron originalmente sobre:",
+      "options": [
+        "el sistema digestivo de los perros",
+        "el sistema nervioso de las ratas",
+        "la conducta de escape de los gatos",
+        "el sistema respiratorio de las palomas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pávlov estudiaba el sistema digestivo de los perros y observó que se generaba una asociación entre el alimento y la segregación de saliva, a la que llamó reflejo condicionado."
+    },
+    {
+      "question": "En el experimento de Pávlov, la asociación generada entre el alimento y la salivación se denominó:",
+      "options": [
+        "reflejo condicionado",
+        "reforzamiento condicionado",
+        "respuesta operante",
+        "aprendizaje vicario"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pávlov (1927) denominó reflejo condicionado a la asociación entre el alimento (estímulo) y la segregación de saliva (respuesta)."
+    },
+    {
+      "question": "En el condicionamiento clásico, un estímulo que inicialmente no provoca la respuesta de interés recibe el nombre de:",
+      "options": [
+        "estímulo incondicionado",
+        "estímulo neutro",
+        "estímulo condicionado",
+        "estímulo aversivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El estímulo neutro (EN) no genera la respuesta antes del condicionamiento. Tras emparejarse con el EI se transforma en estímulo condicionado (EC)."
+    },
+    {
+      "question": "Un estímulo que provoca una respuesta de manera innata, sin aprendizaje previo, es un:",
+      "options": [
+        "estímulo condicionado (EC)",
+        "estímulo neutro (EN)",
+        "estímulo discriminativo",
+        "estímulo incondicionado (EI)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El EI (por ejemplo, el alimento) provoca la respuesta incondicionada (RI) de forma natural. El EC solo la provoca tras el emparejamiento."
+    },
+    {
+      "question": "Tras el condicionamiento, la salivación ante la campana sin alimento constituye:",
+      "options": [
+        "una respuesta incondicionada (RI)",
+        "una respuesta condicionada (RC)",
+        "un estímulo condicionado (EC)",
+        "una respuesta de generalización"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La campana (antes EN) es ahora EC y la salivación que provoca es la respuesta condicionada (RC). La RI es la salivación ante el alimento."
+    },
+    {
+      "question": "Si se presenta repetidamente el EC sin el EI, la respuesta se debilita hasta desaparecer. Este fenómeno se llama:",
+      "options": [
+        "discriminación",
+        "habituación",
+        "extinción",
+        "generalización"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La extinción ocurre cuando el EC aparece repetidamente sin el EI: el EC pierde su categoría porque ya no produce la RC. No debe confundirse con la habituación, que es aprendizaje no asociativo."
+    },
+    {
+      "question": "Un perro condicionado a la campana saliva también ante un sonido parecido que nunca se asoció al alimento. Esto es un ejemplo de:",
+      "options": [
+        "generalización",
+        "extinción",
+        "discriminación",
+        "sensibilización"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La generalización aparece cuando el sujeto emite la RC ante estímulos similares al EC aunque no se hayan asociado antes con el EI."
+    },
+    {
+      "question": "Tras presentar un sonido parecido a la campana sin alimento, el perro deja de salivar ante ese sonido pero sigue salivando ante la campana. Este fenómeno es:",
+      "options": [
+        "extinción de la respuesta",
+        "recuperación espontánea",
+        "generalización estimular",
+        "discriminación de estímulos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En la discriminación el sujeto aprende a diferenciar el EC del EN parecido y responde únicamente ante el EC que ha sido emparejado con el EI."
+    },
+    {
+      "question": "Según la unidad, el condicionamiento clásico se da en el aula habitualmente en las respuestas:",
+      "options": [
+        "motoras y psicomotrices",
+        "afectivas y emocionales",
+        "lógico-matemáticas y verbales",
+        "de memoria a largo plazo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Estímulos inicialmente neutros, como el docente o la materia, se asocian repetidamente con situaciones agradables o desagradables y generan sentimientos de satisfacción o rechazo (Díaz y Pérez, 2022)."
+    },
+    {
+      "question": "En el ejemplo del condicionamiento clásico en el aula con la felicitación, ¿qué papel cumple la felicitación del docente?",
+      "options": [
+        "Estímulo neutro",
+        "Estímulo condicionado",
+        "Respuesta condicionada",
+        "Estímulo incondicionado"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La felicitación produce de forma natural agrado (RI), por lo que es el EI. El docente es el EN que, al emparejarse con ella, se convierte en EC."
+    },
+    {
+      "question": "En el ejemplo del condicionamiento de rechazo hacia una materia, ¿qué papel tiene la tarea con dificultad?",
+      "options": [
+        "Estímulo incondicionado",
+        "Estímulo neutro",
+        "Respuesta incondicionada",
+        "Estímulo condicionado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La tarea difícil provoca desagrado de forma natural (RI), así que es el EI. La materia es el EN que pasa a EC y genera desagrado (RC)."
+    },
+    {
+      "question": "Juan siente ansiedad al exponer ante la clase. Según la unidad, ¿qué estrategia de condicionamiento clásico ayuda a eliminar esa ansiedad?",
+      "options": [
+        "Exponerlo sin preparación para que se habitúe rápidamente",
+        "Premiarlo con puntos por cada exposición, aunque sea negativa",
+        "Evitar que realice exposiciones durante todo el curso",
+        "Hacerlo exponer un tema que domine y evitar consecuencias negativas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Si se evitan las consecuencias negativas (críticas, desaprobación), se elimina el EI que provoca la ansiedad y esta se extingue gradualmente."
+    },
+    {
+      "question": "El condicionamiento operante también se denomina condicionamiento instrumental porque parte de la base de que la conducta:",
+      "options": [
+        "opera sobre el ambiente para producir un efecto",
+        "responde de manera pasiva a estímulos del entorno",
+        "se aprende por observación de modelos sociales",
+        "se explica por la asociación entre dos estímulos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según Trianes et al. (2011), la conducta opera sobre el ambiente para producir un efecto, en lugar de meramente responder como en el condicionamiento clásico."
+    },
+    {
+      "question": "¿Qué autor representa principalmente la vertiente del condicionamiento operante?",
+      "options": [
+        "Pávlov",
+        "Bandura",
+        "Hayes",
+        "Skinner"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Skinner (1904-1990) desarrolló los postulados principales del condicionamiento operante. Pávlov es el referente del clásico, Bandura del aprendizaje social y Hayes de la teoría del marco relacional."
+    },
+    {
+      "question": "Para Skinner, un reforzador es cualquier estímulo capaz de:",
+      "options": [
+        "provocar una respuesta refleja incondicionada",
+        "aumentar la frecuencia de una respuesta",
+        "disminuir la frecuencia de una respuesta",
+        "sustituir al estímulo neutro en la asociación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Un reforzador es cualquier estímulo que provoca que aumente la frecuencia de una respuesta; el acto de administrarlo tras la conducta se llama reforzamiento (Ormrod, 2005)."
+    },
+    {
+      "question": "El reforzamiento es el proceso por el que se administra un reforzador para que la respuesta aumente en:",
+      "options": [
+        "intensidad, frecuencia o duración",
+        "complejidad, rapidez o dificultad",
+        "latencia, amplitud o generalización",
+        "contigüidad, contingencia o extinción"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El reforzamiento incrementa la probabilidad de emitir la respuesta, haciendo que aumente en intensidad, frecuencia o duración."
+    },
+    {
+      "question": "Un sentimiento de orgullo tras resolver un problema es un ejemplo de reforzador:",
+      "options": [
+        "extrínseco primario",
+        "intrínseco",
+        "secundario externo",
+        "negativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los reforzadores intrínsecos son internos y no observables para el observador (orgullo, bienestar). Los extrínsecos se originan en el medio externo."
+    },
+    {
+      "question": "La comida como reforzador para un organismo hambriento se clasifica como reforzador:",
+      "options": [
+        "secundario",
+        "intrínseco condicionado",
+        "negativo",
+        "primario"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los reforzadores primarios refuerzan de manera innata, sin aprendizaje previo; la comida es el ejemplo. Los secundarios, como el dinero o un elogio, adquieren su valor tras el aprendizaje."
+    },
+    {
+      "question": "El dinero o un elogio son ejemplos de reforzadores:",
+      "options": [
+        "primarios, porque son innatos",
+        "negativos, porque eliminan un estímulo",
+        "intrínsecos, porque son internos",
+        "secundarios, porque adquieren valor tras el aprendizaje"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los reforzadores secundarios son estímulos que han adquirido fuerza reforzante mediante el aprendizaje; el dinero y el elogio son los ejemplos de la unidad."
+    },
+    {
+      "question": "En el reforzamiento negativo la respuesta aumenta porque:",
+      "options": [
+        "se presenta un estímulo placentero tras la conducta",
+        "se retira un estímulo aversivo, produciendo alivio",
+        "se retira un privilegio al alumno",
+        "se presenta un estímulo temido tras la conducta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el reforzamiento negativo se retira o evita un estímulo aversivo y ello produce alivio, de modo que la respuesta se incrementa. Presentar un estímulo desagradable sería castigo positivo."
+    },
+    {
+      "question": "Las dos relaciones necesarias, aunque no suficientes por sí mismas, entre la conducta y el reforzador para que haya aprendizaje asociativo son:",
+      "options": [
+        "intensidad y frecuencia",
+        "extinción y generalización",
+        "contigüidad y contingencia",
+        "moldeado y encadenamiento"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La contigüidad (proximidad temporal) y la contingencia (dependencia entre respuesta y reforzador) son condiciones necesarias pero no suficientes por sí solas."
+    },
+    {
+      "question": "Se define castigo como:",
+      "options": [
+        "el fortalecimiento de una conducta por retirada de un estímulo aversivo",
+        "la supresión o debilitamiento de una conducta a la que sigue un estímulo temido o desagradable",
+        "el aumento de una conducta tras un estímulo placentero",
+        "la extinción de una respuesta por ausencia de reforzador"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El castigo suprime o debilita una conducta. No debe confundirse con el reforzamiento negativo, que fortalece una conducta al eliminar un estímulo aversivo."
+    },
+    {
+      "question": "Llamar la atención a un alumno delante de la clase para reducir una conducta es un ejemplo de:",
+      "options": [
+        "castigo negativo",
+        "reforzamiento negativo",
+        "castigo positivo",
+        "coste de respuesta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el castigo positivo la consecuencia que se presenta es aversiva (llamada de atención pública). En el castigo negativo se retira algo agradable."
+    },
+    {
+      "question": "Dejar a un alumno sin ir a la excursión por su mal comportamiento es un ejemplo de:",
+      "options": [
+        "castigo positivo",
+        "reforzamiento negativo",
+        "reforzamiento positivo",
+        "castigo negativo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En el castigo negativo se retira una conducta agradable o privilegio (la excursión) para debilitar la conducta inadecuada."
+    },
+    {
+      "question": "Según Navarro et al. (2010), uno de los efectos negativos del castigo en el aula es que:",
+      "options": [
+        "la conducta castigada puede reaparecer cuando el docente no está presente",
+        "el alumnado pierde la capacidad de discriminar estímulos",
+        "se produce habituación inmediata al estímulo aversivo",
+        "se impide el aprendizaje vicario de la conducta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El castigo suprime la conducta solo mientras está el agente que castiga; además genera ansiedad, estrés y tensión en el alumnado."
+    },
+    {
+      "question": "La aplicación de estímulos aversivos suele provocar como consecuencia principal conductas de escape, evitación y, si ninguna es posible:",
+      "options": [
+        "generalización estimular",
+        "moldeado de la conducta",
+        "sensibilización cruzada",
+        "indefensión aprendida"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Cuando no es posible escapar ni evitar, la persona aprende que no tiene control y deja de intentar huir aunque aparezca la oportunidad: indefensión aprendida."
+    },
+    {
+      "question": "La historia del elefante encadenado de Jorge Bucay se relaciona en la unidad con:",
+      "options": [
+        "la extinción de la respuesta",
+        "el modelado simbólico",
+        "la indefensión aprendida",
+        "el reforzamiento intermitente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El elefante que no intenta huir de adulto aunque podría ilustra la indefensión aprendida: ha aprendido que no tiene control sobre su situación."
+    },
+    {
+      "question": "La ley del efecto fue formulada por:",
+      "options": [
+        "Thorndike",
+        "Skinner",
+        "Pávlov",
+        "Bandura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Thorndike (1874-1949) desarrolló la ley del efecto: un organismo tiende a repetir una respuesta seguida de algo satisfactorio y a eliminar la seguida de algo molesto."
+    },
+    {
+      "question": "Según la ley del efecto, una respuesta seguida de una consecuencia satisfactoria:",
+      "options": [
+        "tenderá a desaparecer con el tiempo",
+        "se repetirá con mayor probabilidad",
+        "se generalizará obligatoriamente a otros contextos",
+        "se convertirá en un reflejo incondicionado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La ley del efecto establece que las respuestas reforzadas, seguidas de algo satisfactorio, tienden a repetirse; las seguidas de algo molesto tienden a eliminarse."
+    },
+    {
+      "question": "En el ejemplo de Felipe, si su madre le quita un privilegio por no hacer la cama, se trata de:",
+      "options": [
+        "reforzamiento negativo",
+        "castigo negativo",
+        "castigo positivo",
+        "reforzamiento positivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Retirar algo agradable (un privilegio) ante una conducta no deseada es castigo negativo; gritarle sería castigo positivo."
+    },
+    {
+      "question": "En el ejemplo de Felipe, si su madre le grita por no hacer la cama, se trata de:",
+      "options": [
+        "castigo negativo",
+        "reforzamiento negativo",
+        "reforzamiento positivo",
+        "castigo positivo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Presentar una consecuencia desagradable tras la conducta no deseada es castigo positivo; el término positivo alude a la presentación del estímulo, no a que sea agradable."
+    },
+    {
+      "question": "A la hora de usar el refuerzo en el aula, la unidad advierte que los reforzadores:",
+      "options": [
+        "son personales y no resultan igual para todo el alumnado",
+        "tienen el mismo efecto en cualquier alumno de la misma edad",
+        "son efectivos cuando son de tipo material",
+        "pierden su valor tras la primera administración"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los reforzadores son personales: un determinado reforzador no resultará igual de eficaz para todo el alumnado, por lo que conviene identificar los de cada estudiante."
+    },
+    {
+      "question": "Elogiar cada vez que un alumno levanta la mano antes de hablar corresponde a un programa de refuerzo:",
+      "options": [
+        "de razón variable",
+        "de intervalo fijo",
+        "de intervalo variable",
+        "continuo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En el refuerzo continuo se refuerza cada vez que aparece la conducta deseada."
+    },
+    {
+      "question": "Entregar un punto positivo cada 5 ejercicios bien resueltos es un ejemplo de programa de:",
+      "options": [
+        "intervalo fijo",
+        "razón fija",
+        "razón variable",
+        "refuerzo continuo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En la razón fija el reforzador se administra tras un número específico y constante de respuestas (cada 5 ejercicios)."
+    },
+    {
+      "question": "Felicitar a veces tras 3 intervenciones y otras tras 5 corresponde a un programa de:",
+      "options": [
+        "razón fija",
+        "intervalo variable",
+        "razón variable",
+        "intervalo fijo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En la razón variable el número de respuestas requerido es impredecible para el alumnado, aunque se basa en la cantidad de conductas y no en el tiempo."
+    },
+    {
+      "question": "Revisar los cuadernos todos los lunes y dar puntos extra si están ordenados es un programa de:",
+      "options": [
+        "razón fija",
+        "intervalo variable",
+        "razón variable",
+        "intervalo fijo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En el intervalo fijo el tiempo entre reforzamientos está estipulado (cada lunes) y se refuerza la primera conducta correcta tras ese periodo."
+    },
+    {
+      "question": "Hacer revisiones sorpresa de cuadernos y dar puntos extra si están ordenados es un programa de:",
+      "options": [
+        "intervalo variable",
+        "intervalo fijo",
+        "razón variable",
+        "refuerzo continuo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el intervalo variable el docente selecciona el intervalo de forma aleatoria, por lo que el alumno no puede predecir cuándo llegará la revisión."
+    },
+    {
+      "question": "Según las recomendaciones de la unidad, el refuerzo continuo es especialmente útil para:",
+      "options": [
+        "mantener la motivación alta y evitar el aburrimiento",
+        "crear rutinas estables en el alumnado",
+        "enseñar conductas nuevas o de baja frecuencia",
+        "fomentar la autonomía y el cumplimiento constante"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El refuerzo continuo conviene para conductas nuevas o de baja frecuencia que se pueden supervisar. La razón variable mantiene motivación, el intervalo fijo crea rutinas y el variable fomenta autonomía."
+    },
+    {
+      "question": "¿Qué programa de refuerzo ayuda, según la unidad, a crear rutinas?",
+      "options": [
+        "Razón variable",
+        "Intervalo fijo",
+        "Intervalo variable",
+        "Razón fija"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los programas de intervalo fijo ayudan a crear rutinas porque el reforzador llega en momentos predecibles. La razón fija estimula el esfuerzo constante."
+    },
+    {
+      "question": "¿Qué programa de refuerzo mantiene la motivación alta y evita el aburrimiento, según la unidad?",
+      "options": [
+        "Razón variable",
+        "Razón fija",
+        "Intervalo fijo",
+        "Refuerzo continuo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los programas de razón variable mantienen la motivación alta y evitan el aburrimiento al ser impredecible cuándo llegará el reforzador."
+    },
+    {
+      "question": "Estudiar para un examen con el fin de no tener que repetirlo es un ejemplo de:",
+      "options": [
+        "condicionamiento de escape",
+        "castigo negativo",
+        "reforzamiento positivo continuo",
+        "condicionamiento de evitación"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En el condicionamiento de evitación la respuesta previene que se dé el estímulo aversivo, que todavía no ha aparecido (repetir el examen)."
+    },
+    {
+      "question": "Pedir al alumno que haga la tarea para poder salir al recreo, tras haberse quedado sin recreo algún día, ilustra:",
+      "options": [
+        "condicionamiento de evitación",
+        "castigo positivo",
+        "condicionamiento de escape",
+        "reforzamiento de conductas incompatibles"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el escape el estímulo aversivo ya se había presentado (quedarse sin recreo) y la respuesta lo elimina. En la evitación el aversivo aún no se ha dado."
+    },
+    {
+      "question": "La diferencia fundamental entre escape y evitación es que en el escape:",
+      "options": [
+        "el estímulo aversivo ya está presente y la respuesta lo elimina",
+        "la respuesta impide que el estímulo aversivo llegue a aparecer",
+        "la conducta disminuye tras un estímulo aversivo",
+        "se presenta un estímulo placentero tras la respuesta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ambos son reforzamiento negativo, pero en el escape el aversivo ya se presentó y se elimina; en la evitación se previene antes de que ocurra."
+    },
+    {
+      "question": "Pagar la zona azul para que no multen al estacionar es un ejemplo cotidiano de:",
+      "options": [
+        "respuesta de evitación",
+        "respuesta de escape",
+        "castigo negativo",
+        "economía de fichas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se paga para prevenir una multa que aún no se ha producido, lo que corresponde a un condicionamiento de evitación."
+    },
+    {
+      "question": "Los objetivos del conductismo en el aula se resumen en la unidad con tres funciones de control de la conducta. ¿Cuáles son?",
+      "options": [
+        "atención, memoria y motivación",
+        "mantenimiento, supresión y adquisición",
+        "habituación, sensibilización y extinción",
+        "contigüidad, contingencia y refuerzo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El resumen de la unidad indica que se explican técnicas para el control (mantenimiento, supresión y adquisición) de la conducta. Atención, memoria y motivación son los procesos del modelado."
+    },
+    {
+      "question": "Si un alumno recibe un elogio y su conducta de participar aumenta, y a la vez se le retira una tarea aburrida y su conducta de participar también aumenta, ¿qué se está aplicando respectivamente?",
+      "options": [
+        "reforzamiento negativo y reforzamiento positivo",
+        "castigo positivo y castigo negativo",
+        "reforzamiento positivo y reforzamiento negativo",
+        "castigo negativo y reforzamiento positivo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Presentar un estímulo placentero (elogio) que aumenta la conducta es reforzamiento positivo; retirar un estímulo aversivo (tarea aburrida) que aumenta la conducta es reforzamiento negativo. Ambos incrementan la respuesta."
+    },
+    {
+      "question": "La técnica que consiste en reforzar conductas que se aproximan cada vez más a la respuesta final que se quiere aprender se llama:",
+      "options": [
+        "encadenamiento",
+        "moldeado",
+        "sobrecorrección",
+        "saciedad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El moldeado refuerza aproximaciones sucesivas a la respuesta final y se usa cuando la respuesta es compleja para lograrla al primer intento."
+    },
+    {
+      "question": "Reforzar primero treinta minutos de estudio sin distraerse, después una hora y así hasta llegar a dos horas seguidas es un ejemplo de:",
+      "options": [
+        "encadenamiento",
+        "economía de fichas",
+        "contrato conductual",
+        "moldeado"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Se refuerzan aproximaciones progresivas a la conducta meta, que es la definición del moldeado. Los pasos intermedios son un simple apoyo durante el aprendizaje."
+    },
+    {
+      "question": "El encadenamiento consiste en:",
+      "options": [
+        "reforzar aproximaciones sucesivas que no forman parte de la conducta final",
+        "descomponer la respuesta en pasos sucesivos y reforzar cada uno de ellos",
+        "retirar un estímulo positivo cada vez que aparece la conducta indeseada",
+        "acordar por escrito conductas y consecuencias entre dos personas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El encadenamiento descompone la respuesta larga en pasos y refuerza cada uno. A diferencia del moldeado, los pasos intermedios sí forman parte de la conducta final."
+    },
+    {
+      "question": "¿Cuál es la diferencia clave entre moldeado y encadenamiento?",
+      "options": [
+        "El moldeado usa castigo y el encadenamiento usa refuerzo",
+        "En el encadenamiento los pasos intermedios están presentes en la conducta final; en el moldeado son un apoyo",
+        "El moldeado se usa con respuestas largas y el encadenamiento con respuestas breves",
+        "En el moldeado los pasos intermedios forman parte de la conducta final; en el encadenamiento no"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el encadenamiento los pasos son componentes de la respuesta final (p. ej., resolver un problema de matemáticas paso a paso); en el moldeado son aproximaciones temporales. Además el encadenamiento es útil para respuestas muy largas."
+    },
+    {
+      "question": "Leer el enunciado, identificar los datos, plantear operaciones, realizarlas y comprobar el resultado es un ejemplo de:",
+      "options": [
+        "moldeado",
+        "coste de respuesta",
+        "encadenamiento",
+        "sobrecorrección"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se trata de pasos sucesivos que forman parte de la conducta final de resolver el problema, lo que define el encadenamiento."
+    },
+    {
+      "question": "La economía de fichas se describe en la unidad como una técnica que combina:",
+      "options": [
+        "extinción con tiempo fuera",
+        "moldeado con encadenamiento",
+        "saciedad con sobrecorrección",
+        "reforzamiento positivo con coste de respuesta"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En la economía de fichas se ganan fichas por conductas adecuadas (refuerzo positivo) y se pueden perder por conductas inadecuadas (coste de respuesta); luego se canjean por reforzadores pactados."
+    },
+    {
+      "question": "En una economía de fichas, las fichas acumuladas se:",
+      "options": [
+        "convierten en castigo si se superan cierto número",
+        "canjean por reforzadores previamente pactados",
+        "eliminan al final de cada semana sin canje",
+        "reparten por igual entre todo el grupo-clase"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Al alcanzar un número de fichas se pueden canjear por reforzadores acordados de antemano; las fichas también pueden perderse ante conductas inadecuadas."
+    },
+    {
+      "question": "Un acuerdo escrito entre personas que especifica conductas consensuadas y las consecuencias de realizarlas o no se denomina:",
+      "options": [
+        "contrato conductual o de contingencias",
+        "economía de fichas",
+        "reforzamiento de otras conductas",
+        "tiempo fuera de reforzamiento"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El contrato conductual o de contingencias es un acuerdo escrito con conductas consensuadas y consecuencias; también combina diferentes procedimientos."
+    },
+    {
+      "question": "Ignorar al alumno que hace comentarios graciosos para que la clase se ría es un ejemplo de:",
+      "options": [
+        "tiempo fuera de reforzamiento",
+        "extinción",
+        "coste de respuesta",
+        "saciedad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La extinción consiste en identificar el elemento que refuerza la conducta (la atención y risa de los compañeros) y dejar de aplicarlo para que la conducta desaparezca."
+    },
+    {
+      "question": "Expulsar al pasillo a un alumno que molesta, para que deje de obtener la atención del grupo, corresponde a:",
+      "options": [
+        "sobrecorrección",
+        "extinción",
+        "reforzamiento de conductas incompatibles",
+        "tiempo fuera de reforzamiento"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El tiempo fuera consiste en sacar a la persona de una situación en la que obtiene reforzamiento contingente a la conducta que se desea reducir."
+    },
+    {
+      "question": "Recompensar a un alumno porque ha dejado de molestar ese día en clase es un ejemplo de:",
+      "options": [
+        "reforzamiento de otras conductas",
+        "reforzamiento de conductas incompatibles",
+        "economía de fichas",
+        "coste de respuesta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el reforzamiento de otras conductas se refuerza que durante un tiempo no se haya emitido la respuesta no deseada, pero no asegura que no aparezcan otras conductas indeseables."
+    },
+    {
+      "question": "Felicitar a un alumno burlón cuando muestra un trato agradable hacia el compañero al que molestaba ilustra:",
+      "options": [
+        "reforzamiento de otras conductas",
+        "extinción",
+        "reforzamiento de conductas incompatibles",
+        "sobrecorrección"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se refuerza una conducta concreta e incompatible con la que se quiere eliminar (burlarse y tratar bien no pueden darse a la vez). Es más específico que reforzar otras conductas."
+    },
+    {
+      "question": "¿Qué diferencia al reforzamiento de conductas incompatibles del reforzamiento de otras conductas?",
+      "options": [
+        "El primero retira reforzadores y el segundo los presenta",
+        "El primero exige una conducta determinada incompatible con la indeseada; el segundo basta con no emitirla",
+        "El primero se usa para establecer conductas y el segundo para castigarlas",
+        "El segundo exige una conducta determinada incompatible; el primero basta con no emitir la indeseada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En las conductas incompatibles el sujeto debe emitir una conducta específica incompatible con la que se quiere eliminar; en el reforzamiento de otras conductas basta con no emitir la respuesta objetivo durante un tiempo."
+    },
+    {
+      "question": "Obligar a un alumno que ha tirado un papel al suelo a recoger todos los del aula es un ejemplo de:",
+      "options": [
+        "coste de respuesta",
+        "saciedad",
+        "tiempo fuera de reforzamiento",
+        "sobrecorrección"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En la sobrecorrección la persona ha de realizar una conducta que remedie en exceso las consecuencias negativas de la conducta inadecuada."
+    },
+    {
+      "question": "Un alumno incumple una regla, se anota su conducta y según el número de anotaciones pierde tiempo de recreo. Se aplica:",
+      "options": [
+        "coste de respuesta",
+        "sobrecorrección",
+        "extinción",
+        "reforzamiento de otras conductas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El coste de respuesta retira un estímulo positivo (tiempo de recreo) cada vez que se emite la conducta que se desea eliminar; es un castigo negativo."
+    },
+    {
+      "question": "El coste de respuesta es un tipo de:",
+      "options": [
+        "reforzamiento negativo",
+        "castigo positivo",
+        "castigo negativo",
+        "reforzamiento positivo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La unidad lo define como castigo negativo: se retira un estímulo positivo ante la conducta no deseada y ese es el coste de emitirla."
+    },
+    {
+      "question": "La técnica de saciedad consiste en:",
+      "options": [
+        "ignorar el reforzador que mantiene la conducta indeseada",
+        "retirar un privilegio cada vez que aparece la conducta",
+        "reforzar la ausencia de conducta durante un tiempo concreto",
+        "dar masivamente el reforzador positivo para convertirlo en aversivo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La saciedad proporciona de manera masiva el reforzador que mantiene la conducta no deseada hasta que se vuelve aversivo. Se desaconseja usarla fuera de ambientes clínicos."
+    },
+    {
+      "question": "¿En qué contextos desaconseja la unidad el uso de la saciedad?",
+      "options": [
+        "En el aula y fuera de ambientes clínicos",
+        "En ambientes clínicos con adultos",
+        "En actividades individuales con alumnado adolescente",
+        "En situaciones de aprendizaje de conductas nuevas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La unidad indica que es desaconsejable usarla fuera de ambientes clínicos, por lo que no es apropiada para el contexto educativo ordinario."
+    },
+    {
+      "question": "La unidad concluye que las intervenciones educativas eficaces, además de usar técnicas de modificación de conducta, deberían ir encaminadas a:",
+      "options": [
+        "aumentar la motivación de los alumnos",
+        "incrementar la frecuencia de castigos",
+        "reducir la participación del alumnado",
+        "sustituir el uso de modelos por refuerzos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Aunque las técnicas tienen grandes efectos, las intervenciones eficaces deberían aumentar la motivación del alumnado, no solo controlar su conducta."
+    },
+    {
+      "question": "Entre las técnicas para establecer conductas deseables NO se encuentra:",
+      "options": [
+        "moldeado",
+        "economía de fichas",
+        "sobrecorrección",
+        "contratos conductuales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La sobrecorrección pertenece al grupo de técnicas para eliminar conductas indeseables. Moldeado, encadenamiento, economía de fichas y contratos sirven para establecer conductas deseables."
+    },
+    {
+      "question": "Entre las técnicas para eliminar conductas indeseables NO se encuentra:",
+      "options": [
+        "tiempo fuera de reforzamiento",
+        "encadenamiento",
+        "coste de respuesta",
+        "extinción"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El encadenamiento sirve para establecer conductas deseables descomponiéndolas en pasos. Las otras tres se orientan a reducir conductas indeseables."
+    },
+    {
+      "question": "Según la unidad, ¿por qué sufrió un declive el conductismo y dio paso al cognitivismo?",
+      "options": [
+        "Porque el método experimental resultó inviable en psicología",
+        "Porque encontró limitaciones para explicar conductas más complejas",
+        "Porque se demostró que los estímulos no producen respuestas",
+        "Porque los refuerzos dejaron de modificar la conducta humana"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El conductismo encontró limitaciones para explicar conductas complejas. El cognitivismo se centra en los procesos cognitivos con los que el sujeto entiende el mundo."
+    },
+    {
+      "question": "Algunos teóricos conductistas adoptaron una perspectiva más social y pusieron de manifiesto que:",
+      "options": [
+        "las conductas sociales no tienen efecto sobre el aprendizaje",
+        "muchas conductas sociales podían actuar como reforzadores",
+        "las expectativas carecen de importancia en el cambio de conducta",
+        "el aprendizaje solo ocurre por ensayo y error directo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Estos autores destacaron la riqueza del mundo relacional y de procesos mentales como las expectativas, y mostraron que muchas conductas sociales actúan como reforzadores."
+    },
+    {
+      "question": "El experimento del «muñeco Bobo» fue realizado por:",
+      "options": [
+        "Skinner",
+        "Thorndike",
+        "Hayes",
+        "Bandura"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Bandura, Ross y Ross (1961) realizaron el experimento del muñeco Bobo, que dio un golpe de efecto al decadente conductismo."
+    },
+    {
+      "question": "En el experimento de Bandura, cuando el adulto salía de la sala, ¿qué niños reprodujeron conductas agresivas con el muñeco?",
+      "options": [
+        "Los niños que habían visto al adulto ignorar el muñeco",
+        "Los niños con mayor edad, hubieran visto o no al adulto",
+        "Los niños que habían sido expuestos a la situación violenta",
+        "Los niños que habían sido reforzados por golpear"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Solo los niños expuestos a la conducta agresiva del adulto la imitaron, lo que mostró que se pueden aprender conductas sin ensayo y error directo ni refuerzo propio."
+    },
+    {
+      "question": "¿Qué aspecto del muñeco Bobo lo hace especialmente adecuado para el experimento?",
+      "options": [
+        "Es de metal y no se deforma al golpearlo",
+        "Emite sonidos al ser golpeado",
+        "Vuelve a su posición erguida gracias a sus contrapesos",
+        "Se rompe fácilmente tras varios golpes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El muñeco es hinchable, de aproximadamente metro y medio, con base redondeada y pesos que lo hacen volver a la posición erguida, por lo que es muy difícil tumbarlo."
+    },
+    {
+      "question": "El primer gran descubrimiento del experimento de Bandura fue que se pueden aprender determinadas conductas:",
+      "options": [
+        "sin necesidad de involucrarse directamente en una sucesión de ensayos y errores",
+        "mediante condicionamiento operante con refuerzo directo y repetido",
+        "mediante la asociación entre un estímulo neutro y uno incondicionado",
+        "por la mera exposición repetida a un estímulo irrelevante"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El aprendizaje por observación mostró que no es necesario que el individuo pase por ensayo y error directo: basta con observar la conducta de otros."
+    },
+    {
+      "question": "El aprendizaje a través de la conducta de otros y de las consecuencias de esa conducta recibe el nombre de:",
+      "options": [
+        "aprendizaje asociativo",
+        "aprendizaje relacional",
+        "aprendizaje vicario",
+        "aprendizaje por moldeado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bandura (1969) lo denominó aprendizaje vicario, especialmente relacionado con nuestra capacidad para imitar conductas."
+    },
+    {
+      "question": "Un modelo, según la unidad, es:",
+      "options": [
+        "un objeto que provoca una respuesta refleja",
+        "un estímulo neutro asociado a un reforzador",
+        "una norma explícita que regula la conducta",
+        "cualquier persona que exhibe una conducta que otros tienden a reproducir"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los modelos son personas que exhiben una conducta determinada que otros tienden a reproducir, por motivos como la autoridad o la afinidad (Ormrod, 2005)."
+    },
+    {
+      "question": "Para que el observador reproduzca la conducta, en primer lugar debe:",
+      "options": [
+        "recibir un refuerzo directo por observar",
+        "atender a la conducta objetivo",
+        "reproducirla de manera motriz",
+        "autoevaluar sus acciones previas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El orden descrito es atender a la conducta objetivo, recordarla y reproducirla de manera motriz; después la imitación se media por las consecuencias que obtiene el modelo."
+    },
+    {
+      "question": "El grado de imitación del aprendiz está mediado principalmente por:",
+      "options": [
+        "las consecuencias que se derivan de la actuación del modelo",
+        "la edad cronológica del modelo",
+        "la complejidad motriz de la conducta observada",
+        "el número de modelos presentes en la sala"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Una vez que se atiende, se recuerda y se reproduce, el grado de imitación depende de las consecuencias que obtiene el modelo (refuerzo o castigo vicario)."
+    },
+    {
+      "question": "El modelado se define como la exposición activa de la conducta de un modelo ante otro sujeto con el fin de:",
+      "options": [
+        "provocar una respuesta refleja incondicionada",
+        "incentivar el aprendizaje de este",
+        "extinguir una asociación estímulo-respuesta",
+        "habituarlo a un estímulo repetido"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hay modelado cuando la conducta de un modelo se expone activamente ante otro sujeto para incentivar su aprendizaje."
+    },
+    {
+      "question": "En el contexto educativo, los modelos para el adolescente son:",
+      "options": [
+        "el docente y los directivos del centro",
+        "el docente y la red de iguales",
+        "los familiares y los vecinos del barrio",
+        "los personajes de ficción y de series"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La unidad indica que tanto el docente como la red de iguales serán modelos para el adolescente."
+    },
+    {
+      "question": "El modelado ha mostrado ser efectivo aplicado en diferentes modalidades. ¿Cuál de las siguientes se menciona?",
+      "options": [
+        "Con castigo directo del observador",
+        "En directo o simbólico-filmado",
+        "Con participación obligatoria del observador",
+        "Mediante extinción del modelo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las modalidades incluyen individual o grupal, participante-guiado, en directo o simbólico-filmado, y con papel activo o pasivo del observador."
+    },
+    {
+      "question": "Los tres procesos cognitivos implicados en el modelado según Díaz y Pérez (2022) son:",
+      "options": [
+        "percepción, razonamiento y lenguaje",
+        "atención, memoria y motivación",
+        "contigüidad, contingencia y refuerzo",
+        "habituación, discriminación y generalización"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Atención a las características importantes, memoria para almacenar las conductas y motivación para que se repita la conducta."
+    },
+    {
+      "question": "El proceso de memoria en el modelado es necesario para que:",
+      "options": [
+        "el observador mantenga la motivación sin incentivos",
+        "el observador reproduzca la conducta cuando el modelo no esté presente",
+        "el modelo reciba un refuerzo vicario",
+        "el observador atienda a las características relevantes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se deben almacenar las conductas para que, cuando el modelo no esté presente, el observador las pueda reproducir."
+    },
+    {
+      "question": "Los incentivos externos vicarios son aquellos que:",
+      "options": [
+        "recibe quien realiza la conducta",
+        "se origina en los sentimientos internos del sujeto",
+        "recibe la persona observada",
+        "se obtienen por autoevaluación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los incentivos directos los recibe quien realiza la conducta; los vicarios los recibe la persona observada y el observador aprende de sus consecuencias."
+    },
+    {
+      "question": "El autorrefuerzo, según Díaz y Pérez (2022), ayuda a las personas a:",
+      "options": [
+        "reproducir conductas inmediatamente tras observarlas",
+        "dirigir sus propias conductas en ausencia de recompensa inmediata",
+        "eliminar conductas mediante el castigo propio",
+        "discriminar entre modelos expertos y no expertos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El autorrefuerzo ayuda a dirigir las propias conductas sin recompensa inmediata; junto con la autoevaluación, dirige la conducta del alumnado."
+    },
+    {
+      "question": "Según Cruzado (2016), las tres características que hacen eficaz a un modelo son:",
+      "options": [
+        "edad, sexo y nivel socioeconómico",
+        "competencia, prestigio y parecido con el observador",
+        "autoridad, castigo y refuerzo",
+        "atención, memoria y motivación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Competencia o experticia, prestigio o reconocimiento y parecido con el observador. Atención, memoria y motivación son procesos del observador."
+    },
+    {
+      "question": "Un alumno observa que una compañera resuelve de forma sencilla un problema complejo y decide seguir sus pasos. ¿Qué característica del modelo ilustra?",
+      "options": [
+        "Prestigio o reconocimiento",
+        "Parecido con el observador",
+        "Competencia o experticia",
+        "Autoridad institucional"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cuanto mayor dominio y seguridad muestra una persona en una tarea, mayor es su capacidad de influir en quienes aprenden esa habilidad."
+    },
+    {
+      "question": "Una estudiante popular propone actividades en el recreo y el resto las sigue. Esto ilustra el modelo con:",
+      "options": [
+        "competencia o experticia",
+        "parecido con el observador",
+        "autoridad académica",
+        "prestigio o reconocimiento"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Cuanto mayor es el valor social de una persona para un grupo, más proclives son sus miembros a imitarla."
+    },
+    {
+      "question": "Según la unidad, la influencia de los pares y de las amistades íntimas entre individuos del mismo sexo en la primera adolescencia se explica por:",
+      "options": [
+        "el parecido con el observador",
+        "la competencia técnica del modelo",
+        "el prestigio institucional",
+        "el reforzamiento continuo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cuanto más parecido es el modelo al aprendiz en edad, sexo o actitudes, más probable es la imitación, lo que explica la influencia de los iguales."
+    },
+    {
+      "question": "Un grupo de alumnas ve una iniciativa de voluntariado ambiental de otro colegio y la propone en su centro. ¿Qué característica del modelo se ilustra?",
+      "options": [
+        "Parecido con el observador",
+        "Competencia o experticia",
+        "Prestigio o reconocimiento",
+        "Refuerzo vicario negativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se trata del ejemplo de parecido con el observador: otro colegio y alumnas similares hacen una iniciativa que se imita."
+    },
+    {
+      "question": "Para presentarse como modelo ante una situación problemática, el docente puede mostrarse como:",
+      "options": [
+        "una autoridad inaccesible que dicta la solución",
+        "un alumno más, pero con la experiencia de un experto",
+        "un observador neutro que no interviene",
+        "un igual sin experiencia que explora a ciegas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La unidad propone que el docente se presente como un alumno más con experiencia de experto, mostrando el camino de resolución y haciendo explícito cada paso si es necesario."
+    },
+    {
+      "question": "El aprendizaje por observación y el aprendizaje relacional derivado se presentan en el resumen como teorías con raíces en:",
+      "options": [
+        "el aprendizaje no asociativo",
+        "el aprendizaje asociativo",
+        "el psicoanálisis",
+        "el constructivismo piagetiano"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El resumen indica que ambas teorías tienen sus raíces en el aprendizaje asociativo, a diferencia de habituación y sensibilización, que son no asociativas."
+    },
+    {
+      "question": "Según el texto, ¿qué ocurre con la conducta en el aula basada en castigo cuando el docente no está presente?",
+      "options": [
+        "La conducta castigada puede reaparecer",
+        "La conducta se generaliza a otros contextos de forma estable",
+        "La conducta se extingue definitivamente",
+        "La conducta se transforma en reforzador intrínseco"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Navarro et al. (2010) señalan que el castigo puede suprimir la conducta únicamente mientras el agente castigador está presente; en su ausencia la conducta puede aparecer con el tiempo, además de generar ansiedad y tensión."
+    },
+    {
+      "question": "El condicionamiento clásico en el aula puede utilizarse para generar emociones positivas asociando un estímulo neutro con:",
+      "options": [
+        "un estímulo condicionado negativo",
+        "un estímulo incondicionado agradable",
+        "una respuesta condicionada previa",
+        "un castigo de baja intensidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Al emparejar repetidamente un estímulo neutro (recurso, actividad, actitud docente) con un EI que provoca agrado, el estímulo se convierte en EC y genera emociones positivas."
+    },
+    {
+      "question": "¿Cuál de estas afirmaciones sobre el refuerzo negativo y el castigo es correcta?",
+      "options": [
+        "Ambos disminuyen la frecuencia de la conducta",
+        "El refuerzo negativo aumenta la conducta y el castigo la debilita",
+        "Ambos aumentan la frecuencia de la conducta",
+        "El refuerzo negativo debilita la conducta y el castigo la fortalece"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El reforzamiento negativo implica fortalecer o incrementar una conducta (retirando un aversivo), mientras que el castigo implica eliminarla o debilitarla."
+    },
+    {
+      "question": "Reforzar cada cinco ejercicios bien resueltos y conceder un privilegio al acumular diez puntos combina, en la unidad, un programa de:",
+      "options": [
+        "razón fija con un sistema de puntos canjeables",
+        "intervalo variable con sobrecorrección",
+        "refuerzo continuo con extinción",
+        "razón variable con coste de respuesta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El ejemplo de razón fija de la unidad entrega un punto cada 5 ejercicios y, al llegar a 10 puntos, concede un privilegio."
+    },
+    {
+      "question": "Los programas de intervalo variable fomentan, según la unidad:",
+      "options": [
+        "la creación de rutinas",
+        "el aprendizaje de conductas nuevas",
+        "la autonomía y el cumplimiento constante de tareas",
+        "el esfuerzo constante por número de respuestas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los de intervalo variable fomentan la autonomía y el cumplimiento constante; los de razón fija estimulan el esfuerzo constante y los de intervalo fijo crean rutinas."
+    },
+    {
+      "question": "El aprendizaje relacional derivado explica un aprendizaje basado en:",
+      "options": [
+        "las relaciones que atribuimos a los elementos y no en la experiencia directa",
+        "la exposición repetida a un estímulo del entorno",
+        "las consecuencias directas que siguen a la conducta",
+        "la observación de la conducta de un modelo de referencia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según Hayes et al. (2001), el aprendizaje se construye a través de las relaciones que atribuimos a elementos ya conocidos, transfiriendo atributos a los no conocidos."
+    },
+    {
+      "question": "Otro nombre que recibe el aprendizaje relacional derivado en la unidad es:",
+      "options": [
+        "aprendizaje vicario",
+        "aprendizaje relacional arbitrario",
+        "aprendizaje no asociativo",
+        "aprendizaje instrumental"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La unidad cita la teoría como aprendizaje relacional derivado o aprendizaje relacional arbitrario (Hayes et al., 2001)."
+    },
+    {
+      "question": "En el ejemplo del amigo al que no le gusta el melocotón, ¿por qué elige el coco frente a la nectarina?",
+      "options": [
+        "Porque ha probado el coco anteriormente",
+        "Porque ha definido la nectarina en relación con el melocotón que no le gusta",
+        "Porque el coco es un reforzador primario",
+        "Porque ha imitado la elección de otra persona"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ha transferido el atributo desagradable del melocotón a la nectarina por una relación de similitud, sin experiencia directa con la nectarina."
+    },
+    {
+      "question": "Las relaciones entrenadas son aquellas que:",
+      "options": [
+        "se deducen sin haber sido aprendidas directamente",
+        "establecemos con los objetos de forma directa",
+        "se derivan automáticamente de marcos relacionales",
+        "se originan por la exposición reiterada a un estímulo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las entrenadas se establecen de forma directa; las derivadas se originan a partir de ellas y se deducen sin enseñanza directa."
+    },
+    {
+      "question": "Damián aprende que dos montoncitos se corresponden con el símbolo «2» y que el símbolo «2» se corresponde con la palabra «dos». ¿Cuál es una relación derivada?",
+      "options": [
+        "Dos montoncitos se corresponden con el símbolo «2»",
+        "El símbolo «2» se corresponde con la palabra «dos»",
+        "La palabra «dos» se corresponde con los dos montones",
+        "Ninguna de las anteriores es una relación derivada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las dos primeras son entrenadas. La relación entre la palabra «dos» y los dos montones se deriva sin enseñanza directa, igual que las relaciones inversas."
+    },
+    {
+      "question": "En el caso de Damián, ¿cuántas relaciones entrenadas se mencionan?",
+      "options": [
+        "Dos",
+        "Cuatro",
+        "Una",
+        "Tres"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Solo se entrenan dos: montoncitos-símbolo «2» y símbolo «2»-palabra «dos». El resto son derivadas."
+    },
+    {
+      "question": "Los marcos relacionales sirven como:",
+      "options": [
+        "reforzadores secundarios para conductas complejas",
+        "estímulos incondicionados para respuestas reflejas",
+        "referencia para definir y categorizar un elemento nuevo por derivar",
+        "programas de refuerzo para mantener conductas aprendidas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los marcos relacionales permiten derivar relaciones; según se desarrollan, los aprendizajes relacionales se producen de forma más automática, sin procesar demasiado."
+    },
+    {
+      "question": "El marco relacional según el cual el elemento nuevo es «más ___ que / menos ___ que» el conocido es el marco de:",
+      "options": [
+        "oposición",
+        "jerarquía",
+        "comparación",
+        "diferenciación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El marco de comparación establece que el elemento nuevo es más o menos algo que el conocido."
+    },
+    {
+      "question": "El marco en el que el elemento nuevo es diferente del que ya conocemos se denomina:",
+      "options": [
+        "marco de diferenciación",
+        "marco de oposición",
+        "marco de comparación",
+        "marco de coordinación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En diferenciación el elemento es distinto del conocido; en oposición es totalmente opuesto, lo que supone una relación más fuerte."
+    },
+    {
+      "question": "Si definimos un elemento nuevo como totalmente opuesto a uno ya conocido, utilizamos el marco de:",
+      "options": [
+        "diferenciación",
+        "oposición",
+        "causalidad",
+        "jerarquía"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El marco de oposición relaciona el elemento nuevo como totalmente opuesto al conocido; la diferenciación solo indica que es distinto."
+    },
+    {
+      "question": "Decir que un elemento nuevo es una subcategoría de otro conocido corresponde al marco de:",
+      "options": [
+        "coordinación",
+        "comparación",
+        "jerarquía",
+        "espacial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El marco de jerarquía sitúa el elemento nuevo como subcategoría del conocido, como ocurre con las categorías semánticas."
+    },
+    {
+      "question": "Afirmar que un elemento nuevo es igual, idéntico o parecido a uno conocido pertenece al marco de:",
+      "options": [
+        "diferenciación",
+        "causalidad",
+        "temporal",
+        "coordinación"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El marco de coordinación establece igualdad, identidad o parecido con el elemento conocido. Es el que usa el amigo del melocotón con la nectarina."
+    },
+    {
+      "question": "El marco que ubica el elemento nuevo en un momento anterior o posterior al conocido es el:",
+      "options": [
+        "marco espacial",
+        "marco de causalidad",
+        "marco temporal",
+        "marco de jerarquía"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El marco temporal ubica el elemento nuevo en el tiempo (antes o después). El espacial lo hace en el espacio (delante, detrás, cerca)."
+    },
+    {
+      "question": "El marco relacional que ubica el elemento nuevo delante, detrás o cerca de uno conocido es el:",
+      "options": [
+        "marco temporal",
+        "marco espacial",
+        "marco de comparación",
+        "marco de oposición"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El marco espacial relaciona los elementos por su ubicación (delante, detrás, cerca…)."
+    },
+    {
+      "question": "El marco en el que, si pasa algo con A, entonces cambia B, es el marco de:",
+      "options": [
+        "causalidad",
+        "coordinación",
+        "diferenciación",
+        "temporalidad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El marco de causalidad obtiene el elemento nuevo mediante una relación causa-efecto."
+    },
+    {
+      "question": "Un docente explica que un mamífero nuevo es un tipo de animal vertebrado que ya conocen los alumnos. ¿Qué marco relacional emplea?",
+      "options": [
+        "Marco de oposición",
+        "Marco de jerarquía",
+        "Marco espacial",
+        "Marco de causalidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Presentar el elemento como subcategoría de otro ya conocido activa el marco de jerarquía, útil en ciencias para reconocer conceptos."
+    },
+    {
+      "question": "¿En qué ámbitos educativos sugiere la unidad aplicar el aprendizaje relacional derivado?",
+      "options": [
+        "Ciencias, lengua, matemáticas y aprendizaje de idiomas",
+        "Educación física, música y plástica",
+        "Orientación vocacional y tutoría individual",
+        "Evaluación del clima social y convivencia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se menciona su aplicación en ciencias (reconocimiento de conceptos), lengua y matemáticas (categorías semánticas y numéricas) e idiomas (vocabulario)."
+    },
+    {
+      "question": "Aprender nuevo vocabulario en un idioma relacionándolo con palabras conocidas se vincula con:",
+      "options": [
+        "habituación y sensibilización",
+        "castigo y reforzamiento",
+        "aprendizaje relacional derivado",
+        "economía de fichas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El aprendizaje relacional derivado permite transferir atributos de elementos conocidos a los nuevos y se aplica al aprendizaje de vocabulario."
+    },
+    {
+      "question": "El aprendizaje no asociativo se produce como consecuencia de:",
+      "options": [
+        "la asociación entre dos estímulos o entre respuesta y consecuencia",
+        "la exposición reiterada del organismo a un estímulo de su entorno",
+        "la imitación de un modelo con prestigio",
+        "la derivación de relaciones entre elementos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el aprendizaje no asociativo no hay asociación de estímulos; el cambio conductual se basa en la repetición del mismo estímulo."
+    },
+    {
+      "question": "Los dos mecanismos clave del aprendizaje no asociativo actúan de manera:",
+      "options": [
+        "idéntica pero independiente",
+        "inversa pero complementaria",
+        "simultánea y contradictoria",
+        "secuencial y excluyente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Habituación y sensibilización actúan de forma inversa pero complementaria: la primera ahorra energía ante lo irrelevante y la segunda prepara ante el peligro."
+    },
+    {
+      "question": "La habituación nos ayuda a adaptarnos al ambiente porque:",
+      "options": [
+        "nos prepara para actuar ante el peligro",
+        "nos permite ahorrar energía frente a estímulos irrelevantes",
+        "aumenta la respuesta ante estímulos intensos",
+        "refuerza las asociaciones entre estímulos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La habituación ahorra energía ante estímulos irrelevantes; la sensibilización prepara al organismo para actuar en caso de peligro."
+    },
+    {
+      "question": "La habituación se define como:",
+      "options": [
+        "un aumento de la respuesta tras un estímulo intenso",
+        "una reducción de la tasa de una respuesta por exposición reiterada a un estímulo",
+        "la desaparición de una respuesta por ausencia de refuerzo",
+        "la insensibilidad temporal del órgano sensorial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La habituación reduce la tasa de una respuesta concreta por exposición reiterada. La última opción describe adaptación sensorial y la tercera, extinción."
+    },
+    {
+      "question": "Una persona que vive junto a una calle muy transitada deja de percibir el ruido, pero un visitante sí lo nota. Esto ilustra:",
+      "options": [
+        "sensibilización",
+        "habituación",
+        "extinción",
+        "fatiga muscular"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Es un ejemplo clásico de habituación: la exposición continuada al ruido reduce la respuesta ante él."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre habituación y extinción según la unidad?",
+      "options": [
+        "La habituación es aprendizaje asociativo y la extinción no asociativo",
+        "En la habituación se deja de reaccionar a un estímulo repetido; en la extinción la conducta cesa porque falta el refuerzo",
+        "Ambas ocurren por falta de refuerzo, pero difieren en su duración",
+        "En la extinción se deja de reaccionar a un estímulo repetido; en la habituación falta el refuerzo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La habituación es aprendizaje no asociativo; la extinción es asociativo, pues la conducta aprendida deja de emitirse al no existir el refuerzo que la mantenía. Ambos reducen la respuesta."
+    },
+    {
+      "question": "Al entrar en una habitación oscura no vemos nada al principio y luego sí. Este fenómeno, que no debe confundirse con habituación, es:",
+      "options": [
+        "fatiga muscular",
+        "deshabituación",
+        "recuperación espontánea",
+        "adaptación sensorial"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En la adaptación sensorial el órgano sensorial se vuelve temporalmente insensible, lo cual no es aprendizaje."
+    },
+    {
+      "question": "Cuando una respuesta no se produce por cansancio de los músculos y hace falta un periodo de descanso, se trata de:",
+      "options": [
+        "fatiga muscular",
+        "adaptación sensorial",
+        "habituación",
+        "extinción"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La fatiga muscular impide la respuesta por cansancio y requiere descanso; es un efecto que no debe confundirse con la habituación."
+    },
+    {
+      "question": "La propiedad de la habituación por la que la respuesta se reduce con el estímulo habituado y reaparece si este cambia sensiblemente es la:",
+      "options": [
+        "recuperación espontánea",
+        "retención",
+        "especificidad estimular",
+        "deshabituación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En la especificidad estimular, si el estímulo se modifica sensiblemente la respuesta vuelve a aparecer, con más o menos intensidad según lo notables que sean los cambios."
+    },
+    {
+      "question": "En la habituación, el efecto se extiende más a otros estímulos cuanto más parecidos sean al inicial. Esta propiedad es la:",
+      "options": [
+        "generalización",
+        "especificidad estimular",
+        "retención",
+        "deshabituación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La generalización de la habituación extiende el efecto a estímulos similares, y es mayor cuanto mayor es la semejanza."
+    },
+    {
+      "question": "El hecho de que, con el simple paso del tiempo, el organismo vuelva a responder a un estímulo habituado se denomina:",
+      "options": [
+        "recuperación espontánea",
+        "deshabituación",
+        "sensibilización",
+        "generalización"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la recuperación espontánea el simple paso del tiempo basta en muchos casos para que reaparezca la respuesta anterior a la habituación."
+    },
+    {
+      "question": "Si se presenta aisladamente un estímulo nuevo y después el estímulo habituado, y la respuesta reaparece, se produce:",
+      "options": [
+        "recuperación espontánea",
+        "especificidad estimular",
+        "generalización",
+        "deshabituación"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La deshabituación ocurre al exponer al organismo a un estímulo nuevo de manera aislada y luego presentar el habituado; la respuesta reaparece. La recuperación espontánea depende del paso del tiempo."
+    },
+    {
+      "question": "La retención de la habituación depende de:",
+      "options": [
+        "el número de modelos y el prestigio del estímulo",
+        "la intensidad del estímulo y la experiencia previa del organismo con él",
+        "el programa de refuerzo y la contingencia",
+        "la competencia del docente y la edad del alumno"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A más intensidad del estímulo, más retención; y a más experiencias previas de habituación, la retención se da más fácilmente."
+    },
+    {
+      "question": "La sensibilización es el mecanismo:",
+      "options": [
+        "paralelo a la habituación y con el mismo resultado",
+        "contrario y complementario a la habituación",
+        "idéntico a la extinción en el condicionamiento clásico",
+        "propio del aprendizaje asociativo por contigüidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La sensibilización aumenta la respuesta cuando el estímulo repetido es intenso o molesto; es el mecanismo opuesto y complementario a la habituación."
+    },
+    {
+      "question": "Un roce en el brazo que nos duele más porque nos han sacado sangre ese día es un ejemplo de:",
+      "options": [
+        "habituación",
+        "sensibilización",
+        "adaptación sensorial",
+        "discriminación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hay sobrerreacción a estímulos posteriores a un estímulo inicial intenso, lo que define la sensibilización."
+    },
+    {
+      "question": "Tras vivir un terremoto, cualquier pequeño temblor pone a la persona en alerta. Se trata de:",
+      "options": [
+        "extinción",
+        "habituación",
+        "generalización del condicionamiento operante",
+        "sensibilización"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Una sobrerreacción ante estímulos posteriores a un evento intenso es sensibilización."
+    },
+    {
+      "question": "El grado de sensibilización depende de:",
+      "options": [
+        "la intensidad del estímulo inicial y la frecuencia de las exposiciones",
+        "el prestigio del estímulo y la edad del sujeto",
+        "el programa de refuerzo y el tipo de castigo",
+        "la similitud entre estímulos y el tiempo transcurrido"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El aumento será mayor o menor según la intensidad del estímulo inicial y la frecuencia de exposiciones; las frecuencias altas acaban provocando el efecto opuesto."
+    },
+    {
+      "question": "Si la frecuencia de exposición a un estímulo intenso es muy alta, el efecto final tiende a ser:",
+      "options": [
+        "una mayor sensibilización",
+        "una discriminación estimular",
+        "una habituación",
+        "una indefensión aprendida"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las frecuencias altas acaban provocando el efecto opuesto a la sensibilización: la habituación."
+    },
+    {
+      "question": "¿Por qué algunas tiendas de ropa emplean música elevada, según el apartado «Sabías que»?",
+      "options": [
+        "Para facilitar la habituación de los clientes",
+        "Para facilitar la sensibilización y aumentar las respuestas reflejas",
+        "Para extinguir las respuestas de ansiedad",
+        "Para generar un condicionamiento de evitación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La música elevada facilita la sensibilización, intensifica las experiencias y aumenta las respuestas reflejas."
+    },
+    {
+      "question": "Si un docente repite constantemente a un alumno que no haga algo y este empieza a ignorarlo, ¿qué proceso se ha producido?",
+      "options": [
+        "Sensibilización",
+        "Moldeado",
+        "Habituación",
+        "Sobrecorrección"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La exposición reiterada a la indicación reduce la respuesta del alumno, lo que es habituación."
+    },
+    {
+      "question": "Un docente que siempre usa un tono elevado de voz verá que ese tono pierde eficacia para llamar la atención. Esto se debe a:",
+      "options": [
+        "sensibilización al tono",
+        "extinción operante",
+        "habituación al tono",
+        "reforzamiento negativo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El alumnado se habitúa al estímulo repetido (tono alto constante), por lo que deja de responder con atención."
+    },
+    {
+      "question": "Si la clase es siempre igual, aburrida y en el mismo lugar, la motivación y la atención del alumno disminuyen. Esto se explica sobre todo por:",
+      "options": [
+        "habituación al entorno de aprendizaje",
+        "sensibilización por estímulo aversivo",
+        "refuerzo intermitente de intervalo fijo",
+        "aprendizaje vicario del grupo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La repetición de los mismos estímulos conduce a habituación, reduciendo la motivación y la atención y afectando al aprendizaje."
+    },
+    {
+      "question": "La habituación y la extinción coinciden en que ambas:",
+      "options": [
+        "son aprendizajes asociativos",
+        "reducen la respuesta",
+        "requieren un estímulo incondicionado",
+        "aumentan la respuesta ante estímulos nuevos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ambos procesos reducen la respuesta, pero la habituación es no asociativa y la extinción es asociativa."
+    },
+    {
+      "question": "Respecto al tipo de aprendizaje, ¿cuál de las siguientes parejas es correcta?",
+      "options": [
+        "Habituación: asociativo; extinción: no asociativo",
+        "Habituación: no asociativo; extinción: asociativo",
+        "Habituación y extinción: no asociativos",
+        "Habituación y extinción: asociativos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La unidad aclara: habituación (aprendizaje no asociativo) frente a extinción (aprendizaje asociativo)."
+    },
+    {
+      "question": "Los dos mecanismos de la habituación y sensibilización por sí mismos son capaces de producir:",
+      "options": [
+        "un cambio de conducta más o menos estable en el individuo",
+        "una asociación entre estímulo neutro e incondicionado",
+        "una relación derivada entre elementos",
+        "una imitación diferida de la conducta de un modelo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pese a no ser asociativos, ambos mecanismos producen por sí mismos un cambio de conducta más o menos estable."
+    },
+    {
+      "question": "Según el texto introductorio, las teorías conductistas consideran el aprendizaje como un cambio estable debido a:",
+      "options": [
+        "la asociación entre un estímulo y una respuesta",
+        "la reestructuración de esquemas mentales internos",
+        "la interacción entre emociones y pensamientos",
+        "la construcción activa del conocimiento por el sujeto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El conductismo basa el aprendizaje en la conducta emitida y en la asociación estímulo-respuesta, sin considerar estados internos como emociones o pensamientos."
+    },
+    {
+      "question": "El cognitivismo social, desarrollado por Bandura, se configura como una perspectiva:",
+      "options": [
+        "más amplia, en la que intervienen factores externos al individuo",
+        "más reducida, centrada en reflejos incondicionados",
+        "que niega el papel de los procesos mentales",
+        "que sustituye el aprendizaje vicario por el ensayo y error"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Es una perspectiva más amplia en la que intervienen factores externos y que sugiere que muchas conductas sociales pueden actuar como reforzadores, determinando el aprendizaje vicario."
+    },
+    {
+      "question": "El objetivo de la unidad es fijar las bases teóricas del aprendizaje para estudiar después:",
+      "options": [
+        "las teorías en las que el alumnado tiene un papel más activo",
+        "las técnicas de evaluación del rendimiento académico",
+        "los trastornos del aprendizaje en adolescentes",
+        "las teorías de la personalidad de los docentes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La unidad introduce las teorías clásicas para poder explicar después las teorías activas del aprendizaje."
+    },
+    {
+      "question": "Las relaciones derivadas se generan sin enseñanza directa. ¿Qué característica adquieren los aprendizajes relacionales a medida que se desarrollan los marcos?",
+      "options": [
+        "Se vuelven más lentos y deliberados",
+        "Se producen de manera más automática, sin procesar demasiado",
+        "Dependen cada vez más del refuerzo externo",
+        "Se limitan a elementos percibidos de forma directa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según se desarrollan los marcos relacionales, los aprendizajes relacionales se producen de una manera más automática."
+    },
+    {
+      "question": "La relación entre «la palabra dos» y «el símbolo 2» y su inversa se deriva por simetría. ¿Cuál es la idea clave del ejemplo de Damián?",
+      "options": [
+        "Damián necesita enseñanza directa de cada relación inversa",
+        "Damián deriva relaciones nuevas entre elementos sin enseñanza directa",
+        "Damián imita a un modelo para aprender los números",
+        "Damián se habitúa a los montoncitos tras varias presentaciones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Damián deriva automáticamente relaciones en ambas direcciones y relaciona todos los elementos entre sí a partir de solo dos relaciones entrenadas."
+    },
+    {
+      "question": "¿Cuál de estas es una diferencia entre aprendizaje asociativo y no asociativo?",
+      "options": [
+        "El no asociativo exige refuerzo y el asociativo no",
+        "El asociativo se basa en asociar estímulos o respuestas con consecuencias; el no asociativo, en la exposición repetida a un estímulo",
+        "El asociativo ocurre en animales y el no asociativo en humanos adultos",
+        "El no asociativo requiere la presencia de un modelo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Condicionamiento clásico, operante, modelado y aprendizaje relacional se basan en asociación; habituación y sensibilización, en la mera exposición reiterada a un estímulo."
+    },
+    {
+      "question": "Según la unidad, la sensibilización se produce cuando el estímulo repetido es:",
+      "options": [
+        "irrelevante y de baja intensidad",
+        "intenso o molesto",
+        "idéntico a un estímulo condicionado",
+        "similar a un estímulo previamente reforzado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La sensibilización aumenta la respuesta cuando el estímulo repetido es intenso o molesto; con estímulos irrelevantes lo que aparece es habituación."
+    },
+    {
+      "question": "Una alumna siente rechazo hacia las matemáticas tras repetidas experiencias de humillación al resolver problemas en la pizarra. Desde el condicionamiento clásico, las matemáticas son ahora un:",
+      "options": [
+        "estímulo incondicionado",
+        "estímulo condicionado",
+        "estímulo neutro",
+        "refuerzo negativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La materia era un estímulo neutro que, al asociarse repetidamente con la humillación (EI), se convierte en EC que provoca rechazo (RC)."
+    },
+    {
+      "question": "Un alumno que había desarrollado miedo al profesor de educación física deja de sentirlo tras varios meses de trato amable sin consecuencias negativas. Este proceso es:",
+      "options": [
+        "generalización",
+        "discriminación",
+        "extinción",
+        "sensibilización"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El EC (profesor) se presenta repetidamente sin el EI (consecuencia negativa) y la RC se debilita hasta desaparecer: extinción."
+    },
+    {
+      "question": "Un alumno que teme a su profesora de lengua empieza a sentir el mismo miedo ante otras profesoras con aspecto similar. Esto es:",
+      "options": [
+        "discriminación",
+        "generalización",
+        "habituación",
+        "reforzamiento negativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La RC aparece ante estímulos parecidos al EC aunque no se hayan asociado con el EI: generalización."
+    },
+    {
+      "question": "Con el tiempo, el mismo alumno aprende que solo su profesora de lengua le trae consecuencias negativas y deja de temer a las demás. Ese aprendizaje es:",
+      "options": [
+        "extinción total",
+        "discriminación de estímulos",
+        "generalización",
+        "habituación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El sujeto aprende a diferenciar el EC del estímulo parecido y emite la respuesta únicamente ante el EC."
+    },
+    {
+      "question": "Un docente que quiere que su materia genere emociones positivas debería, según el condicionamiento clásico:",
+      "options": [
+        "asociar la materia con situaciones agradables de forma repetida",
+        "reforzar de forma intermitente las respuestas correctas",
+        "presentar la materia tras un periodo de aislamiento",
+        "emplear castigos leves ante los errores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Si la materia (EN) se asocia repetidamente con estímulos incondicionados agradables, se convierte en EC y genera satisfacción."
+    },
+    {
+      "question": "Publicar fotos en una red social y recibir likes que llevan a publicar más es un ejemplo de:",
+      "options": [
+        "condicionamiento clásico",
+        "habituación",
+        "aprendizaje vicario",
+        "condicionamiento operante"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La conducta opera sobre el ambiente (publicar) y la consecuencia (likes) aumenta su frecuencia, que es reforzamiento positivo en el condicionamiento operante."
+    },
+    {
+      "question": "Un alumno tiene tanta ansiedad ante los exámenes que deja de intentar estudiar, pese a haber tenido éxito alguna vez. Este patrón se relaciona con:",
+      "options": [
+        "reforzamiento de conductas incompatibles",
+        "indefensión aprendida",
+        "sobrecorrección",
+        "economía de fichas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ante estímulos aversivos sin posibilidad de control, la persona aprende que no puede influir en el resultado y deja de intentarlo aunque aparezca la oportunidad."
+    },
+    {
+      "question": "Un docente quita un punto de la nota de actitud cada vez que un alumno interrumpe. Esta técnica se llama:",
+      "options": [
+        "coste de respuesta",
+        "sobrecorrección",
+        "saciedad",
+        "tiempo fuera de reforzamiento"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se retira un estímulo positivo (puntos) cada vez que se emite la conducta no deseada, lo que constituye coste de respuesta o castigo negativo."
+    },
+    {
+      "question": "Un docente reparte tarjetas verdes por buen comportamiento y quita tarjetas por mal comportamiento; al final de la semana se canjean por privilegios. Se aplica:",
+      "options": [
+        "contrato conductual",
+        "economía de fichas",
+        "encadenamiento",
+        "reforzamiento de otras conductas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se pagan y cobran fichas según la conducta y se canjean por reforzadores pactados: economía de fichas."
+    },
+    {
+      "question": "Un alumno y su tutora firman un documento en el que él se compromete a entregar los deberes y ella a darle tiempo libre si cumple. Es un ejemplo de:",
+      "options": [
+        "tiempo fuera de reforzamiento",
+        "contrato conductual",
+        "moldeado",
+        "extinción"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Es un acuerdo escrito con conductas consensuadas y consecuencias de cumplirlas o no: contrato de contingencias."
+    },
+    {
+      "question": "Para enseñar a un alumno con dificultades a escribir una redacción, se refuerza primero escribir una frase, luego un párrafo y después un texto completo. Es:",
+      "options": [
+        "encadenamiento",
+        "moldeado",
+        "sobrecorrección",
+        "razón variable"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se refuerzan aproximaciones sucesivas a la conducta final compleja, que es el moldeado."
+    },
+    {
+      "question": "Para enseñar a un alumno el procedimiento completo de un experimento de laboratorio, se refuerza cada paso: preparar material, medir, registrar y limpiar. Es:",
+      "options": [
+        "moldeado",
+        "economía de fichas",
+        "encadenamiento",
+        "extinción"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La respuesta larga se descompone en pasos que también están presentes en la conducta final, lo que define el encadenamiento."
+    },
+    {
+      "question": "Un alumno hace bromas para llamar la atención y el docente decide no reaccionar a ellas. Para que la técnica sea eficaz es necesario:",
+      "options": [
+        "reforzar inmediatamente la broma siguiente",
+        "identificar el elemento que refuerza la conducta y retirarlo",
+        "aplicar un castigo positivo de forma ocasional",
+        "aumentar la intensidad del reforzador"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La extinción exige hallar el reforzador que mantiene la conducta (la atención) e ignorarlo o dejar de aplicarlo."
+    },
+    {
+      "question": "Un docente felicita a una alumna cada vez que colabora con un compañero con el que solía discutir. Esta técnica es:",
+      "options": [
+        "reforzamiento de otras conductas",
+        "reforzamiento de conductas incompatibles",
+        "saciedad",
+        "castigo positivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se refuerza una conducta específica, colaborar, que es incompatible con la que se quiere reducir, discutir."
+    },
+    {
+      "question": "Si un alumno solo recibe puntos por no molestar durante la jornada, pero comienza a hacer otras cosas inapropiadas, se evidencia la limitación de:",
+      "options": [
+        "reforzamiento de conductas incompatibles",
+        "sobrecorrección",
+        "reforzamiento de otras conductas",
+        "encadenamiento"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El reforzamiento de otras conductas no asegura que no aparezcan otras conductas no deseables, pues premia la ausencia de la conducta objetivo."
+    },
+    {
+      "question": "Expulsar a un alumno al pasillo cuando molesta funcionará como tiempo fuera de reforzamiento si:",
+      "options": [
+        "el alumno disfruta de la atención en el pasillo",
+        "el alumno obtenía reforzamiento por molestar en el aula",
+        "el docente grita al expulsarlo",
+        "el alumno cree que la sanción es injusta"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La técnica consiste en retirar al sujeto de una situación en la que obtiene reforzamiento contingente a la conducta que se pretende reducir."
+    },
+    {
+      "question": "Un alumno recibe una amonestación por llegar tarde, y a partir de entonces llega puntual para no recibirla de nuevo. ¿Qué proceso se describe respecto a la puntualidad?",
+      "options": [
+        "Reforzamiento negativo por evitación",
+        "Reforzamiento positivo",
+        "Castigo negativo",
+        "Extinción"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Llegar puntual impide un estímulo aversivo (amonestación) que aún no se ha dado, lo que es reforzamiento negativo por evitación."
+    },
+    {
+      "question": "Un docente retira la tarea extra a un alumno cuando este comienza a trabajar en silencio. Si el silencio aumenta, se trata de:",
+      "options": [
+        "castigo positivo",
+        "reforzamiento positivo",
+        "reforzamiento negativo",
+        "castigo negativo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se retira un estímulo aversivo (tarea extra) y la conducta (trabajar en silencio) aumenta: reforzamiento negativo."
+    },
+    {
+      "question": "Elogiar siempre de forma inmediata cada conducta nueva y, cuando ya está consolidada, hacerlo a veces tras un número impredecible de ocasiones supone pasar de:",
+      "options": [
+        "refuerzo continuo a razón variable",
+        "razón fija a intervalo fijo",
+        "intervalo variable a refuerzo continuo",
+        "razón variable a razón fija"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El continuo es útil para conductas nuevas; la razón variable mantiene la motivación alta y evita el aburrimiento una vez consolidada."
+    },
+    {
+      "question": "En el experimento de Bandura, la conducta agresiva de los niños se explica por:",
+      "options": [
+        "refuerzo directo previo al golpear el muñeco",
+        "aprendizaje vicario a través de la observación del adulto",
+        "habituación a los juguetes de la sala",
+        "extinción de la respuesta de inhibición"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los niños aprendieron observando al adulto y las consecuencias de su conducta, sin ensayo y error directo."
+    },
+    {
+      "question": "Un alumno ve que su compañero recibe un elogio por participar y empieza a participar más. Esto ilustra:",
+      "options": [
+        "un incentivo vicario",
+        "un reforzamiento negativo",
+        "una deshabituación",
+        "un castigo positivo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los incentivos vicarios son los que recibe la persona observada y motivan al observador a imitar la conducta."
+    },
+    {
+      "question": "Un adolescente que imita el estilo de comportamiento de un youtuber popular ilustra especialmente el efecto del modelo con:",
+      "options": [
+        "competencia o experticia",
+        "prestigio o reconocimiento",
+        "autoevaluación",
+        "razón variable"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La unidad señala que el efecto de un youtuber o cantante puede ser mayor que el de un progenitor o docente por el valor social que ostenta para el grupo."
+    },
+    {
+      "question": "Un alumno que ha visto una conducta pero no la reproduce porque no la recuerda presenta un fallo en el proceso de:",
+      "options": [
+        "motivación",
+        "atención",
+        "memoria",
+        "autorrefuerzo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Para reproducir la conducta cuando el modelo no está presente hay que haberla almacenado; si no se recuerda, falla el proceso de memoria."
+    },
+    {
+      "question": "Un alumno recuerda perfectamente la conducta de un compañero, pero no la imita porque no ve ningún beneficio. Falla el proceso de:",
+      "options": [
+        "atención",
+        "memoria",
+        "motivación",
+        "discriminación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La motivación debe mantenerse para que la conducta se repita; depende de incentivos directos, vicarios, autorrefuerzo o autoevaluación."
+    },
+    {
+      "question": "Si un alumno no se fija en las características relevantes de la conducta demostrada por el docente, falla el proceso de:",
+      "options": [
+        "atención",
+        "memoria",
+        "motivación",
+        "autoevaluación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El sujeto debe prestar atención a las características importantes de la conducta para que el modelado sea efectivo."
+    },
+    {
+      "question": "El docente que explicita cada paso de la resolución de un problema ante la clase está aplicando principalmente:",
+      "options": [
+        "modelado",
+        "extinción",
+        "sensibilización",
+        "castigo negativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El docente se presenta como modelo con experiencia de experto y muestra el camino de resolución para que el grupo le siga."
+    },
+    {
+      "question": "Un estudiante que se evalúa a sí mismo tras una tarea y ajusta su conducta sin necesidad de un evaluador externo muestra:",
+      "options": [
+        "contigüidad",
+        "autoevaluación",
+        "indefensión",
+        "generalización"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La autoevaluación implica desarrollar mecanismos de autodirección respondiendo a las propias acciones de forma evaluativa, dirigiendo la conducta del alumnado."
+    },
+    {
+      "question": "El condicionamiento clásico se diferencia del operante en que el clásico:",
+      "options": [
+        "la conducta opera sobre el ambiente para producir un efecto",
+        "la conducta responde a estímulos asociados, sin operar sobre el ambiente",
+        "requiere consecuencias reforzantes tras cada respuesta",
+        "se basa en la observación de modelos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el clásico se responde a estímulos asociados, mientras que en el operante la conducta opera sobre el ambiente y se mantiene por sus consecuencias."
+    },
+    {
+      "question": "Si una conducta aumenta porque se presenta un estímulo agradable tras ella, mientras que otra disminuye porque se retira un privilegio, hablamos respectivamente de:",
+      "options": [
+        "reforzamiento positivo y castigo negativo",
+        "castigo positivo y reforzamiento negativo",
+        "reforzamiento negativo y castigo positivo",
+        "castigo negativo y reforzamiento positivo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Presentar algo agradable que aumenta la conducta es refuerzo positivo; retirar un privilegio que disminuye la conducta es castigo negativo."
+    },
+    {
+      "question": "Un docente alterna cuaderno revisado cada viernes con recompensas, y los alumnos solo ordenan sus cuadernos el jueves. Esto sugiere el efecto de un programa de:",
+      "options": [
+        "razón variable",
+        "intervalo fijo",
+        "intervalo variable",
+        "refuerzo continuo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el intervalo fijo el tiempo entre reforzamientos es predecible, por lo que la conducta se concentra antes del reforzamiento; ayuda a crear rutinas."
+    },
+    {
+      "question": "Para fomentar la autonomía y el cumplimiento constante de tareas, ¿qué programa recomienda la unidad?",
+      "options": [
+        "Refuerzo continuo",
+        "Razón fija",
+        "Intervalo fijo",
+        "Intervalo variable"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los programas de intervalo variable, como las revisiones sorpresa, fomentan la autonomía y el cumplimiento constante de tareas."
+    },
+    {
+      "question": "Dar a un niño que solo quiere pastelitos de chocolate únicamente pastelitos en todas las comidas hasta producirle hartazgo es un ejemplo de:",
+      "options": [
+        "sobrecorrección",
+        "coste de respuesta",
+        "saciedad",
+        "tiempo fuera"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La saciedad proporciona masivamente el reforzador positivo que aumenta la conducta no deseada hasta convertirlo en aversivo."
+    },
+    {
+      "question": "Si el aprendizaje del alumno depende del uso sistemático de refuerzos externos, ¿qué recomienda la unidad para las intervenciones educativas?",
+      "options": [
+        "Endurecer los castigos",
+        "Fomentar la motivación del alumnado",
+        "Reducir la presencia de modelos",
+        "Sustituir los refuerzos por extinción"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las intervenciones eficaces deberían ir encaminadas a aumentar la motivación de los alumnos, más allá de las técnicas de modificación de conducta."
+    },
+    {
+      "question": "Un alumno acostumbrado a que el docente le diga siempre «no hagas eso» deja de reaccionar. Para recuperar la respuesta, de acuerdo con la deshabituación, el docente podría:",
+      "options": [
+        "repetir la misma frase con más frecuencia",
+        "presentar un estímulo nuevo aislado y luego la indicación habitual",
+        "castigar al alumno cada vez que ignore la frase",
+        "eliminar la indicación definitivamente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La deshabituación consiste en exponer a un estímulo nuevo de forma aislada y presentar después el estímulo habituado; la respuesta reaparece."
+    },
+    {
+      "question": "Tras unas vacaciones largas, un alumno vuelve a reaccionar ante un timbre al que ya estaba habituado. Esta reaparición se explica por:",
+      "options": [
+        "sensibilización",
+        "deshabituación",
+        "recuperación espontánea",
+        "generalización"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El simple paso del tiempo puede hacer que el organismo vuelva a emitir la respuesta anterior a la habituación."
+    },
+    {
+      "question": "Un alumno habituado al timbre de su centro reacciona intensamente a un timbre de sonido muy distinto en otro centro. Esto muestra:",
+      "options": [
+        "retención",
+        "recuperación espontánea",
+        "especificidad estimular",
+        "sensibilización por intervalo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La habituación es específica del estímulo: si este cambia sensiblemente, la respuesta vuelve a aparecer, con intensidad dependiente de lo notable del cambio."
+    },
+    {
+      "question": "Una persona se habitúa con facilidad a un estímulo intenso al que ha estado expuesta muchas veces antes. Esto refleja que la retención aumenta con:",
+      "options": [
+        "la intensidad del estímulo y la experiencia previa de habituación",
+        "la brevedad del estímulo y la novedad de la situación",
+        "el prestigio del estímulo y su valor social",
+        "la contigüidad y la contingencia con un reforzador"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La permanencia de la habituación depende de la intensidad del estímulo y de la experiencia previa del organismo con experiencias de habituación."
+    },
+    {
+      "question": "Un alumno tras un simulacro de incendio se sobresalta con ruidos que antes ignoraba. ¿Qué mecanismo predomina?",
+      "options": [
+        "Habituación",
+        "Extinción",
+        "Sensibilización",
+        "Discriminación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Un estímulo inicial intenso provoca sobrerreacción ante estímulos posteriores, que es sensibilización."
+    },
+    {
+      "question": "Un docente quiere mantener la atención del alumnado a pesar de la habituación. ¿Qué estrategia es coherente con la unidad?",
+      "options": [
+        "Mantener el mismo tono, lugar y dinámica de clase",
+        "Variar los estímulos, las dinámicas y el entorno de la clase",
+        "Repetir las indicaciones con más frecuencia",
+        "Elevar el volumen de voz de forma sostenida"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Una clase igual, en el mismo lugar y aburrida reduce motivación y atención por habituación; variar los estímulos ayuda a evitarlo."
+    },
+    {
+      "question": "El aprendizaje relacional derivado se diferencia del condicionamiento clásico en que el primero:",
+      "options": [
+        "requiere un estímulo incondicionado para funcionar",
+        "permite derivar relaciones no entrenadas directamente entre elementos",
+        "depende de la exposición repetida a un estímulo",
+        "se basa en la observación de un modelo de referencia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las relaciones derivadas se deducen sin haberlas aprendido directamente, gracias a marcos relacionales, mientras que el clásico exige emparejamiento directo de estímulos."
+    },
+    {
+      "question": "Un alumno aprende que el «norte» es lo contrario del «sur» y deduce que el «sur» es lo contrario del «norte». ¿Qué tipo de relación ha derivado?",
+      "options": [
+        "Una relación entrenada de causalidad",
+        "Una relación derivada en el marco de oposición",
+        "Una relación entrenada de comparación",
+        "Una relación derivada en el marco temporal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La relación inversa no se enseñó directamente y se deriva en el marco de oposición, en el que el elemento es totalmente opuesto al conocido."
+    },
+    {
+      "question": "Un alumno entiende que «ayer» es anterior a «hoy» y que «mañana» es posterior a «hoy». ¿Qué marco emplea?",
+      "options": [
+        "Marco espacial",
+        "Marco de jerarquía",
+        "Marco temporal",
+        "Marco de coordinación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ubica los elementos en el tiempo, antes o después de uno conocido: marco temporal."
+    },
+    {
+      "question": "Si un alumno razona que «si llueve, el suelo se moja», emplea el marco de:",
+      "options": [
+        "causalidad",
+        "comparación",
+        "jerarquía",
+        "diferenciación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Si pasa algo con A (llueve), cambia B (suelo mojado): relación causa-efecto propia del marco de causalidad."
+    },
+    {
+      "question": "Si un alumno razona que «el elefante es más grande que el caballo», emplea principalmente el marco de:",
+      "options": [
+        "coordinación",
+        "oposición",
+        "comparación",
+        "causalidad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El marco de comparación establece que el elemento es más o menos algo que otro ya conocido."
+    },
+    {
+      "question": "¿Cuál es la secuencia correcta de la unidad didáctica en cuanto a perspectivas teóricas?",
+      "options": [
+        "Cognitivo-social, conductismo, relacional derivado, habituación",
+        "Conductismo, cognitivo-social, relacional derivado, habituación y sensibilización",
+        "Habituación, conductismo, cognitivo-social, relacional derivado",
+        "Conductismo, habituación, relacional derivado, cognitivo-social"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La unidad se estructura en: 3.1 Conductismo, 3.2 Perspectiva cognitivo-social, 3.3 Aprendizaje relacional derivado y 3.4 Habituación y sensibilización."
+    },
+    {
+      "question": "Según el texto, la atención del alumno hacia el docente como estímulo neutro asociado a felicitaciones lo convierte en estímulo condicionado. ¿Qué respuesta condicionada genera?",
+      "options": [
+        "Agrado ante la presencia del docente",
+        "Ansiedad ante la presencia del docente",
+        "Indiferencia ante el docente",
+        "Rechazo hacia la materia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tras emparejar repetidamente al docente (EN) con la felicitación (EI), el docente como EC provoca agrado (RC) cada vez que el alumno está con él."
+    },
+    {
+      "question": "El conductismo y el cognitivismo se contraponen porque el primero se centra en las conductas observables y el segundo en:",
+      "options": [
+        "los reflejos condicionados",
+        "los procesos cognitivos por los que el sujeto entiende el mundo",
+        "los programas de refuerzo",
+        "la maduración biológica del organismo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El cognitivismo estudia los procesos cognitivos de comprensión del mundo, mientras el conductismo estudia la conducta observable."
+    },
+    {
+      "question": "La indefensión aprendida es consecuencia principalmente de:",
+      "options": [
+        "la extinción de una respuesta operante",
+        "la aplicación de estímulos aversivos sin posibilidad de escape ni evitación",
+        "la exposición repetida a estímulos irrelevantes",
+        "el uso de programas de razón variable"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cuando no son posibles ni el escape ni la evitación ante estímulos aversivos, la persona aprende que no controla su futuro y deja de intentar huir."
+    },
+    {
+      "question": "Cuando el docente premia al alumno por mantener la atención durante periodos progresivamente más largos y finalmente toda la sesión, ha utilizado:",
+      "options": [
+        "moldeado",
+        "sobrecorrección",
+        "saciedad",
+        "razón fija"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El moldeado refuerza aproximaciones progresivas a una respuesta compleja que no se logra al primer intento."
+    },
+    {
+      "question": "Para la unidad, ¿cuál de los siguientes es un reforzador secundario?",
+      "options": [
+        "Un plato de comida caliente",
+        "Un elogio del docente",
+        "El alivio tras evitar un examen",
+        "La sensación de bienestar tras descansar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El elogio adquiere su valor reforzante tras el aprendizaje, igual que el dinero. La comida es primaria y el orgullo o bienestar serían intrínsecos."
+    }
+  ]
+}
