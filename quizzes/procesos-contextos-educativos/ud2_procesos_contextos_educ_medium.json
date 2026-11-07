@@ -1,0 +1,2208 @@
+{
+  "title": "UD 2. El sistema educativo (Nivel medio)",
+  "description": "Cuestionario de nivel medio sobre la evolución del sistema educativo español, las leyes educativas, las políticas internacionales, el currículo y las competencias clave.",
+  "category": "procesos-contextos-educativos",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "¿Por qué antes del siglo XIX no se puede hablar de un sistema educativo en Occidente?",
+      "options": [
+        "Porque las instituciones educativas trabajaban de forma separada, inconexa y aislada",
+        "Porque la enseñanza estaba prohibida para las clases populares en todos los territorios",
+        "Porque solo existían universidades y no había escuelas de primeras letras",
+        "Porque la Iglesia había suprimido todas las escuelas de latinidad y gramática"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Existían escuelas de letras, universidades, colegios religiosos y enseñanza técnica, pero sin conexión entre ellos. Un sistema exige coordinación y ordenación conjunta, que llegó con los sistemas nacionales tras la Revolución francesa. Las otras opciones son falsas: había escuelas de primeras letras y no existía una supresión general."
+    },
+    {
+      "question": "¿Qué acontecimiento histórico está en el origen de los primeros sistemas educativos nacionales europeos?",
+      "options": [
+        "La Revolución industrial británica",
+        "La Revolución francesa",
+        "La Reforma protestante",
+        "La Ilustración del siglo XVIII"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el texto, los primeros sistemas educativos nacionales surgen en las primeras décadas del siglo XIX como resultado de la Revolución francesa. La industrialización influyó después en la necesidad de formar mano de obra, pero no es el origen del sistema."
+    },
+    {
+      "question": "¿Qué sienta las bases del sistema educativo español en la Constitución de Cádiz de 1812?",
+      "options": [
+        "La creación de las comisiones provinciales de instrucción primaria",
+        "La obligatoriedad de la enseñanza media para toda la población",
+        "La universalidad de las escuelas de primeras letras y la uniformidad de los planes de enseñanza",
+        "La separación entre escuelas para niños y para niñas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El título IX (arts. 366-371) establece la universalidad de las escuelas de primeras letras y la uniformidad de los planes, y atribuye las competencias educativas a las Cortes. Las comisiones provinciales son de 1837 y la separación por sexos aparece más tarde en la ley Moyano."
+    },
+    {
+      "question": "¿A qué institución atribuía la Constitución de 1812 la responsabilidad en materia educativa?",
+      "options": [
+        "A los ayuntamientos",
+        "A la Iglesia",
+        "A las diputaciones provinciales",
+        "A las Cortes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El título IX designa a las Cortes como responsables de las competencias educativas, lo que refleja la intención de centralizar y uniformar la instrucción pública."
+    },
+    {
+      "question": "Según Müller, ¿cuáles son las tres fases de configuración de un sistema educativo?",
+      "options": [
+        "Emergencia, constitución y acabado o perfeccionamiento",
+        "Planificación, implantación y evaluación",
+        "Creación, expansión y reforma",
+        "Origen, consolidación y democratización"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Müller distingue emergencia, constitución y acabado o perfeccionamiento. Las demás opciones son secuencias plausibles pero no corresponden al modelo que se cita en el temario."
+    },
+    {
+      "question": "En el caso español, ¿con qué hechos coincide la fase de constitución del sistema educativo?",
+      "options": [
+        "Con los periodos constitucionales de 1812-1814 y 1820-1823",
+        "Con el avance del régimen liberal, las comisiones provinciales (1837) y la Ley de Instrucción Pública (1857)",
+        "Con la Ley General de Educación de 1970",
+        "Con la aprobación de la Constitución de 1978"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La fase de constitución se asocia al liberalismo y culmina con la ley Moyano. La emergencia corresponde a los periodos constitucionales de 1812-1814 y 1820-1823, y el perfeccionamiento comienza con la LGE de 1970."
+    },
+    {
+      "question": "¿A partir de qué ley se sitúa la fase de acabado o perfeccionamiento del sistema educativo español?",
+      "options": [
+        "La ley Moyano de 1857",
+        "La LOGSE de 1990",
+        "La Ley General de Educación de 1970",
+        "La LODE de 1985"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Viñao sitúa el inicio de la tercera fase en la LGE de 1970, que establece una estructura general y obligatoria para todo el sistema. La ley Moyano pertenece a la fase de constitución."
+    },
+    {
+      "question": "¿Por qué se considera que la ley Moyano configuró y consolidó el sistema educativo español?",
+      "options": [
+        "Porque introdujo la coeducación y la participación de las familias",
+        "Porque transfirió la gestión educativa a las comunidades autónomas",
+        "Porque eliminó la enseñanza privada y religiosa",
+        "Porque recogió las reformas previas e implantó una ordenación centralizada y uniforme"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La ley recogía las reformas introducidas previamente por vía de hecho y estableció tres niveles de enseñanza, centralización estatal y uniformidad de planes. No introdujo la coeducación (separaba currículos para niños y niñas) ni eliminó los centros privados, que regulaba."
+    },
+    {
+      "question": "¿Cuáles son los tres niveles de enseñanza que establece la ley Moyano?",
+      "options": [
+        "Primera enseñanza, segunda enseñanza y enseñanzas superiores",
+        "Infantil, primaria y secundaria",
+        "Elemental, profesional y universitaria",
+        "Preescolar, básica y bachillerato"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La ley Moyano organiza la primera enseñanza (elemental y superior), la segunda enseñanza y las enseñanzas superiores. Las otras denominaciones corresponden a leyes posteriores."
+    },
+    {
+      "question": "¿Qué rasgo de la ley Moyano reflejaba la mentalidad de su época respecto a la igualdad entre sexos?",
+      "options": [
+        "Un currículo común para niños y niñas",
+        "Currículos y escuelas diferenciados para niños y niñas",
+        "El acceso gratuito de las niñas a la universidad",
+        "La obligatoriedad de la escuela mixta en el medio rural"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La ley recogía currículos y escuelas diferenciados por sexo. El acceso de las mujeres a la universidad sin permiso previo llegó con la Real Orden de 1910."
+    },
+    {
+      "question": "¿Qué característica tenía la primera enseñanza elemental en la ley Moyano?",
+      "options": [
+        "Era gratuita y obligatoria de los 6 a los 14 años",
+        "Era voluntaria y de pago de los 6 a los 9 años",
+        "Era gratuita y obligatoria de los 6 a los 9 años",
+        "Era gratuita pero voluntaria de los 3 a los 6 años"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La primera enseñanza elemental era gratuita y obligatoria de los 6 a los 9 años. La obligatoriedad hasta los 14 llegó con la LGE de 1970."
+    },
+    {
+      "question": "¿Qué dato destaca sobre la vigencia de la ley Moyano en comparación con otras leyes educativas españolas?",
+      "options": [
+        "Fue derogada a los pocos años por la Constitución de 1876",
+        "Nunca llegó a aplicarse",
+        "Fue sustituida por la LOECE en 1980",
+        "Fue la ley educativa más longeva, con más de cien años de vigencia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La ley de 1857 se mantuvo vigente más de 100 años y fue derogada por la LGE de 1970. La LOECE nunca llegó a implantarse."
+    },
+    {
+      "question": "¿Qué medida abrió la universidad a las mujeres en España?",
+      "options": [
+        "La Real Orden de 8 de marzo de 1910",
+        "La Ley General de Educación de 1970",
+        "La Constitución de 1978",
+        "La ley Moyano de 1857"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Real Orden de 1910 eliminó el requisito de permiso previo de las autoridades académicas que las mujeres necesitaban para matricularse en la universidad."
+    },
+    {
+      "question": "¿Qué ley derogó la ley Moyano y estableció una nueva estructura del sistema educativo con la finalidad de favorecer la igualdad de oportunidades?",
+      "options": [
+        "La LOECE",
+        "La Ley General de Educación (LGE, 1970)",
+        "La LOGSE",
+        "La LODE"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LGE de 1970 derogó la ley de 1857 y reorganizó el sistema con la intención de abrir la educación a todas las clases sociales sin discriminación."
+    },
+    {
+      "question": "¿Hasta qué edad establecía la LGE la escolarización obligatoria y gratuita?",
+      "options": [
+        "Hasta los 12 años",
+        "Hasta los 16 años",
+        "Hasta los 14 años",
+        "Hasta los 18 años"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La LGE implantó la escolarización obligatoria y gratuita hasta los 14 años, con la Educación General Básica de 8 cursos. Los 16 años los fijó después la LOGSE."
+    },
+    {
+      "question": "¿Cuál era la duración y el rango de edad de la Educación General Básica (EGB) en la LGE?",
+      "options": [
+        "6 cursos, de los 6 a los 12 años",
+        "10 cursos, de los 6 a los 16 años",
+        "8 cursos, de los 6 a los 14 años",
+        "9 cursos, de los 5 a los 14 años"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La EGB era obligatoria, comprendía de los 6 a los 14 años y tenía una duración de 8 cursos. Los 10 cursos de 6 a 16 años corresponden a la enseñanza obligatoria de la LOGSE (Primaria y ESO)."
+    },
+    {
+      "question": "¿Qué enseñanzas postobligatorias recogía la LGE?",
+      "options": [
+        "Bachillerato, ciclos de grado medio y selectividad",
+        "Bachillerato Unificado Polivalente, Formación Profesional y Curso de Orientación Universitaria",
+        "ESO, Bachillerato y Formación Profesional de grado superior",
+        "Escuela de Párvulos, EGB y Bachillerato"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LGE incluía el BUP (14-17 años), la FP (14-19 años) y el COU (17-18 años). La ESO y los ciclos de grado medio y superior son creaciones de la LOGSE."
+    },
+    {
+      "question": "¿Qué título obtenía el alumnado que finalizaba con éxito la EGB?",
+      "options": [
+        "Graduado en Educación Secundaria",
+        "Bachiller Elemental",
+        "Técnico Auxiliar",
+        "Graduado Escolar"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Al finalizar la EGB se expedía el título de Graduado Escolar, que permitía acceder al BUP o a la FP. El Graduado en Educación Secundaria es posterior (LOGSE y LOE)."
+    },
+    {
+      "question": "Un alumno de la LGE terminó la EGB y cursó el BUP. ¿Qué opciones tenía al finalizarlo?",
+      "options": [
+        "Acceder al COU, a la FP de segundo grado o a la inserción laboral",
+        "Acceder directamente a la universidad sin otros estudios",
+        "Solo acceder al COU o repetir el último curso",
+        "Cursar la FP de primer grado y después la de segundo grado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tras el BUP se podía acceder al COU (un curso), a la FPII (dos cursos) o incorporarse al trabajo. La FPI era la vía para quienes no cursaban BUP."
+    },
+    {
+      "question": "¿Qué requisito debía cumplir el alumnado que no finalizaba la EGB para comenzar la FP de primer grado?",
+      "options": [
+        "Superar una prueba de acceso a la FP",
+        "Tener el certificado de escolaridad, que acreditaba haber cursado la EGB",
+        "Haber cumplido los 16 años",
+        "Contar con un informe favorable de orientación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El certificado de escolaridad no implicaba haber superado la EGB, pero sí haberla cursado. Era obligatorio para acceder a la FPI sin el Graduado Escolar."
+    },
+    {
+      "question": "¿Qué aportación en materia de orientación introduce la LGE?",
+      "options": [
+        "Crea los equipos de orientación educativa y psicopedagógica",
+        "Introduce los departamentos de orientación en todos los institutos",
+        "Introduce de forma reglada los servicios de orientación y la reconoce como derecho del alumnado",
+        "Regula la figura del psicopedagogo en los centros concertados"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La LGE es la primera ley que introduce de forma reglada la orientación educativa y profesional como principio básico y derecho del alumnado. Los EOEP y los departamentos de orientación se vinculan a la LOGSE."
+    },
+    {
+      "question": "¿Qué servicios se establecieron en 1977 en materia de orientación?",
+      "options": [
+        "Los Equipos de Orientación Educativa y Psicopedagógica",
+        "El Centro de Orientación e Información para el Empleo",
+        "Los Servicios de Orientación en el COU",
+        "Los Servicios de Orientación Educativa y Vocacional (SOEV)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los SOEV de 1977 se centraron en la orientación educativa, el asesoramiento a profesores y tutores, la información académica y profesional y la investigación psicopedagógica. Los servicios en el COU son de 1972 y el COIE universitario es de 1975."
+    },
+    {
+      "question": "¿Qué sucedió con los inicios de la orientación en España, situados en las primeras décadas del siglo XX?",
+      "options": [
+        "Se consolidaron gracias a la Constitución de 1978",
+        "Fueron interrumpidos por la Guerra Civil",
+        "Se integraron en la ley Moyano",
+        "Se transfirieron a las universidades"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Aunque la LGE introduce la orientación de forma reglada, sus primeros pasos se dieron a comienzos del siglo XX y quedaron interrumpidos por la Guerra Civil."
+    },
+    {
+      "question": "¿Qué recoge el artículo 27 de la Constitución española de 1978?",
+      "options": [
+        "La obligatoriedad de la enseñanza hasta los 16 años",
+        "La libertad de cátedra como derecho exclusivo del profesorado universitario",
+        "«Todos tienen derecho a la educación»",
+        "La gratuidad de toda la enseñanza superior"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 27 reconoce el derecho a la educación. Es el artículo que desarrolla la LODE de 1985 y que se corresponde con el artículo 26 de la Declaración Universal de los Derechos Humanos."
+    },
+    {
+      "question": "¿Qué rasgo define a la LOECE (1980)?",
+      "options": [
+        "Implantó los consejos escolares en todos los centros",
+        "Reguló los conciertos con los centros privados",
+        "Amplió la escolaridad obligatoria hasta los 16 años",
+        "No llegó a implantarse y se derogó con la LODE"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La LOECE nunca llegó a implantarse y fue derogada por la LODE en 1985. Los consejos escolares y los conciertos son aportaciones de la LODE, y los 16 años de la LOGSE."
+    },
+    {
+      "question": "¿En qué principios hace hincapié la LOECE?",
+      "options": [
+        "En la libertad de elección de centro por las familias y la libertad de enseñanza de los docentes",
+        "En la participación de la comunidad educativa en la gestión de los centros",
+        "En la evaluación obligatoria de centros y profesorado",
+        "En la atención a la diversidad y la educación inclusiva"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LOECE destacó la libertad de elección de centro y la libertad de cátedra. La participación en la gestión corresponde a la LODE, la evaluación a la LOPEG y la inclusión a la LOMLOE."
+    },
+    {
+      "question": "¿Qué necesidad motivó la aprobación de la LODE (1985)?",
+      "options": [
+        "Adaptar el sistema educativo a los modelos europeos",
+        "Desarrollar el artículo 27 de la Constitución española",
+        "Reformar la Formación Profesional",
+        "Introducir las competencias básicas en el currículo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LODE surge para desarrollar el artículo 27 de la Constitución, garantizando el derecho a la educación y la libertad de enseñanza. Acercar el sistema a Europa fue un objetivo de la LOGSE y las competencias llegaron con la LOE."
+    },
+    {
+      "question": "¿Qué órgano introdujo la LODE para que docentes, alumnado, familias y ayuntamientos participaran en la gestión de los centros?",
+      "options": [
+        "El claustro de profesores",
+        "La junta de delegados",
+        "El consejo escolar",
+        "El departamento de orientación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los consejos escolares permiten que los distintos sectores de la comunidad educativa participen en la gestión y el control de los centros. El claustro es un órgano exclusivamente docente."
+    },
+    {
+      "question": "¿Qué regula la LODE en relación con los centros privados?",
+      "options": [
+        "Su desaparición progresiva del sistema",
+        "La obligación de aplicar un currículo propio",
+        "Su integración automática en la red pública",
+        "Los conciertos educativos y las subvenciones"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La LODE establece los conciertos con los centros privados y regula las subvenciones que reciben. No los suprime ni los integra en la red pública."
+    },
+    {
+      "question": "¿Qué ley deroga la LGE y se plantea ordenar de manera global las debilidades detectadas en el sistema educativo?",
+      "options": [
+        "La LOGSE (1990)",
+        "La LOCE (2002)",
+        "La LOE (2006)",
+        "La LOPEG (1995)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LOGSE de 1990 derogó la LGE y pretendió ordenar de forma global las debilidades del sistema. Para su diseño se encargaron estudios que dieron lugar a los Documentos de la Reforma Educativa."
+    },
+    {
+      "question": "¿Qué documento presentó con detalle la reforma educativa que propugnaba la LOGSE?",
+      "options": [
+        "El Libro Blanco para la Reforma del Sistema Educativo (MEC, 1989)",
+        "El Informe Delors",
+        "El Panorama de la Educación de la OCDE",
+        "El Plan Estratégico de Convivencia Escolar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Libro Blanco (MEC, 1989) forma parte de los Documentos de la Reforma Educativa elaborados por expertos antes de la LOGSE."
+    },
+    {
+      "question": "¿Cuál es el cambio más significativo de la LOGSE respecto a la escolarización obligatoria?",
+      "options": [
+        "La reduce a 8 cursos para impulsar la FP",
+        "La amplía y la fija gratuita y obligatoria de los 6 a los 16 años",
+        "La amplía hasta los 18 años",
+        "La mantiene hasta los 14 años y añade un curso de orientación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LOGSE amplía la escolaridad obligatoria y gratuita de los 6 a los 16 años, con Educación Primaria y Educación Secundaria Obligatoria."
+    },
+    {
+      "question": "¿Cómo clasifica la LOGSE las enseñanzas?",
+      "options": [
+        "En enseñanzas comunes y enseñanzas optativas",
+        "En básicas, medias y superiores",
+        "En régimen general y régimen especial",
+        "En obligatorias y postobligatorias únicamente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El régimen general incluye Infantil, Primaria, Secundaria, FP y universidad; el régimen especial reúne las enseñanzas artísticas y de idiomas."
+    },
+    {
+      "question": "¿Qué concepto introduce por primera vez la LOGSE?",
+      "options": [
+        "Las competencias básicas",
+        "La educación inclusiva como principio fundamental",
+        "Los programas de diversificación curricular",
+        "Las necesidades educativas especiales"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La LOGSE desarrolla la compensación de desigualdades e introduce el concepto de necesidades educativas especiales. Las competencias básicas llegan con la LOE y la inclusión como principio con la LOMLOE."
+    },
+    {
+      "question": "Comparando la LGE y la LOGSE, ¿qué cambia en la etapa infantil?",
+      "options": [
+        "La LGE la situaba de 0 a 6 años y la LOGSE de 2 a 6",
+        "La LGE la situaba de 2 a 6 años (Preescolar) y la LOGSE la amplía de 0 a 6 años (Infantil)",
+        "Ambas leyes la establecían de 0 a 6 años",
+        "La LOGSE la hacía obligatoria desde los 3 años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según la tabla comparativa, la LGE hablaba de Educación Preescolar de 2 a 6 años y la LOGSE de Educación Infantil de 0 a 6 años. En ningún caso era obligatoria."
+    },
+    {
+      "question": "¿Cómo se estructura la Educación Primaria en la LOGSE?",
+      "options": [
+        "Tres ciclos de dos cursos, de los 6 a los 12 años",
+        "Dos ciclos de tres cursos, de los 6 a los 12 años",
+        "Ocho cursos, de los 6 a los 14 años",
+        "Cuatro ciclos de un curso, de los 6 a los 10 años"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Primaria de la LOGSE tiene tres ciclos (6-8, 8-10 y 10-12 años), cada uno de dos cursos. La EGB de 8 cursos corresponde a la LGE."
+    },
+    {
+      "question": "¿Cómo se organiza la ESO según la LOGSE?",
+      "options": [
+        "Un único ciclo de cuatro cursos",
+        "Dos ciclos: 12-14 años (1.º y 2.º) y 14-16 años (3.º y 4.º)",
+        "Tres ciclos de dos cursos",
+        "Dos ciclos: 11-13 años y 13-15 años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La ESO se organiza en un primer ciclo (12-14 años, 1.º y 2.º) y un segundo ciclo (14-16 años, 3.º y 4.º), y cubre el tramo final de la escolaridad obligatoria."
+    },
+    {
+      "question": "¿En cuántos niveles integra la LOGSE la orientación en el currículo escolar?",
+      "options": [
+        "Dos: tutoría y evaluación",
+        "Cuatro: aula, centro, familia y administración",
+        "Tres: acción tutorial, Departamento de Orientación y apoyo a los Equipos de Orientación Educativa y Psicopedagógica",
+        "Uno: el departamento de orientación del centro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La LOGSE integra la orientación en tres niveles: la acción tutorial en el aula, el Departamento de Orientación en el centro y el apoyo externo a los EOEP."
+    },
+    {
+      "question": "¿Qué limitación se señala en la puesta en práctica de la orientación educativa tras la LOGSE?",
+      "options": [
+        "Su prohibición en la enseñanza privada",
+        "La falta de interés de las familias",
+        "La ausencia de marco legal para los orientadores",
+        "La escasez de recursos y la falta de formación del profesorado para sus funciones orientadoras"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A pesar de los avances, se carecía de recursos materiales, personales y económicos, y faltaba formación del profesorado para ejercer sus competencias orientadoras."
+    },
+    {
+      "question": "¿Sobre qué leyes se apoya la LOPEG (1995) para matizar la gestión de los centros sostenidos con fondos públicos?",
+      "options": [
+        "La LGE y la LOECE",
+        "La LODE y la LOGSE",
+        "La ley Moyano y la LGE",
+        "La LOCE y la LOE"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LOPEG parte de la LODE (1985) y de la LOGSE (1990) para matizar la organización y gestión de los centros financiados con fondos públicos. La LOCE y la LOE son posteriores."
+    },
+    {
+      "question": "¿Qué aspecto regula la LOPEG respecto a la dirección de los centros públicos?",
+      "options": [
+        "La eliminación del consejo escolar",
+        "El nombramiento de directores por el claustro exclusivamente",
+        "La designación libre de directores por el Gobierno central",
+        "Los procedimientos de elección, nombramiento y acreditación de directores"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La LOPEG define la función directiva y regula elección, nombramiento y acreditación de directores. Además refuerza al consejo escolar, cuya función destacada era elegir al director."
+    },
+    {
+      "question": "¿Qué funciones desarrolla la LOPEG en cuanto a evaluación?",
+      "options": [
+        "La evaluación de centros, del profesorado y de la propia administración educativa",
+        "Las pruebas externas finales de etapa para el alumnado",
+        "La evaluación diagnóstica de 4.º de Primaria",
+        "La evaluación exclusiva del alumnado con necesidades educativas especiales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LOPEG desarrolla la evaluación de centros, docentes y administración educativa, además de organizar la inspección. Las pruebas finales de etapa son propias de la LOMCE y la evaluación diagnóstica de la LOE y LOMLOE."
+    },
+    {
+      "question": "¿Qué plantea la LOCE (2002) sobre la Educación Infantil?",
+      "options": [
+        "La divide en Educación Preescolar (0-3 años) y Educación Infantil (3-6 años)",
+        "La limita a un único ciclo de 3 a 6 años obligatorio",
+        "La divide en dos ciclos con carácter exclusivamente asistencial",
+        "La integra en la Educación Primaria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LOCE separaba la etapa en Preescolar (0-3) e Infantil (3-6). Fue derogada sin haberse implementado, por lo que esta estructura no llegó a aplicarse."
+    },
+    {
+      "question": "¿Qué medida de la LOCE afectaba a la organización de la ESO?",
+      "options": [
+        "La eliminación del 4.º curso",
+        "La organización en itinerarios a partir de los 14 años",
+        "La supresión de las optativas en 1.º y 2.º",
+        "La ampliación de la etapa hasta los 18 años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LOCE organizaba la ESO en itinerarios desde los 14 años, con un Informe de Orientación Escolar tras 2.º para ayudar a elegir. Los itinerarios fueron eliminados después por la LOMLOE."
+    },
+    {
+      "question": "¿Qué finalidad tenían los Programas de Iniciación Profesional (PIP) de la LOCE?",
+      "options": [
+        "Preparar para el acceso a la universidad a los mayores de 25 años",
+        "Ofrecer FP de grado superior a los alumnos de Bachillerato",
+        "Atender durante dos años al alumnado de 15 o 16 años que no eligiese voluntariamente ningún itinerario",
+        "Sustituir al Bachillerato en las zonas rurales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los PIP, de dos años de duración, estaban orientados a estudiantes que a los 15 o 16 años no escogían ningún itinerario. Se parecen a los PCPI y la FP Básica posteriores."
+    },
+    {
+      "question": "¿Qué prueba preveía la LOCE para obtener el título de Bachiller?",
+      "options": [
+        "La Evaluación de Bachillerato para el Acceso a la Universidad",
+        "Una reválida de 4.º de ESO",
+        "Un examen de acceso a la FP",
+        "La Prueba General de Bachillerato (PGB)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La LOCE establecía la Prueba General de Bachillerato para obtener el título. Las pruebas finales de etapa reaparecieron con la LOMCE y fueron eliminadas por la LOMLOE."
+    },
+    {
+      "question": "¿Cómo se refleja en la LOCE el modelo de orientación educativa?",
+      "options": [
+        "Crea un cuerpo propio de orientadores en todos los centros",
+        "Mantiene el modelo diseñado en la LOGSE, reconociendo solo el derecho del alumnado a la orientación",
+        "Elimina la orientación del currículo",
+        "Traslada la orientación a las familias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 2 reconoce el derecho a la orientación educativa y profesional, pero no desarrolla su función en los centros ni los profesionales, por lo que se mantiene el modelo de la LOGSE."
+    },
+    {
+      "question": "¿Qué ley derogó a la LOGSE, la LOPEG y la LOCE, manteniendo la estructura del sistema educativo de 1990?",
+      "options": [
+        "La LOMCE",
+        "La LODE",
+        "La LOE (2006)",
+        "La LOMLOE"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La LOE de 2006 derogó esas tres leyes, pero conservó la estructura de la LOGSE. Algunos de sus apartados siguen vigentes porque la LOMLOE solo la modifica."
+    },
+    {
+      "question": "¿Qué principio fundamental destaca la LOE y cómo se concreta en el currículo?",
+      "options": [
+        "La atención a la diversidad, mediante un currículo flexible adaptado a aptitudes, intereses y necesidades",
+        "La competitividad entre centros, mediante pruebas externas",
+        "La uniformidad nacional, mediante un currículo cerrado",
+        "La especialización temprana, mediante itinerarios desde los 14 años"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LOE sitúa la atención a la diversidad como principio fundamental y destaca la flexibilidad del currículo. Los itinerarios eran propios de la LOCE, y las pruebas externas de la LOMCE."
+    },
+    {
+      "question": "Respecto a la Educación Infantil, ¿qué establece la LOE?",
+      "options": [
+        "Es obligatoria de 3 a 6 años",
+        "Es asistencial en el primer ciclo y educativa en el segundo",
+        "Comprende de 0 a 6 años en dos ciclos, con carácter educativo, y el ciclo 3-6 es gratuito",
+        "Comprende de 2 a 6 años en un único ciclo gratuito"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La LOE establece dos ciclos (0-3 y 3-6) con carácter educativo en toda la etapa; el segundo ciclo es gratuito, aunque no obligatorio."
+    },
+    {
+      "question": "¿Hasta qué edad pueden permanecer los alumnos en los centros para obtener el Graduado en Educación Secundaria según la LOE?",
+      "options": [
+        "Hasta los 16 años",
+        "Hasta los 17 años",
+        "Hasta los 20 años",
+        "Hasta los 18 años"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La LOE permite permanecer en los centros hasta los 18 años para obtener el título de Graduado en Educación Secundaria, aunque la obligatoriedad termina a los 16."
+    },
+    {
+      "question": "¿Qué asignatura crea la LOE con especial atención a la igualdad entre hombres y mujeres?",
+      "options": [
+        "Educación en Valores Cívicos y Éticos",
+        "Educación para la Ciudadanía y los Derechos Humanos",
+        "Ética y Moral",
+        "Cultura Ciudadana y Democrática"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LOE crea Educación para la Ciudadanía y los Derechos Humanos, obligatoria durante cuatro cursos (uno en Primaria, dos en ESO y uno en Bachillerato). Educación en Valores Cívicos y Éticos es la materia de la LOMLOE."
+    },
+    {
+      "question": "¿Cómo se plantea la materia de Religión en la LOE?",
+      "options": [
+        "Como asignatura obligatoria de carácter confesional",
+        "Con tres opciones que eligen los padres: confesional, no confesional o ninguna",
+        "Como materia optativa solo en Bachillerato",
+        "Como asignatura sustituida por Educación para la Ciudadanía"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LOE ofrece una opción confesional, otra no confesional y la posibilidad de no elegir ninguna, a decisión de las familias. No es obligatoria ni queda limitada a Bachillerato."
+    },
+    {
+      "question": "¿Para qué sirven los programas de diversificación curricular que incorpora la LOE?",
+      "options": [
+        "Para adelantar cursos al alumnado con altas capacidades",
+        "Para ofrecer enseñanzas artísticas dentro de la ESO",
+        "Para atender al alumnado con dificultades desde los 15 años y facilitar que obtenga el título",
+        "Para sustituir al Bachillerato en centros rurales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los programas de diversificación curricular, que pueden cursarse desde los 15 años, son una medida de atención a la diversidad para alumnado con dificultades que busca el título de Graduado en Educación Secundaria."
+    },
+    {
+      "question": "¿Qué enseñanzas comprende la educación superior según la LOE?",
+      "options": [
+        "Solo la universitaria y el Bachillerato",
+        "Universitaria, FP de grado medio y enseñanzas elementales de música",
+        "Universitaria y el Curso de Orientación Universitaria",
+        "Universitaria, FP de grado superior y las enseñanzas artísticas superiores, de artes plásticas y diseño de grado superior y deportivas de grado superior"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La LOE amplía el concepto de educación superior más allá de la universidad, incluyendo la FP de grado superior y las enseñanzas artísticas y deportivas de grado superior. El Bachillerato y el grado medio no son educación superior."
+    },
+    {
+      "question": "¿Qué organismo realiza la evaluación del sistema educativo según la LOE?",
+      "options": [
+        "El Instituto de Evaluación",
+        "El Consejo Escolar del Estado",
+        "La Alta Inspección Educativa",
+        "El Observatorio Estatal de la Convivencia Escolar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LOE encomienda al Instituto de Evaluación la evaluación del sistema educativo, mientras que las Administraciones pueden elaborar planes de evaluación de los centros."
+    },
+    {
+      "question": "¿Por qué es relevante la nota que indica que el marco legal de las leyes orgánicas debe ser desarrollado por las comunidades autónomas?",
+      "options": [
+        "Porque cada comunidad puede ignorar la normativa estatal",
+        "Porque el Estado carece de competencias en educación",
+        "Porque las comunidades concretan y aplican el marco básico estatal dentro de su territorio",
+        "Porque solo las leyes orgánicas permiten la intervención autonómica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Estado fija el marco básico y las comunidades autónomas lo desarrollan mediante decretos. No pueden ignorarlo, pero sí concretarlo."
+    },
+    {
+      "question": "¿Qué artículo de la LOE establece las funciones del profesorado, con énfasis en la tutoría y orientación del alumnado?",
+      "options": [
+        "Artículo 6",
+        "Artículo 157",
+        "Artículo 27",
+        "Artículo 91"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El artículo 91 de la LOE fija las funciones del profesorado y destaca su papel como tutor y orientador. El artículo 157 se refiere a los recursos de las Administraciones para garantizar servicios de orientación."
+    },
+    {
+      "question": "¿Qué se establece en el artículo 157 de la LOE en relación con la orientación?",
+      "options": [
+        "Que las Administraciones deben proveer los recursos para garantizar servicios o profesionales especializados en orientación",
+        "Que cada centro debe tener un orientador con plaza propia",
+        "Que las familias tienen la responsabilidad exclusiva de la orientación",
+        "Que la orientación solo se aplica en Bachillerato"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 157 atribuye a las Administraciones la provisión de recursos para que existan servicios o profesionales especializados en orientación educativa, psicopedagógica y profesional."
+    },
+    {
+      "question": "¿Qué ley parte de la LODE y de la LOE con la finalidad de mejorar la calidad educativa y está actualmente derogada?",
+      "options": [
+        "La LOCE",
+        "La LOMCE (2013)",
+        "La LOPEG",
+        "La LOGSE"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LOMCE de 2013 se apoyó en la LODE y la LOE para mejorar la calidad educativa. Fue derogada por la LOMLOE en 2020."
+    },
+    {
+      "question": "¿Cómo organizaba la LOMCE las asignaturas?",
+      "options": [
+        "En materias comunes y de modalidad únicamente",
+        "En ámbitos y proyectos interdisciplinares",
+        "En troncales, específicas y de libre configuración autonómica",
+        "En áreas obligatorias y optativas sin jerarquía"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La LOMCE agrupaba las asignaturas en tres bloques: troncales, específicas y de libre configuración autonómica. La LOMLOE eliminó esta clasificación y la jerarquía entre materias."
+    },
+    {
+      "question": "¿Qué crearon los títulos de FP Básica con la LOMCE?",
+      "options": [
+        "Sustituyeron a los PCPI",
+        "Sustituyeron a los ciclos de grado medio",
+        "Sustituyeron a la FP de segundo grado",
+        "Sustituyeron a los programas de diversificación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LOMCE creó la FP Básica en sustitución de los Programas de Cualificación Profesional Inicial (PCPI) y reguló la FP Dual."
+    },
+    {
+      "question": "¿Qué programas desarrolló la LOMCE para ayudar al alumnado con dificultades relevantes a obtener el título de ESO?",
+      "options": [
+        "Los programas de diversificación curricular",
+        "Los Programas de Mejora del Aprendizaje y el Rendimiento (PMAR)",
+        "Los Programas de Iniciación Profesional",
+        "Los grupos de refuerzo de 1.º y 2.º de ESO"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los PMAR fueron la medida de la LOMCE para promover que el alumnado con dificultades obtuviera el título. Los PIP eran de la LOCE y la diversificación de la LOE."
+    },
+    {
+      "question": "¿Qué novedad introdujo la LOMCE en cuanto a la evaluación final de las etapas?",
+      "options": [
+        "La eliminó para sustituirla por evaluación continua",
+        "Introdujo pruebas finales para obtener el título de ESO y el de Bachillerato",
+        "Estableció una única prueba nacional al finalizar Primaria",
+        "Delegó las pruebas finales en los consejos escolares"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LOMCE incorporó pruebas finales (reválidas) para ESO y Bachillerato. La LOMLOE las eliminó."
+    },
+    {
+      "question": "¿Qué ocurrió con la orientación educativa en la LOMCE?",
+      "options": [
+        "Creó una red de orientadores propia en cada centro",
+        "Eliminó los departamentos de orientación",
+        "No modificó ningún aspecto específico respecto a lo recogido en la LOE",
+        "Trasladó la orientación a las comunidades autónomas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La LOMCE no modificó aspectos específicos de la orientación educativa, que se rigen por lo establecido en la LOE (2006), aunque introdujo el consejo orientador para familias y tutores."
+    },
+    {
+      "question": "¿Qué entrega la LOMCE a las familias y tutores al finalizar cada curso?",
+      "options": [
+        "Un informe de evaluación individualizado",
+        "Un certificado de escolaridad",
+        "Un diploma de competencias",
+        "Un consejo orientador"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La LOMCE proporciona un consejo orientador a familias y tutores al finalizar cada curso. La LOMLOE lo mantiene al terminar 2.º y 4.º de ESO."
+    },
+    {
+      "question": "¿Qué ley educativa está vigente actualmente en España y qué relación tiene con la LOE?",
+      "options": [
+        "La LOMLOE (2020), que modifica la LOE y mantiene vigentes algunos de sus apartados",
+        "La LOMCE (2013), que complementa a la LOE",
+        "La LOMLOE (2020), que deroga completamente la LOE",
+        "La LOE (2006), sin modificaciones posteriores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LOMLOE deroga la LOMCE, pero parte de la LOE y la modifica, de modo que muchos de sus apartados siguen en vigor."
+    },
+    {
+      "question": "¿Qué justifica la LOMLOE en su preámbulo para su publicación?",
+      "options": [
+        "La necesidad de volver al modelo de la LGE",
+        "La necesidad de que los sistemas educativos se actualicen permanentemente para adaptarse a circunstancias cambiantes",
+        "La falta de leyes orgánicas sobre la FP",
+        "La obligación de aplicar las directrices de la OCDE"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El preámbulo alude a la necesidad de actualización permanente de los sistemas educativos ante circunstancias cambiantes. No se trata de un retorno a leyes anteriores ni de una obligación de la OCDE."
+    },
+    {
+      "question": "Según la LOMLOE, ¿qué forma la educación básica?",
+      "options": [
+        "Infantil, Primaria y ESO",
+        "Primaria, ESO y Bachillerato",
+        "Primaria, ESO y los ciclos formativos de grado básico",
+        "ESO, Bachillerato y FP de grado medio"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La LOMLOE integra en la educación básica la Educación Primaria, la ESO y los ciclos formativos de grado básico. Infantil y Bachillerato no forman parte de ella."
+    },
+    {
+      "question": "¿Qué elementos elimina la LOMLOE en relación con la evaluación y la clasificación de materias?",
+      "options": [
+        "La evaluación continua y los criterios de evaluación",
+        "Las competencias clave y las situaciones de aprendizaje",
+        "Los consejos orientadores y las evaluaciones de diagnóstico",
+        "La clasificación en troncales, específicas y libre configuración, las pruebas finales de etapa y los estándares de aprendizaje evaluables"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La LOMLOE suprime esa clasificación de materias, las pruebas finales y los estándares evaluables. Mantiene los criterios de evaluación, los consejos orientadores y las evaluaciones de diagnóstico."
+    },
+    {
+      "question": "¿Hacia qué debe estar dirigido el currículo según la LOMLOE?",
+      "options": [
+        "Hacia la memorización de contenidos para superar pruebas finales",
+        "Hacia el desarrollo de las competencias para lograr un aprendizaje significativo y el éxito escolar",
+        "Hacia la especialización temprana del alumnado",
+        "Hacia la uniformidad total de los contenidos en todo el territorio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El currículo se orienta al desarrollo de competencias, con aprendizaje significativo y éxito escolar. El enfoque memorístico y las reválidas son propios de modelos anteriores."
+    },
+    {
+      "question": "¿Qué principio fundamental pasa a ser la educación inclusiva en la LOMLOE?",
+      "options": [
+        "Un principio fundamental del sistema educativo",
+        "Una recomendación sin valor normativo",
+        "Una medida exclusiva de Educación Especial",
+        "Un programa opcional de cada comunidad autónoma"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LOMLOE eleva la educación inclusiva a principio fundamental. En la LOE el principio destacado era la atención a la diversidad."
+    },
+    {
+      "question": "¿Cómo se organiza la Educación Primaria con la LOMLOE?",
+      "options": [
+        "En dos ciclos de tres cursos",
+        "En cursos sin ciclos",
+        "En tres ciclos de dos cursos",
+        "En cuatro ciclos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La LOMLOE restablece los tres ciclos de la Educación Primaria. También reordena las áreas y las orienta al desarrollo de competencias."
+    },
+    {
+      "question": "¿Qué área se incluye en el tercer ciclo de Educación Primaria con la LOMLOE?",
+      "options": [
+        "Educación para la Ciudadanía y los Derechos Humanos",
+        "Valores Sociales y Cívicos",
+        "Cultura y Ética",
+        "Educación en Valores Cívicos y Éticos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El área de Educación en Valores Cívicos y Éticos se incluye en el tercer ciclo de Primaria y la materia equivalente en la ESO. Educación para la Ciudadanía era la asignatura de la LOE."
+    },
+    {
+      "question": "¿En qué condiciones puede el alumnado de Primaria permanecer un año más en el último curso del ciclo?",
+      "options": [
+        "Como medida excepcional, si no alcanza las competencias, con un plan específico y personalizado de apoyo",
+        "Siempre que la familia lo solicite",
+        "De forma automática si suspende dos áreas",
+        "Solo si el centro es concertado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La permanencia es una medida excepcional que debe acompañarse de un plan específico y personalizado de apoyo; no es automática ni depende de la solicitud de las familias."
+    },
+    {
+      "question": "¿En qué curso de Educación Primaria se realiza la evaluación de diagnóstico con la LOMLOE?",
+      "options": [
+        "En 2.º curso",
+        "En 4.º curso",
+        "En 6.º curso",
+        "En 3.º curso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LOMLOE prevé una evaluación de diagnóstico en 4.º de Primaria y otra en 2.º de ESO, de carácter formativo y no vinculada a titulación."
+    },
+    {
+      "question": "¿Entre qué edades se organiza la ESO con la LOMLOE y cómo es su estructura?",
+      "options": [
+        "De 11 a 15 años, con itinerarios desde 3.º",
+        "De 12 a 16 años, con 4.º con mayor carga optativa orientada a las modalidades de Bachillerato",
+        "De 12 a 16 años, con itinerarios desde 2.º",
+        "De 14 a 18 años, con 4.º como curso de orientación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La ESO abarca de los 12 a los 16 años; 1.º, 2.º y 3.º se organizan de modo similar y 4.º tiene mayor carga optativa orientada a Bachillerato. Se eliminan los itinerarios y la jerarquía entre materias."
+    },
+    {
+      "question": "¿Qué cambios en los itinerarios y la jerarquía entre materias introduce la LOMLOE en la ESO?",
+      "options": [
+        "Mantiene los itinerarios de la LOCE",
+        "Introduce itinerarios desde 2.º",
+        "Elimina los itinerarios y la jerarquía entre materias",
+        "Mantiene solo la jerarquía entre materias troncales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La LOMLOE suprime tanto los itinerarios como la jerarquía entre materias en la ESO."
+    },
+    {
+      "question": "¿Cuándo se realiza la evaluación de diagnóstico de las competencias en la ESO según la LOMLOE?",
+      "options": [
+        "En 1.º de ESO",
+        "En 3.º de ESO",
+        "En 4.º de ESO",
+        "En 2.º de ESO"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La evaluación de diagnóstico se realiza en 2.º de ESO. No es una reválida para obtener el título, sino una herramienta formativa."
+    },
+    {
+      "question": "¿Cuándo se entrega un consejo orientador a cada alumno en la ESO según la LOMLOE?",
+      "options": [
+        "Al finalizar 2.º y 4.º",
+        "Al finalizar 1.º y 3.º",
+        "Solo al finalizar 4.º",
+        "Al finalizar cada curso"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Con la LOMLOE el consejo orientador se entrega al finalizar 2.º y 4.º de ESO. Con la LOMCE se entregaba al finalizar cada curso."
+    },
+    {
+      "question": "¿Desde qué curso de ESO pueden cursarse los ciclos formativos de grado básico para atender la diversidad?",
+      "options": [
+        "Desde 1.º de ESO",
+        "Desde 3.º de ESO",
+        "Desde 2.º de ESO",
+        "Desde 4.º de ESO"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para atender la diversidad, se podrán cursar programas de diversificación curricular y del rendimiento, y los ciclos formativos de grado básico, a partir de 3.º de ESO."
+    },
+    {
+      "question": "¿Cuántas veces puede permanecer el alumnado en el mismo curso de ESO según la LOMLOE?",
+      "options": [
+        "Dos veces en el mismo curso",
+        "Ninguna, la promoción es automática",
+        "Una vez en el mismo curso y dos veces en toda la etapa, con la posibilidad excepcional de un año más en 4.º",
+        "Tres veces en toda la etapa sin excepciones"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El alumnado puede repetir una vez el mismo curso y dos a lo largo de la etapa; de forma excepcional puede permanecer un año más en 4.º de ESO."
+    },
+    {
+      "question": "¿Qué real decreto regula la ordenación y las enseñanzas mínimas de la ESO?",
+      "options": [
+        "Real Decreto 157/2022",
+        "Real Decreto 95/2022",
+        "Real Decreto 243/2022",
+        "Real Decreto 217/2022"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El RD 217/2022, de 29 de marzo, regula la ESO. El 157/2022 corresponde a Primaria, el 95/2022 a Infantil y el 243/2022 a Bachillerato."
+    },
+    {
+      "question": "¿Qué cambia en las modalidades del Bachillerato con la LOMLOE?",
+      "options": [
+        "Se suprimen las modalidades y se establece un Bachillerato único",
+        "Se añade la modalidad de Bachillerato general a las ya existentes",
+        "Se eliminan las modalidades de artes y humanidades",
+        "Se crean tres nuevas vías profesionales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A las modalidades de ciencias y tecnología, humanidades y ciencias sociales y artes se añade el Bachillerato general."
+    },
+    {
+      "question": "¿Cómo se organiza el Bachillerato en cuanto al reparto de competencias entre Gobierno y comunidades?",
+      "options": [
+        "Todas las materias las regula el Gobierno",
+        "Todas las materias las regulan las comunidades",
+        "Las materias comunes y de modalidad las regula el Gobierno y las optativas las regulan las comunidades",
+        "Las comunes las regulan las comunidades y las de modalidad el Gobierno"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Bachillerato se organiza en materias comunes y de modalidad, reguladas por el Gobierno, y optativas, que regulan las comunidades."
+    },
+    {
+      "question": "¿Cuándo promocionan los alumnos de 1.º a 2.º de Bachillerato según la LOMLOE?",
+      "options": [
+        "Solo si superan todas las materias",
+        "Con evaluación negativa en tres materias como máximo",
+        "Con evaluación negativa en una materia como máximo",
+        "Con todas las materias superadas o evaluación negativa en dos como máximo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Promocionan con todas las materias superadas o con evaluación negativa en dos como máximo. Para obtener el título de Bachillerato se puede tener una pendiente."
+    },
+    {
+      "question": "¿Qué condición permite obtener el título de Bachillerato con la LOMLOE?",
+      "options": [
+        "Haber superado todas las asignaturas o salvo una",
+        "Superar una prueba final de etapa",
+        "Haber aprobado únicamente las materias comunes",
+        "Tener la ESO con calificación superior a 7"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Obtiene el título el alumnado que haya superado todas las asignaturas o salvo una. La LOMLOE suprimió las pruebas finales de etapa."
+    },
+    {
+      "question": "¿Qué real decreto regula la ordenación y las enseñanzas mínimas del Bachillerato?",
+      "options": [
+        "Real Decreto 217/2022",
+        "Real Decreto 243/2022",
+        "Real Decreto 659/2023",
+        "Real Decreto 3/2018"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El RD 243/2022, de 5 de abril, regula el Bachillerato. El RD 659/2023 se refiere a la FP y el RD 3/2018 al Observatorio Estatal de la Convivencia Escolar."
+    },
+    {
+      "question": "¿Qué novedad en orientación aporta la LOMLOE respecto a la orientación en Secundaria?",
+      "options": [
+        "La limita a los alumnos con necesidades especiales",
+        "Incorpora la orientación educativa y profesional con perspectiva inclusiva y no sexista",
+        "La traslada exclusivamente a las familias",
+        "La suprime en Bachillerato"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LOMLOE reconoce el derecho básico a la orientación, incorpora la orientación con perspectiva inclusiva y no sexista en Secundaria y menciona explícitamente las tareas de orientación en Primaria."
+    },
+    {
+      "question": "¿Quiénes son los responsables de promover medidas de tutoría y orientación del alumnado según la LOMLOE?",
+      "options": [
+        "Los departamentos didácticos",
+        "Las asociaciones de familias",
+        "Las Administraciones públicas",
+        "Los equipos directivos exclusivamente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las Administraciones públicas son las responsables de promover las medidas de tutoría y orientación. Además, se incluye acompañamiento socioeducativo personalizado."
+    },
+    {
+      "question": "¿Qué se pretende en Bachillerato respecto a poder cursar materias en otros centros o a distancia según la LOMLOE?",
+      "options": [
+        "Se prohíbe cursar materias fuera del propio centro",
+        "Se permite solo en centros privados",
+        "Se limita a materias optativas de 2.º",
+        "Se recupera la posibilidad cuando no exista la opción en el propio centro"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La LOMLOE recupera la posibilidad de cursar alguna materia en otros centros o a distancia cuando el propio centro no la ofrezca."
+    },
+    {
+      "question": "¿Cuál es la finalidad general de las medidas de refuerzo y apoyo en la ESO según la LOMLOE?",
+      "options": [
+        "Facilitar que el alumnado alcance los objetivos y obtenga el título",
+        "Reducir el número de materias del currículo",
+        "Preparar para pruebas externas de etapa",
+        "Dividir al alumnado en itinerarios cerrados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se adoptan medidas curriculares y organizativas de refuerzo y apoyo para que el alumnado alcance los objetivos y obtenga el título. No se trata de segregar ni de preparar reválidas."
+    },
+    {
+      "question": "¿Qué ocurre con las comunidades autónomas en el desarrollo de los decretos de ordenación de enseñanzas?",
+      "options": [
+        "No pueden regular los niveles educativos",
+        "Cada comunidad autónoma establece sus decretos de ordenación en cada nivel",
+        "Solo regulan la Formación Profesional",
+        "Solo regulan la Educación Infantil"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cada comunidad autónoma establece sus decretos relativos a la ordenación de las enseñanzas en cada nivel educativo, a partir de las enseñanzas mínimas estatales."
+    },
+    {
+      "question": "Si un centro de Educación Infantil de primer ciclo quiere abrir, ¿qué aporta la LOMLOE al respecto?",
+      "options": [
+        "Prohíbe los centros privados de primer ciclo",
+        "Hace obligatorio el primer ciclo",
+        "Regula los requisitos que deben cumplir los centros que impartan el primer ciclo de Educación Infantil",
+        "Limita el primer ciclo a los centros públicos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La LOMLOE regula los requisitos de los centros de primer ciclo de Infantil y exige continuidad curricular entre Infantil y Primaria. No hace obligatorio el ciclo."
+    },
+    {
+      "question": "En el desarrollo curricular de la LOMLOE, ¿qué debe reflejar entre Educación Infantil y Educación Primaria?",
+      "options": [
+        "La separación completa de ambas etapas",
+        "La reducción de contenidos en Infantil",
+        "El predominio de materias instrumentales",
+        "La continuidad entre ambas etapas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El desarrollo curricular debe reflejar continuidad entre Infantil y Primaria, favoreciendo una transición coherente."
+    },
+    {
+      "question": "Se quiere comparar la LOCE y la LOMLOE respecto a la ESO. ¿Qué diferencia es correcta?",
+      "options": [
+        "La LOCE eliminaba los itinerarios y la LOMLOE los introducía",
+        "La LOCE organizaba itinerarios desde los 14 años y la LOMLOE los elimina",
+        "Ambas organizan itinerarios desde los 14 años",
+        "Ambas eliminan los itinerarios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LOCE organizaba la ESO en itinerarios desde los 14 años, mientras que la LOMLOE los elimina junto con la jerarquía entre materias."
+    },
+    {
+      "question": "¿Qué sucede con las pruebas finales de etapa al pasar de la LOMCE a la LOMLOE?",
+      "options": [
+        "Se mantienen en Bachillerato únicamente",
+        "Se trasladan a la Primaria",
+        "Se eliminan las de cada etapa",
+        "Se convierten en pruebas obligatorias para el profesorado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La LOMLOE elimina las pruebas finales de cada etapa y los estándares de aprendizaje evaluables, sustituyéndolos por evaluaciones de diagnóstico formativas."
+    },
+    {
+      "question": "¿Cómo se relaciona la LOMLOE con la estructura del sistema educativo establecida por la LOGSE?",
+      "options": [
+        "La sustituye por una estructura en cuatro etapas",
+        "Reduce la escolarización obligatoria a 14 años",
+        "Elimina la Educación Infantil",
+        "Mantiene en lo esencial la estructura de etapas, con matices como la educación básica con los ciclos de grado básico"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La estructura de la LOGSE se mantiene vigente; la LOMLOE añade matices como incluir los ciclos formativos de grado básico en la educación básica."
+    },
+    {
+      "question": "Un profesor quiere saber qué ley introdujo el concepto de 'competencias básicas' en el currículo. ¿Cuál es?",
+      "options": [
+        "La LOE (2006)",
+        "La LOGSE (1990)",
+        "La LOCE (2002)",
+        "La LOMCE (2013)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LOE introdujo las competencias básicas como nuevo elemento curricular para toda la etapa obligatoria. La LOMCE las renombró como competencias clave."
+    },
+    {
+      "question": "¿Qué se pretende con la flexibilización de las condiciones de acceso a la FP en la LOMLOE?",
+      "options": [
+        "Eliminar los ciclos de grado medio",
+        "Establecer pasarelas con el resto del sistema educativo",
+        "Reservar la FP a mayores de 25 años",
+        "Limitar el acceso a quienes tienen Bachillerato"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LOMLOE flexibiliza el acceso (curso y prueba) y establece pasarelas con el resto del sistema, de modo que el alumnado pueda moverse entre vías."
+    },
+    {
+      "question": "¿A quién se dirigen las ofertas específicas de ciclos formativos de grado básico que contempla la LOMLOE?",
+      "options": [
+        "Al alumnado con necesidades educativas especiales",
+        "Al alumnado con altas capacidades",
+        "Al alumnado universitario",
+        "A los docentes en ejercicio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se organizan ofertas específicas de ciclos de grado básico dirigidas al alumnado con necesidades educativas especiales."
+    },
+    {
+      "question": "¿A quién se destinan los programas formativos específicos que se podrán organizar en la FP según la LOMLOE?",
+      "options": [
+        "A menores de 14 años en riesgo de exclusión",
+        "A mayores de 17 años que abandonaron el sistema educativo sin cualificación",
+        "A mayores de 30 años con titulación universitaria",
+        "A cualquier alumno de Bachillerato"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Estos programas se dirigen a mayores de 17 años que abandonaron el sistema sin cualificación, con el objetivo de reincorporarlos a la formación."
+    },
+    {
+      "question": "¿Qué títulos se pueden obtener con la Formación Profesional Básica?",
+      "options": [
+        "Solo el título de técnico superior",
+        "El título de Bachiller y el de técnico",
+        "Únicamente el certificado de escolaridad",
+        "El título de ESO, si se superan los ámbitos, y el de técnico básico de la especialidad"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Superando los ámbitos de comunicación y ciencias sociales, ciencias aplicadas y profesional se puede obtener el título de ESO; también el de técnico básico."
+    },
+    {
+      "question": "¿Qué ámbitos se imparten en la Formación Profesional Básica?",
+      "options": [
+        "Comunicación y ciencias sociales, ciencias aplicadas y profesional",
+        "Lingüístico, científico y artístico",
+        "Humanidades, tecnología y deportes",
+        "Matemático, social y empresarial"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La FP Básica se organiza en el ámbito de comunicación y ciencias sociales, el de ciencias aplicadas y el profesional."
+    },
+    {
+      "question": "¿Qué ley orgánica posterior a la LOMLOE regula la ordenación e integración de la Formación Profesional?",
+      "options": [
+        "Ley Orgánica 3/2020",
+        "Ley Orgánica 3/2022",
+        "Ley Orgánica 8/2013",
+        "Ley Orgánica 10/2002"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Ley Orgánica 3/2022, de 31 de marzo, ordena e integra la FP. La 3/2020 es la LOMLOE, la 8/2013 la LOMCE y la 10/2002 la LOCE."
+    },
+    {
+      "question": "¿Qué modelo de oferta formativa establece la Ley Orgánica 3/2022?",
+      "options": [
+        "Una oferta modular, única y flexible",
+        "Una oferta anual y rígida por familias profesionales",
+        "Una oferta exclusivamente presencial",
+        "Una oferta dual obligatoria para todos los ciclos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La ley establece una oferta modular, única y flexible y se aplica progresivamente desde 2022."
+    },
+    {
+      "question": "¿Qué integra la Ley Orgánica 3/2022 respecto a los dos tipos de FP existentes?",
+      "options": [
+        "Mantiene separadas la FP educativa y la FP para el empleo",
+        "Suprime la FP para el empleo",
+        "Integra la FP educativa y la FP para el empleo bajo el Ministerio de Educación y Formación Profesional",
+        "Traslada la FP educativa al Ministerio de Empleo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ambas quedan reguladas por el Ministerio de Educación y Formación Profesional y forman parte de la educación reglada. Antes, la FP para el empleo dependía del Ministerio de Empleo."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre la FP educativa y la FP para el empleo antes de la nueva ley?",
+      "options": [
+        "La educativa conduce a certificados y la del empleo a títulos oficiales",
+        "Ambas conducían a certificados",
+        "Ambas conducían a títulos oficiales",
+        "La educativa conduce a títulos oficiales y la del empleo a certificados"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La FP educativa forma parte del sistema reglado y conduce a títulos oficiales; la FP para el empleo (bonificada, de empresas, paro) conducía a certificados."
+    },
+    {
+      "question": "¿Qué real decreto regula la ordenación de la oferta formativa de FP en consonancia con la Ley Orgánica 3/2022?",
+      "options": [
+        "RD 659/2023",
+        "RD 217/2022",
+        "RD 3/2018",
+        "RD 95/2022"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El RD 659/2023 regula la ordenación de la oferta formativa de FP del sistema educativo en consonancia con la LO 3/2022."
+    },
+    {
+      "question": "¿Qué refleja que el texto considere la Ley Orgánica 3/2022 como una ley de la Formación Profesional distinta de los reales decretos del resto de etapas?",
+      "options": [
+        "Que la FP carece de currículo",
+        "Que la FP se regula también por una ley específica y por reales decretos según la familia profesional",
+        "Que la FP depende solo de las comunidades",
+        "Que la FP solo se rige por normas europeas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La FP tiene una situación especial: cuenta con una ley específica y además se regula mediante varios reales decretos según la familia profesional."
+    },
+    {
+      "question": "¿Qué recoge la LOCFP (2002)?",
+      "options": [
+        "Las enseñanzas artísticas superiores",
+        "La evaluación de la docencia",
+        "Un sistema integrado de FP mediante el Catálogo Nacional de Cualificaciones Profesionales",
+        "La regulación de los conciertos educativos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Ley Orgánica de las Cualificaciones y de la Formación Profesional de 2002 estableció un sistema integrado de FP a través del Catálogo Nacional de Cualificaciones Profesionales. Actualmente está derogada."
+    },
+    {
+      "question": "¿Qué recoge la Resolución de 29 de abril de 1996 sobre los departamentos de orientación?",
+      "options": [
+        "La organización de los consejos escolares",
+        "Los requisitos de los centros concertados",
+        "El régimen de las enseñanzas artísticas",
+        "Las funciones específicas de los profesionales del departamento de orientación"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La resolución recoge las funciones de los profesionales del departamento de orientación en los institutos de Secundaria, relacionadas con la orientación y la atención a la diversidad."
+    },
+    {
+      "question": "¿Cuál de estos profesionales forma parte del departamento de orientación según la Resolución de 1996?",
+      "options": [
+        "Profesorado de Pedagogía Terapéutica y de Audición y Lenguaje",
+        "Inspectores educativos",
+        "Representantes de ayuntamientos",
+        "Directores de centros concertados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Forman parte del departamento el profesorado de psicología y pedagogía, de apoyo a los ámbitos, de PT y AL, de FOL, el profesorado técnico de servicios a la comunidad y el jefe del departamento."
+    },
+    {
+      "question": "¿Cuál es la función principal del Observatorio Estatal de la Convivencia Escolar según el RD 3/2018?",
+      "options": [
+        "Evaluar a los docentes",
+        "Asesorar y elaborar informes y estudios para mejorar la convivencia y prevenir el acoso escolar",
+        "Elaborar los currículos autonómicos",
+        "Gestionar las becas de estudio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Es un órgano colegiado interministerial que asesora, elabora informes, hace seguimiento del Plan Estratégico de Convivencia Escolar y propone medidas para mejorar el clima escolar y prevenir el acoso y el ciberbullying."
+    },
+    {
+      "question": "¿Cuándo se creó el Observatorio Estatal de la Convivencia Escolar y cuándo se modificó su definición?",
+      "options": [
+        "Se creó en 2007 y se modificó en 2018",
+        "Se creó en 2002 y se modificó en 2007",
+        "Se creó en 2018 y se modificó en 2022",
+        "Se creó en 1996 y se modificó en 2007"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Fue creado en 2007 (RD 275/2007) y el RD 3/2018 modificó su definición, funciones y composición."
+    },
+    {
+      "question": "¿Qué dos medidas de mejora de la docencia establece la Ley 4/2019?",
+      "options": [
+        "Garantizar que no se supere la ratio máxima de alumnos por aula y fijar la parte lectiva de la jornada semanal",
+        "Aumentar los salarios y reducir las vacaciones",
+        "Obligar a evaluar al profesorado y bonificar la FP",
+        "Establecer la jornada continua y suprimir los deberes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las Administraciones deben proveer recursos para no superar la ratio máxima y establecer la parte lectiva de la jornada del personal docente en cada comunidad."
+    },
+    {
+      "question": "¿Qué máximos de horas lectivas semanales se recomiendan en la Ley 4/2019?",
+      "options": [
+        "25 horas en Infantil y 20 en el resto",
+        "23 horas en Infantil, Primaria y Educación Especial y 18 en el resto de enseñanzas",
+        "20 horas en todos los niveles",
+        "18 horas en Infantil y 23 en el resto"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se recomienda un máximo de 23 horas lectivas en Infantil, Primaria y Educación Especial, y 18 en el resto de enseñanzas, como Secundaria."
+    },
+    {
+      "question": "¿Qué es el Marco de Referencia de la Competencia Digital Docente?",
+      "options": [
+        "Un currículo de informática para el alumnado",
+        "Un reglamento de uso de redes en los centros",
+        "Una plataforma de formación obligatoria",
+        "Un marco para el diagnóstico y la mejora de las competencias digitales del profesorado, con áreas y niveles de desarrollo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Define áreas y niveles de desarrollo que los docentes deben alcanzar. Se complementa con herramientas como SELFIE for TEACHERS del INTEF."
+    },
+    {
+      "question": "¿Qué artículo de la Declaración Universal de los Derechos Humanos (1948) recoge el derecho a la educación y a qué artículo de la Constitución española se corresponde?",
+      "options": [
+        "Artículo 26, que en España se refleja en el artículo 27",
+        "Artículo 27, que en España se refleja en el artículo 26",
+        "Artículo 10, que en España se refleja en el artículo 14",
+        "Artículo 26, que en España se refleja en el artículo 9"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 26 de la Declaración Universal recoge el derecho a la educación y en la Constitución de 1978 se refleja en el artículo 27."
+    },
+    {
+      "question": "¿Qué recoge la Declaración de los Derechos del Niño de 1959 respecto a la educación?",
+      "options": [
+        "La universalidad de la enseñanza superior",
+        "El derecho a recibir una educación obligatoria y gratuita, al menos, en las etapas elementales",
+        "La obligación de educar solo en la lengua materna",
+        "La gratuidad del Bachillerato"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se reconoce el derecho de los niños y niñas a una educación obligatoria y gratuita, al menos en las etapas elementales."
+    },
+    {
+      "question": "¿Qué publicación de la OCDE analiza la evolución de los sistemas educativos, su financiación y el impacto de la formación en el mercado de trabajo y la economía?",
+      "options": [
+        "Education Policy Outlook",
+        "Education Indicators in Focus",
+        "Education at a Glance",
+        "Eurydice"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Education at a Glance (Panorama de la Educación) es la recopilación anual de indicadores. Education Indicators in Focus destaca indicadores concretos y Education Policy Outlook analiza la evolución de políticas y reformas."
+    },
+    {
+      "question": "¿Qué finalidad tiene Education Policy Outlook?",
+      "options": [
+        "Publicar las clasificaciones de universidades",
+        "Evaluar a los docentes de cada país",
+        "Elaborar los currículos de los países miembros",
+        "Analizar la evolución de las prioridades políticas y los resultados de las reformas educativas, de infantil a adultos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Es un programa de la OCDE para analizar mediante comparativas la evolución de políticas y los resultados de las reformas, desde la educación infantil hasta la de adultos."
+    },
+    {
+      "question": "¿Desde qué año es España miembro de la Unión Europea y qué hace la UE en materia educativa?",
+      "options": [
+        "Desde 1986; promueve la movilidad estudiantil, el multilingüismo y el intercambio de experiencias",
+        "Desde 1978; fija el currículo de cada país",
+        "Desde 1992; sustituye a los ministerios de educación",
+        "Desde 1986; impone una única estructura de etapas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "España es miembro desde 1986. La UE apoya a los Estados, promueve la movilidad, el multilingüismo y el intercambio de información, pero no impone un currículo ni una estructura única."
+    },
+    {
+      "question": "¿Qué marco establece siete objetivos para 2030 en la cooperación europea en educación?",
+      "options": [
+        "El Marco estratégico de cooperación europea en educación y formación con miras al Espacio Europeo de Educación 2021-2030",
+        "La Recomendación 2006/962/CE",
+        "El Proyecto DeSeCo",
+        "La Recomendación 2018/C 189/01"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Es el marco del Consejo de la UE (2021) que establece 7 objetivos para 2030. Las recomendaciones de 2006 y 2018 se centran en las competencias clave."
+    },
+    {
+      "question": "Según el marco europeo 2021-2030, ¿qué porcentaje de abandono temprano de la educación y la formación debe ser inferior?",
+      "options": [
+        "Al 15 %",
+        "Al 9 %",
+        "Al 47 %",
+        "Al 5 %"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El porcentaje de alumnos que abandonan prematuramente debe ser inferior al 9 %. El 15 % se aplica al bajo rendimiento en lectura, matemáticas, ciencias o alfabetización informática."
+    },
+    {
+      "question": "Según el marco europeo, ¿qué porcentaje mínimo de niños desde los 3 años hasta la edad de escolarización obligatoria debe participar en educación infantil?",
+      "options": [
+        "El 60 %",
+        "El 45 %",
+        "El 96 %",
+        "El 85 %"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Al menos el 96 % de los niños entre 3 años y la edad obligatoria debe participar en educación infantil y atención a la infancia."
+    },
+    {
+      "question": "¿Qué objetivo europeo para 2030 se refiere a las personas de 25 a 34 años?",
+      "options": [
+        "Al menos el 45 % debe tener una cualificación de educación superior",
+        "Al menos el 60 % debe haber hecho aprendizaje en el trabajo",
+        "Al menos el 47 % debe haber participado en aprendizaje en los últimos 12 meses",
+        "Menos del 15 % debe tener bajo rendimiento en lectura"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El objetivo es que al menos el 45 % de las personas de 25 a 34 años tengan educación superior. El 47 % se refiere a adultos de 25 a 64 años en actividades de aprendizaje."
+    },
+    {
+      "question": "¿Qué objetivo europeo para 2030 está relacionado con la FP?",
+      "options": [
+        "Al menos el 96 % en educación infantil",
+        "Menos del 9 % de abandono",
+        "Al menos el 60 % de titulados recientes de FP debe haberse beneficiado del aprendizaje en el trabajo",
+        "Menos del 15 % en alfabetización informática"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El primer objetivo del marco es que al menos el 60 % de los titulados recientes de FP se haya beneficiado del aprendizaje en el trabajo."
+    },
+    {
+      "question": "Si un estudiante de la ESO tiene un nivel insuficiente en alfabetización informática, ¿a qué objetivo europeo 2030 contribuye reducirlo?",
+      "options": [
+        "Que los estudiantes de la primera etapa de Secundaria con nivel insuficiente en alfabetización informática y de gestión de la información sean menos del 15 %",
+        "Que los adultos participen en el 47 % de actividades de aprendizaje",
+        "Que el 96 % participe en educación infantil",
+        "Que el 45 % de jóvenes tenga educación superior"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El cuarto objetivo fija que el porcentaje de estudiantes de la primera etapa de Secundaria sin una cualificación adecuada en alfabetización informática debe ser inferior al 15 %."
+    },
+    {
+      "question": "¿Qué término se utiliza como correcto por la RAE y cuál emplea la normativa legal vigente?",
+      "options": [
+        "Solo currículum es correcto; la normativa usa currículum",
+        "Ambos son correctos; la literatura científica usa principalmente currículum y la normativa solo currículo",
+        "Solo currículo es correcto; la literatura usa currículo",
+        "Ambos son correctos; la normativa usa solo currículum"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La RAE admite ambos términos. La literatura científica emplea principalmente currículum y la normativa legal vigente solo currículo. Sus plurales son currículums y currículos."
+    },
+    {
+      "question": "¿Qué ocurre con la definición de currículo en la literatura?",
+      "options": [
+        "Existe una única definición universalmente aceptada",
+        "Está definido exclusivamente por la UNESCO",
+        "No existe una definición única que incluya todas las visiones, aunque la mayoría alude a los contenidos, su selección y organización",
+        "Se limita al plan de estudios de una carrera"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según Aparisi, no hay una definición única; en la mayoría se hace referencia a contenidos, su selección y su organización, de modo que el currículo da sentido a lo que se intenta aprender."
+    },
+    {
+      "question": "¿Cómo define la LOMLOE el currículo?",
+      "options": [
+        "El conjunto de contenidos y horarios de cada curso",
+        "El plan de estudios que elabora cada docente",
+        "El conjunto de materias obligatorias de cada etapa",
+        "El conjunto de objetivos, competencias, contenidos, métodos pedagógicos y criterios de evaluación de cada una de las enseñanzas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La LOMLOE define el currículo como el conjunto de objetivos, competencias, contenidos, métodos pedagógicos y criterios de evaluación de cada enseñanza regulada en la ley."
+    },
+    {
+      "question": "¿Qué se considera parte del currículo en la Formación Profesional, además de los elementos generales?",
+      "options": [
+        "Los resultados de aprendizaje",
+        "Los estándares de aprendizaje evaluables",
+        "Las pruebas externas",
+        "Los itinerarios"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la FP se consideran parte del currículo los resultados de aprendizaje. Los estándares evaluables fueron eliminados por la LOMLOE."
+    },
+    {
+      "question": "¿Para qué es fundamental el currículo en la labor docente?",
+      "options": [
+        "Para elaborar las programaciones didácticas de los departamentos y las programaciones de aula",
+        "Para sustituir la evaluación del alumnado",
+        "Para decidir la ratio de cada aula",
+        "Para fijar la jornada lectiva"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El currículo es la base de las programaciones didácticas de departamento y de aula, y por eso es esencial para el correcto desarrollo de la tarea docente."
+    },
+    {
+      "question": "¿Cuál de las leyes anteriores a la LOE mantiene en vigor algunos de sus artículos?",
+      "options": [
+        "La LOCE",
+        "La LODE",
+        "La LOPEG",
+        "La LOECE"
+      ],
+      "correctAnswer": 1,
+      "explanation": "De la LODE de 1985 se mantienen en vigor algunos de sus artículos. La LOCE, la LOPEG y la LOECE están derogadas."
+    },
+    {
+      "question": "¿Qué tienen en común la LOECE (1980) y la LOCE (2002)?",
+      "options": [
+        "Ampliaron la escolaridad obligatoria hasta los 18 años",
+        "Crearon el actual sistema de competencias clave",
+        "Ninguna de las dos llegó a implantarse y ambas fueron derogadas",
+        "Ambas siguen en vigor parcialmente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La LOECE nunca llegó a implantarse y fue derogada por la LODE; las propuestas de la LOCE tampoco se implementaron y la LOE la derogó."
+    },
+    {
+      "question": "¿Qué enseñanzas de la LGE sustituye el Bachillerato de la LOGSE?",
+      "options": [
+        "El BUP y el COU",
+        "La EGB",
+        "La FP de primer grado",
+        "La Escuela de Párvulos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según la tabla comparativa, el Bachillerato de la LOGSE sustituye al BUP y al COU. La FP de primer y segundo grado se sustituye por los ciclos de grado medio y superior."
+    },
+    {
+      "question": "¿Qué ocurre con la FP de primer y segundo grado de la LGE en la LOGSE?",
+      "options": [
+        "Desaparece sin sustitución",
+        "Se transforma en FP de Grado Medio y de Grado Superior",
+        "Se integra en el Bachillerato",
+        "Se limita a la FP Básica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En la tabla comparativa, la FPI y la FPII de la LGE se convierten en la Formación Profesional de Grado Medio y de Grado Superior de la LOGSE."
+    },
+    {
+      "question": "¿Cuál es la diferencia principal en la escolarización obligatoria entre la LGE y la LOGSE?",
+      "options": [
+        "La LGE la fijaba hasta los 16 años y la LOGSE hasta los 14",
+        "La LGE la fijaba hasta los 14 años y la LOGSE la amplía hasta los 18",
+        "La LGE la fijaba hasta los 14 años y la LOGSE la amplía hasta los 16",
+        "No hay diferencia entre ambas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La LGE implantó la obligatoriedad hasta los 14 años y la LOGSE la amplió hasta los 16. Los 18 años solo marcan hasta cuándo se puede permanecer según la LOE."
+    },
+    {
+      "question": "¿Qué papel tiene el 4.º curso de la ESO en la LOCE?",
+      "options": [
+        "Es un curso de refuerzo para el alumnado con dificultades",
+        "Es un curso de libre configuración",
+        "Es un curso exclusivamente profesionalizante",
+        "Se denomina Curso para la orientación académica y profesional posobligatoria y tiene carácter propedéutico"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En la LOCE el 4.º curso tenía carácter propedéutico para estudios posteriores o inserción laboral."
+    },
+    {
+      "question": "¿Por qué se destaca la LOPEG como ley de gestión de centros?",
+      "options": [
+        "Porque regula órganos colegiados, función directiva, evaluación e inspección en centros sostenidos con fondos públicos",
+        "Porque crea el currículo por competencias",
+        "Porque amplía la escolaridad obligatoria",
+        "Porque regula la FP dual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LOPEG se centra en el gobierno, organización y evaluación de los centros públicos y concertados, y en la dirección. No se ocupa del currículo por competencias ni de la FP dual."
+    },
+    {
+      "question": "¿Qué función de la LOPEG sobre orientación aparece en el artículo 15?",
+      "options": [
+        "La Administración informa sobre los centros",
+        "El director nombra a los orientadores",
+        "El claustro de profesores coordina las funciones relativas a la orientación y la tutoría",
+        "El consejo escolar elabora el plan de orientación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 15 atribuye al claustro la coordinación de las funciones de orientación y tutoría; el artículo 6 se refiere a la información que debe dar la Administración."
+    },
+    {
+      "question": "¿Qué mejoró la LGE respecto a la formación de la Formación Profesional?",
+      "options": [
+        "La hizo exclusivamente universitaria",
+        "La construyó más adecuada a las demandas reales del mercado laboral",
+        "La suprimió para los menores de 16 años",
+        "La integró con el Ministerio de Empleo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre los aspectos relevantes de la LGE figura la construcción de una FP más adecuada a las demandas reales del mercado laboral."
+    },
+    {
+      "question": "Según el resumen, ¿qué problema se plantea para el sistema educativo español en las dos primeras décadas del siglo XXI?",
+      "options": [
+        "La falta de leyes educativas",
+        "La ausencia de competencias autonómicas",
+        "La inexistencia de currículo oficial",
+        "Los continuos cambios legislativos sin el consenso político, educativo y social necesario"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En apenas dos décadas se promulgaron la LOCE, la LOE, la LOMCE y la LOMLOE, sin tiempo para asentar un modelo estable. Se señala como cuestión por resolver para alcanzar la excelencia."
+    },
+    {
+      "question": "¿Qué leyes destaca el resumen como las que supusieron un antes y un después en la consolidación del sistema educativo español?",
+      "options": [
+        "La LGE (1970) y la LOGSE (1990)",
+        "La ley Moyano y la LOMLOE",
+        "La LODE y la LOPEG",
+        "La LOE y la LOMCE"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LGE y la LOGSE sentaron las bases del actual marco legislativo, según el resumen de la unidad."
+    },
+    {
+      "question": "¿Qué se entiende por reforma educativa según la figura del resumen?",
+      "options": [
+        "Un cambio espontáneo en las aulas",
+        "Cualquier cambio de metodología docente",
+        "La modificación de un currículo por un solo centro",
+        "Cambios planificados en la totalidad o en parte de los sistemas educativos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El término reforma se refiere a cambios planificados en todo o parte de los sistemas educativos, no a innovaciones aisladas."
+    },
+    {
+      "question": "¿Cómo ha evolucionado la visión del currículo según el resumen de la unidad?",
+      "options": [
+        "De un campo de estudio a una planificación rígida",
+        "De una planificación racional y teórica a un campo de estudio con enfoque más práctico y de proceso",
+        "De un documento único a un conjunto de programaciones",
+        "De un enfoque práctico a uno memorístico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El currículo ha pasado de verse como planificación racional y teórica a considerarse un campo de estudio para mejorar la calidad mediante un enfoque más práctico y de proceso."
+    },
+    {
+      "question": "¿Qué ley sobre orientación en la LOGSE y la LOPEG tiene en común su modelo institucional?",
+      "options": [
+        "Determinaron el modelo institucional de participación, evaluación y orientación educativa",
+        "Eliminaron la orientación del currículo",
+        "Crearon los consejos escolares",
+        "Establecieron la FP dual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LOGSE y la LOPEG, ambas derogadas, determinaron el modelo institucional de participación, evaluación y orientación. Los consejos escolares los creó la LODE."
+    },
+    {
+      "question": "¿Qué artículo de la LOMLOE desarrolla el concepto de currículo y sus características?",
+      "options": [
+        "Artículo 6",
+        "Artículo 91",
+        "Artículo 27",
+        "Artículo 157"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El artículo 6 de la LOMLOE define el currículo y de él se extraen sus características de abierto, flexible y dinámico."
+    },
+    {
+      "question": "¿Por qué se dice que el currículo es abierto?",
+      "options": [
+        "Porque cada docente lo redacta libremente",
+        "Porque el Gobierno fija los aspectos básicos para una formación común y cada comunidad autónoma los concreta",
+        "Porque las familias deciden sus contenidos",
+        "Porque se revisa cada curso por los alumnos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Es abierto porque el Gobierno establece los aspectos básicos para asegurar una formación común y las comunidades autónomas los concretan. La revisión periódica corresponde a su carácter dinámico."
+    },
+    {
+      "question": "¿Qué significa que el currículo sea flexible?",
+      "options": [
+        "Que se puede ignorar parcialmente",
+        "Que cambia cada año automáticamente",
+        "Que los centros, a partir de su idiosincrasia, desarrollan y completan los elementos del currículo",
+        "Que se adapta a cada alumno sin criterios comunes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La flexibilidad se refiere a la capacidad de los centros docentes de desarrollar y completar los elementos del currículo en cada etapa y ciclo según su realidad."
+    },
+    {
+      "question": "¿Qué caracteriza al currículo dinámico?",
+      "options": [
+        "Que nunca se modifica durante una etapa",
+        "Que se elabora solo con criterios políticos",
+        "Que se divide en materias independientes",
+        "Que los resultados de su implementación retroalimentan la planificación y se revisa periódicamente para adecuarlo a avances y nuevas exigencias"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Es dinámico porque se retroalimenta de los resultados y las Administraciones lo revisan periódicamente para adaptarlo a los avances del conocimiento y a las nuevas exigencias."
+    },
+    {
+      "question": "¿Cuántos tipos de currículo se diferencian en el temario?",
+      "options": [
+        "Cinco: formal, representado, oculto, experimentado y nulo",
+        "Tres: formal, oculto y nulo",
+        "Cuatro: formal, informal, oculto y vivido",
+        "Seis: incluyendo el currículo digital"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se diferencian cinco tipos según Darling-Hammond y la OIE-UNESCO: formal o explícito, representado u operacional, oculto o implícito, experimentado o vivido y nulo u olvidado. El currículo es solo uno, con distintas características."
+    },
+    {
+      "question": "¿Qué es el currículo formal o explícito?",
+      "options": [
+        "El que se manifiesta en las normas implícitas del centro",
+        "El que viene determinado en la legislación estatal y autonómica y establece los contenidos mínimos de cada etapa",
+        "El que el alumnado construye con su experiencia",
+        "El que incluye contenidos no especificados oficialmente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El currículo formal es el determinado por la legislación y fija los contenidos mínimos. El profesorado lo concreta en sus programaciones."
+    },
+    {
+      "question": "¿Cómo se traduce el currículo representado u operacional en el aula?",
+      "options": [
+        "En el articulado de los reales decretos",
+        "En los valores no explícitos del centro",
+        "En las actividades y experiencias de aprendizaje, los materiales y recursos y las interacciones entre agentes educativos",
+        "En los contenidos que no se enseñan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El currículo representado traslada la teoría del formal a la práctica mediante actividades, materiales y recursos e interacciones sociales."
+    },
+    {
+      "question": "Un docente que gestiona los conflictos de forma autoritaria transmite sin querer ciertos valores al alumnado. ¿A qué tipo de currículo corresponde?",
+      "options": [
+        "Currículo nulo",
+        "Currículo formal",
+        "Currículo representado",
+        "Currículo oculto"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El currículo oculto se manifiesta en fines no explícitos, normas institucionales y valores transmitidos de forma inconsciente, como la forma de impartir clase o gestionar conflictos."
+    },
+    {
+      "question": "¿Cuál de estas situaciones refleja el currículo oculto?",
+      "options": [
+        "La organización del espacio del aula y la arquitectura del centro",
+        "La programación didáctica del departamento",
+        "El listado de contenidos mínimos del real decreto",
+        "Las actividades de la unidad didáctica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La arquitectura del espacio educativo y la organización del aula transmiten valores de forma implícita. Las otras opciones son elementos explícitos del currículo."
+    },
+    {
+      "question": "¿A qué se refiere el currículo experimentado o vivido?",
+      "options": [
+        "A lo que figura en el boletín oficial",
+        "A la puesta en práctica del currículo formal teniendo en cuenta la realidad del aula y los conocimientos y perspectivas del alumnado",
+        "A lo que el docente decide no enseñar",
+        "A las normas no escritas del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El currículo vivido es la puesta en práctica del formal considerando la realidad del aula y cómo el alumnado construye su aprendizaje e interactúa con el currículum."
+    },
+    {
+      "question": "Un profesor decide enseñar un tema sobre ciudadanía digital que no aparece en el currículo oficial pero considera importante. ¿Qué tipo de currículo está aplicando?",
+      "options": [
+        "Currículo oculto",
+        "Currículo experimentado",
+        "Currículo nulo u olvidado, que aborda contenidos ausentes del formal que el docente considera relevantes",
+        "Currículo formal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El currículo nulo abarca áreas y contenidos que el currículo formal no especifica, pero cuya carencia puede ser importante y que el docente puede decidir impartir."
+    },
+    {
+      "question": "¿Qué diferencia fundamental hay entre el currículo formal y el currículo oculto?",
+      "options": [
+        "El formal es explícito y está fijado por ley; el oculto es implícito y se transmite mediante normas y valores no declarados",
+        "El formal lo elaboran las familias y el oculto los docentes",
+        "El formal es implícito y el oculto explícito",
+        "No hay diferencia, son sinónimos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El formal está determinado por la legislación; el oculto actúa en el plano implícito (autoridad, conducta, género, clases sociales...)."
+    },
+    {
+      "question": "¿Qué real decreto establece las enseñanzas mínimas de la Educación Infantil?",
+      "options": [
+        "Real Decreto 157/2022",
+        "Real Decreto 95/2022",
+        "Real Decreto 217/2022",
+        "Real Decreto 243/2022"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El RD 95/2022, de 1 de febrero, regula la Educación Infantil. El 157/2022 corresponde a Primaria, el 217/2022 a ESO y el 243/2022 a Bachillerato."
+    },
+    {
+      "question": "¿Qué real decreto establece las enseñanzas mínimas de la Educación Primaria?",
+      "options": [
+        "Real Decreto 95/2022",
+        "Real Decreto 243/2022",
+        "Real Decreto 157/2022",
+        "Real Decreto 3/2018"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El RD 157/2022, de 1 de marzo, ordena la Educación Primaria y fija sus enseñanzas mínimas."
+    },
+    {
+      "question": "¿Por qué hay varios reales decretos para la Formación Profesional?",
+      "options": [
+        "Porque cada comunidad redacta el suyo",
+        "Porque la FP no tiene currículo",
+        "Porque solo se regula por normas europeas",
+        "Porque, además de la ley específica, se regula de forma distinta según la familia profesional"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La FP cuenta con la Ley Orgánica 3/2022 y se regula mediante diferentes reales decretos según la familia profesional."
+    },
+    {
+      "question": "¿A quién corresponde el establecimiento y la organización del currículo de la educación no universitaria, una vez fijadas las enseñanzas mínimas del Estado?",
+      "options": [
+        "A cada comunidad autónoma mediante decretos",
+        "Exclusivamente al Ministerio de Educación",
+        "A cada centro sin intervención de la Administración",
+        "A las diputaciones provinciales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Con el Estado autonómico, los territorios tienen competencias educativas y corresponde a cada comunidad desarrollar y aprobar el currículo mediante decretos, a partir de las enseñanzas mínimas del Estado."
+    },
+    {
+      "question": "El Decreto 39/2022 de Castilla y León establece la ordenación y el currículo de la ESO. ¿Qué ilustra este ejemplo?",
+      "options": [
+        "Que el currículo estatal no tiene validez",
+        "Que las comunidades autónomas concretan el currículo estatal mediante decretos propios",
+        "Que Castilla y León se rige por otra ley orgánica",
+        "Que los decretos sustituyen a los reales decretos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los decretos autonómicos desarrollan y concretan las enseñanzas mínimas de los reales decretos estatales. No los sustituyen ni los invalidan."
+    },
+    {
+      "question": "¿Qué diferencia hay entre las enseñanzas mínimas y el currículo de una comunidad autónoma?",
+      "options": [
+        "Las mínimas son optativas y el currículo autonómico obligatorio",
+        "Las mínimas corresponden a la FP y el currículo autonómico a Bachillerato",
+        "Las mínimas son el marco estatal común que cada comunidad desarrolla y completa en su currículo",
+        "No hay ninguna diferencia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Estado fija el marco común (enseñanzas mínimas) y cada comunidad lo desarrolla en su currículo mediante decretos, lo que refleja el carácter abierto del currículo."
+    },
+    {
+      "question": "¿Qué definió el Proyecto DeSeCo en 2003?",
+      "options": [
+        "Los objetivos de la UE para 2030",
+        "Las ocho competencias clave españolas",
+        "La estructura de las enseñanzas de FP",
+        "El concepto de competencia como capacidad de responder a demandas complejas y llevar a cabo tareas diversas de forma adecuada"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El Proyecto Definition and Selection of Competencies (DeSeCo) de la OCDE definió la competencia como la capacidad de responder a demandas complejas y llevar a cabo tareas diversas de forma adecuada."
+    },
+    {
+      "question": "Según la Orden ECD/65/2015, ¿qué supone una competencia?",
+      "options": [
+        "Una combinación de habilidades prácticas, conocimientos, motivación, valores, actitudes y otros componentes que se movilizan conjuntamente para lograr una acción eficaz",
+        "Un conocimiento teórico memorizado",
+        "Una habilidad manual específica",
+        "Un contenido evaluado en pruebas finales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La competencia es la movilización conjunta de saberes, habilidades, valores y actitudes para actuar eficazmente, no simplemente conocimientos memorizados."
+    },
+    {
+      "question": "¿En qué contextos se puede adquirir el conocimiento práctico que implica ser competente?",
+      "options": [
+        "Únicamente en contextos formales",
+        "En contextos formales, no formales (p. ej., actividades extraescolares) e informales (p. ej., jugar con amigos)",
+        "Solo en contextos formales y no formales",
+        "Solo en el ámbito laboral"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Este conocimiento se adquiere en contextos formales, no formales (extraescolares) e informales (juego con amigos), por lo que el ámbito escolar debe preparar para situaciones complejas y cambiantes."
+    },
+    {
+      "question": "¿Qué decidió el Consejo Europeo en marzo de 2000 en relación con las competencias?",
+      "options": [
+        "Eliminar los currículos nacionales",
+        "Crear la OCDE",
+        "Desarrollar un marco de referencia europeo con las nuevas destrezas básicas para el aprendizaje permanente",
+        "Imponer una única lengua de enseñanza"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En 2000 se determinó que debía desarrollarse un marco europeo de destrezas básicas para el aprendizaje a lo largo de la vida, que desembocó en la recomendación de 2006."
+    },
+    {
+      "question": "¿Qué documento de la UE definió en 2006 ocho competencias clave?",
+      "options": [
+        "La Recomendación 2018/C 189/01",
+        "El marco estratégico 2021-2030",
+        "La Orden ECD/65/2015",
+        "La Recomendación 2006/962/CE"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La Recomendación 2006/962/CE definió ocho competencias clave y fue la referencia para el aprendizaje orientado a competencias. En 2018 se actualizó con la Recomendación 2018/C 189/01."
+    },
+    {
+      "question": "¿Cuál de estas competencias clave de 2006 se sustituyó en 2018 por la 'competencia en lectoescritura'?",
+      "options": [
+        "Comunicación en la lengua materna",
+        "Competencia digital",
+        "Aprender a aprender",
+        "Conciencia y expresión culturales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La comunicación en la lengua materna de 2006 pasa a ser competencia en lectoescritura en 2018; la comunicación en lenguas extranjeras pasa a ser competencia multilingüe."
+    },
+    {
+      "question": "¿Cómo evolucionó la competencia 'sentido de la iniciativa y espíritu de empresa' de 2006 en la recomendación de 2018?",
+      "options": [
+        "Desapareció",
+        "Pasó a denominarse competencia emprendedora",
+        "Se fusionó con la competencia digital",
+        "Pasó a denominarse competencia ciudadana"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En 2018 se denomina competencia emprendedora. Las competencias sociales y cívicas pasan a ser competencia ciudadana."
+    },
+    {
+      "question": "¿En qué ley española se establece una nueva definición de currículo que incluye las competencias básicas, iniciando la convergencia europea?",
+      "options": [
+        "En la LOGSE",
+        "En la LOMCE",
+        "En la LOE (2006)",
+        "En la LOMLOE"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La convergencia europea comienza con la LOE, que incluye las competencias básicas como nuevo elemento curricular para toda la etapa obligatoria."
+    },
+    {
+      "question": "¿Qué implica la inserción de las competencias en el currículo respecto a los conocimientos?",
+      "options": [
+        "Una simplificación del currículo",
+        "Una reducción de los contenidos",
+        "El abandono de los conocimientos teóricos",
+        "Un trabajo en mayor profundidad, porque los conocimientos deben integrarse entre sí y movilizarse en el saber hacer"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Lejos de simplificar, las competencias exigen integrar y movilizar los conocimientos, llevándolos al plano del saber hacer."
+    },
+    {
+      "question": "¿Cuál fue el principal cambio de la LOMCE respecto a las competencias?",
+      "options": [
+        "El paso terminológico de competencias básicas a competencias clave, denominación acuñada por la UE",
+        "La eliminación de las competencias del currículo",
+        "La creación de ocho nuevas competencias",
+        "La limitación de las competencias a Bachillerato"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LOMCE continuó la línea de la LOE con las competencias como elemento vertebrador; el cambio principal fue terminológico, pasando de básicas a clave."
+    },
+    {
+      "question": "¿Qué modelo de aprendizaje propone la LOMLOE?",
+      "options": [
+        "Un modelo memorístico basado en pruebas finales",
+        "Un modelo competencial basado en aplicar conocimientos y resolver problemas del día a día, dentro o fuera del aula",
+        "Un modelo exclusivamente profesionalizante",
+        "Un modelo de itinerarios cerrados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LOMLOE propone un aprendizaje competencial enfocado en la toma de decisiones y la resolución de problemas reales, con independencia del lugar donde se den."
+    },
+    {
+      "question": "¿Cuántas competencias clave implanta la LOMLOE y de qué recomendación parten?",
+      "options": [
+        "Siete, de la Recomendación de 2006",
+        "Ocho, de la Recomendación 2018/C 189/01 de la UE",
+        "Diez, de la OCDE",
+        "Ocho, de la Orden ECD/65/2015"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LOMLOE implanta ocho competencias clave que adaptan al sistema español las establecidas en la Recomendación 2018/C 189/01."
+    },
+    {
+      "question": "¿Qué competencia clave se define como la habilidad de identificar, expresar, crear, comprender e interpretar sentidos, hechos y opiniones de forma oral y escrita en soportes diversos?",
+      "options": [
+        "Competencia plurilingüe",
+        "Competencia digital",
+        "Competencia en comunicación lingüística",
+        "Competencia ciudadana"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Es la competencia en comunicación lingüística. La plurilingüe se centra en el uso eficaz de diferentes lenguas para aprender y comunicarse."
+    },
+    {
+      "question": "Un alumno usa varias lenguas para aprender y comunicarse de forma correcta y eficaz. ¿Qué competencia clave desarrolla principalmente?",
+      "options": [
+        "Competencia en comunicación lingüística",
+        "Competencia en conciencia y expresión culturales",
+        "Competencia emprendedora",
+        "Competencia plurilingüe"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La competencia plurilingüe implica el uso de diferentes lenguas para el aprendizaje y la comunicación."
+    },
+    {
+      "question": "¿Qué pretende la competencia matemática y en ciencia, tecnología e ingeniería (STEM)?",
+      "options": [
+        "Comprender el mundo con el método científico, el pensamiento matemático, la tecnología y la ingeniería para transformar el entorno de forma responsable y sostenible",
+        "Memorizar fórmulas y leyes científicas",
+        "Dominar el uso de dispositivos digitales",
+        "Fomentar la creatividad artística"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La competencia STEM busca comprender y transformar el entorno con método científico, pensamiento matemático, tecnología e ingeniería de forma comprometida, responsable y sostenible."
+    },
+    {
+      "question": "¿Qué implica la competencia digital?",
+      "options": [
+        "Programar aplicaciones propias",
+        "Un uso seguro, saludable, sostenible, crítico y responsable de las tecnologías digitales para el aprendizaje, el trabajo y la participación social",
+        "Disponer de dispositivos personales",
+        "Usar únicamente redes sociales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La competencia digital supone un uso seguro, saludable, sostenible, crítico y responsable de las tecnologías digitales, así como la interacción con ellas."
+    },
+    {
+      "question": "¿A qué competencia clave corresponde la habilidad de reflexionar sobre uno mismo, gestionar el tiempo y la información, colaborar de forma constructiva y mantener la resiliencia?",
+      "options": [
+        "Competencia ciudadana",
+        "Competencia emprendedora",
+        "Competencia personal, social y de aprender a aprender",
+        "Competencia digital"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Es la competencia personal, social y de aprender a aprender, que incluye la gestión del aprendizaje a lo largo de la vida."
+    },
+    {
+      "question": "Un estudiante participa activamente en la vida cívica comprendiendo estructuras sociales, económicas, jurídicas y políticas y se compromete con la sostenibilidad. ¿Qué competencia desarrolla?",
+      "options": [
+        "Competencia emprendedora",
+        "Competencia personal, social y de aprender a aprender",
+        "Competencia en conciencia y expresión culturales",
+        "Competencia ciudadana"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La competencia ciudadana supone actuar como ciudadano responsable que participa en la vida social y cívica, con compromiso con la sostenibilidad y la ciudadanía mundial."
+    },
+    {
+      "question": "¿Qué caracteriza a la competencia emprendedora?",
+      "options": [
+        "Creatividad e iniciativa para actuar sobre oportunidades e ideas y generar resultados de valor para otros",
+        "Conocimiento de las artes y la cultura",
+        "Dominio de varias lenguas",
+        "Gestión del tiempo de estudio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La competencia emprendedora se refiere a la creatividad y a la iniciativa para actuar sobre oportunidades e ideas, empleando conocimientos específicos para generar valor para otros."
+    },
+    {
+      "question": "¿Qué implica la competencia en conciencia y expresión culturales?",
+      "options": [
+        "Dominar la historia nacional",
+        "Comprender y respetar cómo se expresan y comunican ideas y significados mediante las artes y otras manifestaciones culturales, y expresar las ideas propias creativamente",
+        "Hablar varias lenguas",
+        "Gestionar proyectos empresariales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Requiere comprender y respetar las diversas formas de expresión cultural, desarrollar y expresar las ideas propias y tener sentido de pertenencia a la sociedad."
+    },
+    {
+      "question": "Una unidad didáctica pide diseñar un proyecto sostenible empleando método científico y matemáticas. ¿Qué competencia clave se trabaja de manera central?",
+      "options": [
+        "Competencia en conciencia y expresión culturales",
+        "Competencia plurilingüe",
+        "Competencia matemática y en ciencia, tecnología e ingeniería",
+        "Competencia en comunicación lingüística"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Un proyecto sostenible basado en el método científico y el pensamiento matemático moviliza la competencia STEM, que busca transformar el entorno de forma sostenible."
+    },
+    {
+      "question": "¿Por qué las competencias clave de la LOMLOE se consideran la adaptación de las europeas?",
+      "options": [
+        "Porque son idénticas a las de 2006",
+        "Porque las impone la OCDE",
+        "Porque se aprobaron antes que las europeas",
+        "Porque adaptan al sistema español las competencias establecidas por la UE en 2018"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las competencias clave de la LOMLOE adaptan al sistema educativo español las de la Recomendación 2018/C 189/01 de la UE, no las de 2006."
+    },
+    {
+      "question": "¿Qué finalidad tienen las ocho competencias clave en la enseñanza básica, según la LOMLOE?",
+      "options": [
+        "Dar continuidad, coherencia y cohesión a la progresión del alumnado y garantizar su formación integral en las esferas personal, emocional, intelectual, social y afectiva",
+        "Sustituir a las materias del currículo",
+        "Facilitar la repetición de curso",
+        "Evaluar únicamente a los docentes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las competencias clave dan continuidad y coherencia a la progresión del alumnado durante la enseñanza básica y garantizan su formación integral."
+    },
+    {
+      "question": "¿Cuál es la afirmación correcta sobre la evolución de las competencias en el sistema educativo español?",
+      "options": [
+        "La LOGSE introdujo las competencias clave",
+        "La LOE introdujo las competencias básicas, la LOMCE las rebautizó como clave y la LOMLOE implanta un modelo competencial con ocho competencias",
+        "La LOCE definió las competencias clave actuales",
+        "La LOMCE introdujo las competencias básicas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El recorrido es LOE (competencias básicas), LOMCE (competencias clave, cambio terminológico) y LOMLOE (modelo competencial con ocho competencias adaptadas de 2018)."
+    },
+    {
+      "question": "¿Qué función cumple la referencia a la formación en un contexto no formal, como una actividad extraescolar, dentro del concepto de competencia?",
+      "options": [
+        "Demuestra que solo importa el aprendizaje en el aula",
+        "Muestra que las competencias solo se adquieren en el trabajo",
+        "Muestra que el conocimiento práctico también se adquiere fuera de la escuela formal",
+        "Indica que las actividades extraescolares sustituyen al currículo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto señala que el conocimiento práctico que implica ser competente se adquiere en contextos formales, no formales e informales."
+    },
+    {
+      "question": "¿Qué institución europea publicó en 2018 la Recomendación 2018/C 189/01 sobre competencias clave?",
+      "options": [
+        "La Comisión Europea",
+        "El Parlamento Europeo",
+        "La OCDE",
+        "El Consejo de la Unión Europea"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Se trata de una Recomendación del Consejo de 22 de mayo de 2018 relativa a las competencias clave para el aprendizaje permanente. El temario recuerda que el Consejo Europeo y el Consejo de la UE son instituciones diferentes."
+    },
+    {
+      "question": "¿Qué finalidad tiene identificar y definir las competencias clave en la Recomendación de 2018?",
+      "options": [
+        "Favorecer la empleabilidad, el desarrollo personal y la salud, la ciudadanía activa y responsable y la inclusión social",
+        "Fijar los horarios escolares",
+        "Establecer la estructura de las etapas",
+        "Uniformar la formación del profesorado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La recomendación busca identificar las competencias necesarias para la empleabilidad, el desarrollo personal, la ciudadanía activa y la inclusión social, definiendo conocimientos, procedimientos y actitudes."
+    },
+    {
+      "question": "Si se compara la lista de 2006 con la de 2018, ¿qué competencia se mantiene con prácticamente el mismo nombre?",
+      "options": [
+        "Competencia digital",
+        "Comunicación en lenguas extranjeras",
+        "Sentido de la iniciativa y espíritu de empresa",
+        "Comunicación en la lengua materna"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La competencia digital figura en ambas listas. Las demás cambian de nombre: lengua materna a lectoescritura, lenguas extranjeras a multilingüe e iniciativa a emprendedora."
+    },
+    {
+      "question": "¿Qué sucede con la 'competencia matemática y competencias básicas en ciencia y tecnología' de 2006 en 2018?",
+      "options": [
+        "Se elimina",
+        "Se divide en dos competencias",
+        "Se amplía a competencia matemática y competencia en ciencia, tecnología e ingeniería",
+        "Se fusiona con la competencia digital"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En 2018 se amplía para incluir la ingeniería, dando lugar a la competencia matemática y competencia en ciencia, tecnología e ingeniería, que en España es la competencia STEM."
+    },
+    {
+      "question": "¿Qué diferencia hay entre el Consejo Europeo y el Consejo de la Unión Europea, según la nota del temario?",
+      "options": [
+        "Son la misma institución",
+        "Son instituciones diferentes",
+        "El primero es una agencia de la OCDE",
+        "El segundo es el órgano judicial de la UE"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El temario subraya que son instituciones diferentes y recomienda un vídeo para entender sus diferencias y las de la Comisión Europea."
+    },
+    {
+      "question": "En la evolución histórica de la formación de maestros y profesores, ¿qué mejora introdujo la LGE?",
+      "options": [
+        "Mejoró la formación inicial y continua del profesorado",
+        "Suprimió la formación inicial",
+        "Eliminó los cuerpos docentes",
+        "Trasladó la formación a las comunidades"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Entre los aspectos relevantes de la LGE figura la mejora de la formación inicial y continua del profesorado, además de la previsión de evaluar los centros."
+    },
+    {
+      "question": "¿Qué elementos debe tener en cuenta un docente al elaborar una programación de aula para ajustarse al currículo formal vigente?",
+      "options": [
+        "Solo los contenidos de los libros de texto",
+        "Solo los criterios del centro",
+        "Los reales decretos estatales y los decretos de su comunidad autónoma",
+        "Únicamente la LOMLOE"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El currículo formal se concreta en los reales decretos de enseñanzas mínimas y en los decretos autonómicos de ordenación y currículo, que el profesorado desarrolla en las programaciones."
+    },
+    {
+      "question": "¿Qué objetivo de la LOMLOE se refleja en que el currículo se dirija al desarrollo de competencias para lograr el éxito escolar?",
+      "options": [
+        "Eliminar la evaluación",
+        "Reducir los contenidos al mínimo",
+        "Fomentar la repetición de curso",
+        "Favorecer un aprendizaje significativo orientado a la aplicación de los conocimientos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El enfoque por competencias busca un aprendizaje significativo, en el que los conocimientos se apliquen para resolver problemas y se logre el éxito escolar."
+    },
+    {
+      "question": "¿Qué ocurre con la competencia 'conciencia y expresión culturales' entre las listas de 2006 y 2018?",
+      "options": [
+        "Desaparece en 2018",
+        "Se fusiona con la competencia ciudadana",
+        "Se divide en dos competencias artísticas",
+        "Se mantiene, con el nombre de competencia en conciencia y expresión culturales"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La competencia aparece en ambas recomendaciones, con una denominación casi idéntica. Las competencias que cambian de forma más clara son las de comunicación, las sociales y cívicas y la de iniciativa."
+    }
+  ]
+}

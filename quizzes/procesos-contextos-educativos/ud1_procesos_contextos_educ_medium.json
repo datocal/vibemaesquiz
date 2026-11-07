@@ -1,0 +1,2208 @@
+{
+  "title": "UD1. Educación y calidad en los sistemas educativos (Nivel medio)",
+  "description": "Cuestionario de nivel medio sobre el concepto de educación, su evolución histórica, los pilares de Delors y la comparación entre el modelo tradicional y los modelos activos.",
+  "category": "procesos-contextos-educativos",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "Según el origen etimológico 'educere', ¿cómo se entiende la educación?",
+      "options": [
+        "Como la extracción de las capacidades y talentos que la persona tiene en su interior",
+        "Como la formación de la persona mediante acciones que llegan desde el exterior",
+        "Como la crianza del individuo siguiendo las costumbres del grupo social",
+        "Como la transmisión estandarizada de contenidos desde el docente al alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Educere significa guiar, conducir o extraer de dentro hacia fuera, de modo que la educación consiste en hacer aflorar las potencialidades de la persona. Formar e instruir desde fuera corresponde a educare, y la transmisión estandarizada es propia del modelo tradicional."
+    },
+    {
+      "question": "El término latino 'educare' vincula la educación principalmente con:",
+      "options": [
+        "El descubrimiento de los talentos personales que el sujeto ya posee",
+        "Las acciones externas que forman, crían e instruyen al individuo",
+        "La configuración de un sujeto individual y único mediante la autonomía",
+        "La guía del alumnado hacia la construcción de su propio conocimiento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Educare significa formar o instruir: se refiere a las influencias que llegan desde el exterior y a cómo las relaciones afectan al desarrollo del sujeto. Las otras opciones describen el sentido de educere, centrado en lo que la persona lleva dentro."
+    },
+    {
+      "question": "¿Qué supone la perspectiva antinómica del doble origen etimológico de educación?",
+      "options": [
+        "Que ambos orígenes se integran para explicar la influencia social en la persona",
+        "Que educere y educare son términos equivalentes con el mismo significado práctico",
+        "Que se enfrentan la idea de llenar mentes de conocimientos y la de hacer aflorar lo que ya existe",
+        "Que la educación debe abandonar la socialización para centrarse en la individualización"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Para Cantón, la perspectiva antinómica enfrenta los viejos dilemas: mentes bien llenas de conocimientos frente al desarrollo personal que ya está dentro de cada uno. La visión complementaria, en cambio, integra ambos orígenes."
+    },
+    {
+      "question": "Si se interpreta el doble origen etimológico de forma complementaria, la educación puede considerarse:",
+      "options": [
+        "Un proceso de individualización que prescinde de las influencias externas",
+        "Un proceso de socialización que anula las potencialidades internas del sujeto",
+        "Una actividad espontánea que no requiere intencionalidad ni planificación",
+        "Un conjunto de influencias externas que permiten desarrollar las potencialidades internas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La visión complementaria une socialización (influencias externas) e individualización (desarrollo de las potencialidades internas). Las demás opciones consideran solo una de las dos vertientes o niegan la intencionalidad."
+    },
+    {
+      "question": "El texto señala que la educación debe atender a dos dimensiones. ¿Cuáles son?",
+      "options": [
+        "La personal y la social",
+        "La formal y la informal",
+        "La individual y la institucional",
+        "La cognitiva y la laboral"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La educación es un proceso permanente, en un contexto social determinado, que debe atender a las dimensiones personal y social. Las otras parejas mezclan tipos de educación o ámbitos que no se plantean como dimensiones."
+    },
+    {
+      "question": "¿Cuál es el fin último del proceso educativo según la unidad?",
+      "options": [
+        "Garantizar la adquisición de una titulación académica oficial",
+        "Ayudar al desarrollo integral de la persona",
+        "Preparar al alumnado para superar pruebas de evaluación externas",
+        "Transmitir las tradiciones y costumbres de la comunidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El fin último de la educación es contribuir al desarrollo integral de la persona. La titulación y las pruebas externas son medios o consecuencias, y la transmisión de tradiciones es una función parcial."
+    },
+    {
+      "question": "La cita de Dewey 'la educación no es preparación para la vida; es vida en sí misma' enfatiza que la educación:",
+      "options": [
+        "Debe limitarse a la etapa escolar para preparar al futuro trabajador",
+        "Ocurre exclusivamente en instituciones reguladas por la ley",
+        "Forma parte de la experiencia vital y no es una mera preparación previa",
+        "Sustituye a la socialización que se produce en la familia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dewey sostiene que la educación es la propia vida, es decir, un proceso continuo ligado a la experiencia, no una etapa preparatoria. Esto encaja con la idea de educación permanente que defiende la unidad."
+    },
+    {
+      "question": "¿Qué recoge el artículo 26 de la Declaración Universal de Derechos Humanos aprobada en 1948?",
+      "options": [
+        "La obligatoriedad de la enseñanza hasta los dieciséis años",
+        "La gratuidad de la enseñanza universitaria en los países miembros",
+        "El derecho de las familias a elegir el centro educativo",
+        "El derecho de toda persona a la educación"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El artículo 26 establece que toda persona tiene derecho a la educación. Las otras opciones añaden concreciones que el texto de la unidad no atribuye a este artículo."
+    },
+    {
+      "question": "El informe 'La educación encierra un tesoro' (1996), dirigido por Jacques Delors, enuncia:",
+      "options": [
+        "Los cuatro pilares del conocimiento en los que debe basarse la educación",
+        "Las cinco dimensiones de la calidad del sistema educativo",
+        "Los tres tipos de educación según el contexto en que se imparte",
+        "Los criterios del modelo de excelencia para la gestión de centros"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El informe de Delors propone cuatro pilares: aprender a conocer, a hacer, a vivir juntos y a ser. Las otras opciones corresponden a Martínez-Rizo, a Martín y al modelo EFQM respectivamente."
+    },
+    {
+      "question": "¿Qué implica 'aprender a conocer' dentro de los pilares de Delors?",
+      "options": [
+        "Adquirir competencias para trabajar en equipo y resolver conflictos",
+        "Dominar los instrumentos del saber y despertar el interés por comprender y descubrir",
+        "Desarrollar el conocimiento de las historias y tradiciones de los demás",
+        "Fortalecer el pensamiento autónomo y la responsabilidad personal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Aprender a conocer supone dominar los instrumentos del saber y comprender el mundo. Las demás opciones describen aprender a hacer, aprender a vivir juntos y aprender a ser."
+    },
+    {
+      "question": "Un docente organiza equipos que deben resolver un conflicto y planificar una tarea compartida. ¿Qué pilar de Delors trabaja principalmente?",
+      "options": [
+        "Aprender a conocer",
+        "Aprender a ser",
+        "Aprender a hacer",
+        "Aprender a vivir juntos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Aprender a hacer implica adquirir competencias para afrontar nuevas situaciones, comportarse socialmente, solucionar conflictos y trabajar en equipo. Aprender a vivir juntos se centra más en conocer a los demás, sus historias y tradiciones."
+    },
+    {
+      "question": "Una actividad en la que el alumnado investiga las historias, tradiciones y espiritualidad de compañeros de otras culturas desarrolla sobre todo:",
+      "options": [
+        "Aprender a hacer",
+        "Aprender a conocer",
+        "Aprender a ser",
+        "Aprender a vivir juntos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Aprender a vivir juntos consiste en desarrollar el conocimiento de los demás, de sus historias, tradiciones y espiritualidad. Es el pilar que apoya la convivencia y el respeto a la diversidad."
+    },
+    {
+      "question": "¿Qué pilar de Delors persigue una conciencia crítica, pensamiento autónomo y responsabilidad personal?",
+      "options": [
+        "Aprender a ser",
+        "Aprender a hacer",
+        "Aprender a conocer",
+        "Aprender a vivir juntos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Aprender a ser implica adquirir conciencia crítica y pensamiento autónomo, además de fortalecer la responsabilidad personal en el destino colectivo."
+    },
+    {
+      "question": "¿Qué rasgos definen la educación como proceso, según el cierre del apartado 1.1?",
+      "options": [
+        "Local, parcial y limitado a la etapa de escolarización",
+        "Global, permanente e inclusivo de todas las dimensiones de la persona",
+        "Individual, voluntario y centrado en la adquisición de contenidos",
+        "Institucional, graduado y regulado por las administraciones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto concluye que la educación es un proceso global, que dura toda la vida y que incorpora todas las dimensiones de la persona. Los rasgos institucionales y graduados solo describen la educación formal."
+    },
+    {
+      "question": "¿Por qué es importante que los profesionales de la educación tomen conciencia de su papel?",
+      "options": [
+        "Porque son el único agente que influye en el desarrollo del alumnado",
+        "Porque la ley les atribuye la responsabilidad de diseñar el currículo",
+        "Porque son un importante vehículo de socialización y pueden influir en el cambio social",
+        "Porque su labor se limita a transmitir conocimientos de forma neutra"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según Moreno, los profesionales de la educación son un importante vehículo de socialización y tienen poder para influir en procesos de cambio hacia una sociedad mejor. No son el único agente ni su labor es neutra."
+    },
+    {
+      "question": "¿Cómo ha evolucionado la educación a lo largo de la historia, según Meza-Cascante?",
+      "options": [
+        "De una actividad intencional a una actividad espontánea",
+        "De una actividad institucional a una actividad familiar",
+        "De una actividad individual a una actividad exclusivamente escolar",
+        "De una actividad espontánea a una actividad con un claro componente intencional"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La educación ha pasado de ser espontánea a tener un claro componente intencional. Las otras opciones invierten el sentido de la evolución o la simplifican."
+    },
+    {
+      "question": "En las sociedades primitivas, ¿cómo adquiría el sujeto los conocimientos y destrezas para el trabajo?",
+      "options": [
+        "Mediante la asistencia a una institución encargada de enseñar",
+        "Mediante el estudio de textos y la memorización",
+        "Mediante la observación e imitación al acompañar a los adultos en la tarea",
+        "Mediante una formación especializada impartida por gremios"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En las sociedades primitivas los saberes se adquirían acompañando a los adultos en sus tareas y se interiorizaban por observación e imitación. La institución escolar surge más tarde."
+    },
+    {
+      "question": "En la sociedad preindustrial se buscaba cierta especialización, pero:",
+      "options": [
+        "El aprendizaje ya se realizaba en escuelas graduadas",
+        "La formación dependía de la lectura de libros de texto",
+        "El acceso al oficio estaba regulado por titulaciones oficiales",
+        "El puesto de trabajo solía heredarse y se aprendía por imitación y observación"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Aunque proliferaban los oficios, el puesto de trabajo era normalmente heredado y se aprendía igual que antes: imitando y observando. La escuela y las titulaciones llegan con la sociedad industrial."
+    },
+    {
+      "question": "¿Por qué la Revolución Industrial hizo que la sociedad demandara una institución que asumiera la tarea de enseñar?",
+      "options": [
+        "Porque las máquinas exigían conocimientos específicos que los agentes educativos no podían ofrecer con su experiencia",
+        "Porque las familias dejaron de interesarse por la formación de sus hijos",
+        "Porque desaparecieron los oficios y ya no existía transmisión de saberes",
+        "Porque se aprobó una ley que declaraba obligatoria la escolarización"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las máquinas requerían conocimientos más específicos que los agentes educativos tradicionales eran incapaces de ofrecer, de modo que la sociedad pidió una institución dedicada a enseñar."
+    },
+    {
+      "question": "Según Solano (2002), ¿de qué necesidad surgió la educación?",
+      "options": [
+        "De la necesidad de preparar mano de obra cualificada para la industria",
+        "De la necesidad de transmitir hábitos, tradiciones, costumbres y conocimientos que de otro modo se perderían",
+        "De la necesidad de evaluar el rendimiento de los individuos en la comunidad",
+        "De la necesidad de homogeneizar las creencias dentro de cada sociedad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Solano plantea que la educación surgió de la necesidad inmediata de transmitir a los congéneres los hábitos, tradiciones, costumbres y conocimientos que de otro modo se perderían."
+    },
+    {
+      "question": "Imbernón advierte de que considerar la educación como puramente reproductora tendría como consecuencia:",
+      "options": [
+        "Un aumento de la innovación en las aulas",
+        "Una mayor participación de las familias en los centros",
+        "Una parálisis de las alternativas educativas que buscan crear mecanismos de contrapoder",
+        "Un refuerzo de la autonomía del alumnado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Para Imbernón, entender la educación como mera reproducción con función alienadora conduciría a paralizar las alternativas educativas que intentan afrontar esa situación y crear contrapoder."
+    },
+    {
+      "question": "¿Cuándo aparece el término 'educación' en las obras literarias españolas?",
+      "options": [
+        "En el siglo XII, con las primeras crónicas",
+        "En el siglo XV, con el humanismo",
+        "En el siglo XIX, con la creación de la escuela pública",
+        "En el siglo XVII"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Según García-Carrasco y García del Dujo, el término educación no aparece en las obras literarias españolas hasta el siglo XVII."
+    },
+    {
+      "question": "Antes de que se empleara el término 'educación', ¿qué palabras se utilizaban en la literatura española?",
+      "options": [
+        "Criar, crianza, adoctrinar y discipular",
+        "Enseñar, aprender, evaluar y titular",
+        "Formar, instruir, graduar y certificar",
+        "Guiar, extraer, descubrir y madurar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Antes del siglo XVII se empleaban criar y crianza, adoctrinar y discipular. Las demás opciones recogen términos que no aparecen señalados en ese contexto."
+    },
+    {
+      "question": "La educación del siglo XXI se enmarca dentro de:",
+      "options": [
+        "La sociedad industrial",
+        "La sociedad de la información",
+        "La sociedad preindustrial",
+        "La sociedad del bienestar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto indica que la educación del siglo XXI se enmarca en la sociedad de la información, caracterizada por cambios constantes y rápidos."
+    },
+    {
+      "question": "Entre las exigencias actuales a la comunidad educativa, Ríos (2013) destaca que los centros deben contar con:",
+      "options": [
+        "Un mayor número de pruebas de evaluación externas",
+        "Libros de texto actualizados cada curso escolar",
+        "Condiciones arquitectónicas y ambientales que garanticen la salud y la movilidad de sus miembros",
+        "Una plantilla de profesorado exclusivamente especializada en tecnología"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La sociedad exige que los centros ofrezcan condiciones arquitectónicas, ambientales y de confort para garantizar la salud y movilidad, mejorando la convivencia y el proceso educativo."
+    },
+    {
+      "question": "Según Pujolàs (2012), la sociedad actual espera que se empleen nuevas metodologías que:",
+      "options": [
+        "Refuercen la competitividad entre el alumnado",
+        "Prioricen la memorización de contenidos",
+        "Sustituyan la figura del docente por recursos digitales",
+        "Dejen atrás la visión competitiva e individualista del aprendizaje"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Una de las exigencias señaladas es dejar atrás la visión competitiva e individualista del aprendizaje mediante metodologías más cooperativas y participativas."
+    },
+    {
+      "question": "Murillo (2003) vincula la formación del profesorado con:",
+      "options": [
+        "El centro y sus necesidades concretas",
+        "Un plan nacional idéntico para cada comunidad",
+        "La titulación universitaria previa de cada docente",
+        "Las pruebas internacionales de rendimiento"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se espera que el profesorado tenga una formación adecuada ligada al centro y a sus necesidades, no desconectada de su contexto."
+    },
+    {
+      "question": "¿Cómo se define el modelo educativo o pedagógico en la unidad?",
+      "options": [
+        "Como el conjunto de documentos que planifican la práctica de un centro",
+        "Como las orientaciones que permiten asumir una posición frente al currículo, la sociedad y los procesos de enseñanza-aprendizaje",
+        "Como la normativa que regula las etapas del sistema educativo",
+        "Como el repertorio de técnicas de evaluación disponibles para el docente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El modelo pedagógico son las orientaciones que permiten al docente, al alumnado, a la escuela y a la educación posicionarse ante el currículo, la sociedad y los procesos de enseñanza-aprendizaje."
+    },
+    {
+      "question": "¿Por qué el modelo educativo tradicional adquirió importancia en la era industrial?",
+      "options": [
+        "Porque fomentaba la creatividad y el pensamiento crítico",
+        "Porque promovía la atención individualizada del alumnado",
+        "Porque era una manera fácil de transmitir los conocimientos de forma estandarizada",
+        "Porque situaba al alumnado como protagonista del aprendizaje"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El modelo tradicional facilitaba transmitir conocimientos de manera estandarizada a muchos alumnos, algo muy útil para las necesidades de la era industrial."
+    },
+    {
+      "question": "En el modelo educativo tradicional, el papel del alumnado se caracteriza por ser:",
+      "options": [
+        "Constructor de su propio conocimiento mediante el diálogo",
+        "Mediador entre el docente y el resto del grupo",
+        "Protagonista que decide los contenidos y su ritmo",
+        "Pasivo y receptivo, con primacía del trabajo individual"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En el modelo tradicional el alumno es pasivo y receptivo, trabaja de forma individual y tiene poco margen para elaborar sus propios conocimientos."
+    },
+    {
+      "question": "¿Qué recurso se emplea como fuente principal del saber en el modelo tradicional?",
+      "options": [
+        "El libro de texto",
+        "El proyecto de trabajo en grupo",
+        "Las tecnologías de la información",
+        "La experimentación en el entorno"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El proceso es unidireccional, del profesor al alumno, y se emplea el libro de texto como fuente principal del saber con actividades muy repetitivas."
+    },
+    {
+      "question": "¿Cuál de las siguientes se considera una ventaja del modelo educativo tradicional?",
+      "options": [
+        "Atiende a la situación particular de cada alumno",
+        "Permite que un mismo profesor imparta los mismos conocimientos a un gran número de alumnos a la vez",
+        "Fomenta el aprendizaje cooperativo entre iguales",
+        "Evalúa las competencias y el proceso de aprendizaje"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Una ventaja es la capacidad de enseñar a muchos alumnos simultáneamente; también fomenta la autodisciplina y la memorización. Las otras opciones son características de los modelos activos."
+    },
+    {
+      "question": "¿Cuál es un inconveniente del modelo tradicional relacionado con la comprensión?",
+      "options": [
+        "Exige un exceso de trabajo en grupo",
+        "Reduce la autoridad del docente en el aula",
+        "La memorización de los contenidos no implica su interiorización y comprensión",
+        "Impide el uso del libro de texto como recurso"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Memorizar no equivale a comprender ni a interiorizar los contenidos; es una de las críticas principales al modelo tradicional."
+    },
+    {
+      "question": "El modelo tradicional presenta problemas de inclusión porque:",
+      "options": [
+        "Separa al alumnado por niveles de rendimiento",
+        "Elimina el trabajo individual del aula",
+        "Da prioridad a las competencias sobre los contenidos",
+        "Aplica los mismos procedimientos de enseñanza a cada alumno sin atender su situación"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Al emplear las mismas estrategias para cada alumno sin considerar su contexto o situación particular, el modelo tradicional no favorece la inclusión."
+    },
+    {
+      "question": "En los modelos educativos activos, el profesor actúa como:",
+      "options": [
+        "Guía, mediador y facilitador de los procesos de enseñanza-aprendizaje",
+        "Máxima autoridad y referente para imitar",
+        "Principal transmisor de contenidos",
+        "Evaluador externo del trabajo del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En los modelos activos el docente guía y facilita el proceso, mientras que el alumnado es el agente activo. Ser máxima autoridad y transmisor es rasgo del modelo tradicional."
+    },
+    {
+      "question": "¿Quién construye el conocimiento en los modelos educativos activos?",
+      "options": [
+        "El profesor, a través de la exposición",
+        "El alumno, que es el principal agente activo",
+        "El libro de texto, como fuente de saber",
+        "La administración educativa, mediante el currículo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En los modelos activos el alumno es el protagonista, el agente activo que construye su propio conocimiento."
+    },
+    {
+      "question": "Según Pérez-Martínez (2007), en los modelos activos el aprendizaje se considera:",
+      "options": [
+        "Una recepción ordenada de información externa",
+        "Un proceso de repetición guiado por el docente",
+        "Un proceso de construcción personal que favorece la autonomía y el diálogo",
+        "Un resultado que se mide mediante pruebas estandarizadas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los modelos activos creen en la educación autónoma y significativa, entendiendo el aprendizaje como una construcción personal con autonomía y diálogo."
+    },
+    {
+      "question": "En un aula el profesor plantea un problema, el alumnado investiga en equipos y el docente orienta y media. ¿Qué modelo se está aplicando?",
+      "options": [
+        "El modelo tradicional, por el uso de equipos",
+        "El modelo tradicional, por la presencia del problema",
+        "Un modelo mixto sin rasgos de ningún modelo concreto",
+        "Un modelo educativo activo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El alumnado experimenta y descubre mientras el docente guía y media, lo que es propio de los modelos activos. El modelo tradicional se centra en la transmisión unidireccional."
+    },
+    {
+      "question": "Un profesor califica la capacidad del alumnado de reproducir los contenidos del libro. ¿Qué inconveniente del modelo tradicional ilustra?",
+      "options": [
+        "Se valoran los contenidos y no el proceso, las habilidades ni las competencias",
+        "Se fomenta en exceso la colaboración entre iguales",
+        "Se reduce la autodisciplina del alumnado",
+        "Se impide la especialización del docente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El modelo tradicional valora los contenidos y descuida el proceso de enseñanza-aprendizaje, las habilidades y las competencias."
+    },
+    {
+      "question": "Entre los modelos pedagógicos que la unidad menciona además del tradicional y los activos se encuentra:",
+      "options": [
+        "El modelo humanista-existencial",
+        "El modelo social-cognitivo",
+        "El modelo tecnocrático-industrial",
+        "El modelo positivista-experimental"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto cita los modelos conductista, romántico, educacional-constructivista y social-cognitivo como otros modelos pedagógicos existentes."
+    },
+    {
+      "question": "La película 'El maestro que prometió el mar' cuenta la historia de Antonio Benaiges, un maestro que:",
+      "options": [
+        "Defendió el modelo tradicional frente a las nuevas ideas",
+        "Aplicó el modelo conductista en una escuela rural",
+        "Apostó por un modelo educativo activo (Freinet) cuando imperaba el modelo tradicional",
+        "Creó una institución para la formación de docentes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Benaiges era un maestro Freinet que apostó por un modelo activo en un momento histórico donde imperaba el tradicional."
+    },
+    {
+      "question": "Los modelos educativos activos conceden mayor importancia a:",
+      "options": [
+        "La memorización y el trabajo individual",
+        "La autoridad del docente como referente",
+        "La uniformidad de los materiales didácticos",
+        "Las metodologías activas y a la utilización de las nuevas tecnologías"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los modelos activos promueven la experimentación y el descubrimiento, y por ello otorgan mayor importancia a las metodologías activas y a las nuevas tecnologías."
+    },
+    {
+      "question": "¿Cuál de las siguientes comparaciones entre modelos es correcta?",
+      "options": [
+        "En el tradicional el docente es protagonista y en los activos es guía",
+        "En el tradicional el alumno construye el conocimiento y en los activos lo recibe",
+        "En el tradicional el docente es mediador y en los activos es máxima autoridad",
+        "En el tradicional el trabajo es cooperativo y en los activos individual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La tabla comparativa indica que en el modelo tradicional el docente es protagonista y máxima autoridad, y en los activos es guía, mediador y facilitador. Las otras opciones invierten los roles."
+    },
+    {
+      "question": "¿Por qué en la sociedad moderna se precisan variaciones continuas en la educación?",
+      "options": [
+        "Porque los cambios se producen de manera más rápida y constante, modificando las necesidades de los individuos",
+        "Porque la escuela ha perdido el reconocimiento social que tenía",
+        "Porque la tecnología ha eliminado la necesidad de instituciones educativas",
+        "Porque las familias han asumido la formación íntegra de sus hijos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la sociedad moderna los cambios son rápidos y constantes, por lo que las necesidades de las personas y de su educación varían continuamente."
+    },
+    {
+      "question": "¿Por qué resulta complicado definir el concepto de educación?",
+      "options": [
+        "Porque carece de origen etimológico claro",
+        "Porque solo se produce en contextos informales",
+        "Porque los diversos aspectos que conforman el fenómeno educativo dificultan un consenso",
+        "Porque cada legislación utiliza una terminología distinta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El fenómeno educativo tiene múltiples aspectos, lo que hace difícil definirlo y llegar a un consenso. Además, el término tiene un doble origen etimológico."
+    },
+    {
+      "question": "Un docente que expone el temario conforme al programa para dotar de conocimientos al alumnado se acerca más a la concepción de:",
+      "options": [
+        "Educere, porque extrae talentos del alumnado",
+        "Educere, porque guía la construcción personal",
+        "Educare, porque aporta influencias externas que forman e instruyen",
+        "Aprender a ser, porque fomenta el pensamiento autónomo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dotar de conocimientos desde el exterior se corresponde con educare (formar e instruir). Educere implica guiar y hacer aflorar lo que la persona ya tiene."
+    },
+    {
+      "question": "Un docente plantea preguntas abiertas para que cada alumno descubra y desarrolle sus propias capacidades. ¿A qué sentido etimológico se aproxima?",
+      "options": [
+        "Educare, por instruir al alumnado",
+        "Educare, por criar al individuo",
+        "Educare, por transmitir tradiciones",
+        "Educere, por extraer las potencialidades de dentro hacia fuera"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Guiar al alumnado para que aflore su talento corresponde a educere, que concibe la educación como extracción de capacidades internas."
+    },
+    {
+      "question": "Hidi y Harackiewicz (2000) se citan para señalar que la sociedad exige a los centros:",
+      "options": [
+        "Reducir el esfuerzo que se pide al alumnado",
+        "Atender las motivaciones e intereses personales que afectan a la profundidad del esfuerzo del aprendizaje",
+        "Sustituir la evaluación por la observación informal",
+        "Concentrar el aprendizaje en contenidos tecnológicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los centros deben atender las motivaciones e intereses del alumnado, pues influyen en la profundidad del esfuerzo que dedican al aprendizaje."
+    },
+    {
+      "question": "Según Fonseca y Ninón (2011), ¿por qué es fundamental comprender la evolución histórica de la educación?",
+      "options": [
+        "Porque permite reproducir fielmente los modelos del pasado",
+        "Porque permite interpretar las situaciones, fenómenos y comportamientos presentes",
+        "Porque demuestra que la educación apenas ha cambiado con el tiempo",
+        "Porque justifica la permanencia de un único modelo universal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El conocimiento de la historia ayuda a interpretar el presente educativo. La educación ha cambiado según las necesidades sociales, por lo que no existe un modelo único y universal."
+    },
+    {
+      "question": "Además de favorecer la memorización, ¿qué otra ventaja se atribuye al trabajo individual propio del modelo tradicional?",
+      "options": [
+        "Impulsa el aprendizaje cooperativo",
+        "Estimula la creatividad y la innovación",
+        "Fomenta la autodisciplina y el esfuerzo personal",
+        "Garantiza la inclusión de la diversidad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El trabajo individual fomenta la autodisciplina y el esfuerzo personal. La cooperación, la creatividad y la inclusión son aspectos que el modelo tradicional no promueve y que se citan entre sus inconvenientes."
+    },
+    {
+      "question": "¿Cómo se caracteriza la educación formal según Martín (2014)?",
+      "options": [
+        "Es un sistema educativo institucionalizado, cronológicamente graduado y jerárquicamente estructurado",
+        "Es un conjunto de actividades organizadas fuera del sistema educativo oficial",
+        "Es un aprendizaje espontáneo que surge de la interacción cotidiana",
+        "Es una formación dirigida a grupos con necesidades específicas de aprendizaje"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La educación formal es institucionalizada, graduada cronológicamente y jerarquizada. Las demás opciones describen la educación no formal o la informal."
+    },
+    {
+      "question": "¿Cuál es un conjunto correcto de características de las instituciones de educación formal?",
+      "options": [
+        "Espontaneidad, ausencia de planificación y aprendizaje cotidiano",
+        "Regulación legal, intencionalidad formativa y planificación mediante documentos institucionales",
+        "Flexibilidad total, ausencia de currículo y certificación voluntaria",
+        "Participación opcional, objetivos individuales y evaluación informal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las instituciones formales están reguladas por una legislación fijada por las administraciones, tienen una intención formativa y se planifican mediante documentos institucionales."
+    },
+    {
+      "question": "¿Cuál de los siguientes es un ejemplo de educación formal?",
+      "options": [
+        "Un programa de alfabetización para adultos",
+        "Una escuela de familia organizada por una asociación",
+        "Un máster universitario",
+        "Una conferencia sobre educación sanitaria"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Primaria, ESO, un grado o un máster universitario son educación formal. Las demás opciones son actividades organizadas fuera del sistema educativo oficial, es decir, educación no formal."
+    },
+    {
+      "question": "¿Qué consecuencia directa tiene que la educación formal siga un currículo establecido?",
+      "options": [
+        "Que el aprendizaje sea espontáneo y sin objetivos definidos",
+        "Que las actividades se dirijan a un colectivo con intereses comunes",
+        "Que la participación esté abierta sin requisitos de acceso",
+        "Que se obtenga una certificación o titulación académica oficial al finalizar cada etapa o nivel"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Al seguir un currículo con objetivos, competencias y criterios, la educación formal conlleva la obtención de una titulación oficial al terminar cada etapa o nivel."
+    },
+    {
+      "question": "¿Cómo se define la educación no formal?",
+      "options": [
+        "Actividades educativas organizadas fuera del sistema educativo formal para satisfacer necesidades específicas de aprendizaje",
+        "Aprendizaje espontáneo que se adquiere por la experiencia cotidiana",
+        "Enseñanzas graduadas que conducen a una titulación oficial",
+        "Formación exclusivamente universitaria de carácter profesional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La educación no formal se desarrolla fuera del sistema formal, con actividades debidamente organizadas para necesidades concretas de formación académica o laboral."
+    },
+    {
+      "question": "¿Cuál de los siguientes es un ejemplo de educación no formal?",
+      "options": [
+        "Cursar el tercer curso de la ESO",
+        "Participar en una escuela de familia",
+        "Aprender a cocinar observando a un familiar",
+        "Estudiar un grado universitario"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las escuelas de familia son actividades organizadas fuera del sistema educativo oficial. Cursar la ESO o un grado es educación formal, y aprender observando a un familiar es informal."
+    },
+    {
+      "question": "Aunque las actividades de educación no formal se dirigen a cualquier persona, en función de sus objetivos se adecúan a:",
+      "options": [
+        "Un currículo común aprobado por la administración",
+        "Un grupo de personas con características comunes",
+        "Alumnado obligado por ley a asistir",
+        "Un ciclo cronológico por edades"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las actividades no formales están organizadas y, según los objetivos, se adaptan a un grupo con características comunes. No siguen un currículo oficial ni son obligatorias."
+    },
+    {
+      "question": "La educación informal se caracteriza por ser:",
+      "options": [
+        "Intencional y planificada por documentos institucionales",
+        "Organizada por centros reconocidos por la administración",
+        "Dirigida a colectivos con necesidades de formación específicas",
+        "Una interacción cotidiana, no intencional y no planificada"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La educación informal se da en la interacción cotidiana, sin intención ni planificación previas, y dura toda la vida."
+    },
+    {
+      "question": "¿Cuál de los siguientes ejemplos corresponde a educación informal?",
+      "options": [
+        "Aprender espontáneamente al conversar con un compañero de trabajo",
+        "Asistir a un curso de capacitación profesional",
+        "Matricularse en un programa de inserción laboral",
+        "Cursar una enseñanza deportiva de grado medio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El aprendizaje espontáneo por interacción con un amigo, familiar o compañero es informal. Los cursos y programas organizados son no formales, y las enseñanzas deportivas son formales."
+    },
+    {
+      "question": "¿Por qué se afirma que la educación informal incluye a todas las personas?",
+      "options": [
+        "Porque está regulada por la legislación para toda la población",
+        "Porque la capacidad de aprender es inherente al ser humano",
+        "Porque se imparte en centros públicos de acceso abierto",
+        "Porque forma parte del currículo de la enseñanza obligatoria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto señala que la capacidad de aprender es inherente al ser humano, por lo que este proceso, que dura toda la vida, alcanza a toda persona."
+    },
+    {
+      "question": "Una empresa organiza un curso de capacitación para sus empleados que no conduce a un título oficial del sistema educativo. Es un ejemplo de:",
+      "options": [
+        "Educación formal",
+        "Educación informal",
+        "Educación no formal",
+        "Educación universitaria"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Es una actividad educativa organizada, con objetivos concretos y fuera del sistema educativo oficial, lo que define la educación no formal."
+    },
+    {
+      "question": "Una persona cursa Bachillerato en la modalidad de Artes. ¿Qué tipo de educación recibe?",
+      "options": [
+        "Informal, por ser una enseñanza opcional",
+        "No formal, por estar dirigida a un grupo específico",
+        "Informal, por no ser una etapa obligatoria",
+        "Formal, por pertenecer a una etapa regulada del sistema educativo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El Bachillerato es una etapa regulada, graduada y planificada por el currículo, con titulación oficial. Es educación formal aunque no sea obligatoria."
+    },
+    {
+      "question": "Leer un libro en la biblioteca por interés personal es un ejemplo de aprendizaje:",
+      "options": [
+        "Informal",
+        "Formal",
+        "No formal",
+        "Reglado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Es un aprendizaje espontáneo y no planificado institucionalmente, propio de la educación informal. No hay currículo ni organización formativa externa."
+    },
+    {
+      "question": "Un programa de alfabetización para adultos impartido por una asociación se clasifica como educación:",
+      "options": [
+        "Formal, porque enseña contenidos básicos",
+        "No formal, porque es una actividad organizada fuera del sistema educativo formal",
+        "Informal, porque se dirige a adultos",
+        "Formal, porque conduce a una titulación oficial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los programas de alfabetización de adultos figuran entre los ejemplos de educación no formal: están organizados, pero fuera del sistema educativo oficial."
+    },
+    {
+      "question": "¿Qué rasgo distingue sobre todo la educación formal de la no formal?",
+      "options": [
+        "La presencia de actividades intencionadas en ambas",
+        "La existencia de objetivos de formación en las dos",
+        "La regulación por el sistema educativo con certificación académica oficial",
+        "La posibilidad de aprender a lo largo de la vida"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ambas son intencionales y organizadas, pero solo la formal pertenece al sistema educativo regulado y conduce a titulaciones oficiales."
+    },
+    {
+      "question": "Según Martín (2014), los contextos no formales han cobrado importancia porque:",
+      "options": [
+        "Han sustituido por completo a la educación formal",
+        "Se consideran más rigurosos que la enseñanza reglada",
+        "La administración los exige para obtener titulaciones",
+        "La escuela ha dejado de ser el único espacio para atender las expectativas sociales de formación y aprendizaje"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La escuela ya no es el único espacio de aprendizaje, por lo que los contextos no formales generan oportunidades para un aprendizaje permanente y de calidad para la comunidad."
+    },
+    {
+      "question": "A pesar de las diferencias entre contextos formales, no formales e informales, ¿qué tienen en común?",
+      "options": [
+        "Su objetivo es el mismo: la educación",
+        "Su regulación por las administraciones competentes",
+        "Su planificación mediante documentos institucionales",
+        "Su carácter obligatorio para toda la población"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El aprendizaje puede desarrollarse en diferentes contextos y modalidades, pero el objetivo es el mismo: la educación. La regulación y planificación son propias solo de la formal."
+    },
+    {
+      "question": "¿Qué diferencia fundamental existe entre la educación formal y la informal respecto a la intención?",
+      "options": [
+        "Ambas son siempre intencionales, pero se diferencian por el lugar",
+        "La formal es intencionada y planificada; la informal no es intencional ni planificada",
+        "La formal es espontánea y la informal está organizada",
+        "Ambas son espontáneas, pero la formal está certificada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La educación formal tiene un propósito deliberado de formar y está planificada, mientras que la informal surge de la vida cotidiana sin intención ni planificación."
+    },
+    {
+      "question": "¿Cuáles son las características de la Educación Infantil en el sistema educativo español?",
+      "options": [
+        "Obligatoria, de 3 a 6 años y con un único ciclo",
+        "No obligatoria, de 0 a 3 años y con tres ciclos",
+        "No obligatoria, de 0 a 6 años y con dos ciclos",
+        "Obligatoria, de 0 a 6 años y con dos ciclos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Educación Infantil no es obligatoria, abarca de los 0 a los 6 años y se divide en dos ciclos."
+    },
+    {
+      "question": "¿Cómo se dividen los dos ciclos de la Educación Infantil?",
+      "options": [
+        "0-2 años y 2-6 años",
+        "0-4 años y 4-6 años",
+        "1-3 años y 3-5 años",
+        "0-3 años y 3-6 años"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El primer ciclo comprende de 0 a 3 años y el segundo de 3 a 6 años."
+    },
+    {
+      "question": "La Educación Primaria se organiza en:",
+      "options": [
+        "Tres ciclos de dos años académicos cada uno",
+        "Dos ciclos de tres años académicos cada uno",
+        "Cuatro ciclos de dos años académicos cada uno",
+        "Un único ciclo de seis años académicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Primaria es obligatoria y consta de tres ciclos de dos años, lo que suma seis cursos."
+    },
+    {
+      "question": "¿A qué edades se cursa de manera ordinaria la Educación Primaria?",
+      "options": [
+        "De los 5 a los 11 años",
+        "De los 6 a los 12 años",
+        "De los 7 a los 13 años",
+        "De los 6 a los 11 años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Educación Primaria se cursa de manera ordinaria de los 6 a los 12 años."
+    },
+    {
+      "question": "¿Cuál es la finalidad de la Educación Primaria según la unidad?",
+      "options": [
+        "Preparar al alumnado para acceder directamente a la Formación Profesional",
+        "Certificar las competencias necesarias para el acceso universitario",
+        "Facilitar los aprendizajes de expresión oral, lectura, escritura, cálculo, convivencia, estudio y creatividad",
+        "Orientar al alumnado hacia las modalidades de Bachillerato"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Primaria busca facilitar aprendizajes básicos como la expresión y comprensión oral, la lectura, la escritura y el cálculo, además de hábitos de convivencia, estudio y trabajo, sentido artístico, creatividad y afectividad."
+    },
+    {
+      "question": "La Educación Secundaria Obligatoria (ESO) consta de:",
+      "options": [
+        "Tres cursos, de los 12 a los 15 años",
+        "Cuatro cursos, de los 11 a los 15 años",
+        "Cuatro cursos, de los 14 a los 18 años",
+        "Cuatro cursos, de los 12 a los 16 años"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La ESO tiene cuatro cursos que se cursan de manera ordinaria de los 12 a los 16 años."
+    },
+    {
+      "question": "¿Cómo se organiza la ESO en cuanto a sus contenidos?",
+      "options": [
+        "En materias que pueden agruparse en ámbitos",
+        "En áreas de conocimiento sin posibilidad de agrupación",
+        "En módulos profesionales de duración variable",
+        "En materias comunes, de modalidad y optativas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la ESO se trabaja por materias que pueden agruparse en ámbitos. La organización en comunes, modalidad y optativas es propia del Bachillerato, y los módulos son de la Formación Profesional."
+    },
+    {
+      "question": "¿Qué particularidad organizativa presenta el cuarto curso de la ESO?",
+      "options": [
+        "Tiene una organización diferente a la de 1.º, 2.º y 3.º",
+        "Es idéntico a los tres cursos anteriores",
+        "Se imparte exclusivamente en ciclos formativos",
+        "Tiene carácter voluntario para el alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los cursos 1.º, 2.º y 3.º comparten organización, mientras que 4.º tiene una organización diferente."
+    },
+    {
+      "question": "Los programas de diversificación curricular tienen una duración de:",
+      "options": [
+        "Un año, en 4.º de ESO",
+        "Dos años, desde 3.º de ESO hasta el final de la etapa",
+        "Tres años, desde 2.º de ESO hasta el final de la etapa",
+        "Dos años, desde 1.º de Bachillerato"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Duran dos años, desde 3.º de ESO hasta el final de la etapa, con una metodología específica para alcanzar los objetivos y las competencias del perfil de salida."
+    },
+    {
+      "question": "¿Con qué propósito se desarrollaron los programas de diversificación curricular y los ciclos formativos de grado básico?",
+      "options": [
+        "Acortar la duración de la escolarización obligatoria",
+        "Sustituir al Bachillerato para quien no quiera continuar",
+        "Evitar que el alumnado curse materias comunes",
+        "Atender la diversidad del alumnado y orientarlo a la consecución del título de ESO"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ambos recursos se orientan a atender la diversidad y a lograr el título de ESO, mediante metodologías o enseñanzas organizadas de forma específica."
+    },
+    {
+      "question": "¿Qué requisito de acceso se exige para los ciclos formativos de grado básico?",
+      "options": [
+        "Tener 15 años o cumplirlos en el año en curso y haber cursado 3.º de ESO o, excepcionalmente, 2.º",
+        "Tener 16 años y haber superado la ESO completa",
+        "Tener 14 años y haber superado 1.º de ESO",
+        "Tener 17 años y contar con experiencia laboral"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se accede con 15 años (o cumpliéndolos en el año natural) y habiendo cursado 3.º de ESO o, excepcionalmente, 2.º. Estos ciclos forman parte de la ESO."
+    },
+    {
+      "question": "Los ciclos formativos de grado básico se consideran:",
+      "options": [
+        "Enseñanzas de Bachillerato con orientación profesional",
+        "Ciclos de formación profesional incluidos en la Educación Secundaria Obligatoria",
+        "Enseñanzas no formales de inserción laboral",
+        "Un nivel previo a la Educación Primaria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Son ciclos de formación profesional incluidos en la ESO, que facilitan adquirir sus competencias mediante enseñanzas organizadas en ámbitos."
+    },
+    {
+      "question": "El Bachillerato se estructura en:",
+      "options": [
+        "Un único curso de carácter intensivo",
+        "Tres cursos con materias comunes",
+        "Dos cursos",
+        "Cuatro cursos organizados en ciclos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Bachillerato tiene dos cursos y se organiza en materias comunes, de modalidad y optativas."
+    },
+    {
+      "question": "¿Cuál de las siguientes opciones recoge las modalidades de Bachillerato?",
+      "options": [
+        "Ciencias, Letras y Tecnología",
+        "Ciencias de la Salud, Ingeniería y Humanidades",
+        "Artes, Deportes y Ciencias Sociales",
+        "Ciencias y Tecnología; Humanidades y Ciencias Sociales; Artes; General"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las modalidades son Ciencias y Tecnología, Humanidades y Ciencias Sociales, Artes y General."
+    },
+    {
+      "question": "¿Con qué titulación se puede acceder al Bachillerato?",
+      "options": [
+        "Con el título de la ESO o títulos de formación profesional",
+        "Con el título de Educación Primaria",
+        "Con la superación de un ciclo formativo de grado básico",
+        "Con una prueba de acceso universitario"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se accede con el título de la ESO o con títulos de formación profesional."
+    },
+    {
+      "question": "La Formación Profesional se caracteriza por:",
+      "options": [
+        "Un único ciclo de duración fija y contenidos comunes",
+        "Ciclos de grado medio y superior con organización modular y duración variable",
+        "Una estructura en cursos académicos iguales para cualquier familia",
+        "Enseñanzas de carácter no formal sin titulación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La FP tiene ciclos de grado medio y superior, con organización modular, duración variable y agrupación en familias profesionales."
+    },
+    {
+      "question": "¿Qué elemento está presente en los ciclos formativos de Formación Profesional?",
+      "options": [
+        "Una prueba de acceso a la universidad",
+        "Una organización en materias de modalidad",
+        "Una fase práctica",
+        "Un doble ciclo infantil"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los ciclos de FP incluyen una fase práctica para adquirir las competencias técnicas necesarias para el desarrollo efectivo de una profesión."
+    },
+    {
+      "question": "¿Qué titulación se obtiene al finalizar un ciclo formativo de Formación Profesional?",
+      "options": [
+        "Bachiller en la modalidad correspondiente",
+        "Graduado en la familia profesional",
+        "Diplomado en la profesión elegida",
+        "Técnico en la profesión correspondiente"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La titulación al finalizar los ciclos es la de técnico en la profesión correspondiente."
+    },
+    {
+      "question": "La enseñanza de idiomas está organizada en los niveles:",
+      "options": [
+        "Básico, intermedio y avanzado",
+        "Inicial, medio y superior",
+        "Elemental, profesional y superior",
+        "Primero, segundo y tercero"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las enseñanzas de idiomas se organizan en tres niveles: básico, intermedio y avanzado."
+    },
+    {
+      "question": "¿Cuál es el requisito de edad general para acceder a las enseñanzas de idiomas?",
+      "options": [
+        "Tener 14 años cumplidos al inicio de los estudios",
+        "Tener 16 años cumplidos en el año en que se comiencen los estudios",
+        "Tener 18 años cumplidos en el año en que se comiencen",
+        "Tener 12 años y haber superado la Primaria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se accede con 16 años cumplidos en el año de inicio de los estudios; también se admiten mayores de 14 años para un idioma distinto al que se cursa en el sistema educativo."
+    },
+    {
+      "question": "Una alumna de 15 años estudia inglés en su instituto y quiere aprender alemán. ¿Puede acceder a las enseñanzas de idiomas?",
+      "options": [
+        "No, porque necesita tener 18 años cumplidos",
+        "No, porque necesita haber terminado la ESO",
+        "Sí, porque es mayor de 14 años y el idioma es distinto al que cursa en el sistema educativo",
+        "Sí, pero con acceso directo al nivel avanzado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se admite a mayores de 14 años para un idioma distinto al que se curse en el sistema educativo. Por eso, aprender alemán mientras estudia inglés es posible."
+    },
+    {
+      "question": "¿Dónde se imparten los niveles intermedio y avanzado de las enseñanzas de idiomas?",
+      "options": [
+        "En los institutos de Educación Secundaria",
+        "En los centros de educación de personas adultas",
+        "En las facultades de filología",
+        "En las escuelas oficiales de idiomas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los niveles intermedio y avanzado se imparten en las escuelas oficiales de idiomas."
+    },
+    {
+      "question": "Las enseñanzas artísticas profesionales de música y danza tienen una duración de:",
+      "options": [
+        "Seis cursos",
+        "Cuatro cursos",
+        "Dos cursos",
+        "Tres cursos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En música y danza, las enseñanzas artísticas profesionales duran seis cursos. Las de artes plásticas y diseño se organizan en ciclos con formación práctica."
+    },
+    {
+      "question": "¿Cuál de las siguientes se incluye entre las enseñanzas artísticas superiores?",
+      "options": [
+        "Enseñanzas elementales de música",
+        "Enseñanzas de conservación y restauración de bienes culturales",
+        "Enseñanzas profesionales de danza",
+        "Ciclos de grado básico de diseño"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las enseñanzas artísticas superiores incluyen estudios superiores de música y danza, arte dramático, conservación y restauración de bienes culturales, y artes plásticas y diseño."
+    },
+    {
+      "question": "Las enseñanzas deportivas se estructuran en:",
+      "options": [
+        "Tres grados: básico, medio y superior",
+        "Un único grado de carácter superior",
+        "Dos grados: medio y superior, con títulos de Técnico Deportivo o Técnico Deportivo Superior",
+        "Dos grados: elemental y profesional, con título de monitor"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se estructuran en dos grados (medio y superior), y conducen a los títulos de Técnico Deportivo o Técnico Deportivo Superior en la especialidad."
+    },
+    {
+      "question": "La educación de personas adultas está dirigida a mayores de:",
+      "options": [
+        "20 años, sin excepciones",
+        "21 años con estudios previos",
+        "16 años, sin condiciones adicionales",
+        "18 años, con acceso excepcional de mayores de 16 que cumplan condiciones determinadas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Se destina a mayores de 18 años; excepcionalmente pueden acceder mayores de 16 que cumplan unas condiciones determinadas."
+    },
+    {
+      "question": "¿Cuál es la finalidad de la educación de personas adultas?",
+      "options": [
+        "Adquirir, actualizar, completar o ampliar conocimientos y aptitudes para el desarrollo personal y profesional",
+        "Sustituir a la enseñanza obligatoria de forma definitiva",
+        "Preparar exclusivamente para el acceso a la universidad",
+        "Certificar la experiencia laboral sin formación adicional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ofrece la posibilidad de adquirir, actualizar, completar o ampliar conocimientos y aptitudes para el desarrollo personal y profesional."
+    },
+    {
+      "question": "La enseñanza universitaria en España se caracteriza por:",
+      "options": [
+        "Regularse por la normativa de la Educación Secundaria",
+        "Incluir estudios de grado, máster y doctorado, regulados por su normativa específica",
+        "Organizarse en ciclos de dos años académicos",
+        "Quedar fuera del sistema educativo formal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Comprende estudios de grado, máster y doctorado, y se rige por su normativa específica. Forma parte de la educación formal."
+    },
+    {
+      "question": "El sistema educativo español, regulado actualmente por la LOMLOE, se organiza en etapas, ciclos, grados, cursos y niveles con el fin de:",
+      "options": [
+        "Separar a los alumnos según su rendimiento",
+        "Reducir la duración de la escolarización",
+        "Asegurar la transición entre ellos y dentro de cada uno",
+        "Eliminar las diferencias entre comunidades autónomas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La organización en etapas, ciclos, grados, cursos y niveles pretende asegurar la transición entre ellos y, en su caso, dentro de cada uno."
+    },
+    {
+      "question": "¿Cuál de los siguientes pares de enseñanzas es de carácter obligatorio?",
+      "options": [
+        "Educación Infantil y Educación Primaria",
+        "Educación Primaria y Bachillerato",
+        "Educación Secundaria Obligatoria y Formación Profesional de grado medio",
+        "Educación Primaria y Educación Secundaria Obligatoria"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La Primaria y la ESO son las etapas obligatorias. Infantil, Bachillerato y la FP no tienen carácter obligatorio."
+    },
+    {
+      "question": "Una persona adulta quiere seguir formándose para actualizar conocimientos laborales, pero sin titulación oficial y con horarios flexibles organizados por una entidad externa. ¿Qué tipo de educación sería?",
+      "options": [
+        "No formal",
+        "Formal",
+        "Informal",
+        "Universitaria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Una formación organizada, con objetivos específicos y fuera del sistema educativo oficial, sin titulación oficial, es educación no formal."
+    },
+    {
+      "question": "¿Cuál de las siguientes actividades NO es un ejemplo de educación formal?",
+      "options": [
+        "Cursar un ciclo de Formación Profesional",
+        "Asistir a un taller de artesanía organizado por una asociación",
+        "Estudiar Educación Primaria",
+        "Realizar un máster universitario"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Un taller organizado por una asociación es educación no formal. La FP, la Primaria y el máster universitario forman parte del sistema educativo oficial."
+    },
+    {
+      "question": "¿Qué consecuencia tiene la falta de consenso sobre qué es una educación de calidad?",
+      "options": [
+        "Que se pueden pasar por alto las múltiples dimensiones implicadas en una educación de calidad",
+        "Que los sistemas educativos dejan de evaluarse a nivel internacional",
+        "Que las administraciones adoptan una definición única y obligatoria",
+        "Que la calidad se mide exclusivamente por la titulación del profesorado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La falta de consenso permite que se ignoren las múltiples dimensiones de la calidad. Las demás opciones no se derivan del texto."
+    },
+    {
+      "question": "¿En qué coinciden los investigadores respecto a la calidad en educación?",
+      "options": [
+        "En que debe medirse mediante el ranking de resultados entre países",
+        "En que hay que alejarse del reduccionismo y la competitividad asociados a la calidad",
+        "En que el nivel de aprendizaje alcanzado es el único criterio relevante",
+        "En que la calidad depende de la inversión económica en cada centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Orozco y colaboradores señalan que los investigadores coinciden en alejarse del reduccionismo y de la competitividad que se asocian a la calidad en educación."
+    },
+    {
+      "question": "Identificar la calidad educativa con el nivel de aprendizaje que alcanzan los alumnos se considera una idea pobre porque:",
+      "options": [
+        "Los aprendizajes no pueden medirse con pruebas externas",
+        "Los aprendizajes dependen sobre todo del contexto familiar",
+        "Deja de lado otros factores como la equidad, ya que no todos los alumnos parten del mismo punto",
+        "La calidad depende exclusivamente del profesorado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Martínez-Rizo advierte de que no hay que olvidar la equidad: los alumnos no parten del mismo punto, por lo que no basta con mirar cuánto aprenden."
+    },
+    {
+      "question": "En el modelo de coherencias múltiples de Martínez y Riopérez, la funcionalidad se entiende como:",
+      "options": [
+        "El logro de las metas educativas propuestas",
+        "El uso correcto de los recursos personales, económicos y materiales",
+        "La coherencia entre finalidades, prácticas y resultados",
+        "La respuesta del sistema educativo a las necesidades de formación de la sociedad"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La funcionalidad es la respuesta que el sistema educativo da a las necesidades de formación de la sociedad. El logro de metas es la eficacia y el buen uso de recursos es la eficiencia."
+    },
+    {
+      "question": "Según Martínez y Riopérez, una organización educativa es eficaz si:",
+      "options": [
+        "Logra las metas educativas de calidad que se había propuesto",
+        "Hace un uso correcto de sus recursos personales y materiales",
+        "Responde a las necesidades de formación de la sociedad",
+        "Apoya especialmente al alumnado con más dificultades"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Eficacia es lograr las metas propuestas. Usar bien los recursos es eficiencia, y responder a la sociedad es funcionalidad."
+    },
+    {
+      "question": "Según Martínez y Riopérez, una organización educativa es eficiente si:",
+      "options": [
+        "Alcanza las metas educativas previstas",
+        "Hace un uso correcto de sus recursos personales, económicos y materiales para conseguirlas",
+        "Garantiza que el alumnado permanezca hasta el final de la etapa",
+        "Adapta el currículo a las características del alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La eficiencia consiste en aprovechar bien los recursos humanos, económicos y materiales para alcanzar las metas. Alcanzarlas sin más es eficacia."
+    },
+    {
+      "question": "Un centro consigue todos los objetivos educativos que se había marcado, pero derrochando recursos económicos y de personal. ¿Cómo se valora?",
+      "options": [
+        "Eficiente pero poco eficaz",
+        "Ni eficaz ni eficiente",
+        "Eficaz pero poco eficiente",
+        "Eficiente y eficaz a la vez"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Alcanzar las metas indica eficacia, pero el uso inadecuado de los recursos revela falta de eficiencia."
+    },
+    {
+      "question": "Un centro administra con gran cuidado sus recursos, pero no alcanza los resultados de aprendizaje previstos. ¿Cómo se valora?",
+      "options": [
+        "Eficaz pero poco eficiente",
+        "Eficaz y eficiente a la vez",
+        "Poco eficaz y también poco eficiente",
+        "Eficiente pero poco eficaz"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El buen uso de los recursos es eficiencia, pero no lograr las metas indica falta de eficacia."
+    },
+    {
+      "question": "Malpica (2013) define la calidad educativa como coherencia entre:",
+      "options": [
+        "Las finalidades prometidas al alumno, las prácticas adecuadas en las aulas y los resultados de aprendizaje obtenidos",
+        "El presupuesto, la ratio y las infraestructuras del centro",
+        "Las pruebas externas, los rankings y las titulaciones concedidas",
+        "La legislación, la inspección y los proyectos de innovación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para Malpica la calidad es la coherencia entre lo que se promete al alumno, las prácticas que se garantizan en todas las aulas y los resultados de aprendizaje."
+    },
+    {
+      "question": "Martínez-Rizo (2009) entiende la calidad del sistema educativo como el resultado de integrar dimensiones como:",
+      "options": [
+        "Cobertura, rendimiento, gasto y titulación",
+        "Pertinencia, relevancia, eficacia, impacto, suficiencia, eficiencia y equidad",
+        "Funcionalidad, rentabilidad, innovación y liderazgo",
+        "Autonomía, evaluación, inspección y financiación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La calidad es la cualidad que resulta de integrar pertinencia y relevancia, eficacia interna, eficacia externa, impacto, suficiencia, eficiencia y equidad."
+    },
+    {
+      "question": "Un sistema educativo de calidad debe establecer un currículo adecuado a las características de los alumnos. ¿Qué dimensión se refleja?",
+      "options": [
+        "Impacto",
+        "Equidad",
+        "Pertinencia",
+        "Suficiencia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La pertinencia es la adecuación del currículo a las características del alumnado. La relevancia es su adecuación a las necesidades de la sociedad."
+    },
+    {
+      "question": "Un currículo que responde a las necesidades de la sociedad refleja la dimensión de:",
+      "options": [
+        "Pertinencia",
+        "Suficiencia",
+        "Impacto",
+        "Relevancia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La relevancia se refiere a la adecuación del currículo a las necesidades de la sociedad; la pertinencia lo hace a las características del alumnado."
+    },
+    {
+      "question": "La eficacia interna y externa implica lograr que la más alta proporción posible de destinatarios:",
+      "options": [
+        "Acceda a la escuela, permanezca hasta el final y aprenda",
+        "Obtenga las mejores calificaciones en pruebas externas",
+        "Acceda a la universidad tras finalizar la etapa",
+        "Participe en actividades extraescolares y no formales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La eficacia interna y externa se mide por la proporción de alumnos que acceden, permanecen y aprenden."
+    },
+    {
+      "question": "La dimensión de impacto se refiere a que los aprendizajes:",
+      "options": [
+        "Se midan con pruebas internacionales estandarizadas",
+        "Se asimilen de forma duradera y generen comportamientos sociales fructíferos para la sociedad y los individuos",
+        "Se adapten a las características de cada alumno",
+        "Se financien con recursos suficientes y estables"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El impacto implica aprendizajes asimilados de forma duradera que se traduzcan en comportamientos sociales provechosos."
+    },
+    {
+      "question": "La suficiencia en un sistema educativo de calidad consiste en:",
+      "options": [
+        "Aprovechar al máximo el tiempo escolar",
+        "Reducir los gastos de funcionamiento de los centros",
+        "Contar con recursos humanos y materiales suficientes",
+        "Evitar el abandono escolar prematuro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Suficiencia es disponer de recursos humanos y materiales suficientes. Aprovecharlos bien, evitando derroches, es eficiencia."
+    },
+    {
+      "question": "En la definición de Martínez-Rizo, ¿qué dimensión exige aprovechar los recursos de la mejor manera, evitando despilfarros?",
+      "options": [
+        "Suficiencia",
+        "Pertinencia",
+        "Impacto",
+        "Eficiencia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La eficiencia implica un uso óptimo de los recursos, sin despilfarros ni derroches."
+    },
+    {
+      "question": "La equidad en un sistema educativo de calidad supone:",
+      "options": [
+        "Considerar la desigual situación de alumnos, familias y escuelas y apoyar a quien lo requiera para que alcance los objetivos",
+        "Ofrecer exactamente los mismos recursos a cada centro",
+        "Aplicar la misma evaluación a cualquier alumno sin adaptaciones",
+        "Reducir el currículo a sus contenidos esenciales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La equidad reconoce que los puntos de partida son distintos y apoya especialmente a quien lo necesita. Tratar a cualquier alumno de forma idéntica no garantiza igualdad de oportunidades."
+    },
+    {
+      "question": "Un centro de un barrio desfavorecido refuerza las ayudas y el apoyo a su alumnado con más dificultades para que alcance los objetivos. ¿Qué dimensión de la calidad está priorizando?",
+      "options": [
+        "Eficiencia",
+        "Equidad",
+        "Relevancia",
+        "Impacto"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Apoyar especialmente a quien lo requiere teniendo en cuenta la desigualdad de partida es equidad."
+    },
+    {
+      "question": "Un currículo que no conecta con las necesidades laborales y sociales actuales presenta un problema de:",
+      "options": [
+        "Equidad",
+        "Suficiencia",
+        "Relevancia",
+        "Eficiencia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La relevancia valora si el currículo responde a las necesidades de la sociedad. Si no conecta con ellas, falla esa dimensión."
+    },
+    {
+      "question": "Un sistema en el que muchos alumnos abandonan antes de terminar la etapa tiene un problema principal de:",
+      "options": [
+        "Pertinencia",
+        "Suficiencia",
+        "Relevancia",
+        "Eficacia interna"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La eficacia interna implica que la mayor proporción posible acceda, permanezca hasta el final y aprenda. El abandono la compromete."
+    },
+    {
+      "question": "Según Santamaría (2015), ¿cuáles son las líneas directrices en la organización de los centros escolares?",
+      "options": [
+        "La eficacia, la eficiencia, la calidad y la mejora constante",
+        "La autonomía, la participación, la jerarquía y el control",
+        "La competitividad, la excelencia, el ranking y la acreditación",
+        "La inclusión, la equidad, la gratuidad y la obligatoriedad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Santamaría señala que la eficacia, la eficiencia, la calidad y la mejora constante guían la organización de los centros escolares."
+    },
+    {
+      "question": "Para que mejoren la calidad y los resultados de aprendizaje, los agentes educativos necesitan:",
+      "options": [
+        "Aplicar nuevas leyes con mayor frecuencia",
+        "Conocer y analizar la situación actual con base en pruebas empíricas",
+        "Reducir el número de evaluaciones del alumnado",
+        "Uniformar las metodologías en todos los centros"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sin información empírica sobre la situación actual no es posible orientar la mejora. De ahí la importancia de los indicadores de calidad."
+    },
+    {
+      "question": "Una de las utilidades de los indicadores de calidad educativa es:",
+      "options": [
+        "Fijar el currículo de cada etapa",
+        "Establecer la titulación del profesorado",
+        "Comparar las diferentes educaciones entre países",
+        "Sustituir a la evaluación del alumnado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los indicadores permiten conocer la calidad de la enseñanza, medir el impacto de las reformas, fomentar la mejora y comparar sistemas educativos entre países."
+    },
+    {
+      "question": "¿Para qué sirve medir el impacto de las reformas educativas con indicadores?",
+      "options": [
+        "Para determinar la financiación de cada centro",
+        "Para decidir los ciclos de cada etapa",
+        "Para seleccionar al profesorado de cada región",
+        "Para conocer si los cambios introducidos han mejorado el sistema"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los indicadores permiten comprobar los efectos de las reformas y fomentar la mejora del sistema."
+    },
+    {
+      "question": "Según Sánchez-Santamaría (2013), la excelencia educativa equivale a:",
+      "options": [
+        "Promover el éxito educativo del alumnado conjugando factores del centro como el profesorado, las familias y el entorno próximo",
+        "Obtener los mejores resultados en las pruebas internacionales",
+        "Seleccionar al alumnado con mayor capacidad académica",
+        "Aplicar normas de calidad certificadas por organismos externos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La excelencia se vincula al éxito educativo del alumnado mediante la combinación de factores como el profesorado, las familias y el entorno, y no a la selección o a los rankings."
+    },
+    {
+      "question": "El análisis comparado de los sistemas educativos suele basarse en el contexto y en los indicadores de:",
+      "options": [
+        "Cobertura, abandono y repetición",
+        "Insumos, procesos y resultado",
+        "Eficacia, eficiencia y equidad",
+        "Currículo, evaluación y titulación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según Sauvageot, el análisis se basa en el contexto y en indicadores de insumos, de procesos y de resultado."
+    },
+    {
+      "question": "Los indicadores de contexto proporcionan información sobre:",
+      "options": [
+        "Los recursos financieros, materiales y humanos disponibles",
+        "Los efectos de las actividades programadas",
+        "Las características del alumnado y las condiciones socioeconómicas de las familias",
+        "Los resultados de aprendizaje en pruebas nacionales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los indicadores de contexto describen el entorno en que se produce el aprendizaje, incluidas las características del alumnado y la situación socioeconómica de las familias."
+    },
+    {
+      "question": "Los indicadores de insumos analizan:",
+      "options": [
+        "El rendimiento del alumnado en evaluaciones internacionales",
+        "Las actividades desarrolladas en el aula",
+        "El nivel de estudios de las familias",
+        "El reparto y uso de los recursos financieros, materiales y humanos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los insumos son los recursos que propician y facilitan el aprendizaje, y sus indicadores analizan cómo se reparten y se usan."
+    },
+    {
+      "question": "Los indicadores de procesos recogen:",
+      "options": [
+        "Los efectos de las actividades programadas para lograr los objetivos",
+        "Los resultados de las evaluaciones nacionales e internacionales",
+        "Las condiciones socioeconómicas de las familias",
+        "El volumen de recursos financieros del sistema"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los indicadores de procesos reflejan los efectos de las actividades programadas para alcanzar los objetivos."
+    },
+    {
+      "question": "Los indicadores de resultado miden:",
+      "options": [
+        "La distribución del profesorado en los centros",
+        "Los resultados de aprendizaje que se miden en evaluaciones nacionales e internacionales",
+        "El presupuesto destinado a cada etapa",
+        "El grado de participación de las familias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los indicadores de resultado se refieren a los resultados de aprendizaje, como los que se obtienen en las evaluaciones nacionales e internacionales."
+    },
+    {
+      "question": "El presupuesto por alumno de una comunidad autónoma es un ejemplo de indicador de:",
+      "options": [
+        "Contexto",
+        "Resultado",
+        "Insumos",
+        "Procesos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El gasto por alumno informa del reparto y uso de recursos financieros, característica de los indicadores de insumos."
+    },
+    {
+      "question": "El nivel socioeconómico medio de las familias de un centro es un indicador de:",
+      "options": [
+        "Insumos",
+        "Resultado",
+        "Procesos",
+        "Contexto"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las condiciones socioeconómicas de las familias forman parte de la información de contexto en la que se desarrolla el aprendizaje."
+    },
+    {
+      "question": "La puntuación media de un país en una prueba internacional de lectura es un indicador de:",
+      "options": [
+        "Resultado",
+        "Contexto",
+        "Insumos",
+        "Procesos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los resultados de aprendizaje medidos en evaluaciones nacionales o internacionales corresponden a los indicadores de resultado."
+    },
+    {
+      "question": "El grado en que las actividades programadas por un centro logran los efectos previstos se recoge en un indicador de:",
+      "options": [
+        "Resultado",
+        "Procesos",
+        "Contexto",
+        "Insumos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los indicadores de procesos recogen los efectos de las actividades programadas para lograr los objetivos."
+    },
+    {
+      "question": "Los modelos de gestión de la calidad son guías que especifican cómo poner en funcionamiento:",
+      "options": [
+        "La programación, la evaluación, la promoción y la titulación",
+        "Los currículos, las competencias, los saberes y los criterios",
+        "Los principios, las prácticas, los métodos y el control",
+        "Las etapas, los ciclos, los cursos y los niveles"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según el texto, estos modelos orientan la mejora de la calidad especificando principios, prácticas, métodos y control."
+    },
+    {
+      "question": "¿Cuáles son los dos modelos de gestión de la calidad más implantados en el contexto educativo?",
+      "options": [
+        "PISA y TALIS",
+        "INEE y AENOR",
+        "LOMLOE y LOE",
+        "Las normas ISO y el modelo EFQM"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las normas ISO y el modelo EFQM son los modelos más implantados. PISA y TALIS son pruebas de evaluación, y INEE y AENOR son organismos."
+    },
+    {
+      "question": "El principal inconveniente de la acreditación de los modelos ISO y EFQM en los centros es:",
+      "options": [
+        "Su coste económico",
+        "Su carácter obligatorio",
+        "Su falta de reconocimiento internacional",
+        "Su desconexión con los procesos de trabajo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El principal inconveniente es que la acreditación supone un coste económico. No es obligatoria y, en el caso de ISO, ofrece reconocimiento internacional."
+    },
+    {
+      "question": "Respecto a las normas ISO, ¿cuál de las siguientes afirmaciones es correcta?",
+      "options": [
+        "Nacieron en el ámbito educativo y su aplicación es obligatoria",
+        "Su origen se asocia al mundo empresarial y su aplicación es voluntaria",
+        "Son una herramienta exclusiva de autoevaluación europea",
+        "Son gestionadas en España por el INEE"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las normas ISO proceden del mundo empresarial y se aplican de forma voluntaria. En España las representa AENOR, no el INEE."
+    },
+    {
+      "question": "Contar con la acreditación ISO implica para un centro:",
+      "options": [
+        "Una autoevaluación comparada con un modelo ideal",
+        "Un incremento automático de su financiación pública",
+        "Un reconocimiento internacional de calidad que deja constancia de que los procesos de trabajo son efectivos",
+        "Una exención de las evaluaciones nacionales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La acreditación ISO supone reconocimiento internacional y demuestra que los procesos de trabajo son efectivos para ofrecer el mejor servicio."
+    },
+    {
+      "question": "¿Qué entidad representa y es responsable de las normas ISO en España?",
+      "options": [
+        "El Instituto Nacional de Evaluación Educativa",
+        "La Fundación Europea para la Gestión de Calidad",
+        "El Ministerio de Educación y Formación Profesional",
+        "AENOR"
+      ],
+      "correctAnswer": 3,
+      "explanation": "AENOR (Asociación Española de Normalización y Certificación) es la representante y responsable de las normas ISO en España."
+    },
+    {
+      "question": "El modelo EFQM busca principalmente:",
+      "options": [
+        "Conocer la realidad del centro mediante la autoevaluación y reflexionar sobre ella para elaborar planes y estrategias",
+        "Comparar el rendimiento del alumnado con el de otros países",
+        "Certificar que el centro cumple una norma empresarial",
+        "Evaluar la formación inicial del profesorado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El EFQM es una herramienta de autoevaluación cuyo objetivo es conocer la realidad del centro y reflexionar para elaborar planes y estrategias mediante liderazgo, innovación y aprendizaje."
+    },
+    {
+      "question": "La principal misión del modelo EFQM es:",
+      "options": [
+        "Clasificar los centros según su puntuación en una prueba externa",
+        "Detectar los puntos débiles de la organización para estimular procesos de mejora tras una autoevaluación",
+        "Acreditar la conformidad con una norma internacional",
+        "Establecer el currículo mínimo de cada etapa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El EFQM pretende detectar puntos débiles tras una autoevaluación para impulsar la mejora continua."
+    },
+    {
+      "question": "El modelo EFQM se basa en nueve criterios. ¿Cómo se distribuyen?",
+      "options": [
+        "Cuatro agentes y cinco resultados",
+        "Tres agentes, tres procesos y tres resultados",
+        "Cinco agentes o facilitadores y cuatro resultados",
+        "Siete agentes y dos resultados"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El marco EFQM tiene nueve criterios: cinco facilitadores o agentes y cuatro resultados."
+    },
+    {
+      "question": "En el modelo EFQM, los criterios agentes y los criterios resultados se diferencian en que:",
+      "options": [
+        "Los agentes miden lo que se logra y los resultados lo que se hace",
+        "Los agentes se evalúan externamente y los resultados internamente",
+        "Los agentes son obligatorios y los resultados voluntarios",
+        "Los agentes se refieren a lo que la organización hace y los resultados a lo que logra"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los criterios agentes describen lo que la organización hace; los resultados, lo que alcanza. Los resultados son causados por los agentes."
+    },
+    {
+      "question": "Según el modelo EFQM, los resultados de una organización:",
+      "options": [
+        "Son causados por los agentes y se mejoran mediante la retroalimentación",
+        "Son independientes de las acciones que se desarrollan en el centro",
+        "Se mejoran mediante la acreditación externa de calidad",
+        "Se determinan por la puntuación de las pruebas internacionales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El modelo plantea una relación causal: lo que la organización hace (agentes) produce los resultados, que se mejoran con retroalimentación."
+    },
+    {
+      "question": "Decir que el EFQM es un marco no prescriptivo significa que:",
+      "options": [
+        "Es de obligado cumplimiento en todos los centros",
+        "Ofrece criterios de referencia sin imponer un procedimiento único para alcanzarlos",
+        "Prohíbe la comparación entre organizaciones",
+        "Sustituye a la normativa educativa vigente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Un marco no prescriptivo da criterios para orientar la gestión sin dictar un procedimiento obligatorio."
+    },
+    {
+      "question": "En el modelo EFQM, ¿cómo se interpreta la puntuación obtenida tras comparar las prácticas de gestión con un modelo ideal?",
+      "options": [
+        "A menor puntuación, mayor grado de excelencia en la gestión",
+        "La puntuación no guarda relación con la excelencia",
+        "A mayor puntuación, mayor grado de excelencia en la gestión",
+        "La puntuación solo informa sobre el coste de la acreditación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El centro compara sus prácticas con un modelo ideal y, a mayor puntuación, mayor grado de excelencia."
+    },
+    {
+      "question": "Un centro quiere contrastar sus prácticas internas con un modelo ideal mediante autoevaluación y orientar su mejora continua. ¿Qué modelo se ajusta mejor?",
+      "options": [
+        "Las normas ISO, por su origen empresarial",
+        "PISA, por su comparación internacional",
+        "TALIS, por su cuestionario al profesorado",
+        "El modelo EFQM"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El EFQM compara las prácticas de gestión del centro con un modelo ideal de excelencia a partir de una autoevaluación."
+    },
+    {
+      "question": "Martínez y Riopérez (2005) definen la calidad en la educación mediante:",
+      "options": [
+        "Un sistema de coherencias múltiples cuyas notas son funcionalidad, eficacia y eficiencia",
+        "Un conjunto de pruebas de rendimiento estandarizadas",
+        "Un modelo de acreditación basado en nueve criterios fijos",
+        "Una escala única de resultados comparables entre países"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Definen la calidad como un sistema de coherencias múltiples, con funcionalidad, eficacia y eficiencia como notas características."
+    },
+    {
+      "question": "Según Marchesi y Martín (1998), la calidad en la educación pasa por:",
+      "options": [
+        "La uniformidad y la competitividad entre centros",
+        "La búsqueda de la excelencia y la equidad",
+        "La reducción de los costes de funcionamiento",
+        "La obtención de acreditaciones externas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto concluye que la calidad pasa por la búsqueda de la excelencia y la equidad, lo que plantea la necesidad constante de innovar y reflexionar sobre la propia práctica."
+    },
+    {
+      "question": "Según PREVAL (2006), la evaluación es el proceso encaminado a determinar sistemática y objetivamente:",
+      "options": [
+        "La titulación de cada alumno al finalizar una etapa",
+        "La posición de cada país en un ranking comparado",
+        "La pertinencia, eficacia, eficiencia e impacto de las actividades a la luz de sus objetivos",
+        "La financiación necesaria para cada centro educativo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "PREVAL define la evaluación como el proceso que determina sistemática y objetivamente la pertinencia, eficacia, eficiencia e impacto de las actividades en relación con sus objetivos."
+    },
+    {
+      "question": "Para Morales (2001), la evaluación puede entenderse como un proceso de:",
+      "options": [
+        "Observación y recogida de información para su interpretación y la emisión de un juicio de valor que permita tomar decisiones",
+        "Medición de conocimientos mediante pruebas estandarizadas",
+        "Comparación de resultados con los de otros centros",
+        "Certificación de competencias al final de una etapa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Morales concibe la evaluación como observación y recogida de información, interpretación y juicio de valor para decidir, no como simple medición o certificación."
+    },
+    {
+      "question": "Foronda-Torrico y Foronda-Zubieta entienden la evaluación como un proceso sistemático que:",
+      "options": [
+        "Se limita a medir el rendimiento del alumnado",
+        "Se aplica siempre al final de cada curso",
+        "Depende de un único instrumento normalizado",
+        "Recoge información relevante con técnicas e instrumentos variados para emitir juicios fundamentados y tomar decisiones de mejora"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Se trata de un proceso sistemático que utiliza técnicas e instrumentos variados para fundamentar juicios y decisiones de mejora sobre los centros y la práctica educativa."
+    },
+    {
+      "question": "¿Por qué la evaluación es fundamental para la calidad educativa?",
+      "options": [
+        "Porque determina las titulaciones del alumnado",
+        "Porque permite observar y analizar los procesos y los resultados",
+        "Porque sustituye a la planificación del currículo",
+        "Porque evita la necesidad de indicadores"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación permite observar y analizar procesos y resultados, información necesaria para mejorar la calidad educativa."
+    },
+    {
+      "question": "¿Qué organización acordó en 1997 el programa PISA?",
+      "options": [
+        "La OCDE (Organización para la Cooperación y el Desarrollo Económico)",
+        "La UNESCO",
+        "La Unión Europea",
+        "La Organización Mundial del Comercio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En 1997 los países integrantes de la OCDE acordaron el programa PISA para la evaluación internacional de estudiantes."
+    },
+    {
+      "question": "¿Con qué periodicidad se aplica PISA desde el año 2000?",
+      "options": [
+        "Cada año",
+        "Cada tres cursos",
+        "Cada cinco años",
+        "Cada diez años"
+      ],
+      "correctAnswer": 1,
+      "explanation": "PISA se aplica cada tres cursos desde el año 2000. La cadencia de cinco años corresponde a TALIS."
+    },
+    {
+      "question": "¿Qué tres áreas evalúa el informe PISA?",
+      "options": [
+        "Lengua, ciencias sociales y tecnología",
+        "Matemáticas, idiomas y ciudadanía",
+        "Lectura, matemáticas y competencia científica",
+        "Lectura, expresión artística y competencia digital"
+      ],
+      "correctAnswer": 2,
+      "explanation": "PISA evalúa lectura, matemáticas y competencia científica, y además incluye materias como la resolución colaborativa de problemas o la competencia financiera."
+    },
+    {
+      "question": "Además de las áreas principales, ¿qué otras materias puede incluir PISA?",
+      "options": [
+        "Educación física y expresión artística",
+        "Historia y geografía nacional",
+        "Idiomas extranjeros y tecnología",
+        "Resolución colaborativa de problemas y competencia financiera"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El texto menciona la resolución colaborativa de problemas y la competencia financiera como materias adicionales."
+    },
+    {
+      "question": "¿Qué elemento novedoso incorpora el programa PISA?",
+      "options": [
+        "El concepto de competencia",
+        "La evaluación censal de cada alumno",
+        "La prueba única para cada etapa",
+        "La comparación entre centros de una misma región"
+      ],
+      "correctAnswer": 0,
+      "explanation": "PISA incluye como novedad el concepto de competencia, que permite evaluar la capacidad de analizar, razonar y comunicarse."
+    },
+    {
+      "question": "El enfoque por competencias de PISA permite:",
+      "options": [
+        "Dar mayor protagonismo a la memorización de contenidos",
+        "Evaluar la capacidad de analizar, razonar y comunicarse, restando protagonismo a la memorización",
+        "Medir el rendimiento en materias instrumentales",
+        "Sustituir la evaluación del profesorado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Con la competencia se valora la capacidad de analizar, razonar y comunicarse, por lo que la memorización de contenidos pierde peso."
+    },
+    {
+      "question": "¿Qué efecto tienen los resultados de PISA en la opinión pública?",
+      "options": [
+        "Se mantienen en el ámbito de los especialistas",
+        "Se utilizan para otorgar titulaciones",
+        "Establecen rankings entre países que calan entre la opinión pública",
+        "Sustituyen a las evaluaciones de cada país"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los resultados de PISA generan rankings entre países que tienen una gran repercusión en la opinión pública."
+    },
+    {
+      "question": "Según el resumen de la unidad, ¿qué crítica se plantea a las pruebas PISA?",
+      "options": [
+        "Que evalúan exclusivamente el aprendizaje de la memoria",
+        "Que no tienen en cuenta el rendimiento académico",
+        "Que carecen de reconocimiento internacional",
+        "Que fomentan la competitividad entre países y priorizan el rendimiento académico sobre otros factores, olvidando la parte más personal del alumnado"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El resumen señala que PISA tiende a fomentar la competitividad entre países y prioriza el rendimiento académico por encima de factores sociodemográficos y de la dimensión personal."
+    },
+    {
+      "question": "El informe PISA evalúa la adquisición de conocimientos y habilidades necesarias para:",
+      "options": [
+        "La participación plena en la sociedad del saber",
+        "El acceso directo al mercado laboral",
+        "La superación de las pruebas de acceso universitario",
+        "La obtención de titulaciones profesionales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "PISA mide si el alumnado ha adquirido conocimientos y habilidades para participar plenamente en la sociedad del saber."
+    },
+    {
+      "question": "¿A quiénes da voz la prueba TALIS?",
+      "options": [
+        "Al alumnado de Primaria y Secundaria",
+        "A docentes y directores de centros de Infantil, Primaria y Secundaria",
+        "A las familias y asociaciones de madres y padres",
+        "A los inspectores y a las administraciones educativas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "TALIS recoge la voz de docentes y directores de centros de Infantil, Primaria y Secundaria, no del alumnado."
+    },
+    {
+      "question": "¿Con qué periodicidad se realiza TALIS?",
+      "options": [
+        "Cada tres cursos",
+        "Cada año",
+        "Cada cinco años",
+        "Cada dos años"
+      ],
+      "correctAnswer": 2,
+      "explanation": "TALIS se realiza cada cinco años."
+    },
+    {
+      "question": "¿Qué aspectos aborda TALIS?",
+      "options": [
+        "El rendimiento del alumnado en lectura y matemáticas",
+        "La educación cívica del alumnado de 2.º de ESO",
+        "Los resultados de aprendizaje en ciencias",
+        "La formación inicial, creencias y prácticas docentes, así como la evaluación, retroalimentación y reconocimiento de su trabajo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "TALIS indaga en la formación inicial, las creencias y prácticas docentes y la evaluación, retroalimentación y reconocimiento del trabajo del profesorado."
+    },
+    {
+      "question": "¿Qué pretenden los resultados de TALIS?",
+      "options": [
+        "Ayudar a que los países mejoren su política educativa",
+        "Clasificar a los alumnos según su rendimiento",
+        "Establecer rankings de centros públicos",
+        "Acreditar la calidad del profesorado individual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los resultados de TALIS buscan ayudar a los países a mejorar su política educativa, no clasificar alumnos ni acreditar docentes."
+    },
+    {
+      "question": "La prueba TIMSS evalúa:",
+      "options": [
+        "Lectura y escritura en 4.º de Primaria",
+        "El rendimiento en matemáticas y ciencias mediante una única prueba",
+        "Educación cívica y ciudadanía",
+        "Competencias de los directores de centros"
+      ],
+      "correctAnswer": 1,
+      "explanation": "TIMSS evalúa mediante una única prueba el rendimiento en matemáticas y ciencias, y se aplicaba a alumnos de 4.º de Primaria y 2.º de ESO desde 1995."
+    },
+    {
+      "question": "Además del rendimiento, TIMSS recopila datos sobre:",
+      "options": [
+        "Las actitudes cívicas del alumnado",
+        "La formación inicial del profesorado",
+        "Cómo los diferentes sistemas ofrecen y promueven el aprendizaje de las ciencias y las matemáticas",
+        "La competencia financiera de las familias"
+      ],
+      "correctAnswer": 2,
+      "explanation": "TIMSS recopila datos sobre cómo los sistemas ofrecen y promueven el aprendizaje de las ciencias y las matemáticas."
+    },
+    {
+      "question": "¿Qué se indica sobre la participación española actual en TIMSS?",
+      "options": [
+        "España participa con el alumnado de 2.º de ESO",
+        "España lidera la organización de la prueba",
+        "España participa con una muestra de 4.º de ESO",
+        "El alumnado de Secundaria no participa actualmente en este estudio"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El texto señala que actualmente, en España, el alumnado de Secundaria no participa en TIMSS."
+    },
+    {
+      "question": "El estudio ICCS evalúa cómo los centros preparan a los alumnos para:",
+      "options": [
+        "Ser ciudadanos",
+        "Acceder a la formación profesional",
+        "Dominar los idiomas extranjeros",
+        "Obtener mejores resultados en ciencias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ICCS (International Civic and Citizenship Education Study) valora cómo los centros preparan al alumnado de 2.º de ESO para ejercer como ciudadanos."
+    },
+    {
+      "question": "El estudio ICCS analiza principalmente:",
+      "options": [
+        "Los conocimientos matemáticos y científicos",
+        "Los valores, actitudes, percepciones y comportamientos cívicos",
+        "Las prácticas docentes y la formación inicial",
+        "La competencia lectora y financiera"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ICCS analiza valores, actitudes, percepciones y comportamientos cívicos del alumnado."
+    },
+    {
+      "question": "¿En qué año participó España por primera vez en ICCS?",
+      "options": [
+        "En 1995",
+        "En 2000",
+        "En 2009",
+        "En 2019"
+      ],
+      "correctAnswer": 2,
+      "explanation": "España participó por primera vez en el estudio ICCS en 2009. El año 1995 corresponde al inicio de TIMSS y 2000 al de PISA."
+    },
+    {
+      "question": "Una prueba internacional que valora valores, actitudes y comportamientos cívicos de alumnos de 2.º de ESO es:",
+      "options": [
+        "PISA",
+        "TALIS",
+        "TIMSS",
+        "ICCS"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Se trata de ICCS. PISA evalúa lectura, matemáticas y ciencias; TALIS se dirige a docentes; TIMSS evalúa matemáticas y ciencias."
+    },
+    {
+      "question": "Se realiza una encuesta internacional a directores y docentes sobre sus prácticas de enseñanza y su formación inicial. ¿A qué prueba corresponde?",
+      "options": [
+        "TALIS",
+        "PISA",
+        "ICCS",
+        "TIMSS"
+      ],
+      "correctAnswer": 0,
+      "explanation": "TALIS (Teaching and Learning International Survey) recoge la voz de docentes y directores sobre formación, creencias y prácticas docentes."
+    },
+    {
+      "question": "Un estudio internacional compara el rendimiento en matemáticas y ciencias de alumnos de 4.º de Primaria. ¿Qué prueba es?",
+      "options": [
+        "PISA",
+        "TIMSS",
+        "ICCS",
+        "TALIS"
+      ],
+      "correctAnswer": 1,
+      "explanation": "TIMSS evalúa matemáticas y ciencias con una única prueba en 4.º de Primaria y 2.º de ESO."
+    },
+    {
+      "question": "¿Qué organismo se encarga de la evaluación del sistema educativo español?",
+      "options": [
+        "La Inspección Educativa de cada comunidad autónoma",
+        "El Consejo Escolar del Estado",
+        "El Instituto Nacional de Evaluación Educativa (INEE)",
+        "La Conferencia Sectorial de Educación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El INEE es el organismo del Ministerio de Educación y Formación Profesional encargado de la evaluación del sistema educativo español."
+    },
+    {
+      "question": "Además de evaluar el sistema, ¿qué tareas realiza el INEE en Ceuta, Melilla y los centros españoles en el exterior?",
+      "options": [
+        "Gestionar la contratación del profesorado",
+        "Elaborar los currículos específicos de cada zona",
+        "Supervisar la financiación de los centros",
+        "Las tareas necesarias para la elaboración y correcta aplicación de las pruebas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El INEE lleva a cabo las tareas necesarias para elaborar y aplicar correctamente las pruebas en Ceuta, Melilla y los centros españoles en el exterior."
+    },
+    {
+      "question": "¿Cuál es la finalidad de la evaluación nacional en educación?",
+      "options": [
+        "Valorar cómo el sistema prepara al alumnado para progresar con garantías de éxito en su itinerario formativo y como ciudadano",
+        "Clasificar a los centros públicos y concertados",
+        "Seleccionar al alumnado para las enseñanzas postobligatorias",
+        "Sustituir a las evaluaciones internacionales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La evaluación nacional valora cómo el sistema prepara al alumnado para progresar con éxito en su itinerario formativo y en la sociedad del siglo XXI."
+    },
+    {
+      "question": "¿Qué dos tipos de evaluación recoge la LOMLOE (2020) a nivel nacional?",
+      "options": [
+        "Evaluación interna y evaluación externa",
+        "Evaluación general del sistema educativo y evaluación de diagnóstico",
+        "Evaluación inicial y evaluación final",
+        "Evaluación formativa y evaluación sumativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LOMLOE recoge la evaluación general del sistema educativo (art. 143) y la evaluación de diagnóstico (arts. 21, 29 y 144). La interna y externa se refieren a la evaluación de centros."
+    },
+    {
+      "question": "La evaluación general del sistema educativo (art. 143) se centra en:",
+      "options": [
+        "Las competencias específicas vinculadas a las áreas del currículo",
+        "Los conocimientos memorizados al final de cada curso",
+        "Las competencias clave adquiridas por el alumnado a partir de los descriptores del perfil de salida",
+        "La satisfacción de las familias con el centro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Evalúa las competencias clave a partir de los descriptores operativos del perfil de salida, no vinculados a áreas o materias."
+    },
+    {
+      "question": "¿En qué cursos se realiza la evaluación general del sistema educativo?",
+      "options": [
+        "En 4.º de Primaria y 2.º de ESO",
+        "En 2.º de Primaria y 1.º de ESO",
+        "En 1.º de Bachillerato y 2.º de FP",
+        "En 6.º de Primaria y 4.º de ESO"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Se realiza al final de etapa: en 6.º de Educación Primaria y en 4.º de ESO."
+    },
+    {
+      "question": "La finalidad de la evaluación general del sistema educativo es:",
+      "options": [
+        "Obtener datos representativos del alumnado, los centros de las comunidades autónomas y el conjunto del Estado",
+        "Calificar de forma individual a cada alumno",
+        "Elaborar el plan de mejora de cada centro",
+        "Otorgar el título de Graduado en ESO"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pretende obtener datos representativos del alumnado, de los centros de las comunidades autónomas y del conjunto del Estado."
+    },
+    {
+      "question": "La evaluación de diagnóstico se lleva a cabo en:",
+      "options": [
+        "6.º de Primaria y 4.º de ESO",
+        "4.º de Educación Primaria y 2.º de ESO",
+        "2.º de Bachillerato",
+        "3.º de ESO y 1.º de Bachillerato"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación de diagnóstico se realiza a mitad de etapa: 4.º de Primaria y 2.º de ESO."
+    },
+    {
+      "question": "La finalidad de la evaluación de diagnóstico es:",
+      "options": [
+        "Certificar la superación de la etapa obligatoria",
+        "Comparar a España con otros países de la OCDE",
+        "Desarrollar planes de actuación, adoptar medidas de mejora de la calidad y la equidad y orientar la práctica docente",
+        "Seleccionar al alumnado con mejor rendimiento"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El diagnóstico se orienta a plantear planes de actuación y medidas de mejora de la calidad y la equidad y a orientar la práctica docente."
+    },
+    {
+      "question": "Entre la evaluación general y la de diagnóstico, ¿qué diferencia existe en el momento de aplicación?",
+      "options": [
+        "La general se realiza a inicio de etapa y la de diagnóstico a final",
+        "Ambas se realizan a mitad de etapa",
+        "Ambas se realizan a final de etapa",
+        "La general se realiza a final de etapa y la de diagnóstico a mitad de etapa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La evaluación general se hace al final de etapa (6.º EP y 4.º ESO) y la de diagnóstico a mitad de etapa (4.º EP y 2.º ESO)."
+    },
+    {
+      "question": "¿Qué carácter tiene cada evaluación respecto al alumnado participante?",
+      "options": [
+        "La general es muestral y la de diagnóstico es censal",
+        "La general es censal y la de diagnóstico es muestral",
+        "Ambas son censales",
+        "Ambas son muestrales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la general participa una muestra representativa, mientras que en la de diagnóstico participa todo el alumnado matriculado en los cursos a los que se dirige."
+    },
+    {
+      "question": "¿Quién es el responsable de la realización de cada evaluación?",
+      "options": [
+        "La general, las administraciones educativas; la de diagnóstico, el INEE en solitario",
+        "La general, el INEE en colaboración con las administraciones educativas; la de diagnóstico, las administraciones educativas",
+        "Ambas, el INEE sin colaboración autonómica",
+        "Ambas, los centros educativos de manera autónoma"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La general corresponde al INEE junto con las administraciones educativas; la de diagnóstico, a las administraciones educativas con un marco común elaborado por el INEE."
+    },
+    {
+      "question": "En cuanto a la periodicidad, las evaluaciones de la LOMLOE son:",
+      "options": [
+        "La general anual y la de diagnóstico plurianual",
+        "Ambas anuales",
+        "La general plurianual y la de diagnóstico anual",
+        "Ambas plurianuales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La evaluación general es plurianual y la de diagnóstico es anual."
+    },
+    {
+      "question": "¿En qué se diferencia lo que se evalúa en cada prueba nacional?",
+      "options": [
+        "En la general se evalúan contenidos y en la de diagnóstico habilidades sociales",
+        "En ambas se evalúan los contenidos de las materias",
+        "En la general se evalúan competencias específicas y en la de diagnóstico competencias clave",
+        "En la general se evalúan competencias clave no vinculadas a áreas y en la de diagnóstico competencias específicas vinculadas al currículo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La general evalúa competencias clave a partir del perfil de salida, sin vincularlas a materias; la de diagnóstico evalúa competencias específicas ligadas al currículo por áreas o materias."
+    },
+    {
+      "question": "Un centro recibe un informe que informa a su profesorado, alumnado y familias y que orienta su práctica docente. ¿A qué evaluación nacional corresponde?",
+      "options": [
+        "A la evaluación de diagnóstico",
+        "A la evaluación general del sistema",
+        "A la prueba PISA",
+        "A la prueba ICCS"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La evaluación de diagnóstico es informativa, formativa y orientadora para centros, profesorado, alumnado y familias, y genera un informe del centro."
+    },
+    {
+      "question": "Una comunidad autónoma recibe un informe de sistema basado en una muestra representativa de su alumnado. ¿Qué evaluación lo genera?",
+      "options": [
+        "La evaluación de diagnóstico",
+        "La evaluación general del sistema educativo",
+        "La evaluación interna del centro",
+        "La prueba TALIS"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación general del sistema es muestral y ofrece un informe del sistema o de la comunidad autónoma, informativo para las familias y la comunidad."
+    },
+    {
+      "question": "¿Cuáles son los tres pilares en los que se fundamenta la calidad de los centros educativos?",
+      "options": [
+        "Liderazgo, autonomía y financiación",
+        "Currículo, metodología y recursos",
+        "Evaluación, planificación e innovación",
+        "Equidad, eficacia y eficiencia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Pareja y Torres señalan la evaluación, la planificación y la innovación como pilares de la calidad de los centros, lo que permite establecer planes de mejora."
+    },
+    {
+      "question": "Los planes de mejora permiten:",
+      "options": [
+        "Sustituir el currículo oficial por uno propio",
+        "Evaluar la competencia del profesorado individual",
+        "Clasificar al alumnado por niveles",
+        "Reconducir las desviaciones que impiden alcanzar los objetivos del currículo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los planes de mejora sirven para corregir las desviaciones que dificultan lograr los objetivos del currículo."
+    },
+    {
+      "question": "La evaluación interna de un centro se caracteriza por ser:",
+      "options": [
+        "Una autoevaluación del funcionamiento del centro que suele realizarse a final de curso y se refleja en la memoria anual",
+        "Una evaluación realizada por agentes externos al centro",
+        "Una prueba censal aplicada por el INEE",
+        "Un análisis comparado con otros países"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La evaluación interna o autoevaluación analiza el propio funcionamiento y sus resultados se reflejan en la memoria anual."
+    },
+    {
+      "question": "La evaluación externa de un centro es aquella que:",
+      "options": [
+        "Realiza el propio equipo directivo",
+        "Llevan a cabo agentes externos al centro para obtener información válida y fiable",
+        "Aplican los docentes a su alumnado",
+        "Se basa en cuestionarios a las familias exclusivamente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La evaluación externa la realizan agentes ajenos al centro y aporta información válida y fiable que se analiza e interpreta para proponer mejoras."
+    },
+    {
+      "question": "¿Cómo se relacionan la evaluación interna y la externa de los centros?",
+      "options": [
+        "Son excluyentes: el centro debe elegir una de ellas",
+        "La externa sustituye a la interna cuando se aplica",
+        "Son complementarias: ningún tipo de evaluación excluye al otro",
+        "La interna solo se aplica si la externa es desfavorable"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto afirma que ningún tipo de evaluación es excluyente de otro, sino que son complementarias."
+    },
+    {
+      "question": "Según la LOMLOE (2020), el plan de mejora, documento que surge dentro del propio centro:",
+      "options": [
+        "Es elaborado por la administración educativa y enviado a los centros",
+        "Debe presentarse como documento separado de la memoria anual",
+        "Es opcional y sin relación con los documentos institucionales",
+        "Debe incorporarse en el proyecto educativo del centro"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El plan de mejora nace en el propio centro y, con la LOMLOE, se incorpora al proyecto educativo."
+    },
+    {
+      "question": "Según Cantón (2004), los planes de mejora son considerados:",
+      "options": [
+        "La innovación educativa más importante de los últimos tiempos",
+        "Una moda pedagógica con escaso rigor científico",
+        "Un requisito burocrático de los centros",
+        "Una alternativa a la evaluación externa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cantón destaca los planes de mejora como la innovación educativa más importante de los últimos tiempos; su diseño, desarrollo y evaluación son clave para alcanzar niveles elevados de calidad."
+    },
+    {
+      "question": "El plan de mejora debe atender a las singularidades del entorno del centro y evitar:",
+      "options": [
+        "La participación de la comunidad educativa",
+        "Dejarse llevar por demandas o modas pedagógicas con escaso rigor científico",
+        "La utilización de resultados de evaluación",
+        "La coordinación con las administraciones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El plan de mejora se elabora desde el centro atendiendo a su entorno, sin dejarse llevar por modas pedagógicas que apenas cuentan con rigor científico."
+    }
+  ]
+}

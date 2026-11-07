@@ -8,7 +8,10 @@
       "quizzes": [
         "ud1_aprendizaje_desarrollo_personalidad.json",
         "ud2_aprendizaje_desarrollo_personalidad.json",
-        "ud3_aprendizaje_desarrollo_personalidad.json"
+        "ud3_aprendizaje_desarrollo_personalidad.json",
+        "ud1_aprendizaje_desarrollo_personalidad_medium.json",
+        "ud2_aprendizaje_desarrollo_personalidad_medium.json",
+        "ud3_aprendizaje_desarrollo_personalidad_medium.json"
       ]
     },
     {
@@ -19,7 +22,10 @@
       "quizzes": [
         "ud1_procesos_contextos_educ.json",
         "ud2_procesos_contextos_educ.json",
-        "ud3_procesos_contextos_educ.json"
+        "ud3_procesos_contextos_educ.json",
+        "ud1_procesos_contextos_educ_medium.json",
+        "ud2_procesos_contextos_educ_medium.json",
+        "ud3_procesos_contextos_educ_medium.json"
       ]
     },
     {
@@ -30,7 +36,10 @@
       "quizzes": [
         "ud1_sociedad_familia_educ.json",
         "ud2_sociedad_familia_educ.json",
-        "ud3_sociedad_familia_educ.json"
+        "ud3_sociedad_familia_educ.json",
+        "ud1_sociedad_familia_educ_medium.json",
+        "ud2_sociedad_familia_educ_medium.json",
+        "ud3_sociedad_familia_educ_medium.json"
       ]
     }
   ]

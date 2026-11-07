@@ -1,0 +1,2208 @@
+{
+  "title": "UD3. Diversidad y educación (Nivel medio)",
+  "description": "Cuestionario de nivel medio sobre la unidad 3 de Sociedad, Familia y Educación: diversidad, diversidad cultural y étnica, migración, interculturalidad y escuela inclusiva.",
+  "category": "sociedad-familia-educacion",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "Según el enfoque presentado en la unidad, ¿cómo debe entenderse el reconocimiento de la diversidad?",
+      "options": [
+        "Como un valor que enriquece a la sociedad y a las aulas",
+        "Como la aceptación de que todos somos iguales porque somos diferentes",
+        "Como una defensa de la diferencia por la diferencia misma",
+        "Como un fenómeno propio de la fragmentación social que debe corregirse"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Reconocer la diversidad no es defender la diferencia ni afirmar que todos somos iguales por ser diferentes, sino entenderla como un valor (Essomba, 2006). Las otras opciones recogen malentendidos que el texto descarta expresamente."
+    },
+    {
+      "question": "¿Qué ocurre, según el texto, cuando emerge la conciencia de la diversidad en la realidad moderna?",
+      "options": [
+        "Desaparece la necesidad de proteger los derechos individuales",
+        "Se debilita la individualización a favor de la homogeneidad cultural",
+        "Surge también la noción de ciudadanía y de derechos individuales",
+        "Se refuerza la idea de que la diferencia debe negarse para garantizar la igualdad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Con el descubrimiento de la diversidad emergen la ciudadanía y los derechos individuales, junto con la diferenciación y la individualización como elementos estructurales. Las demás opciones plantean lo contrario de lo expuesto."
+    },
+    {
+      "question": "¿Cuál es el objetivo principal de la atención a la diversidad en el contexto educativo?",
+      "options": [
+        "Agrupar al alumnado por niveles para uniformizar el ritmo de aprendizaje",
+        "Promover la atención individualizada favoreciendo el logro de competencias básicas y objetivos educativos",
+        "Reducir los contenidos curriculares para el alumnado con más dificultades",
+        "Separar al alumnado con circunstancias particulares del grupo ordinario"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La atención a la diversidad es un conjunto de actuaciones dirigidas al alumnado y su entorno para promover la atención individualizada y el logro de competencias y objetivos (Gómez et al., 2012). No implica uniformizar, recortar contenidos ni segregar."
+    },
+    {
+      "question": "Hablar de atención a la diversidad equivale, según la figura 2 de la unidad, a hablar de:",
+      "options": [
+        "Eficiencia administrativa, gestión de recursos y organización escolar",
+        "Calidad de la educación, igualdad y justicia social",
+        "Rendimiento académico, evaluación y promoción del alumnado",
+        "Orden en el aula, disciplina y normas de convivencia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La figura señala que atender a la diversidad es hablar de calidad educativa, igualdad y justicia social, y de nosotros mismos como profesionales de la educación. Las otras opciones son aspectos organizativos no mencionados en ese sentido."
+    },
+    {
+      "question": "¿Qué recoge la LOMLOE (Ley Orgánica 3/2020) en relación con la diversidad?",
+      "options": [
+        "La importancia de la atención a la diversidad y de la igualdad de oportunidades para todo el alumnado",
+        "La obligación de que el alumnado extranjero curse itinerarios separados del ordinario",
+        "La eliminación de las particularidades de cada comunidad autónoma en el currículo",
+        "La limitación de la educación intercultural a los centros con alumnado inmigrante"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LOMLOE destaca la atención a la diversidad y la igualdad de oportunidades con independencia de las circunstancias y características del alumnado. Las demás opciones contradicen su enfoque inclusivo y de reconocimiento de la riqueza autonómica."
+    },
+    {
+      "question": "¿Qué tipos de diversidad se abordan específicamente en esta unidad didáctica?",
+      "options": [
+        "La diversidad funcional y la diversidad sexual",
+        "La diversidad cultural y étnica",
+        "La diversidad de género y la funcional",
+        "La diversidad de capacidades y la socioeconómica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La unidad se centra en la diversidad cultural y étnica. La diversidad de género y sexual se trata en otros momentos de la asignatura y la funcional en otras asignaturas del máster."
+    },
+    {
+      "question": "Según Walsh (2002), ¿cómo se originan las diferencias culturales y étnicas?",
+      "options": [
+        "Son naturales y derivan directamente de la etnicidad de cada grupo",
+        "Se construyen y reproducen socialmente a partir de experiencias de colonización y subalternización",
+        "Proceden de diferencias biológicas heredadas entre poblaciones",
+        "Surgen de forma espontánea con la globalización económica actual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las diferencias culturales y étnicas no son naturales: se construyen, definen y reproducen socialmente, fruto de la colonización, la subalternización y las construcciones nacionales. La explicación biológica o espontánea no es la defendida."
+    },
+    {
+      "question": "¿Qué elementos transporta la cultura según la unidad?",
+      "options": [
+        "Únicamente costumbres festivas y expresiones artísticas de un pueblo",
+        "Creencias, sentimientos y valores, rutinas y técnicas, y normas morales y sociales",
+        "Instituciones políticas, leyes escritas y sistemas económicos",
+        "Rasgos físicos compartidos, lengua materna y lugar de nacimiento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La cultura transporta creencias (cómo son las cosas), sentimientos y valores (cómo las valoramos), rutinas y técnicas, y normas morales y sociales (cómo debemos comportarnos). Reducirla a festividades o a rasgos físicos la empobrece."
+    },
+    {
+      "question": "¿Por qué se dice que la cultura humana es acumulativa?",
+      "options": [
+        "Porque los saberes se acumulan mediante productos culturales y lenguaje oral, lo que ha favorecido la supervivencia y expansión demográfica",
+        "Porque cada grupo conserva las tradiciones sin modificarlas a lo largo del tiempo",
+        "Porque las culturas dominantes absorben las costumbres de las minoritarias",
+        "Porque la herencia biológica transmite los conocimientos entre generaciones"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Masjuan (2003) explica que los saberes se acumulan a través de herramientas, tecnología y lenguaje, y esa evolución cultural ha aumentado la supervivencia y expansión humana. No se transmite biológicamente ni permanece inmutable."
+    },
+    {
+      "question": "¿Qué define a la cultura dominante?",
+      "options": [
+        "La cultura más antigua de un territorio determinado",
+        "La cultura producida por quienes ostentan el poder simbólico y que expresa los valores compartidos por la mayoría",
+        "La cultura con mayor número de hablantes en el mundo",
+        "La cultura que se transmite exclusivamente a través del sistema escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según Cusot y Palacios (2020), la cultura dominante es la producida por quienes tienen el poder simbólico y se traduce en violencia simbólica sobre otras culturas. No depende de la antigüedad ni del número de hablantes."
+    },
+    {
+      "question": "¿Por qué es importante vincular poder, dominación y cultura al planificar un proyecto de educación intercultural?",
+      "options": [
+        "Porque permite analizar con realismo las probabilidades de éxito del proyecto en cada contexto",
+        "Porque garantiza que todos los centros apliquen el mismo programa",
+        "Porque evita tener que tratar la diversidad lingüística en las aulas",
+        "Porque asegura que la cultura dominante se mantenga como referencia única"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto indica que establecer esos vínculos permite hacer un análisis real de las probabilidades de éxito de un proyecto intercultural en cada contexto. No busca uniformidad ni preservar la cultura dominante."
+    },
+    {
+      "question": "Según la tipología de dominación basada en Weber, ¿cómo se caracteriza la dominación tradicional?",
+      "options": [
+        "Se sostiene en la entrega ilimitada a una persona con cualidades excepcionales",
+        "Se basa en creencias tradicionales y suele apoyarse en un poder heredado, como el feudal o monárquico",
+        "Se ejerce legítimamente a través de normas y estructuras burocráticas",
+        "Se apoya en la fuerza militar para imponer la obediencia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La dominación tradicional se funda en creencias tradicionales y poder heredado. La entrega a lo excepcional corresponde a la carismática y la legitimidad burocrática a la racional."
+    },
+    {
+      "question": "Un líder religioso que obtiene obediencia por la entrega de sus seguidores, a quienes se les atribuyen cualidades excepcionales, ejemplifica la dominación:",
+      "options": [
+        "Tradicional",
+        "Racional",
+        "Carismática",
+        "Burocrática"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La dominación carismática se sostiene en la entrega ilimitada a quien se le atribuyen características excepcionales, como ocurre en el poder religioso o el caudillismo. La tradicional se basa en la herencia y la racional en la burocracia."
+    },
+    {
+      "question": "El poder ejercido legítimamente a través de la administración burocrática corresponde al tipo de dominación:",
+      "options": [
+        "Racional",
+        "Carismática",
+        "Tradicional",
+        "Simbólica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la tipología weberiana, la dominación de carácter racional es el poder legítimamente ejercido, como el burocrático. La carismática y la tradicional tienen otras bases de legitimidad."
+    },
+    {
+      "question": "¿Por qué el término «raza» está cayendo en desuso en el ámbito sociológico?",
+      "options": [
+        "Porque el consenso científico considera que la especie humana es una sola y solo hay variación física",
+        "Porque designa grupos que ya no existen en las sociedades modernas",
+        "Porque se confunde con el concepto de nacionalidad",
+        "Porque la RAE ha eliminado la palabra del diccionario"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Desde la biología, los humanos no tenemos raza sino variación física, y el consenso científico considera una única especie. Aun así, el término se sigue usando en el contexto cotidiano."
+    },
+    {
+      "question": "¿Qué diferencia fundamental existe entre etnicidad y raza según la unidad?",
+      "options": [
+        "La etnicidad se hereda biológicamente y la raza se aprende",
+        "La etnicidad es de origen social y remite a prácticas culturales aprendidas; no es innata",
+        "Ambas son términos sinónimos que designan rasgos físicos",
+        "La etnicidad se refiere únicamente al lugar de nacimiento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La etnicidad es un concepto social ligado a prácticas culturales aprendidas que diferencian a una comunidad de otra; no es innata y se produce y reproduce con el tiempo. Confundirla con el color de piel o el origen es un error frecuente."
+    },
+    {
+      "question": "¿Qué rasgos definen a una minoría étnica en sociología?",
+      "options": [
+        "Un número reducido de miembros respecto a la población total",
+        "Una posición desfavorecida respecto a la mayoría, junto con sentido de identidad y solidaridad de grupo",
+        "La ausencia de una lengua propia y de tradiciones compartidas",
+        "La residencia en barrios separados por decisión voluntaria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las minorías étnicas son grupos en posiciones desfavorecidas respecto a la mayoría, con sentido de identidad, solidaridad y pertenencia común. El término no es numérico: a veces la minoría es realmente la mayoría."
+    },
+    {
+      "question": "Un grupo numéricamente mayoritario que ocupa una posición social desfavorecida y comparte identidad común:",
+      "options": [
+        "No puede considerarse minoría étnica por ser mayoritario",
+        "Puede considerarse minoría étnica en sentido sociológico",
+        "Constituye una cultura dominante por su tamaño",
+        "Se clasifica como grupo migrante por definición"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El concepto de minoría étnica no es literal ni numérico: representa una diferenciación de posición social. Por eso un grupo mayoritario desfavorecido puede ser una minoría en sentido sociológico."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre emigración e inmigración?",
+      "options": [
+        "La emigración es salir del país de origen para establecerse en otro; la inmigración es llegar al país de destino para radicarse",
+        "La emigración es temporal y la inmigración es definitiva",
+        "La emigración es forzada y la inmigración es voluntaria",
+        "La emigración ocurre dentro de un mismo país y la inmigración entre países"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según la RAE (2018), la emigración es el acto de abandonar el país de origen y la inmigración es la llegada al país de destino para radicarse. Ambas son dos caras del mismo movimiento, no categorías de voluntariedad o duración."
+    },
+    {
+      "question": "¿Por qué se considera «migrante» el término más inclusivo?",
+      "options": [
+        "Porque engloba tanto a emigrantes como a inmigrantes, independientemente de los significados de cada uno",
+        "Porque solo se aplica a quienes se desplazan por motivos económicos",
+        "Porque sustituye legalmente a los términos de extranjero y refugiado",
+        "Porque designa a quienes ya han obtenido la nacionalidad del país de acogida"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Migrante es el término general que engloba a emigrantes e inmigrantes y, lingüísticamente, el más inclusivo. No se limita a un motivo ni a un estatus jurídico concreto."
+    },
+    {
+      "question": "¿Qué tres factores configuran el actual fenómeno migratorio según Martínez y Ramírez (2012)?",
+      "options": [
+        "Políticos, religiosos y lingüísticos",
+        "Demográficos, económicos y culturales",
+        "Familiares, laborales y educativos",
+        "Climáticos, bélicos y tecnológicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El fenómeno migratorio actual está configurado por factores demográficos, económicos y culturales. Las otras combinaciones incluyen elementos que el texto no recoge como factores configuradores."
+    },
+    {
+      "question": "¿Qué motivación suele estar detrás tanto de la emigración como de la inmigración?",
+      "options": [
+        "La búsqueda de nuevas oportunidades",
+        "El deseo de abandonar la cultura de origen",
+        "La obligación legal de trasladarse",
+        "La necesidad de mantener la identidad nacional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto señala que ambos movimientos están motivados, en muchas ocasiones, por la búsqueda de nuevas oportunidades. No se trata de una obligación legal ni de un rechazo a la cultura propia."
+    },
+    {
+      "question": "¿Por qué la tradición no se opone necesariamente a la modernidad y al progreso?",
+      "options": [
+        "Porque cada generación incorpora elementos nuevos a la tradición al interactuar con contextos diferentes",
+        "Porque la tradición se conserva inalterada y convive con lo moderno",
+        "Porque la modernidad se basa en recuperar prácticas religiosas antiguas",
+        "Porque el progreso solo se da en sociedades sin tradiciones"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La tradición se transmite generacionalmente por la cultura y cada generación aporta elementos nuevos, lo que explica el dinamismo cultural. No es algo estático ni incompatible con el progreso."
+    },
+    {
+      "question": "¿Por qué la religión es una parte importante de la cultura?",
+      "options": [
+        "Porque regula formas de convivencia y puede tener un poder organizador al combinar tradición y modernidad",
+        "Porque determina la lengua que habla cada comunidad",
+        "Porque sustituye a las normas legales en las sociedades modernas",
+        "Porque impide la entrada de elementos culturales externos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La religión regula formas de convivencia, incluso cuando no son evidentes ni dependen de la devoción, y puede organizar combinando tradición y modernidad. No sustituye a la ley ni bloquea influencias externas."
+    },
+    {
+      "question": "¿Qué se entiende por pluralismo religioso?",
+      "options": [
+        "La coexistencia de múltiples manifestaciones religiosas en espacios propiciados por migraciones y globalización",
+        "La existencia de una religión oficial reconocida por el Estado",
+        "La pérdida de importancia de la espiritualidad en las sociedades modernas",
+        "La mezcla de todas las creencias en una sola práctica común"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los procesos migratorios y la globalización han propiciado espacios donde coexisten múltiples formas de manifestación religiosa, lo que se define como pluralismo religioso. No implica religión oficial ni fusión de creencias."
+    },
+    {
+      "question": "¿Qué dificultad puede surgir si la pluralidad de comprensiones de lo sagrado y lo racional no se aborda de manera integral?",
+      "options": [
+        "Problemas de convivencia",
+        "Aumento automático de la tolerancia",
+        "Desaparición de la identidad cultural",
+        "Mejora del rendimiento académico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cada comunidad puede entender de forma muy distinta lo sagrado y lo racional, y si esa pluralidad no se aborda de manera integral pueden generarse dificultades de convivencia."
+    },
+    {
+      "question": "¿Qué ejemplo menciona el texto de excepción a que la lengua materna sea la del propio Estado en la UE?",
+      "options": [
+        "Las repúblicas bálticas, con el ruso como lengua materna",
+        "Los países nórdicos, con el inglés como lengua materna",
+        "Los Balcanes, con el turco como lengua materna",
+        "Los países del Benelux, con el francés como lengua materna"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto indica que la mayoría de los Estados de la UE tienen como lengua materna la de su Estado, pero hay excepciones, como las repúblicas bálticas con el ruso."
+    },
+    {
+      "question": "¿Por qué la diversidad lingüística suele acompañar a la diversidad cultural?",
+      "options": [
+        "Porque la lengua es parte de la cultura, un elemento de comunicación y de identidad cultural",
+        "Porque cada lengua pertenece a un único Estado",
+        "Porque las lenguas se aprenden solo en el entorno escolar",
+        "Porque la lengua determina la religión de un grupo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según Molina (2007), la lengua forma parte de la cultura (capacidad simbólica), es un gran elemento de comunicación y de identidad cultural. Por ello diversidad lingüística y cultural suelen ir de la mano."
+    },
+    {
+      "question": "¿Cuáles son manifestaciones de la diversidad lingüística con beneficios cognitivos, sociales y económicos?",
+      "options": [
+        "El monolingüismo y la lengua oficial única",
+        "El bilingüismo y el multilingüismo",
+        "La traducción automática y la lengua franca",
+        "El dialecto y el argot"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El bilingüismo y el multilingüismo son manifestaciones de la diversidad lingüística y aportan grandes beneficios cognitivos, sociales y económicos, por lo que proteger la diversidad lingüística es esencial."
+    },
+    {
+      "question": "¿Cuál de estos factores se identifica como amenaza para la diversidad lingüística?",
+      "options": [
+        "La globalización, el colonialismo y la urbanización",
+        "La educación bilingüe y la inmigración",
+        "La protección legal de las lenguas minoritarias",
+        "El aumento de la movilidad académica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La globalización, el colonialismo, la urbanización y otras fuerzas sociales y económicas han contribuido a la pérdida de lenguas en el mundo. Las demás opciones no se presentan como amenazas."
+    },
+    {
+      "question": "¿Qué relación guarda la pobreza con la migración según la unidad?",
+      "options": [
+        "La pobreza puede ser una de las causas de la migración, aunque tiene muchas dimensiones y causas",
+        "La pobreza es la única causa de los movimientos migratorios",
+        "La pobreza es consecuencia directa de la inmigración",
+        "La pobreza y la migración no guardan ninguna relación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La pobreza puede causar migración, pero es multidimensional y obedece también a desempleo, exclusión social y vulnerabilidad ante desastres o enfermedades. No es causa exclusiva ni consecuencia de la inmigración."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre pobreza absoluta y pobreza relativa?",
+      "options": [
+        "La absoluta implica carecer de condiciones básicas de existencia; la relativa, no poder participar plenamente en la vida social y cultural comparado con otros miembros",
+        "La absoluta afecta a países pobres y la relativa a países ricos",
+        "La absoluta es temporal y la relativa es permanente",
+        "La absoluta se mide por el empleo y la relativa por la educación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Giddens y Sutton distinguen la pobreza absoluta (sin alimentación, vivienda o vestimenta básicas) y la relativa (carencia de recursos para participar plenamente en la comunidad, en comparación con los demás)."
+    },
+    {
+      "question": "Una familia que dispone de vivienda y comida pero no puede costear actividades sociales y culturales habituales en su comunidad vive una situación de:",
+      "options": [
+        "Pobreza absoluta",
+        "Pobreza extrema",
+        "Pobreza relativa",
+        "Fractura étnica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La pobreza relativa consiste en carecer de recursos para participar plenamente en la vida social y cultural de la comunidad en comparación con otros. La absoluta o extrema implica no cubrir necesidades básicas."
+    },
+    {
+      "question": "¿Qué efecto tuvo la COVID-19 sobre la pobreza extrema según la unidad?",
+      "options": [
+        "Aceleró su descenso en todo el mundo",
+        "Revirtió los avances: su número aumentó por primera vez en una generación en casi noventa millones sobre lo previsto",
+        "No tuvo incidencia apreciable en las estadísticas",
+        "Solo afectó a los países desarrollados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tras décadas de descenso notable, con la COVID-19 se comenzaron a revertir los avances y la pobreza extrema aumentó por primera vez en una generación en casi noventa millones respecto a las predicciones."
+    },
+    {
+      "question": "¿En qué fecha se celebra el Día Internacional para la Erradicación de la Pobreza?",
+      "options": [
+        "El 17 de octubre",
+        "El 10 de diciembre",
+        "El 21 de marzo",
+        "El 8 de septiembre"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Día Internacional para la Erradicación de la Pobreza se celebra el 17 de octubre; su erradicación es un imperativo desde los derechos humanos, el desarrollo y la paz."
+    },
+    {
+      "question": "¿Dónde se enmarca el objetivo de erradicar la pobreza en todo el mundo?",
+      "options": [
+        "En los Objetivos de Desarrollo Sostenible de la Agenda 2030",
+        "En la Constitución española de 1978",
+        "En la Ley Orgánica 8/1985",
+        "En el preámbulo de la LOMLOE"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Erradicar la pobreza es uno de los Objetivos de Desarrollo Sostenible (ODS) de la Agenda 2030, que se tratan con detenimiento en la unidad didáctica 5."
+    },
+    {
+      "question": "¿Qué es el etnocentrismo?",
+      "options": [
+        "La valoración positiva de todas las culturas por igual",
+        "La desconfianza hacia los forasteros y la tendencia a juzgar otras culturas desde la propia, considerada superior",
+        "La defensa del derecho de cada cultura a mantener sus señas de identidad",
+        "El estudio científico de las etnias y su evolución"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El etnocentrismo es un obstáculo para la convivencia: implica desconfianza hacia los forasteros y juzgar otras culturas con los criterios de la propia, que se considera superior."
+    },
+    {
+      "question": "¿Qué fenómeno suele acompañar al etnocentrismo?",
+      "options": [
+        "El cierre de grupo, que establece límites frente a otros grupos",
+        "El relativismo cultural",
+        "La interacción equitativa entre culturas",
+        "La interculturalidad crítica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El etnocentrismo va con frecuencia de la mano del cierre de grupo, mediante el cual los grupos mantienen límites que los separan de otros, lo que alimenta prejuicios y estereotipos."
+    },
+    {
+      "question": "¿Qué describe el multiculturalismo?",
+      "options": [
+        "Situaciones de coexistencia y convivencia cultural en un mismo territorio",
+        "La fusión de todas las culturas en una sola identidad",
+        "La interacción dialogada y equitativa entre grupos culturales",
+        "La superioridad de la cultura mayoritaria sobre las demás"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La multiculturalidad describe la coexistencia y convivencia de culturas en un mismo territorio. La interacción dialogada es rasgo de la interculturalidad."
+    },
+    {
+      "question": "¿Qué defiende el relativismo cultural?",
+      "options": [
+        "Que las prácticas culturales se juzguen dentro de su propio contexto y no con los estándares de otra cultura",
+        "Que existe una cultura superior que debe servir de patrón",
+        "Que todas las prácticas son aceptables sin ningún límite",
+        "Que las culturas deben eliminar sus diferencias para convivir"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El relativismo cultural defiende el respeto a la diversidad y la validez de cada cultura, juzgando sus prácticas en su propio contexto y no según estándares ajenos."
+    },
+    {
+      "question": "¿Qué aporta la interculturalidad respecto a la multiculturalidad?",
+      "options": [
+        "Añade la interacción entre grupos basada en el diálogo y relaciones equitativas de respeto mutuo",
+        "Reduce la convivencia a la mera coexistencia en un territorio",
+        "Elimina el respeto a las diferencias culturales",
+        "Supone únicamente la enseñanza de lenguas extranjeras"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La interculturalidad implica no solo coexistencia y convivencia, sino interacción entre grupos culturales diferentes, basada en el diálogo y en relaciones equitativas y de respeto mutuo."
+    },
+    {
+      "question": "Según la Unesco (2017), ¿cómo puede definirse la interculturalidad?",
+      "options": [
+        "Como la construcción de relaciones equitativas entre personas, comunidades, países y culturas",
+        "Como la tolerancia pasiva hacia culturas minoritarias",
+        "Como la integración de las minorías en la cultura dominante",
+        "Como la enseñanza de la historia de otras culturas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Unesco (2017) define la interculturalidad como la construcción de relaciones equitativas entre personas, comunidades, países y culturas. Hace hincapié en la equidad, no en la tolerancia pasiva ni la asimilación."
+    },
+    {
+      "question": "¿Cuál es la finalidad del modelo de asimilación cultural?",
+      "options": [
+        "Que la persona inmigrante se adapte a las normas y valores de la sociedad de acogida y elimine lo que la diferencia",
+        "Que cada grupo viva en espacios separados sin vínculos entre ellos",
+        "Que se mantengan las señas identitarias de todas las culturas",
+        "Que la persona inmigrante quede excluida de la participación política"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El modelo de asimilación busca que el inmigrante se adecue a la sociedad de acogida eliminando sus diferencias, lo que implica ruptura con su grupo de origen. Ha recibido críticas porque adaptación no equivale a integración."
+    },
+    {
+      "question": "¿Por qué ha recibido críticas el modelo de asimilación?",
+      "options": [
+        "Porque adaptarse no implica integración, ni elimina las diferencias sociales ni los prejuicios",
+        "Porque promueve la guetización de la población inmigrante",
+        "Porque respeta en exceso la cultura de origen",
+        "Porque limita la entrada de personas migrantes"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La asimilación exige adaptarse y romper con el grupo de origen, pero esa adaptación no garantiza integración ni elimina desigualdades o prejuicios. La guetización pertenece al modelo de separación."
+    },
+    {
+      "question": "Un barrio en el que solo viven personas de una determinada cultura, que participan en la sociedad pero no están integradas, ejemplifica el modelo de:",
+      "options": [
+        "Asimilación",
+        "Separación",
+        "Marginación",
+        "Integración"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El modelo de separación aboga por la guetización: se respeta la participación y la pluralidad de comunidades, pero sin establecer vínculos entre ellas. En la marginación, en cambio, se impide la participación."
+    },
+    {
+      "question": "¿Qué sentimiento presentan las sociedades que adoptan el modelo de separación cultural?",
+      "options": [
+        "Amenaza ante lo desconocido, asociando la inmigración con debilitamiento de la identidad nacional o problemas sociales",
+        "Confianza plena en los beneficios de la inmigración",
+        "Indiferencia ante la identidad cultural de los inmigrantes",
+        "Interés en que los inmigrantes adopten la cultura de acogida"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Estas sociedades relacionan el crecimiento de la inmigración con el debilitamiento de la identidad nacional o con problemas como escasez de recursos y delincuencia, y sienten amenaza ante lo desconocido."
+    },
+    {
+      "question": "¿Qué caracteriza al modelo de marginación?",
+      "options": [
+        "La exclusión que impide la participación social y política y la representatividad de las personas migradas",
+        "El respeto simultáneo de la cultura de origen y de acogida",
+        "La adaptación total a las normas del país receptor",
+        "La creación voluntaria de barrios culturalmente homogéneos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la marginación las personas migrantes sufren exclusión laboral, familiar, lingüística o de voto, lo que impide su participación social y política. Suelen buscar apoyo en quienes comparten su situación."
+    },
+    {
+      "question": "Una persona que no puede acceder a un puesto de trabajo por falta de papeles, lo que le impide participar políticamente, ilustra el modelo de:",
+      "options": [
+        "Marginación",
+        "Integración",
+        "Asimilación",
+        "Separación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Es el ejemplo que ofrece el texto para el modelo de marginación, donde la exclusión laboral y administrativa impide la participación social y política."
+    },
+    {
+      "question": "¿Con qué se asocia el modelo de integración y en qué se basa?",
+      "options": [
+        "Con el multiculturalismo y el derecho a la diversidad; se basa en el respeto entre culturas manteniendo las señas identitarias de cada una",
+        "Con la eliminación de las diferencias culturales; se basa en la adaptación del migrante",
+        "Con la guetización; se basa en la separación de comunidades",
+        "Con la exclusión social; se basa en la ausencia de representatividad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El modelo de integración se asocia al multiculturalismo y al derecho a la diversidad, y se basa en el respeto entre las culturas que habitan un territorio, conservando las señas identitarias de cada una."
+    },
+    {
+      "question": "Una persona se incorpora a la sociedad de acogida y se respeta su cultura de origen. ¿Qué modelo de afrontamiento de la diversidad ilustra este caso?",
+      "options": [
+        "Asimilación cultural",
+        "Separación cultural",
+        "Marginación",
+        "Integración"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Es el ejemplo del modelo de integración: la persona participa en la sociedad de acogida y a la vez se respeta su cultura de origen. En la asimilación se abandonaría la cultura propia."
+    },
+    {
+      "question": "¿Por qué las diferencias entre individuos y colectivos se convierten a menudo en desigualdades?",
+      "options": [
+        "Porque las diferencias biológicas determinan el acceso a los recursos",
+        "Porque los grupos minoritarios rechazan integrarse en la sociedad",
+        "Porque la globalización elimina las particularidades de cada grupo",
+        "Porque los sistemas privilegian a unos grupos dándoles más y mejores oportunidades y bienestar"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las diferencias se vuelven desigualdades porque estamos inmersos en sistemas que privilegian a unos grupos sobre otros. No son las diferencias en sí, sino la estructura social, lo que genera la desigualdad."
+    },
+    {
+      "question": "¿Qué declaró el preámbulo de la Constitución de la Unesco de 1945 tras la Segunda Guerra Mundial?",
+      "options": [
+        "Que la guerra fue consecuencia de la crisis económica de entreguerras",
+        "Que la guerra fue posible por la negación de la dignidad, la igualdad y el respeto mutuo y por la doctrina de la desigualdad",
+        "Que la guerra se evitaría con la creación de un único sistema educativo mundial",
+        "Que la guerra fue resultado de las diferencias lingüísticas entre naciones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según Giddens y Sutton (2013), el preámbulo atribuyó la guerra a la negación de la dignidad, igualdad y respeto mutuo y a la propagación de la doctrina de la desigualdad mediante la ignorancia y los prejuicios."
+    },
+    {
+      "question": "Para que las diferencias se transformen en desigualdades es preciso que:",
+      "options": [
+        "Existan culturas con lenguas distintas en el mismo territorio",
+        "Aumente la inmigración en un país",
+        "Haya grupos privilegiados que restrinjan el acceso de otros a bienes, servicios, participación y reconocimiento",
+        "Se produzcan diferencias fenotípicas visibles entre los grupos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Todos somos diferentes, pero la diferencia se convierte en desigualdad cuando grupos privilegiados restringen el acceso de otros para mantener su posición. La mera diversidad o inmigración no la produce."
+    },
+    {
+      "question": "¿Cómo define Van Dijk (2007) el racismo?",
+      "options": [
+        "Como una actitud individual de rechazo hacia personas de otro color de piel",
+        "Como el desconocimiento de las costumbres de otras culturas",
+        "Como una forma de miedo ante lo extranjero",
+        "Como un sistema de dominación y desigualdad en el que el grupo dominante abusa de su poder sobre otro al que considera inferior"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El racismo se define como un sistema de dominación y desigualdad social, no solo como una actitud individual: el grupo dominante abusa de su poder, discriminando, marginando, excluyendo o manifestando prejuicios y estereotipos."
+    },
+    {
+      "question": "¿Qué es la fractura cultural o étnica según Merino et al. (2003)?",
+      "options": [
+        "La separación voluntaria de un grupo respecto de la sociedad mayoritaria",
+        "La imposibilidad de acceder a recursos materiales y simbólicos provocada por culturas etnocéntricas que se atribuyen superioridad",
+        "La pérdida de la lengua materna por parte de una comunidad migrante",
+        "El conflicto entre generaciones dentro de una misma familia inmigrante"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La fractura cultural o étnica es la imposibilidad de acceder a recursos materiales y simbólicos, causada por culturas etnocéntricas que se creen superiores en todos los niveles de la vida."
+    },
+    {
+      "question": "¿Cómo define la RAE (2001) la xenofobia?",
+      "options": [
+        "Temor a la pérdida de la identidad nacional",
+        "Rechazo a las tradiciones religiosas ajenas",
+        "Odio, repugnancia u hostilidad hacia los extranjeros",
+        "Desconocimiento de otras lenguas y culturas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La RAE define la xenofobia como odio, repugnancia u hostilidad hacia los extranjeros. Es una actitud más específica que el simple desconocimiento cultural."
+    },
+    {
+      "question": "¿Qué papel puede desempeñar la educación frente al racismo y la xenofobia?",
+      "options": [
+        "Ninguno, porque son problemas ajenos al ámbito escolar",
+        "Contribuir a disminuirlos mediante prácticas educativas que fomenten el respeto y la valoración de otras culturas",
+        "Eliminarlos por completo con la mera inclusión de contenidos sobre otras culturas",
+        "Trasladar su abordaje exclusivamente a las familias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La educación puede contribuir a reducir el racismo y la xenofobia con prácticas que fomenten el respeto y la valoración de otras culturas. No los elimina por sí sola ni es tarea exclusiva de las familias."
+    },
+    {
+      "question": "¿Por qué diversidad cultural y escuela \"no encajan muy bien\" según el texto?",
+      "options": [
+        "Porque el alumnado de otras culturas rinde peor por motivos lingüísticos",
+        "Porque la escuela carece de recursos para atender a la diversidad",
+        "Porque la escuela se creó para imponer un canon cultural poco cuestionado, y quienes no pertenecen a la norma no se sienten reconocidos",
+        "Porque las familias inmigrantes se resisten a participar en el centro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto explica que la escuela fue concebida para imponer un canon cultural que pocas personas cuestionan, por lo que quienes quedan fuera de la norma no se sienten reconocidos."
+    },
+    {
+      "question": "Según Torres (2006), las instituciones educativas son:",
+      "options": [
+        "Un mecanismo de reproducción de discursos de discriminación y, a la vez, una herramienta fundamental para combatirlos",
+        "Un espacio neutral que no influye en los discursos sociales",
+        "Un instrumento exclusivo de reproducción de la cultura dominante",
+        "Una herramienta de combate contra la discriminación sin ningún riesgo de reproducirla"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las instituciones educativas tienen un carácter ambivalente: reproducen discursos de discriminación pero también son una herramienta fundamental para combatirlos."
+    },
+    {
+      "question": "¿Qué rasgos del contexto español explican que su política educativa intercultural esté aún en construcción?",
+      "options": [
+        "Su tradición ininterrumpida como país receptor de inmigración",
+        "Su frecuente cambio político, el reconocimiento de las autonomías y su paso de país emigrante a país de inmigración",
+        "La ausencia de legislación educativa sobre diversidad",
+        "La existencia de una única lengua y cultura reconocidas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hidalgo (2005) señala que España está en proceso de construcción por el frecuente cambio político, el reconocimiento de las autonomías y el paso de ser país emigrante a país de inmigración."
+    },
+    {
+      "question": "¿Cómo ha sido históricamente la relación de la escuela con los grupos sociales, según el texto?",
+      "options": [
+        "Inclusiva desde sus orígenes y abierta a todas las clases",
+        "Dirigida desde el inicio a la igualdad entre hombres y mujeres",
+        "Una historia de exclusión que impidió el acceso a clases bajas, mujeres y minorías étnicas, pasando por segregación y asimilación",
+        "Centrada en la reivindicación cultural de los pueblos del Sur global"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La escuela tiene una historia de exclusión: negó el acceso a clases bajas, mujeres y minorías étnicas, pasando por exclusión, segregación, asimilación y, en pocos casos, igualitarismo."
+    },
+    {
+      "question": "¿Cuál fue la secuencia de preocupaciones por la igualdad educativa señalada por De Sousa (2011)?",
+      "options": [
+        "Mujeres, clases bajas y, finalmente, pueblos del Sur global",
+        "Clases bajas hasta los años sesenta, luego las mujeres y más recientemente la reivindicación cultural del Sur global",
+        "Pueblos del Sur global, clases bajas y, después, mujeres",
+        "Minorías étnicas, mujeres y clases bajas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hasta los sesenta la prioridad fue la equiparación de derechos de las clases bajas; después, la igualdad educativa de las mujeres y, más recientemente, con las migraciones del siglo XX, la reivindicación cultural del Sur global."
+    },
+    {
+      "question": "¿Qué es el \"Sur global\" según De Sousa (2011)?",
+      "options": [
+        "Un conjunto de países situados en el hemisferio sur",
+        "Un concepto estadístico que agrupa a países de bajos ingresos",
+        "Una metáfora del sufrimiento causado por procesos colonialistas y capitalistas y de la lucha por salir de la exclusión, el silenciamiento y la marginación",
+        "Una región cultural homogénea con una lengua común"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Sur global no es un lugar geográfico (también está en el Norte), sino una metáfora de los daños del colonialismo y el capitalismo y de la lucha de ciertas poblaciones contra la exclusión."
+    },
+    {
+      "question": "¿Qué afirma el texto sobre los Estados contemporáneos desde la perspectiva de García et al. (2007)?",
+      "options": [
+        "Los Estados son homogéneos y la diversidad es una excepción",
+        "No existen Estados homogéneos, sino multiculturales y multigrupales, aunque ello no siempre se traduzca en prácticas igualitarias",
+        "Solo los Estados con inmigración reciente son multiculturales",
+        "La multiculturalidad legal garantiza la igualdad cotidiana"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En toda cultura conviven identidades amparadas legalmente, por lo que no hay Estados homogéneos; sin embargo, el amparo legal no implica necesariamente igualdad en lo cotidiano."
+    },
+    {
+      "question": "¿Cuándo se aleja el ideal de una sociedad intercultural?",
+      "options": [
+        "Cuando la diversidad se entiende solo como diferencia entre personas de distintas culturas",
+        "Cuando se reconocen las lenguas propias de cada territorio",
+        "Cuando se amplía la oferta educativa plurilingüe",
+        "Cuando los centros incorporan planes de acogida"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El ideal intercultural se aleja cuando la diversidad se reduce a la diferencia entre culturas; hay que valorar la diversidad para el aprendizaje global y no centrarse solo en la diferencia o en la situación administrativa."
+    },
+    {
+      "question": "¿Por qué se afirma que España es un país multicultural?",
+      "options": [
+        "Porque reconoce diversas culturas y lenguas propias y las ampara bajo su Constitución",
+        "Porque su población inmigrante supera a la autóctona",
+        "Porque todas las comunidades comparten una misma tradición",
+        "Porque tiene como lengua oficial única el castellano"
+      ],
+      "correctAnswer": 0,
+      "explanation": "España es multicultural porque reconoce y ampara en su Constitución diversas culturas y lenguas propias, además de tradiciones y costumbres diferentes en las comunidades autónomas."
+    },
+    {
+      "question": "¿Cuántas lenguas oficiales coexisten actualmente en España según el texto y cuáles son?",
+      "options": [
+        "Cuatro: castellano, catalán, gallego y euskera",
+        "Seis: castellano, catalán, valenciano, gallego, euskera y aranés",
+        "Cinco: castellano, catalán, gallego, euskera y aranés",
+        "Siete: castellano, catalán, valenciano, gallego, euskera, aranés y bable"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto señala seis lenguas oficiales: castellano, catalán, valenciano, gallego, euskera y aranés."
+    },
+    {
+      "question": "¿Qué cambio necesita la legislación educativa española para hacer efectiva la sociedad intercultural?",
+      "options": [
+        "Intensificar la noción de diferencia y de situación administrativa del alumnado",
+        "Reducir la presencia de lenguas cooficiales en el currículo",
+        "Unificar los contenidos de todas las comunidades autónomas",
+        "Centrarse menos en la diferencia y la situación administrativa, y más en el valor de la diversidad para el aprendizaje de conocimientos globales"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El texto plantea que, aunque la legislación se ha adecuado, aún hace falta una mirada menos condicionada por la diferencia y la situación administrativa, y más centrada en el valor de la diversidad."
+    },
+    {
+      "question": "¿Qué pretende reforzar la LOMLOE en relación con las comunidades autónomas?",
+      "options": [
+        "El conocimiento y aprecio del alumnado por la riqueza cultural y lingüística de las distintas comunidades autónomas",
+        "La uniformidad del currículo en todo el territorio",
+        "La sustitución de las lenguas autonómicas por el castellano",
+        "La separación del alumnado según su comunidad de origen"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LOMLOE recoge la importancia de reforzar las competencias del alumnado y favorecer el conocimiento y aprecio de la riqueza cultural y lingüística de las distintas comunidades autónomas."
+    },
+    {
+      "question": "¿Con independencia de qué circunstancias asegura la LOMLOE el respeto a los derechos y la calidad educativa para todo el estudiantado?",
+      "options": [
+        "Lugar de nacimiento, origen étnico o geográfico, religión o creencias",
+        "Rendimiento previo y situación administrativa de la familia",
+        "Edad, nivel de estudios y localidad de residencia",
+        "Idioma materno y nivel socioeconómico exclusivamente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LOMLOE asegura el respeto a derechos y libertades y la calidad educativa para todo el estudiantado con independencia de su lugar de nacimiento, origen étnico o geográfico, religión o creencias, entre otros."
+    },
+    {
+      "question": "¿Qué dificultades puede presentar el alumnado procedente de otros países o culturas que justifiquen una atención diferente a la ordinaria?",
+      "options": [
+        "Menor capacidad intelectual y problemas de conducta",
+        "Dificultades de acceso por desconocer el idioma o incorporación tardía al curso escolar",
+        "Falta de interés por el currículo del centro",
+        "Rechazo de las familias a la escolarización"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto cita como ejemplos el desconocimiento del idioma y la incorporación tardía al curso. No se atribuyen a capacidades menores ni a desinterés familiar."
+    },
+    {
+      "question": "¿Qué categoría incluye el artículo 71 de la LOMLOE respecto al alumnado que necesita una atención diferente a la ordinaria?",
+      "options": [
+        "ACNEE",
+        "ACNEAE",
+        "NEAE temporal",
+        "PAT"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El artículo 71 de la LOMLOE incluye en la categoría ACNEAE (alumnado con necesidad específica de apoyo educativo) a quienes requieren una atención diferente a la ordinaria; se profundiza en Aprendizaje y Desarrollo de la Personalidad."
+    },
+    {
+      "question": "¿Qué derecho reconoce la Ley Orgánica 8/1985 a los extranjeros residentes en España?",
+      "options": [
+        "Acceder únicamente a la educación infantil",
+        "Recibir educación obligatoria y gratuita y acceder a la formación profesional de primer grado",
+        "Obtener automáticamente la nacionalidad al finalizar la etapa obligatoria",
+        "Cursar estudios solo en centros específicos para extranjeros"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LO 8/1985, reguladora del Derecho a la Educación, determina que los extranjeros residentes tienen derecho a la educación obligatoria y gratuita y al acceso a la formación profesional de primer grado."
+    },
+    {
+      "question": "¿Qué implica transformar el currículo para establecer la educación intercultural?",
+      "options": [
+        "Agregar nuevos contenidos sobre otras culturas al currículo existente",
+        "Sustituir los contenidos conceptuales por actividades festivas",
+        "Desarrollar una lógica intercultural y no solo añadir contenidos",
+        "Trasladar la educación intercultural a una asignatura optativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La transformación curricular implica desarrollar una lógica intercultural, no limitarse a añadir contenidos nuevos (Essomba y Leiva, 2015)."
+    },
+    {
+      "question": "¿Cuál de las siguientes es una característica del currículo con enfoque intercultural?",
+      "options": [
+        "Evitar el tratamiento del conflicto cultural en el aula",
+        "Promover actividades de sensibilización y tomar conciencia de los propios prejuicios y estereotipos",
+        "Limitar los contenidos a los de carácter conceptual",
+        "Excluir la identidad cultural del trabajo con adolescentes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El currículo intercultural integra contenidos actitudinales y procedimentales, promueve la sensibilización sobre los propios prejuicios, trabaja el conflicto cultural, incorpora la diversidad al proyecto de centro y aborda la identidad cultural."
+    },
+    {
+      "question": "¿Por qué se debe abordar la identidad cultural en el currículo, sobre todo en la adolescencia?",
+      "options": [
+        "Porque es un elemento esencial del crecimiento integral",
+        "Porque permite clasificar al alumnado según su origen",
+        "Porque sustituye el trabajo sobre prejuicios",
+        "Porque facilita separar grupos culturales en el aula"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El enfoque intercultural considera la identidad cultural un elemento esencial del crecimiento integral, especialmente relevante en la adolescencia."
+    },
+    {
+      "question": "¿Qué matiz se hace respecto a qué culturas deben ser valoradas desde la mirada intercultural?",
+      "options": [
+        "Todas las culturas deben valorarse por igual sin excepción",
+        "Solo las culturas mayoritarias merecen ser valoradas",
+        "Solo se valoran las culturas que respetan los valores y principios de los derechos humanos; por ejemplo, la cultura machista no tiene cabida",
+        "Solo las culturas de los países del Sur deben ser valoradas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La interculturalidad no propone valorar todas las culturas sin matices: debe sostenerse en aquellas que respetan los derechos humanos, por lo que la cultura machista, por ejemplo, queda fuera."
+    },
+    {
+      "question": "¿Qué objetivo social del currículo intercultural puede trabajarse conociendo las fechas emblemáticas de la lucha contra la discriminación racial?",
+      "options": [
+        "Respetar la diversidad cultural",
+        "Combatir la discriminación",
+        "Luchar por la igualdad social",
+        "Valorar la identidad lingüística"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Combatir la discriminación incluye conocer las dimensiones de la discriminación del Norte hacia el Sur y las fechas emblemáticas de la lucha contra la discriminación racial (Essomba, 2006)."
+    },
+    {
+      "question": "Conocer entidades públicas o locales que luchan por la igualdad social o tratados internacionales sobre igualdad corresponde al objetivo de:",
+      "options": [
+        "Respetar la diversidad cultural",
+        "Combatir la discriminación",
+        "Reflexionar sobre la identidad cultural",
+        "Luchar por la igualdad social"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Para luchar por la igualdad social se propone conocer entidades que trabajan en ello y tratados internacionales que la defienden."
+    },
+    {
+      "question": "¿Qué actividad se asocia al objetivo \"Respetar la diversidad cultural\" en el currículo intercultural?",
+      "options": [
+        "Valorar los conocimientos de otras culturas y reflexionar sobre qué implica la identidad cultural",
+        "Analizar tratados internacionales de igualdad",
+        "Conocer las fechas contra la discriminación racial",
+        "Estudiar las dimensiones de la discriminación Norte-Sur"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Respetar la diversidad cultural se concreta en valorizar los conocimientos de otras culturas y reflexionar sobre la identidad cultural. Las otras opciones pertenecen a los objetivos de igualdad social y lucha contra la discriminación."
+    },
+    {
+      "question": "Según Touriñán-López (2006), ¿por qué es fundamental la educación en un mundo globalizado?",
+      "options": [
+        "Porque permite homogeneizar las identidades culturales",
+        "Porque sustituye las funciones de la familia",
+        "Porque limita la influencia de los medios de comunicación",
+        "Porque es clave para el éxito de la integración en el mundo, proteger la identidad cultural y formar personas autónomas capaces de defender derechos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La educación es fundamental para integrarse con éxito, promover y proteger la identidad cultural y conseguir personas autónomas capaces de defender y promover derechos en un mundo globalizado."
+    },
+    {
+      "question": "¿Qué preocupación se suma hoy en el ámbito educativo al rendimiento académico?",
+      "options": [
+        "La reducción del tiempo lectivo",
+        "La educación en valores que recibe el alumnado",
+        "La especialización profesional temprana",
+        "La uniformización de los métodos de evaluación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto indica que ya no solo preocupa el rendimiento académico, sino también la educación en valores, considerada una de las llaves del complejo escenario social y educativo (Leiva, 2004)."
+    },
+    {
+      "question": "Según Leiva (2004), las iniciativas de educación en valores deben mostrar la realidad:",
+      "options": [
+        "Desde la perspectiva de la cultura mayoritaria",
+        "Desde una perspectiva intercultural, con acciones educativas y socioculturales integrales que atiendan carencias del medio social y familiar",
+        "Desde la neutralidad, evitando referencias al entorno del alumno",
+        "Desde el ámbito exclusivamente escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Leiva plantea una perspectiva intercultural con acciones integrales que atiendan carencias educativas tanto del medio social como del familiar."
+    },
+    {
+      "question": "¿Qué comparten la educación intercultural y el modelo inclusivo según Sales et al. (2010)?",
+      "options": [
+        "Se dirigen únicamente al alumnado en situación de vulnerabilidad",
+        "Tienen una concepción similar de educación, cultura y diversidad y abogan por una educación igual para todo el alumnado",
+        "Utilizan metodologías idénticas en todas las áreas",
+        "Se limitan al alumnado inmigrante"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ambos enfoques comparten una concepción similar de educación, cultura y diversidad, y defienden una educación igual para todos, no solo para el alumnado vulnerable. Una escuela es intercultural e inclusiva por ser democrática y plural."
+    },
+    {
+      "question": "¿Con qué elementos está íntimamente relacionada la educación inclusiva según Crisol (2019)?",
+      "options": [
+        "Con la selección, la promoción y la titulación",
+        "Con el rendimiento, la competitividad y la disciplina",
+        "Con el acceso, la participación y los logros de todo el alumnado",
+        "Con la homogeneización de grupos y la especialización"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La educación inclusiva se relaciona con el acceso, la participación y los logros de todo el alumnado."
+    },
+    {
+      "question": "¿Cómo considera la Unesco (2009) la educación inclusiva?",
+      "options": [
+        "Como una estrategia clave para alcanzar la educación para todos",
+        "Como una medida transitoria para alumnado vulnerable",
+        "Como una alternativa a la educación obligatoria",
+        "Como un objetivo exclusivo de la educación superior"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Unesco (2009) considera la educación inclusiva una estrategia clave para alcanzar la educación para todos."
+    },
+    {
+      "question": "¿Por qué la educación universal en la primera infancia puede fomentar la inclusión según la Unesco (2021)?",
+      "options": [
+        "Porque adelanta la edad de escolarización obligatoria",
+        "Porque genera la expectativa de que todos los niños y niñas pueden acceder a un nivel mínimo de servicios, sea cual sea su situación",
+        "Porque permite agrupar al alumnado por origen desde edades tempranas",
+        "Porque sustituye la educación en el entorno familiar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La educación universal en la primera infancia genera la expectativa de acceso a un nivel mínimo de servicios con independencia de la situación socioeconómica, origen étnico, idioma, discapacidad o distancia geográfica."
+    },
+    {
+      "question": "¿Cómo se puede entender el fenómeno de la interculturalidad según Hidalgo (2005)?",
+      "options": [
+        "Como una filosofía, un proceso y un programa",
+        "Como una técnica de enseñanza de lenguas",
+        "Como una asignatura del currículo",
+        "Como un conjunto de normas de convivencia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La interculturalidad ofrece un marco teórico para interpretar la realidad (filosofía), un modelo racional para organizar ideas y esfuerzos (proceso) y una forma sistemática de organizar actividades (programa)."
+    },
+    {
+      "question": "¿Qué frase de Miguel Ángel Essomba recoge la unidad?",
+      "options": [
+        "«Nadie nace odiando a otra persona por el color de su piel»",
+        "«Los seres humanos somos iguales en esencia y diferentes en existencia»",
+        "«La educación es el arma más poderosa para cambiar el mundo»",
+        "«Todas las culturas son iguales y todas las personas son distintas»"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La cita de Essomba es «Los seres humanos somos iguales en esencia y diferentes en existencia». La primera pertenece a Nelson Mandela."
+    },
+    {
+      "question": "¿Cuáles son los principios de la interculturalidad según Essomba (2006)?",
+      "options": [
+        "Asimilación, uniformidad y respeto a la norma",
+        "Igualdad de todas las personas que conviven, respeto a la diversidad y creación de espacios de intercambio y enriquecimiento",
+        "Tolerancia pasiva, separación y especialización",
+        "Competencia, jerarquía y selección"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los principios son la igualdad de todas las personas que conviven en un mismo espacio, el respeto a la diversidad y la creación de espacios de intercambio y enriquecimiento entre sujetos de diferentes orígenes."
+    },
+    {
+      "question": "¿Cuál de estas afirmaciones sobre la educación intercultural (Morales, 2006) es correcta?",
+      "options": [
+        "Su potencial se limita al ámbito escolar",
+        "Contribuye a mantener la autoestima del estudiantado y es una forma de luchar contra el racismo y la xenofobia",
+        "Se dirige solo a quienes necesitan ayuda de manera constante",
+        "Evita que se mencionen las diferencias culturales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La educación intercultural favorece el respeto, mantiene la autoestima, lucha contra el racismo y la xenofobia, extiende su potencial más allá de la escuela y ofrece ayuda constante u ocasional."
+    },
+    {
+      "question": "¿Cuáles son las cuatro dimensiones de la interculturalidad que destaca Essomba (2006)?",
+      "options": [
+        "Internacionalización, integración europea, pluriculturalidad del Estado español e inmigración",
+        "Globalización, colonización, religión y lengua",
+        "Asimilación, separación, marginación e integración",
+        "Familia, escuela, comunidad y medios de comunicación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Essomba destaca cuatro dimensiones: la internacionalización, la integración europea, la pluriculturalidad del Estado español y la inmigración. Los modelos de asimilación, separación, marginación e integración son de afrontamiento de la diversidad."
+    },
+    {
+      "question": "¿Qué exige la diversidad cultural producto de la internacionalización a los centros educativos?",
+      "options": [
+        "Eliminar el tratamiento de la política internacional",
+        "Ofrecer espacios de reflexión sobre las acciones políticas en materia de globalización y desarrollar competencias interculturales",
+        "Limitar el contacto con otras culturas para proteger la identidad local",
+        "Centrarse en el aprendizaje de una única lengua extranjera"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La internacionalización exige competencias de interculturalidad, y los centros han de ofrecer espacios de reflexión sobre las acciones políticas en globalización."
+    },
+    {
+      "question": "¿Qué plantea la dimensión de integración europea?",
+      "options": [
+        "La sustitución de las identidades nacionales por una única identidad europea",
+        "La nueva dimensión de ciudadanía que lleva a redefinir la identidad cultural y a facilitar valores positivos desde los centros",
+        "La obligación de enseñar todas las lenguas de la Unión",
+        "La limitación de la movilidad estudiantil"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Con la Unión Europea nace una nueva dimensión de ciudadanía y la necesidad de redefinir la identidad cultural; los centros deberían ofrecer elementos para tomar conciencia de esta interculturalidad y facilitar valores positivos."
+    },
+    {
+      "question": "¿Qué señala la dimensión de pluriculturalidad del Estado español como tarea pendiente?",
+      "options": [
+        "El reconocimiento de las lenguas cooficiales",
+        "El reconocimiento y la inclusión del pueblo gitano",
+        "La integración del alumnado de la Unión Europea",
+        "La enseñanza de religiones minoritarias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Además de las culturas de las comunidades autónomas, el pueblo gitano sigue siendo una tarea pendiente en términos de reconocimiento e inclusión."
+    },
+    {
+      "question": "¿Por qué la inmigración extranjera es la dimensión que más preocupa hoy según Essomba?",
+      "options": [
+        "Porque supone un reto mayor por el desconocimiento de las culturas que provienen de otros continentes",
+        "Porque supera en número a las demás poblaciones escolares",
+        "Porque implica la desaparición de la identidad española",
+        "Porque obliga a modificar la Constitución"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La inmigración extranjera supone un reto mayor a los ya planteados por el desconocimiento de las culturas de otros continentes."
+    },
+    {
+      "question": "Un profesor afirma que las costumbres de su cultura son superiores y desconfía de las de sus alumnos de otros países. ¿Qué actitud refleja?",
+      "options": [
+        "Relativismo cultural",
+        "Interculturalidad",
+        "Etnocentrismo",
+        "Pluralismo religioso"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Juzgar otras culturas desde la propia, a la que se considera superior, y desconfiar de los forasteros es etnocentrismo. El relativismo cultural y la interculturalidad parten del respeto y la equidad."
+    },
+    {
+      "question": "Un centro organiza actividades donde alumnado de distintos orígenes dialoga e intercambia saberes en condiciones de igualdad. ¿Qué enfoque predomina?",
+      "options": [
+        "Asimilación cultural",
+        "Separación cultural",
+        "Multiculturalidad entendida solo como coexistencia",
+        "Interculturalidad"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La interculturalidad implica interacción, diálogo y relaciones equitativas de respeto mutuo, más allá de la coexistencia en un mismo espacio propia de la multiculturalidad."
+    },
+    {
+      "question": "Se dice que en las sociedades apegadas al catolicismo, como la Europa mediterránea y Latinoamérica, la religión:",
+      "options": [
+        "Carece de influencia en las formas de convivencia",
+        "Mantiene un apego tradicional importante dentro de la cultura",
+        "Ha desaparecido por la modernización",
+        "Se opone necesariamente a la tradición"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto señala que en la Europa mediterránea y Latinoamérica el catolicismo tiene un apego tradicional importante, con las características recogidas por Costa (2012)."
+    },
+    {
+      "question": "El hecho de que alguien \"no tenga raza\" desde un punto de vista biológico, pero sí variación física, significa que:",
+      "options": [
+        "Todas las diferencias humanas son únicamente culturales",
+        "La especie humana presenta una variación física dentro de una única especie",
+        "Cada grupo étnico constituye una especie distinta",
+        "Las diferencias físicas determinan la etnicidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El consenso científico considera que la especie humana es una sola y que lo que existe es variación física, no razas biológicas. La etnicidad es una construcción social y no depende de lo físico."
+    },
+    {
+      "question": "Para crear una escuela intercultural, ¿cómo debe comprenderse la diversidad?",
+      "options": [
+        "Como una dificultad que hay que compensar con recursos adicionales",
+        "Como un rasgo que justifica agrupar al alumnado según su origen",
+        "Como un valor y no como un defecto, sin atribuir superioridad ni inferioridad a ningún grupo",
+        "Como una circunstancia temporal que desaparece con la adaptación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La primera estrategia es comprender la diversidad como un valor y no como un defecto, evitando jerarquizar grupos. Concebirla como un problema o una fase transitoria contradice el enfoque intercultural."
+    },
+    {
+      "question": "¿Cómo debe concebirse el aula en una escuela intercultural e inclusiva?",
+      "options": [
+        "Como un espacio de transmisión de contenidos con un único estilo de enseñanza",
+        "Como una comunidad de aprendizaje y convivencia donde el alumnado pueda aprender en diferentes estilos",
+        "Como un conjunto de subgrupos organizados según su cultura de origen",
+        "Como un lugar de competición entre estudiantes por el rendimiento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se propone concebir el aula como una comunidad de aprendizaje y convivencia en la que haya cabida para diferentes estilos de aprender."
+    },
+    {
+      "question": "¿Qué metodologías se buscan para favorecer en una escuela intercultural?",
+      "options": [
+        "Las que fomentan el aprendizaje autónomo y la competencia de aprender a aprender",
+        "Las que priorizan la memorización de contenidos",
+        "Las que homogeneizan el ritmo de trabajo",
+        "Las que se basan en la evaluación exclusivamente final"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La tercera estrategia consiste en buscar metodologías que favorezcan el aprendizaje autónomo y la competencia de aprender a aprender."
+    },
+    {
+      "question": "¿Qué idea expresa la estrategia de entender que, aun siendo diversos, todos los estudiantes pertenecen a un mismo grupo?",
+      "options": [
+        "Que se debe eliminar toda diferencia entre ellos",
+        "Que la diversidad es un valor dentro de un grupo cohesionado, sin perder el sentido de pertenencia común",
+        "Que el grupo debe organizarse según el nivel académico",
+        "Que las diferencias culturales deben ocultarse en el aula"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pertenecer a un mismo grupo no implica uniformidad: el alumnado es diverso pero comparte pertenencia, lo que favorece cohesión y respeto a los derechos de todos."
+    },
+    {
+      "question": "¿Qué pretende la estrategia de contar con especialistas en el aula (pedagogía terapéutica, audición y lenguaje)?",
+      "options": [
+        "Retirar al alumnado diverso del aula ordinaria",
+        "Delegar la atención a la diversidad en un profesional ajeno al grupo",
+        "Favorecer redes naturales de apoyo, la tutoría entre pares y la ayuda mutua, y facilitar la comprensión y valoración de las diferencias",
+        "Reducir el número de docentes necesarios en el centro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La presencia de especialistas en el aula busca potenciar redes naturales de apoyo, tutoría entre pares y ayuda mutua, y facilitar comprender y valorar las diferencias."
+    },
+    {
+      "question": "¿Qué implica aceptar que no hay respuestas simples ni universales en la atención a la diversidad?",
+      "options": [
+        "Aplicar el mismo protocolo en todos los casos",
+        "Renunciar a planificar actuaciones concretas",
+        "Esperar a que el alumnado se adapte por sí mismo",
+        "Intentar flexibilizar las actuaciones según cada situación"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Reconocer que no hay respuestas simples ni universales lleva a flexibilizar las actuaciones y adaptarlas a cada contexto y persona."
+    },
+    {
+      "question": "¿Por dónde debe empezar una educación intercultural viable y sostenible?",
+      "options": [
+        "Por cuestionar las propias formas culturales e imaginar otras maneras de concebir el conocimiento y la educación",
+        "Por incorporar un número mayor de actividades festivas",
+        "Por trasladar la responsabilidad a las familias inmigrantes",
+        "Por reducir la diversidad del alumnado en cada aula"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La unidad señala que debe empezar por cuestionar las propias formas culturales e imaginar otras maneras de concebir el conocimiento y la educación."
+    },
+    {
+      "question": "¿Qué consecuencia ha tenido la llegada continua de estudiantes de otros países para la escuela?",
+      "options": [
+        "Ha disminuido la necesidad de adaptar los métodos de enseñanza",
+        "Ha aumentado la diversidad y exige métodos de enseñanza y propuestas de actuación adaptadas y diversas",
+        "Ha hecho innecesarios los planes de acogida",
+        "Ha reducido la diversidad lingüística en las aulas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La llegada de estudiantes con otras culturas e idiomas aumenta la diversidad escolar y obliga a aplicar métodos y propuestas adaptados y diversos (Montón, 2011)."
+    },
+    {
+      "question": "¿A quiénes atiende la acogida en un centro educativo?",
+      "options": [
+        "Solo al alumno que llega",
+        "Al alumno, a la familia y al profesor que llegan al centro y necesitan ser escuchados y atendidos de forma más individual",
+        "Solo a las familias inmigrantes",
+        "Únicamente al profesorado de nueva incorporación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La acogida es la forma de atender e informar tanto al alumno como a la familia y al profesor que llegan al centro y necesitan atención más individualizada."
+    },
+    {
+      "question": "¿Cómo debería ser la acogida del alumnado inmigrante respecto a las directrices ya establecidas en el centro?",
+      "options": [
+        "Totalmente distinta, con un protocolo específico de separación",
+        "Aplazada hasta que domine la lengua del centro",
+        "No debería ser diferente a las directrices de acogida ya establecidas",
+        "Delegada exclusivamente en los servicios sociales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La acogida del alumnado inmigrante no debería diferir de las directrices ya establecidas en el plan de acogida del centro, que facilita la llegada de todo alumno y profesional."
+    },
+    {
+      "question": "Además de facilitar el acceso al centro y a la información, ¿qué es igual de importante en la acogida?",
+      "options": [
+        "Establecer vínculos afectivos que aporten confianza y favorezcan la adaptación",
+        "Evaluar el nivel curricular del alumnado en la primera semana",
+        "Asignar al alumno a un grupo específico de refuerzo",
+        "Limitar el contacto con otras familias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Una acogida de calidad combina el acceso a la información con vínculos afectivos que generen confianza y faciliten la adaptación al centro."
+    },
+    {
+      "question": "¿Qué enseñan los docentes, según la sección de acción tutorial, además de conceptos y procedimientos?",
+      "options": [
+        "Técnicas de estudio exclusivamente",
+        "Valores, normas y actitudes",
+        "Contenidos de otras culturas únicamente",
+        "Estrategias de evaluación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los docentes tienen como objetivo enseñar además valores, normas y actitudes, por lo que el Plan de Acción Tutorial debe contemplarlos en la incorporación del alumnado."
+    },
+    {
+      "question": "¿Cuál de estos contenidos debe incluir el Plan de Acción Tutorial ante la incorporación de alumnado al aula?",
+      "options": [
+        "La clasificación del alumnado según su lengua materna",
+        "La participación de las familias dentro del plan",
+        "La reducción de contenidos curriculares para el alumnado recién llegado",
+        "La exclusión del alumnado de actividades grupales durante el primer trimestre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El PAT debe incluir, entre otros, actividades de acogida previas al curso, acogida de todo el alumnado, organización del grupo clase, colaboración en el desarrollo personal y social, y participación de las familias."
+    },
+    {
+      "question": "¿En qué asignatura del máster se profundiza el Plan de Acción Tutorial?",
+      "options": [
+        "Aprendizaje y Desarrollo de la Personalidad",
+        "Procesos y Contextos Educativos",
+        "Sociedad, Familia y Educación (unidad 5)",
+        "Innovación Docente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La unidad indica que el PAT se verá con más detenimiento en Procesos y Contextos Educativos. Aprendizaje y Desarrollo de la Personalidad aborda el ACNEAE y los ODS se ven en la unidad 5."
+    },
+    {
+      "question": "¿Qué beneficios aporta la tutoría entre iguales y el trabajo cooperativo?",
+      "options": [
+        "Desarrollan capacidades sociales, favorecen la convivencia y generan sentimientos de pertenencia y cohesión",
+        "Reducen la necesidad de intervención docente",
+        "Sustituyen el aprendizaje de la lengua de acogida",
+        "Sirven principalmente para clasificar al alumnado por nivel"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El trato entre iguales es protagonista en el desarrollo de capacidades sociales y favorece convivencia, pertenencia y cohesión; el trabajo cooperativo construye conocimiento conjunto en un ambiente más inclusivo, tolerante y empático."
+    },
+    {
+      "question": "¿Por qué el trabajo cooperativo promueve un ambiente educativo más inclusivo?",
+      "options": [
+        "Porque cada estudiante trabaja de forma aislada sus tareas",
+        "Porque el docente asume por completo la dirección de la actividad",
+        "Porque el alumnado construye el conocimiento de forma conjunta, lo que fomenta tolerancia y empatía",
+        "Porque se evita la interacción entre estudiantes de distintos orígenes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Al construir el conocimiento conjuntamente, el alumnado interactúa, se apoya y desarrolla tolerancia y empatía, lo que hace el ambiente más inclusivo."
+    },
+    {
+      "question": "¿Por qué se plantea que el alumnado inmigrante aprenda la lengua de la sociedad de acogida lo más rápidamente posible?",
+      "options": [
+        "Porque la falta de conocimiento de la lengua es una limitación de adaptación e inclusión en el aula",
+        "Porque debe abandonar su lengua materna de inmediato",
+        "Porque así se evita la necesidad de apoyo en otras áreas",
+        "Porque es un requisito para su matriculación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La falta de dominio de la lengua del país de acogida limita la adaptación e inclusión; por eso se persigue su aprendizaje rápido. No se pretende anular la lengua de origen."
+    },
+    {
+      "question": "Según Montón (2011), el aprendizaje de la lengua es:",
+      "options": [
+        "Un contenido aislado del resto de áreas",
+        "Un requisito administrativo de escolarización",
+        "Una actividad complementaria del plan de acogida",
+        "El instrumento que permite el aprendizaje en las diferentes áreas, es decir, un verdadero mediador didáctico"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La lengua es el instrumento que permite aprender en las demás áreas de conocimiento y constituye un verdadero mediador didáctico."
+    },
+    {
+      "question": "¿Cómo debe abordarse la atención a las familias del alumnado inmigrante?",
+      "options": [
+        "De forma homogénea, pues comparten características culturales",
+        "De forma individualizada y personalizada, porque son muy diferentes entre sí",
+        "Solo mediante reuniones generales informativas",
+        "Mediante intermediarios ajenos al centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Al igual que todas las familias, las del alumnado inmigrante son muy diferentes entre sí y deben tratarse de forma individualizada y personalizada, por ejemplo con entrevistas individuales."
+    },
+    {
+      "question": "¿Cuál de estas acciones se incluye en la atención a las familias inmigrantes?",
+      "options": [
+        "Informar de las decisiones ya adoptadas sobre la orientación del alumno",
+        "Evitar entrevistas para no generar desconfianza",
+        "Colaborar con el centro en decisiones sobre la orientación educativa, profesional y vocacional del alumnado",
+        "Limitar la comunicación a los trámites administrativos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se establece colaboración entre centro y familias para decidir sobre la orientación educativa, profesional y vocacional, junto con un marco de confianza, información sobre el funcionamiento del centro y entrevistas individualizadas."
+    },
+    {
+      "question": "¿Qué necesitan los profesionales de la educación para construir escuelas interculturales e inclusivas, según Sales et al. (2010)?",
+      "options": [
+        "Formación continua sobre interculturalidad e inclusión",
+        "Programas específicos solo para docentes de nueva incorporación",
+        "Una especialización exclusiva en lenguas extranjeras",
+        "Un perfil técnico centrado en la evaluación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Es imprescindible que reciban formación continua en interculturalidad e inclusión para que todo el alumnado tenga las mismas oportunidades."
+    },
+    {
+      "question": "Para Muñoz Sedano (2000), además de adquirir conocimientos culturales y pedagógicos, el profesorado necesita:",
+      "options": [
+        "Mayor carga horaria en aulas multiculturales",
+        "Un cambio de actitudes, valores y creencias que influyen en su desarrollo profesional",
+        "Un título específico en antropología",
+        "Un manual único de actuación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Es igual de importante adquirir conocimientos como cambiar actitudes, valores y creencias, ya que influyen directamente en el desarrollo profesional en el contexto educativo."
+    },
+    {
+      "question": "¿A qué pregunta debe dar respuesta toda formación continua en interculturalidad según Muñoz Sedano?",
+      "options": [
+        "¿Qué contenidos curriculares deben priorizarse en el aula multicultural?",
+        "¿Qué recursos económicos necesita el centro para atender a la diversidad?",
+        "¿Qué actitudes, valores, habilidades, destrezas y conocimientos necesita un docente para ser efectivo en una sociedad con tal diversidad?",
+        "¿Qué porcentaje del alumnado debe ser de origen extranjero?"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La formación debe responder qué actitudes, valores, habilidades, destrezas y conocimientos hacen efectivo a un docente u orientador en una sociedad, institución o clase que refleje tal diversidad."
+    },
+    {
+      "question": "Según la conclusión de la unidad, ¿qué es necesario para la transformación hacia una escuela intercultural además de alumnado multicultural y profesorado sensible?",
+      "options": [
+        "Un modelo educativo adecuado, reflexivo y consensuado",
+        "Una reducción del currículo oficial",
+        "Un único plan nacional de acogida",
+        "La separación del alumnado en itinerarios"
+      ],
+      "correctAnswer": 0,
+      "explanation": "No basta con tener alumnado multicultural y docentes sensibles: hace falta diseñar un modelo educativo adecuado, reflexivo y consensuado."
+    },
+    {
+      "question": "Un instituto con alumnado de múltiples orígenes incorpora la diversidad cultural en su proyecto educativo de centro y trabaja los conflictos culturales. ¿Qué característica del currículo intercultural ilustra?",
+      "options": [
+        "Aplicar un currículo uniforme para todo el alumnado",
+        "Integrar contenidos solo conceptuales",
+        "Incorporar la diversidad cultural en el proyecto educativo y trabajar el conflicto cultural",
+        "Sustituir la tutoría por actividades festivas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El currículo intercultural incorpora la diversidad en el proyecto educativo de centro y trabaja el conflicto cultural, además de integrar contenidos actitudinales y procedimentales."
+    },
+    {
+      "question": "Una alumna recién llegada a mitad de curso no conoce el idioma. ¿Qué medida es más coherente con lo planteado en la unidad?",
+      "options": [
+        "Mantenerla en un aula separada hasta que domine la lengua",
+        "Aplicar el plan de acogida del centro, favorecer vínculos afectivos y promover el aprendizaje rápido de la lengua con apoyo del grupo",
+        "Reducir los contenidos que debe cursar sin acompañamiento",
+        "Esperar al inicio del siguiente curso para integrarla"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La unidad plantea medidas para favorecer la incorporación e inclusión: plan de acogida, vínculos afectivos, aprendizaje de la lengua como mediador didáctico y tutoría entre iguales. La separación contradice el enfoque inclusivo."
+    },
+    {
+      "question": "Un docente quiere que su aula valore por igual a todo el alumnado, pero se encuentra con prácticas culturales que vulneran los derechos de las mujeres. ¿Qué orienta la mirada intercultural?",
+      "options": [
+        "Aceptarlas por respeto absoluto a toda cultura",
+        "Valorar solo las culturas que respetan los valores y principios de los derechos humanos",
+        "Ignorar el tema para evitar el conflicto",
+        "Imponer la cultura dominante como patrón único"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La interculturalidad no propone valorar todas las culturas sin límite: debe apoyarse en las que respetan los derechos humanos. Imponer la cultura dominante sería asimilación."
+    },
+    {
+      "question": "Si una escuela exige al alumnado inmigrante abandonar su lengua y sus costumbres para encajar, ¿qué modelo de afrontamiento de la diversidad aplica?",
+      "options": [
+        "Integración",
+        "Interculturalidad",
+        "Asimilación",
+        "Separación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Exigir adquirir la cultura de acogida dejando de lado la de origen es el modelo de asimilación, que busca eliminar lo que diferencia al inmigrante."
+    },
+    {
+      "question": "Una sociedad que respeta la participación de los inmigrantes pero impulsa que vivan en zonas separadas sin vínculos con el resto aplica un modelo de:",
+      "options": [
+        "Separación cultural",
+        "Integración",
+        "Asimilación",
+        "Marginación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El modelo de separación aboga por la guetización: respeta la participación y la pluralidad de comunidades, pero sin establecer vínculos entre ellas."
+    },
+    {
+      "question": "¿Qué diferencia principal hay entre el modelo de integración y el de asimilación?",
+      "options": [
+        "La integración elimina las diferencias y la asimilación las conserva",
+        "La integración exige ruptura con el grupo de origen y la asimilación no",
+        "La integración mantiene las señas identitarias de cada cultura y la asimilación exige adaptarse y eliminar lo diferente",
+        "No existe diferencia, ambas se refieren al mismo proceso"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La integración se basa en el respeto entre culturas manteniendo las señas identitarias; la asimilación demanda adaptarse a la sociedad de acogida y eliminar lo que diferencia."
+    },
+    {
+      "question": "¿Qué diferencia hay entre la marginación y la separación cultural en cuanto a la participación?",
+      "options": [
+        "En ambas se prohíbe la participación social",
+        "En la separación se respeta la participación sin vínculos entre comunidades; en la marginación se impide la participación social y política",
+        "En la marginación se respeta la participación y en la separación no",
+        "En ninguna se plantea la cuestión de la participación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Separación: participan en la sociedad pero sin establecer vínculos. Marginación: se impide la participación social y política y la representatividad."
+    },
+    {
+      "question": "¿En qué ámbitos se dan con frecuencia los procesos de asimilación según la unidad?",
+      "options": [
+        "En sistemas escolares unificados e integradores, en el consumo de masas y en los medios de comunicación",
+        "En sistemas con fuerte autonomía de los grupos étnicos",
+        "En comunidades con barrios segregados por cultura",
+        "En programas interculturales de centro"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La asimilación se da en sistemas escolares unificados e integradores, en el consumo de masas y en los medios de comunicación."
+    },
+    {
+      "question": "¿Qué relación existe entre cultura dominante y violencia simbólica?",
+      "options": [
+        "La cultura dominante evita el uso de la violencia simbólica",
+        "La violencia simbólica es lo que ejercen las minorías sobre las mayorías",
+        "La cultura dominante se traduce en violencia simbólica al someter a otras culturas bajo su dominio",
+        "La violencia simbólica solo aparece en contextos de conflicto armado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La cultura producida por quienes ostentan el poder simbólico se traduce en violencia simbólica al someter a otras culturas."
+    },
+    {
+      "question": "Si la cultura necesita ser de la sociedad para distribuirse, ¿por qué no todas las personas acceden en igualdad a los productos culturales?",
+      "options": [
+        "Porque no todas las personas tienen interés en la cultura",
+        "Porque en un mundo jerarquizado el acceso depende de la posición en el sistema de poder",
+        "Porque los productos culturales son escasos",
+        "Porque cada cultura rechaza compartir sus productos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto señala que en un mundo jerarquizado no todas las personas pueden acceder en igualdad de condiciones a los productos culturales, lo que da lugar a la cultura dominante."
+    },
+    {
+      "question": "¿Por qué se afirma que diversidad cultural no es sinónimo de diferencias fenotípicas?",
+      "options": [
+        "Porque las diferencias culturales son aprendidas y construidas socialmente, no dependen de rasgos físicos",
+        "Porque los rasgos físicos determinan la cultura de cada grupo",
+        "Porque la biología explica las prácticas culturales",
+        "Porque la diversidad cultural solo existe entre países distintos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La diversidad cultural se refiere a prácticas, valores y creencias aprendidos y socialmente construidos, no a rasgos físicos o fenotípicos."
+    },
+    {
+      "question": "¿Qué ventaja ofrece la tutoría entre iguales a un alumno recién llegado que no conoce las normas del centro?",
+      "options": [
+        "Le exime de cumplir las normas durante un periodo",
+        "Le proporciona apoyo natural de compañeros, que facilita su pertenencia al grupo y la comprensión de las diferencias",
+        "Le permite aprender sin intervención docente",
+        "Le separa del grupo ordinario para evitar dificultades"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La tutoría entre iguales potencia redes naturales de apoyo, ayuda mutua y sentido de pertenencia, y ayuda a comprender y valorar las diferencias."
+    },
+    {
+      "question": "¿Qué ocurre cuando la educación solo agrega contenidos sobre otras culturas sin cambiar la lógica del currículo?",
+      "options": [
+        "Se logra plenamente la educación intercultural",
+        "Se queda en una visión superficial, ya que se requiere desarrollar una lógica intercultural",
+        "Se elimina el etnocentrismo del sistema",
+        "Se garantiza la igualdad de acceso al currículo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La educación intercultural implica desarrollar una lógica intercultural y no solo agregar nuevos contenidos."
+    },
+    {
+      "question": "¿Qué papel juega la educación en valores en un escenario multicultural según Leiva (2004)?",
+      "options": [
+        "Es una de las llaves del complejo escenario social y educativo",
+        "Es un complemento opcional al currículo académico",
+        "Sustituye la formación en contenidos científicos",
+        "Corresponde exclusivamente a las familias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Leiva afirma que la educación en valores se constituye como una de las llaves de este complejo escenario social y educativo."
+    },
+    {
+      "question": "El texto señala que la educación intercultural comparte premisas con el modelo inclusivo. ¿Qué implica para el alumnado no vulnerable?",
+      "options": [
+        "Queda excluido de las medidas de la escuela",
+        "También se beneficia, ya que ambas abogan por una educación igual para todo el alumnado, sean cuales sean sus características",
+        "Recibe una educación diferenciada por nivel",
+        "Debe adaptarse al alumnado vulnerable"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Interculturalidad e inclusión se centran no solo en el alumnado vulnerable, sino en una educación igual para todos."
+    },
+    {
+      "question": "¿Por qué se dice que una escuela es intercultural e inclusiva porque es democrática y plural?",
+      "options": [
+        "Porque reconoce y da voz a la diversidad de sus miembros y garantiza igualdad de participación",
+        "Porque sus decisiones se toman por mayoría simple",
+        "Porque elimina las normas comunes",
+        "Porque acoge a alumnado de un único origen"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Una escuela democrática y plural reconoce la diversidad y garantiza participación y trato igual a todos, que es la base común de la educación intercultural e inclusiva."
+    },
+    {
+      "question": "Dada la historia de exclusión de la escuela, ¿qué rumbo ha tomado la lucha por la equidad educativa?",
+      "options": [
+        "Ha pasado de ampliar derechos a clases bajas a incluir a mujeres y, más tarde, a reivindicar la diversidad cultural",
+        "Se ha centrado desde siempre en la inmigración",
+        "Ha retrocedido hacia la segregación en las últimas décadas",
+        "Se ha limitado a la alfabetización de adultos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "De Sousa (2011) describe la evolución: primero derechos educativos de las clases bajas, luego la igualdad para las mujeres y más recientemente la reivindicación cultural del Sur global."
+    },
+    {
+      "question": "¿Qué quiere decir que el currículo intercultural debe integrar contenidos actitudinales y procedimentales?",
+      "options": [
+        "Que no basta transmitir información: hay que trabajar actitudes y habilidades para la convivencia intercultural",
+        "Que se deben evaluar solo conductas observables",
+        "Que los contenidos conceptuales quedan eliminados",
+        "Que el docente debe limitarse a organizar actividades"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El enfoque intercultural requiere trabajar actitudes y procedimientos, además de conceptos, para la convivencia intercultural."
+    },
+    {
+      "question": "¿Qué función cumple la acción tutorial respecto a la adaptación escolar del alumnado?",
+      "options": [
+        "Colaborar en el desarrollo personal y social del alumnado y en su adaptación escolar",
+        "Evaluar el rendimiento en cada materia",
+        "Sustituir a la orientación familiar",
+        "Elaborar el currículo del centro"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El PAT contempla colaborar en el desarrollo personal y social del alumnado, así como en su adaptación escolar, junto con la acogida y la participación de las familias."
+    },
+    {
+      "question": "Si un centro organiza actividades de acogida antes del inicio del curso para todo el alumnado nuevo, ¿qué apartado del PAT está desarrollando?",
+      "options": [
+        "Actividades de acogida previas al inicio de curso",
+        "Participación de las familias",
+        "Organización del grupo clase",
+        "Adaptación escolar posterior al primer trimestre"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las actividades de acogida previas al inicio de curso son uno de los contenidos que debe incluir el PAT ante la incorporación de alumnado al aula."
+    },
+    {
+      "question": "¿Qué sucede con la tradición cuando cada generación aporta elementos nuevos?",
+      "options": [
+        "Se pierde por completo su sentido original",
+        "Se mantiene sin cambios porque es inmutable",
+        "Muestra el dinamismo de la cultura al interactuar con contextos diferentes",
+        "Pasa a depender de la religión oficial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cada generación añade elementos a la tradición al interactuar con contextos distintos, lo que muestra el dinamismo cultural."
+    },
+    {
+      "question": "¿Qué criterio permite distinguir la pobreza absoluta de la relativa en sociología?",
+      "options": [
+        "El país en el que viven las personas afectadas",
+        "La duración de la situación de carencia",
+        "El nivel educativo de la población afectada",
+        "Si se carece de lo básico para existir o de recursos para participar plenamente en la comunidad"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La absoluta se refiere a no tener alimentación, vivienda o vestimenta básicas; la relativa, a no poder participar plenamente en la vida social y cultural en comparación con los demás."
+    },
+    {
+      "question": "¿Por qué la lengua se considera un elemento de identidad cultural?",
+      "options": [
+        "Porque es una creación particular de un grupo cultural además de un medio de comunicación",
+        "Porque cada Estado fija por ley su lengua nacional",
+        "Porque se hereda genéticamente dentro de cada etnia",
+        "Porque solo se usa en contextos religiosos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Molina (2007) la describe como parte de la cultura, gran elemento de comunicación y elemento de identidad cultural, creación particular de un grupo cultural."
+    },
+    {
+      "question": "¿Qué ocurre si la cultura dominante se presenta como el único canon válido en la escuela?",
+      "options": [
+        "Se fortalece la igualdad de oportunidades entre todo el alumnado",
+        "Se facilita el reconocimiento de la diversidad cultural",
+        "Quienes no pertenecen a la norma no se sienten reconocidos y la escuela reproduce discriminación",
+        "Se reduce la fractura cultural de forma automática"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Imponer un canon cultural poco cuestionado hace que quienes quedan fuera de la norma no se sientan reconocidos, y la escuela reproduce discursos de discriminación (Torres, 2006)."
+    },
+    {
+      "question": "¿Qué distingue la tesis del texto sobre la diferencia en la sociedad actual respecto de la idea de que \"todos somos iguales porque somos diferentes\"?",
+      "options": [
+        "Acepta esa idea como base de la convivencia",
+        "La rechaza: reconocer la diversidad es entenderla como un valor, no un relativismo que borra las desigualdades",
+        "Propone eliminar la diferencia para alcanzar la igualdad",
+        "Considera que la diversidad solo afecta a minorías"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto afirma que reconocer la diversidad no es aceptar que todos somos iguales porque somos todos diferentes, sino entenderla como un valor (Essomba, 2006)."
+    },
+    {
+      "question": "Un centro publica toda su información solo en una lengua y no ofrece traductores a las familias recién llegadas. ¿Qué principio de la atención a familias se incumple?",
+      "options": [
+        "Informar a las familias sobre el funcionamiento general del centro y establecer un marco de confianza y comunicación",
+        "Realizar el seguimiento de la evaluación continua",
+        "Aplicar la tutoría entre iguales en el aula",
+        "Elaborar el currículo con enfoque intercultural"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se debe informar a las familias para que conozcan el funcionamiento del centro y establecer un marco de confianza y comunicación; sin ello la acogida no es de calidad."
+    },
+    {
+      "question": "La frase «Nadie nace odiando a otra persona por el color de su piel, o su origen, o su religión» sugiere que el odio y los prejuicios:",
+      "options": [
+        "Son innatos y universales",
+        "Se aprenden socialmente y, por tanto, pueden desaprenderse",
+        "Dependen del origen étnico de cada persona",
+        "Solo se producen en contextos religiosos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La cita de Nelson Mandela que abre la unidad apunta a que el odio no es natural sino aprendido, lo que da sentido a la labor educativa frente al racismo y la xenofobia."
+    },
+    {
+      "question": "Néstor García-Canclini es mencionado en la unidad en relación con:",
+      "options": [
+        "La tipología de la dominación",
+        "La definición de raza",
+        "Los modelos de acogida del alumnado",
+        "La hibridez cultural y la necesidad de la interculturalidad"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La unidad recomienda una entrevista a este antropólogo y crítico cultural argentino sobre la hibridez cultural y la necesidad de la interculturalidad."
+    },
+    {
+      "question": "Según la RAE (2001), la raza se define como:",
+      "options": [
+        "Cada uno de los grupos en que se subdividen algunas especies biológicas y cuyos caracteres diferenciales se perpetúan por herencia",
+        "El conjunto de prácticas culturales aprendidas por una comunidad",
+        "El grupo humano que comparte lengua y territorio",
+        "El sentido de pertenencia de una minoría"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Es una definición biológica general; aplicada a los humanos, el consenso científico la descarta porque la especie humana es una sola. Las otras opciones describen etnicidad, nación o minoría étnica."
+    },
+    {
+      "question": "Si la etnicidad no es innata, ¿qué consecuencia tiene para su comprensión?",
+      "options": [
+        "Es inmutable a lo largo de la vida",
+        "Se produce y se reproduce con el tiempo mediante prácticas culturales aprendidas",
+        "Depende del color de piel del individuo",
+        "Se transmite genéticamente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Al ser de origen social y aprendida, la etnicidad se produce y reproduce con el tiempo; no está determinada por el color de piel o el lugar de nacimiento."
+    },
+    {
+      "question": "Según la introducción de la unidad, ¿qué revela el análisis del término cultura?",
+      "options": [
+        "Que la cultura es neutra y ajena a las relaciones sociales",
+        "Que la cultura es parte y efecto de un sistema de jerarquización del poder",
+        "Que la cultura se reduce a las costumbres de cada territorio",
+        "Que la cultura es independiente de la socialización"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La unidad desvela los efectos de la socialización y evidencia que la cultura es parte y efecto de un sistema de jerarquización del poder."
+    },
+    {
+      "question": "¿Qué razón se da para que aumente la preocupación por la calidad de la educación que recibe cada estudiante?",
+      "options": [
+        "La reducción de la ratio de alumnado por aula",
+        "La necesidad de uniformar los resultados escolares",
+        "La evolución de la sociedad y de la educación, que obliga a considerar las particularidades y circunstancias de cada estudiante",
+        "La entrada de la tecnología en las aulas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A la vez que evoluciona la sociedad, la educación también lo hace y surgen más preocupaciones por la calidad de lo que recibe cada estudiante, lo que hace imprescindible tener en cuenta sus particularidades (Gómez et al., 2012)."
+    },
+    {
+      "question": "Un país envejecido que necesita población joven para sostener su economía y recibe flujos migratorios ilustra, sobre todo, el factor:",
+      "options": [
+        "Cultural",
+        "Religioso",
+        "Lingüístico",
+        "Demográfico y económico"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los factores demográficos y económicos figuran entre los tres que configuran el fenómeno migratorio actual, junto con los culturales. Envejecimiento y necesidad de mano de obra conectan con los dos primeros."
+    },
+    {
+      "question": "Una persona que pierde el empleo y queda con dificultades para costear vivienda y alimentación, y decide emigrar, muestra que:",
+      "options": [
+        "La pobreza es una causa posible de migración y obedece a múltiples dimensiones como el desempleo y la exclusión",
+        "La migración solo ocurre por razones culturales",
+        "La pobreza se explica únicamente por la migración",
+        "El desempleo no guarda relación con la pobreza"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto señala que la pobreza puede causar migración y que tiene múltiples causas, entre ellas desempleo, exclusión social y vulnerabilidad."
+    },
+    {
+      "question": "Etnocentrismo, por un lado, y multiculturalidad e interculturalidad, por otro, se presentan en la unidad como:",
+      "options": [
+        "Modelos que promueven por igual la convivencia",
+        "Modelos de afrontamiento de la diversidad, junto con la asimilación",
+        "Obstáculo para la convivencia cultural el primero, y enfoques que la promueven los segundos",
+        "Sinónimos de relativismo cultural"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El etnocentrismo se identifica como un obstáculo para la convivencia cultural, mientras que multiculturalidad e interculturalidad son enfoques que la promueven."
+    },
+    {
+      "question": "¿Qué ejemplo ofrece la unidad del modelo de asimilación cultural?",
+      "options": [
+        "Un barrio donde solo viven personas de una cultura",
+        "Una persona que no puede trabajar por falta de papeles",
+        "Una persona que se integra y conserva su cultura de origen",
+        "Una persona obligada a adquirir la cultura del país de acogida dejando de lado la suya"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El ejemplo del texto es que se obliga a la persona a adquirir la cultura del país de acogida, dejando de lado su cultura de origen."
+    },
+    {
+      "question": "¿Por qué se dice que los modelos de afrontamiento de la diversidad están relacionados directamente con los modelos de convivencia cultural?",
+      "options": [
+        "Porque cada forma de afrontar la diversidad se vincula con la manera en que se entiende la convivencia entre culturas",
+        "Porque ambos son idénticos en contenido",
+        "Porque los modelos de afrontamiento sustituyen a los de convivencia",
+        "Porque solo se aplican en ámbitos escolares"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto indica que las formas más comunes de afrontar la diversidad cultural están relacionadas directamente con los modelos de convivencia cultural."
+    },
+    {
+      "question": "Una comunidad étnica que no puede acceder a recursos materiales ni simbólicos porque una cultura etnocéntrica se cree superior sufre:",
+      "options": [
+        "Pluralismo religioso",
+        "Fractura cultural o étnica",
+        "Relativismo cultural",
+        "Dominación carismática"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La fractura cultural o étnica es la imposibilidad de acceso a recursos materiales y simbólicos provocada por culturas etnocéntricas que se atribuyen superioridad."
+    },
+    {
+      "question": "¿Qué distingue al racismo de un simple prejuicio individual?",
+      "options": [
+        "Que afecta únicamente al color de piel",
+        "Que implica un sistema de dominación y desigualdad social con abuso de poder del grupo dominante",
+        "Que se manifiesta solo en espacios educativos",
+        "Que se limita a la hostilidad hacia los extranjeros"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para Van Dijk el racismo es un sistema de dominación y desigualdad social donde un grupo abusa de su poder sobre otro al que considera inferior. La hostilidad hacia extranjeros es la xenofobia."
+    },
+    {
+      "question": "¿Qué diferencia hay entre racismo y xenofobia en las definiciones de la unidad?",
+      "options": [
+        "El racismo es un sistema de dominación social; la xenofobia es odio, repugnancia u hostilidad hacia los extranjeros",
+        "Ambos significan exactamente lo mismo",
+        "El racismo se dirige a extranjeros y la xenofobia a minorías internas",
+        "La xenofobia es un sistema de dominación y el racismo una actitud personal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Racismo (Van Dijk, 2007): sistema de dominación y desigualdad. Xenofobia (RAE, 2001): odio, repugnancia u hostilidad hacia los extranjeros."
+    },
+    {
+      "question": "¿Qué reconoce la LOMLOE respecto a las competencias educativas de las comunidades autónomas?",
+      "options": [
+        "Que deben ser eliminadas para unificar el sistema",
+        "Que se transfieren íntegramente al Estado",
+        "Que se limitan a la enseñanza de las lenguas cooficiales",
+        "Que da reconocimiento a las particularidades de cada una de ellas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La LOMLOE homogeniza el porcentaje de competencias educativas entre comunidades autónomas y da así reconocimiento a las particularidades de cada una."
+    },
+    {
+      "question": "Un centro dispone de un plan de acogida que se aplica a todo el alumnado y profesorado nuevo, incluido el inmigrante. ¿Qué principio respeta?",
+      "options": [
+        "Que la acogida del alumnado inmigrante no debería ser diferente a las directrices ya establecidas",
+        "Que el alumnado inmigrante requiere un protocolo exclusivo",
+        "Que la acogida es tarea solo del equipo directivo",
+        "Que el plan de acogida debe aplicarse solo en primaria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto afirma que la mayoría de los centros disponen de un plan de acogida para todo alumno y profesional, y que la acogida del alumnado inmigrante no debería diferir de esas directrices."
+    },
+    {
+      "question": "Un instituto organiza debates sobre cómo afectan la globalización y las decisiones políticas internacionales a la convivencia en su barrio. ¿Qué dimensión de la interculturalidad trabaja?",
+      "options": [
+        "Pluriculturalidad del Estado español",
+        "Inmigración",
+        "Integración europea",
+        "Internacionalización"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La internacionalización exige que los centros ofrezcan espacios de reflexión sobre las acciones políticas en materia de globalización y desarrollen competencias de interculturalidad."
+    },
+    {
+      "question": "Un departamento diseña materiales sobre la ciudadanía europea y sobre cómo redefinir la identidad cultural. ¿Qué dimensión desarrolla?",
+      "options": [
+        "Integración europea",
+        "Internacionalización",
+        "Inmigración",
+        "Pluriculturalidad del Estado español"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Con la UE ha nacido una nueva dimensión de ciudadanía y la necesidad de redefinir la identidad cultural; los centros deben ofrecer elementos para tomar conciencia de esta nueva interculturalidad."
+    },
+    {
+      "question": "Un proyecto de aula sobre la historia y la situación actual del pueblo gitano en España corresponde, principalmente, a la dimensión de:",
+      "options": [
+        "Inmigración",
+        "Integración europea",
+        "Pluriculturalidad del Estado español",
+        "Internacionalización"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El pueblo gitano se cita dentro de la pluriculturalidad del Estado español como una tarea pendiente de reconocimiento e inclusión."
+    },
+    {
+      "question": "¿Cuál de las siguientes situaciones ilustra mejor el paso de la multiculturalidad a la interculturalidad en un centro?",
+      "options": [
+        "Alumnado de distintos orígenes comparte edificio pero trabaja en grupos separados",
+        "Se celebra un día cultural anual sin más conexión con el currículo",
+        "Se organizan proyectos conjuntos donde el alumnado dialoga y construye relaciones equitativas",
+        "Se enseña la historia de otras culturas como un tema aislado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La interculturalidad implica interacción dialogada y relaciones equitativas, no solo coexistencia ni inclusión de temas aislados."
+    },
+    {
+      "question": "Un profesor propone que el alumnado juzgue una costumbre ajena desde su propio contexto cultural y no según los estándares propios. ¿Qué principio aplica?",
+      "options": [
+        "Etnocentrismo",
+        "Relativismo cultural",
+        "Asimilación",
+        "Cierre de grupo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El relativismo cultural defiende que las prácticas culturales se juzguen dentro de su propio contexto y no según estándares de otra cultura. Es lo contrario del etnocentrismo."
+    },
+    {
+      "question": "El texto menciona que la interculturalidad y la inclusión comparten ciertas premisas. ¿Cuál de ellas es correcta?",
+      "options": [
+        "Priorizan al alumnado en situación de vulnerabilidad sobre el resto",
+        "Defienden itinerarios diferenciados por origen",
+        "Tienen una concepción similar de la educación, la cultura y la diversidad",
+        "Se limitan a las etapas de educación infantil"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sales et al. (2010) indican que ambas tienen una concepción similar de educación, cultura y diversidad, y defienden una educación igual para todo el alumnado."
+    },
+    {
+      "question": "¿Qué sentido tiene que el resumen afirme que el racismo y el etnocentrismo forman parte de las culturas, al igual que la intención de crear sociedades más justas?",
+      "options": [
+        "Que son inevitables y no pueden combatirse",
+        "Que ambas tendencias coexisten en las culturas, por lo que la educación intercultural es pertinente e imprescindible para la transformación social",
+        "Que solo las culturas dominantes presentan racismo",
+        "Que las sociedades justas son incompatibles con la diversidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El resumen sostiene que racismo y etnocentrismo conviven con el deseo de justicia, por lo que la educación intercultural e inclusiva no solo es pertinente sino imprescindible."
+    },
+    {
+      "question": "Según el resumen, ¿con qué está mediada la relación entre sociedad y cultura?",
+      "options": [
+        "Con los productos culturales, el poder simbólico y las relaciones de poder y dominación",
+        "Con la composición demográfica y el nivel educativo",
+        "Con la estructura familiar y la religión oficial",
+        "Con las políticas lingüísticas exclusivamente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El resumen señala que la relación entre sociedad y cultura está mediada por los productos culturales, el poder simbólico y las relaciones de poder y dominación."
+    },
+    {
+      "question": "El resumen califica el cambio que exige la educación contemporánea como uno de los más trascendentales. ¿Qué requiere?",
+      "options": [
+        "Un incremento en la carga lectiva del profesorado",
+        "Un gran esfuerzo de autocrítica y transformación en la mentalidad educadora",
+        "Una reducción de contenidos obligatorios",
+        "Un cambio exclusivo de la normativa autonómica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La unidad destaca que exige un gran esfuerzo de autocrítica y transformación en la mentalidad educadora."
+    },
+    {
+      "question": "¿Qué ventajas aporta la educación intercultural en cuanto a su alcance según Morales (2006)?",
+      "options": [
+        "Su impacto se circunscribe al aula",
+        "Extiende su potencial transformador mucho más allá de la escuela",
+        "Beneficia solo al alumnado inmigrante",
+        "Sustituye las funciones de la familia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre sus rasgos está que extiende su potencial transformador más allá de la escuela, además de responder a necesidades reales y estar disponible para quienes la necesitan de forma constante u ocasional."
+    },
+    {
+      "question": "¿Qué se pretende al trabajar con el alumnado la conciencia de los propios prejuicios y estereotipos?",
+      "options": [
+        "Señalar al alumnado con prejuicios para sancionarlo",
+        "Que reconozca y revise sus propias actitudes hacia la diversidad cultural",
+        "Que evite hablar de cultura en el aula",
+        "Que adopte una visión uniforme de las culturas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El currículo intercultural promueve actividades de sensibilización y toma de conciencia de los propios prejuicios y estereotipos, como paso previo al respeto de la diversidad."
+    },
+    {
+      "question": "Si un centro trata la diversidad cultural solo como diferencia o situación administrativa del alumnado, ¿qué riesgo se corre?",
+      "options": [
+        "Que el ideal de una sociedad intercultural se aleje",
+        "Que mejore la convivencia automáticamente",
+        "Que se reconozca el valor de la diversidad para el aprendizaje",
+        "Que se refuerce la educación en valores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El ideal intercultural se aleja cuando la diversidad se entiende solo como diferencia o situación administrativa, en lugar de valorar su aporte al aprendizaje global."
+    },
+    {
+      "question": "¿Qué idea se desprende de que la acogida deba incluir vínculos afectivos y no solo información?",
+      "options": [
+        "Que la adaptación depende de la confianza y la relación, además del acceso a datos y recursos",
+        "Que la información es secundaria",
+        "Que el vínculo afectivo reemplaza el aprendizaje de la lengua",
+        "Que la acogida es tarea exclusiva de las familias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Una acogida de calidad combina facilitar el acceso al centro y a la información con vínculos afectivos que aporten confianza y favorezcan la adaptación."
+    },
+    {
+      "question": "¿Qué ocurre con la socialización según la introducción de la unidad en relación con la cultura?",
+      "options": [
+        "Tiene efectos y trascendencia que se desvelan a través del estudio de la cultura",
+        "Es un fenómeno desligado de la cultura",
+        "Solo ocurre en el ámbito familiar",
+        "Es irrelevante para la educación intercultural"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El término cultura se utiliza en la unidad para desvelar los efectos de la socialización y su trascendencia."
+    },
+    {
+      "question": "Para un docente de secundaria con alumnado multicultural, ¿qué afirmación sobre su formación es coherente con la unidad?",
+      "options": [
+        "Basta con conocer contenidos pedagógicos",
+        "Debe combinar conocimientos culturales y pedagógicos con la revisión de sus propias actitudes, valores y creencias",
+        "Debe centrarse solo en dominar otra lengua",
+        "Debe delegar la atención intercultural en especialistas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Es igual de importante adquirir conocimientos culturales y pedagógicos que cambiar actitudes, valores y creencias, que influyen directamente en su desarrollo profesional."
+    },
+    {
+      "question": "El texto indica que la escuela es una herramienta fundamental contra los discursos de discriminación. ¿Qué condición implica esto para el profesorado?",
+      "options": [
+        "Que adopte un rol neutral sin posicionarse",
+        "Que sea consciente de que la escuela puede reproducir esos discursos y actúe para combatirlos",
+        "Que evite tratar temas culturales",
+        "Que aplique un único modelo de actuación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Si las instituciones educativas pueden reproducir la discriminación y también combatirla, el profesorado debe ser consciente de ese doble papel y actuar en consecuencia."
+    },
+    {
+      "question": "¿Por qué se dice que una educación intercultural viable debe cuestionar las propias formas culturales?",
+      "options": [
+        "Porque exige reconocer que la propia cultura no es la única forma de concebir el conocimiento y la educación",
+        "Porque pretende sustituir la cultura propia por otra",
+        "Porque busca eliminar cualquier identidad cultural",
+        "Porque prioriza la cultura de los países del Sur"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cuestionar las propias formas culturales permite imaginar otras maneras de concebir el conocimiento y la educación, requisito de una educación intercultural sostenible."
+    },
+    {
+      "question": "¿Qué rol cumple la lengua en el proceso de aprendizaje del alumnado inmigrante según Montón (2011)?",
+      "options": [
+        "Es un elemento secundario respecto a los contenidos",
+        "Es el instrumento que posibilita el aprendizaje en las diferentes áreas",
+        "Es un criterio de selección de grupos",
+        "Es un requisito para la tutoría entre iguales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aprendizaje de la lengua es un mediador didáctico: permite el aprendizaje en las diferentes áreas de conocimiento."
+    },
+    {
+      "question": "Una escuela reconoce la lengua materna de su alumnado como parte de su identidad, a la vez que impulsa el aprendizaje de la lengua de acogida. ¿Qué enfoque refleja?",
+      "options": [
+        "Asimilación lingüística",
+        "Integración respetuosa con la diversidad lingüística",
+        "Marginación lingüística",
+        "Separación lingüística"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Valora la lengua como elemento de identidad cultural y favorece el aprendizaje de la lengua de acogida sin anular la propia, en línea con el modelo de integración."
+    },
+    {
+      "question": "¿Cuál de estas afirmaciones sobre Europa y la lengua materna es cierta según el texto?",
+      "options": [
+        "En la mayoría de los Estados de la UE la lengua materna es la del propio Estado, con algunas excepciones",
+        "En todos los Estados de la UE la lengua materna es el inglés",
+        "En ningún Estado coincide la lengua materna con la oficial",
+        "Solo ocurre en los países nórdicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La mayoría de los Estados miembro tienen como lengua materna la de su propio Estado, aunque hay excepciones como las repúblicas bálticas."
+    },
+    {
+      "question": "Según la unidad, ¿cuál es un efecto de proteger, preservar y promover la diversidad lingüística?",
+      "options": [
+        "Asegurar la riqueza y vitalidad de la cultura humana",
+        "Aumentar las diferencias entre grupos",
+        "Limitar la comunicación internacional",
+        "Reducir la identidad cultural"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Proteger, preservar y promover la diversidad lingüística es esencial para asegurar la riqueza y vitalidad de la cultura humana."
+    },
+    {
+      "question": "El texto señala que la pobreza extrema es un imperativo desde el punto de vista de:",
+      "options": [
+        "La economía de mercado y la competitividad",
+        "Los derechos humanos, el desarrollo y la paz",
+        "La seguridad nacional y la defensa",
+        "La política migratoria y fronteriza"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La erradicación de la pobreza es un imperativo desde el punto de vista de los derechos humanos, el desarrollo y la paz."
+    },
+    {
+      "question": "¿Qué aporta Weber a la comprensión del poder en la unidad?",
+      "options": [
+        "Una tipología de la dominación: tradicional, carismática y racional",
+        "Una clasificación de las culturas por su antigüedad",
+        "Una definición de racismo institucional",
+        "Una teoría de la migración"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Desde la sociología, y siguiendo los postulados de Weber, se distingue la dominación tradicional, la carismática y la racional."
+    },
+    {
+      "question": "¿Qué consecuencia tiene la guetización en el modelo de separación?",
+      "options": [
+        "Se establecen vínculos intensos entre comunidades",
+        "Las comunidades participan en la sociedad pero sin vínculos entre ellas, lo que limita la integración",
+        "Se elimina la identidad cultural de los migrantes",
+        "Se impide toda participación social"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En la separación las comunidades conviven sin establecer vínculos, de modo que participan pero no se integran; por eso el barrio monocultural es el ejemplo del texto."
+    },
+    {
+      "question": "Si una persona migrante siente exclusión y busca apoyo en otras personas en su misma situación, ¿qué modelo de afrontamiento de la diversidad lo explica?",
+      "options": [
+        "Integración",
+        "Asimilación",
+        "Marginación",
+        "Multiculturalidad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En el modelo de marginación, al sentir exclusión, las personas inmigrantes suelen buscar el apoyo de quienes se encuentran en su misma situación."
+    },
+    {
+      "question": "Con relación a las lenguas, ¿qué refleja la cooficialidad de seis lenguas en España?",
+      "options": [
+        "La uniformidad cultural del Estado",
+        "El carácter multicultural del Estado, amparado por la Constitución",
+        "La ausencia de política lingüística",
+        "La dominancia de una única cultura"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La coexistencia de seis lenguas oficiales se presenta como muestra de que España es multicultural y de que reconoce y ampara en su Constitución diversas culturas y lenguas propias."
+    },
+    {
+      "question": "¿Qué sentido tiene que la unidad afirme que el alumnado extranjero residente tiene derecho a educación obligatoria y gratuita?",
+      "options": [
+        "Garantiza la igualdad de acceso a la educación independientemente de la nacionalidad, en coherencia con el enfoque inclusivo",
+        "Limita el acceso al sistema educativo a quienes tengan permiso de residencia permanente",
+        "Establece itinerarios educativos separados para extranjeros",
+        "Impide el acceso a la formación profesional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Ley Orgánica 8/1985 reconoce a los extranjeros residentes el derecho a educación obligatoria y gratuita y al acceso a la formación profesional de primer grado."
+    },
+    {
+      "question": "¿Qué actitud del profesorado favorece más una escuela intercultural e inclusiva según el texto?",
+      "options": [
+        "Aplicar protocolos fijos que no requieran revisión",
+        "Mostrar disposición para formarse continuamente y revisar sus actitudes y creencias",
+        "Delegar la diversidad en el equipo directivo",
+        "Evitar tratar las diferencias culturales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La creación de escuelas interculturales e inclusivas depende de la formación y disposición de los profesionales, incluyendo cambios de actitudes, valores y creencias."
+    },
+    {
+      "question": "Si un alumno percibe que su cultura es valorada y respetada en el aula, ¿qué beneficio de la educación intercultural se refleja?",
+      "options": [
+        "Aumenta la desigualdad en el grupo",
+        "Contribuye a mantener su autoestima",
+        "Reduce la necesidad de aprender la lengua de acogida",
+        "Disminuye la pertenencia al grupo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre los beneficios de la educación intercultural señalados por Morales (2006) figura contribuir a mantener la autoestima del estudiantado, además de favorecer el respeto hacia otras culturas."
+    },
+    {
+      "question": "¿Qué conclusión se extrae de la afirmación de que la transformación hacia una escuela intercultural no depende solo del alumnado multicultural?",
+      "options": [
+        "Que la presencia de diversidad en el aula basta para lograr interculturalidad",
+        "Que se necesita además profesorado sensible y un modelo educativo reflexivo y consensuado",
+        "Que el profesorado sensible reemplaza la necesidad de planificación",
+        "Que la escuela intercultural depende solo de las familias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No basta con tener alumnado multicultural ni con docentes sensibles: es necesario diseñar un modelo educativo adecuado, reflexivo y consensuado."
+    },
+    {
+      "question": "Un municipio garantiza plazas de educación infantil de calidad para todos los niños, con independencia de su origen, idioma o situación económica. ¿Qué efecto señala la Unesco (2021) para esta medida?",
+      "options": [
+        "Fomenta la inclusión al generar la expectativa de acceso a un nivel mínimo de servicios para todos",
+        "Reduce la necesidad de acogida en etapas posteriores por completo",
+        "Sustituye la educación en valores de la etapa secundaria",
+        "Favorece la selección temprana del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La educación universal de la primera infancia fomenta la inclusión porque crea la expectativa de que todos pueden acceder a un nivel mínimo de servicios, sea cual sea su situación."
+    },
+    {
+      "question": "Un grupo ejerce una influencia sostenida porque la mayoría comparte sus valores y define lo que se considera normal en la sociedad. ¿Qué concepto describe mejor esta situación?",
+      "options": [
+        "Minoría étnica",
+        "Pluralismo religioso",
+        "Cultura dominante",
+        "Fractura étnica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La cultura dominante expresa los valores compartidos por la mayoría del contexto y es producida por quienes ostentan el poder simbólico."
+    },
+    {
+      "question": "Cuando una comunidad define lo sagrado y lo racional de forma distinta a la de su entorno y esto genera tensiones en la convivencia, la solución propuesta por la unidad pasa por:",
+      "options": [
+        "Eliminar la expresión religiosa del espacio público",
+        "Imponer una única interpretación de la espiritualidad",
+        "Ignorar la diversidad religiosa en las aulas",
+        "Abordar la pluralidad de manera integral desde el respeto y la convivencia intercultural"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El texto señala que las dificultades de convivencia surgen si la pluralidad no se aborda de manera integral; la educación intercultural ofrece ese marco de respeto y diálogo."
+    },
+    {
+      "question": "¿Qué establece la unidad sobre el papel de las políticas educativas de los países con un camino avanzado en sociedades culturalmente diversas?",
+      "options": [
+        "Que en ellas se refleja el recorrido ya hecho en la constitución de sociedades culturalmente diversas",
+        "Que han abandonado el enfoque intercultural",
+        "Que carecen de normativa específica",
+        "Que han eliminado la atención a la diversidad cultural"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Hay países con un camino avanzado en la constitución de sociedades culturalmente diversas, lo que se ve reflejado en sus políticas educativas; España aún está en proceso de construcción."
+    }
+  ]
+}

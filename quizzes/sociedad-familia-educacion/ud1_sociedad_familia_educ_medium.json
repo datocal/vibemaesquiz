@@ -1,0 +1,2208 @@
+{
+  "title": "UD 1. Individuo y sociedad (Sociedad, Familia y Educación) (Nivel medio)",
+  "description": "Cuestionario de nivel medio sobre la UD 1 de Sociedad, Familia y Educación: teorías sociológicas, estructura social, estratificación, movilidad y socialización.",
+  "category": "sociedad-familia-educacion",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "Según Masjuan (2003), ¿cómo se define el concepto de sociedad?",
+      "options": [
+        "El conjunto de instituciones políticas que gobiernan un territorio determinado",
+        "El conjunto de relaciones sociales que se establecen entre seres humanos que comparten un espacio social",
+        "El grupo de personas que comparten un mismo origen étnico y una misma lengua materna",
+        "El conjunto de normas escritas que regulan la convivencia entre los habitantes de un país"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Masjuan define la sociedad como el conjunto de relaciones sociales entre seres humanos que comparten un espacio social. Las otras opciones recogen elementos parciales (instituciones, etnia, normas) que forman parte de la caracterización, pero no la definición."
+    },
+    {
+      "question": "¿Cuál de los siguientes elementos NO se menciona como característica habitual para definir una sociedad?",
+      "options": [
+        "El territorio que ocupa",
+        "Los rasgos culturales como lengua, valores o normas",
+        "El nivel de renta media de sus habitantes",
+        "Las instituciones y organizaciones que prestan servicio a los individuos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto cita territorio, rasgos culturales, instituciones, historia y hábitos sociales. El nivel de renta media no aparece como rasgo definitorio de una sociedad en la unidad."
+    },
+    {
+      "question": "¿Qué es la estructura social?",
+      "options": [
+        "La caracterización de una sociedad según los grupos que la componen, sus rasgos centrales y las relaciones entre ellos",
+        "La distribución de los edificios e infraestructuras públicas dentro de un territorio concreto",
+        "La jerarquía de cargos que existe dentro de las instituciones del Estado y sus administraciones",
+        "El conjunto de leyes que fijan los derechos y deberes de los ciudadanos de un país"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La estructura social se define como la caracterización de una sociedad a partir de sus grupos, sus características centrales y las relaciones que se establecen entre ellos. Las demás opciones confunden estructura social con infraestructura, jerarquía administrativa o marco legal."
+    },
+    {
+      "question": "El concepto de habitus de Pierre Bourdieu hace referencia a:",
+      "options": [
+        "Las normas jurídicas que regulan el comportamiento de los miembros de una clase",
+        "Los espacios físicos donde se desarrolla la vida cotidiana de cada grupo social",
+        "Los esquemas de pensamiento y comportamiento adquiridos en la socialización que condicionan percepciones y acciones",
+        "Las costumbres religiosas heredadas que se transmiten de generación en generación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El habitus son esquemas de pensamiento y comportamiento incorporados durante la socialización que condicionan cómo percibimos y actuamos. No son normas jurídicas, espacios físicos ni únicamente costumbres religiosas."
+    },
+    {
+      "question": "¿Con qué autor se asocia especialmente el inicio de la sociología como disciplina en el siglo XIX?",
+      "options": [
+        "Max Weber",
+        "Karl Marx",
+        "Émile Durkheim",
+        "Auguste Comte"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los inicios de la sociología se relacionan especialmente con Auguste Comte. Durkheim, Marx y Weber contribuyeron después al desarrollo de la disciplina a través de sus encuentros y diferencias."
+    },
+    {
+      "question": "¿Qué cambios sociales constituyen el trasfondo de la primera sociología?",
+      "options": [
+        "La Revolución francesa y la Revolución Industrial",
+        "La Reforma protestante y el descubrimiento de América",
+        "La caída del Imperio romano y el feudalismo medieval",
+        "La Primera Guerra Mundial y la crisis económica de 1929"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El trasfondo de la primera sociología fueron los cambios provocados por la Revolución francesa y la Revolución Industrial en la Europa del siglo XVIII. Las otras opciones son hechos históricos distintos y no se relacionan con el origen de la disciplina."
+    },
+    {
+      "question": "¿Cuál es la idea principal del funcionalismo?",
+      "options": [
+        "La sociedad se explica por la lucha entre grupos dominantes y desfavorecidos",
+        "Los seres humanos actúan según el significado que otorgan a las cosas",
+        "Los individuos construyen la sociedad a partir de sus decisiones personales y aisladas",
+        "La sociedad está formada por partes con funciones distintas que se influyen y cooperan sobre la base del consenso moral"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El funcionalismo entiende la sociedad como un conjunto de partes con funciones diferentes que colaboran gracias al consenso moral. La lucha entre grupos corresponde a las teorías del conflicto y el significado de las cosas al interaccionismo simbólico."
+    },
+    {
+      "question": "Según el funcionalismo, el consenso moral se produce cuando:",
+      "options": [
+        "Los miembros de una sociedad comparten los mismos valores",
+        "Los grupos dominantes imponen sus normas a los grupos desfavorecidos",
+        "Los individuos negocian de forma individual el significado de las normas",
+        "Las instituciones económicas controlan la distribución de los recursos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El consenso moral se da cuando los miembros de la sociedad comparten valores, lo que favorece la estabilidad y el bienestar. La imposición de normas es una lectura propia de las teorías del conflicto."
+    },
+    {
+      "question": "En el funcionalismo, ¿qué diferencia hay entre funciones manifiestas y latentes?",
+      "options": [
+        "Las manifiestas son las que realizan las instituciones y las latentes las que realizan las personas",
+        "Las manifiestas son reconocidas de forma explícita e intencional; las latentes tienen consecuencias implícitas y no deliberadas",
+        "Las manifiestas benefician a la sociedad y las latentes la perjudican",
+        "Las manifiestas son las más antiguas y las latentes las que aparecen con los cambios sociales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las funciones manifiestas son reconocidas e intencionales para quien las ejecuta; las latentes son consecuencias implícitas y no deliberadas. Lo que perjudica al consenso moral se denomina disfunción, no función latente."
+    },
+    {
+      "question": "¿Qué se entiende por disfunciones dentro del funcionalismo?",
+      "options": [
+        "Las funciones que realizan instituciones que ya han desaparecido",
+        "Las consecuencias no deliberadas de las acciones de un grupo",
+        "Los aspectos que realiza un grupo y que no contribuyen al consenso moral",
+        "Los conflictos que surgen entre generaciones por diferencias de edad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las disfunciones son aspectos que algún grupo realiza y que no contribuyen al consenso moral. Las consecuencias no deliberadas son las funciones latentes, concepto distinto."
+    },
+    {
+      "question": "¿Cuál es una de las principales limitaciones atribuidas al funcionalismo?",
+      "options": [
+        "Dar excesiva importancia a las decisiones individuales frente a las estructuras",
+        "Ignorar por completo la existencia de grupos dentro de la sociedad",
+        "Centrarse en estudiar grupos pequeños y descuidar las sociedades amplias",
+        "Explicar la sociedad desde el consenso y considerarla un grupo homogéneo con necesidades y objetivos comunes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El funcionalismo tiende a explicar la sociedad desde lo que genera consenso y cohesión, tratándola como un grupo homogéneo, cuando en realidad hay diversidad de personas, necesidades y objetivos."
+    },
+    {
+      "question": "¿Quiénes son autores representativos del funcionalismo?",
+      "options": [
+        "Durkheim, Parsons y Merton",
+        "Marx, Dahrendorf y Coser",
+        "Weber, Mead y Hochschild",
+        "Butler, Bauman y Foucault"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El funcionalismo se asocia a Durkheim, Parsons y Merton. Marx, Dahrendorf y Coser pertenecen a las teorías del conflicto, y Weber, Mead y Hochschild al interaccionismo simbólico."
+    },
+    {
+      "question": "Las teorías del conflicto explican la sociedad principalmente a partir de:",
+      "options": [
+        "El consenso moral entre las partes",
+        "Las desigualdades derivadas de la concentración del poder entre grupos dominantes y desfavorecidos",
+        "Los significados que las personas atribuyen a los símbolos",
+        "La adaptación de los individuos a las normas de su cultura"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las teorías del conflicto se basan en las desigualdades de poder y en la lucha competitiva entre grupos. El consenso moral es la base del funcionalismo y los significados la del interaccionismo."
+    },
+    {
+      "question": "¿Por qué se dice que las teorías del conflicto surgen «en contraposición» al funcionalismo?",
+      "options": [
+        "Porque rechazan que existan grupos diferenciados en la sociedad",
+        "Porque defienden que la cultura no influye en el comportamiento de las personas",
+        "Porque frente a la búsqueda de consensos se centran en los ejes de poder presentes en cada sociedad",
+        "Porque consideran que las instituciones carecen de funciones sociales relevantes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mientras el funcionalismo busca el consenso, las teorías del conflicto se centran en explicar los ejes de poder que diferencian a unos grupos de otros. No niegan la existencia de grupos ni de instituciones."
+    },
+    {
+      "question": "¿Cuál de los siguientes enfoques se incluye dentro de las teorías del conflicto?",
+      "options": [
+        "La teoría social alemana",
+        "El interaccionismo simbólico",
+        "La sociedad de la información",
+        "La teoría de clases marxista y las teorías feministas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Dentro de las teorías del conflicto se ubican la teoría de clases marxista, las teorías feministas, las racistas y anticoloniales y las del activismo social. Los otros enfoques pertenecen a escuelas o tendencias distintas."
+    },
+    {
+      "question": "Según el interaccionismo simbólico, ¿qué determina el comportamiento de los seres humanos?",
+      "options": [
+        "El significado que las cosas tienen para ellos, aprendido en la interacción con otros",
+        "Los instintos heredados genéticamente que regulan la convivencia",
+        "La posición que ocupan en la estructura de clases",
+        "La reacción automática ante los estímulos del entorno"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para el interaccionismo simbólico, las personas se comportan según el significado que las cosas tienen para ellas, y esos significados se aprenden interactuando. La respuesta automática a estímulos sería una conducta animal, no una acción."
+    },
+    {
+      "question": "Un estudiante que considera la educación útil para su vida y se esfuerza más en clase ilustra principalmente:",
+      "options": [
+        "La función latente de la escuela",
+        "La alienación del individuo en la estructura",
+        "El significado atribuido a las cosas como guía de la acción, según el interaccionismo simbólico",
+        "La reproducción de las desigualdades de clase"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto usa este ejemplo para mostrar que el significado que se da a algo (la educación) orienta la conducta. No ilustra la alienación ni la reproducción social."
+    },
+    {
+      "question": "¿Cómo entiende el interaccionismo simbólico las estructuras sociales?",
+      "options": [
+        "Como realidades externas que determinan por completo la conducta individual",
+        "Como productos de las acciones sociales individuales",
+        "Como un producto de la genética de cada población",
+        "Como elementos secundarios sin influencia en la vida social"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Aunque asume la existencia de estructuras, el interaccionismo las considera productos de las acciones sociales individuales. No las ve como determinantes absolutas ni como irrelevantes."
+    },
+    {
+      "question": "¿Qué crítica se formula al interaccionismo simbólico?",
+      "options": [
+        "Que defiende en exceso el consenso moral entre los grupos",
+        "Que niega la existencia de significados compartidos",
+        "Que reduce la sociedad a la lucha de clases",
+        "Que no atiende a las cuestiones amplias y estructurales que condicionan las acciones individuales"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La principal crítica es que no presta atención a las cuestiones estructurales amplias que condicionan las acciones individuales. Algunos autores introdujeron el concepto de alienación para recoger esa limitación de la voluntad individual."
+    },
+    {
+      "question": "¿Qué es la alienación en el marco de las limitaciones del interaccionismo?",
+      "options": [
+        "La dinámica que reduce la voluntad individual",
+        "El proceso de adquisición de la lengua materna",
+        "La movilidad de una persona entre clases sociales",
+        "El aprendizaje de roles en la infancia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Algunos autores del interaccionismo plantearon la alienación como la dinámica que reduce la voluntad individual. No guarda relación directa con la movilidad ni con el aprendizaje de roles."
+    },
+    {
+      "question": "¿Qué afirma la teoría social francesa sobre los hechos sociales?",
+      "options": [
+        "Se explican a partir de las decisiones y motivaciones de cada individuo",
+        "Se explican en la conciencia colectiva y no en los individuos",
+        "Son fruto de la interacción cotidiana en grupos pequeños",
+        "Dependen de factores biológicos heredados"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La teoría social francesa, vinculada al colectivismo y representada por Durkheim y Tarde, sostiene que los hechos sociales se explican en la conciencia colectiva. Explicarlos desde el individuo es propio de la teoría alemana."
+    },
+    {
+      "question": "¿Con qué planteamiento se relaciona la teoría social alemana y quiénes son sus exponentes más conocidos?",
+      "options": [
+        "Con el colectivismo; Durkheim y Tarde",
+        "Con el interaccionismo; Park, Cooley y Mead",
+        "Con el individualismo; Weber y Simmel",
+        "Con el estructuralismo; Althusser y Bourdieu"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La teoría social alemana se relaciona con el individualismo y sus exponentes son Weber y Simmel; considera que el estudio del individuo explica los fenómenos colectivos."
+    },
+    {
+      "question": "En la teoría social alemana, ¿qué diferencia hay entre conducta y acción?",
+      "options": [
+        "La conducta es colectiva y la acción es individual",
+        "La conducta es voluntaria y la acción es involuntaria",
+        "La conducta es propia de adultos y la acción de niños",
+        "La conducta es una reacción automática a estímulos y en la acción intervienen procesos reflexivos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La conducta es una reacción automática ante estímulos, mientras que en la acción intervienen procesos reflexivos. Esta distinción es clave en el individualismo de la escuela alemana."
+    },
+    {
+      "question": "¿Qué caracteriza a la escuela de Chicago?",
+      "options": [
+        "Una orientación microsociológica, basada en el interaccionismo simbólico y orientada a la reforma social y al humanismo",
+        "Una orientación macrosociológica centrada en la conciencia colectiva",
+        "Una explicación biológica de las conductas sociales",
+        "Un enfoque que prioriza el estudio de la economía global"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La escuela de Chicago es microsociológica, se sostiene en el interaccionismo simbólico y se orienta a la reforma social y al humanismo, con figuras como Park, Cooley y Mead."
+    },
+    {
+      "question": "La microsociología se diferencia de la macrosociología en que la primera:",
+      "options": [
+        "Estudia las relaciones entre sociedades y países",
+        "Se centra en grupos pequeños dentro de una misma sociedad",
+        "Analiza los fenómenos económicos de gran escala en empresas",
+        "Estudia a los individuos aislados de cualquier grupo social"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La microsociología estudia grupos pequeños dentro de una sociedad, mientras que la macrosociología analiza las relaciones entre grandes grupos, sociedades o países."
+    },
+    {
+      "question": "¿Qué utilidad tiene conocer las distintas escuelas de pensamiento sociológico para el ámbito educativo?",
+      "options": [
+        "Permite memorizar la biografía de los autores más importantes",
+        "Sirve para elegir una única escuela correcta y descartar las demás",
+        "Permite comprender cómo se interpretan los modelos de sociedad, de familia y de educación",
+        "Facilita el diseño de exámenes estandarizados"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Conocer las escuelas permite comprender cómo se interpretan los modelos de sociedad, familia y educación. La unidad no plantea que haya una única escuela válida."
+    },
+    {
+      "question": "¿Cuáles son las dos tendencias sociológicas actuales más relevantes que menciona la unidad?",
+      "options": [
+        "El funcionalismo y el interaccionismo",
+        "El colectivismo y el individualismo",
+        "La escuela de Chicago y la teoría social francesa",
+        "El posmodernismo y la sociedad de la información y el conocimiento"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las dos tendencias actuales muy relevantes son el posmodernismo (o posestructuralismo) y la sociedad de la información y el conocimiento. Las demás opciones son teorías o escuelas clásicas."
+    },
+    {
+      "question": "¿Sobre qué reflexiona el posmodernismo o posestructuralismo?",
+      "options": [
+        "La posición de poder de unos individuos frente al resto, denominados sujetos subalternos",
+        "El efecto de las TIC sobre el aprendizaje en las aulas",
+        "La función de la religión como agente de cohesión",
+        "La evolución de las clases sociales en la industrialización"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El posmodernismo incorpora ejes de desarrollo social recientes y reflexiona sobre la posición de poder de unos individuos frente a otros, a los que denomina sujetos subalternos."
+    },
+    {
+      "question": "¿Qué plantea Judith Butler con el concepto de performatividad del género?",
+      "options": [
+        "Que el género está determinado biológicamente desde el nacimiento",
+        "Que cada cultura expresa culturalmente el género (vestimenta, comportamiento, relaciones)",
+        "Que el género se explica por la posición en el mercado laboral",
+        "Que el género desaparece en las sociedades digitalizadas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La performatividad del género alude a cómo en cada cultura se expresa el género a través de la ropa, el comportamiento en la calle, las relaciones, etc. Es una visión cultural, no biológica."
+    },
+    {
+      "question": "¿Qué idea expresa Zygmunt Bauman con el concepto de modernidad líquida?",
+      "options": [
+        "Que las sociedades modernas son rígidas y estables en sus estructuras",
+        "Que el agua y los recursos naturales determinan el desarrollo social",
+        "Que la economía actual es más clara y tangible que la de hace décadas",
+        "Que la realidad material y relacional de las sociedades modernas es flexible y fluida"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Bauman plantea que la realidad material y relacional de las sociedades modernas es flexible y fluida; por ejemplo, los conceptos económicos son hoy más complejos y cambiantes que hace décadas."
+    },
+    {
+      "question": "Las reflexiones sobre el ejercicio del poder de unos individuos sobre otros y la importancia del lenguaje en los argumentarios culturales se asocian a:",
+      "options": [
+        "Michel Foucault",
+        "Manuel Castells",
+        "Talcott Parsons",
+        "Robert Merton"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Foucault propuso reflexiones sobre el ejercicio del poder de unos individuos sobre otros y sobre el papel del lenguaje. Castells se asocia a la sociedad de la información, y Parsons y Merton al funcionalismo."
+    },
+    {
+      "question": "¿Qué estudia la tendencia de la sociedad de la información y el conocimiento, precursada por Manuel Castells?",
+      "options": [
+        "Los efectos de los cambios tecnológicos, la digitalización y la globalización en las sociedades",
+        "La reproducción de la desigualdad de clase en las escuelas",
+        "El proceso de socialización en la familia durante la infancia",
+        "La influencia de los símbolos en la interacción cara a cara"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Esta tendencia estudia los efectos de la tecnología, la digitalización y la globalización en las sociedades. Castells habla de una sociedad red surgida de la integración de las TIC."
+    },
+    {
+      "question": "¿Qué modelo de sociedad describe Castells tras la integración de las TIC?",
+      "options": [
+        "Sociedad líquida",
+        "Sociedad red",
+        "Sociedad de clases",
+        "Sociedad funcional"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Castells sostiene que las TIC han reconstruido el modelo de interacción social, dando lugar a la sociedad red. La modernidad líquida es un concepto de Bauman."
+    },
+    {
+      "question": "Cuando afirmamos que «no hay sociedad sin cultura, ni cultura sin sociedad», ¿qué elemento se señala como imprescindible para que ambas existan?",
+      "options": [
+        "La existencia de un Estado centralizado",
+        "La posibilidad de enseñar los significados sobre el mundo",
+        "La uniformidad de valores entre todos los miembros",
+        "El desarrollo de una economía industrial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto indica que sociedad y cultura no podrían existir sin la posibilidad de enseñar los significados sobre el mundo. No exige un Estado, uniformidad de valores ni industrialización."
+    },
+    {
+      "question": "¿Por qué se habla de «ceguera de género» en la sociología?",
+      "options": [
+        "Porque las teorías sociológicas no estudian las diferencias entre hombres y mujeres",
+        "Porque la disciplina ha prohibido el uso de categorías de género",
+        "Porque no se ha reconocido a las mujeres como sujeto activo ni como autoras de importantes teorías sociológicas",
+        "Porque las mujeres no participaron en ninguna investigación social"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La ceguera de género alude a que la sociología no reconoció el papel de las mujeres como sujetos activos ni como autoras de teorías relevantes, de ahí que los apartados previos mencionen mayoritariamente hombres."
+    },
+    {
+      "question": "¿Por qué se considera a Harriet Martineau precursora del movimiento feminista?",
+      "options": [
+        "Por fundar la primera universidad femenina de Europa",
+        "Por defender el sufragio universal en todas las revoluciones",
+        "Por desarrollar el concepto de habitus en el ámbito familiar",
+        "Por su análisis de la situación de las mujeres, sobre todo en la vida doméstica, y su compromiso de cambio"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Martineau, de la primera generación de la sociología, analizó la situación de las mujeres, especialmente la vida doméstica, y mostró un gran compromiso de cambio."
+    },
+    {
+      "question": "¿Qué propuso Jane Addams con su «ética social»?",
+      "options": [
+        "Hacer coincidir los intereses individuales con el bienestar colectivo",
+        "Priorizar el interés individual sobre el colectivo en las decisiones públicas",
+        "Separar la investigación sociológica de la acción social",
+        "Sustituir las instituciones por organizaciones religiosas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Addams, conocida por su activismo social, defendió una ética social que hiciera coincidir los intereses individuales con el bienestar colectivo y la mejora de la sociedad en su conjunto."
+    },
+    {
+      "question": "Según Charlotte Perkins Gilman, ¿cuál es la principal causa de la desigualdad social?",
+      "options": [
+        "La raza",
+        "El género",
+        "La clase social",
+        "El nivel educativo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gilman consideraba el género como la principal causa de desigualdad y señalaba la dependencia económica de las mujeres. La raza y la clase como ejes principales se asocian más a Cooper y Wells-Barnett."
+    },
+    {
+      "question": "Ana Julia Cooper e Ida Wells-Barnett partían de la idea de que el eje principal de la desigualdad era:",
+      "options": [
+        "La clase social entendida como nivel de renta",
+        "El género y el ámbito doméstico",
+        "Las prácticas de explotación de clase y de explotación por la raza o el color de piel",
+        "La falta de acceso a la educación superior"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ambas sociólogas, que vivieron la esclavitud, sostenían que la clase no es el eje principal, sino las prácticas de explotación de clase y por motivo de raza o color de piel."
+    },
+    {
+      "question": "¿En qué temas centró su trabajo Marianne Weber?",
+      "options": [
+        "La pobreza y la desigualdad en Gran Bretaña",
+        "La esclavitud y los derechos civiles",
+        "La ética social y el activismo en barrios obreros",
+        "El matrimonio y el trabajo, subrayando la importancia del trabajo de las mujeres dentro y fuera de casa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Marianne Weber se centró en el matrimonio y el trabajo, destacando el valor del trabajo femenino dentro y fuera del hogar. La pobreza y la desigualdad corresponden a Beatriz Potter Webb."
+    },
+    {
+      "question": "¿Qué rasgo caracteriza a Beatriz Potter Webb según la unidad?",
+      "options": [
+        "Su obra se centró en problemas sociales como la pobreza y la desigualdad, y trabajó junto a su marido Sidney Webb",
+        "Fue la primera mujer en dirigir una universidad británica",
+        "Defendió que el género era la causa principal de la desigualdad",
+        "Desarrolló la teoría del habitus en Francia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Potter Webb, socióloga británica muy conocida, trabajó junto a Sidney Webb y centró su obra en la pobreza y la desigualdad, aunque confiaba en la prosperidad económica de su época."
+    },
+    {
+      "question": "¿Qué rasgo común tenían las autoras de la Escuela de Sociología de las Mujeres de Chicago?",
+      "options": [
+        "Defendían una sociología neutral y alejada de los problemas sociales",
+        "Consideraban que la labor sociológica debía estar comprometida con el sufrimiento de las personas",
+        "Se limitaban a describir el funcionamiento de las instituciones",
+        "Rechazaban cualquier enfoque interaccionista"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Compartían una forma característica de hacer sociología: como investigadoras, entendían que la labor sociológica debía estar comprometida con el sufrimiento de las personas."
+    },
+    {
+      "question": "Para Marx, ¿qué define a una clase social?",
+      "options": [
+        "Tener la misma reputación o prestigio ante los demás",
+        "Compartir aspiraciones o intereses políticos comunes",
+        "Tener la misma relación con los medios de producción",
+        "Residir en el mismo territorio geográfico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Para Marx, una clase es un grupo con la misma relación con los medios de producción, aquellos con los que se ganan la vida. El prestigio corresponde al estatus y los intereses comunes al partido, ambos incorporados por Weber."
+    },
+    {
+      "question": "¿Qué elementos incorpora Weber a la noción de clase social?",
+      "options": [
+        "La raza y el género",
+        "El territorio y la lengua",
+        "La religión y la familia",
+        "El estatus y el partido"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Weber añadió a la clase la importancia del estatus (reputación o prestigio) y del partido (grupo con orígenes, aspiraciones o intereses comunes). La superposición de los tres da lugar a posibilidades más complejas de ubicación social."
+    },
+    {
+      "question": "¿Qué es el estatus según las definiciones de Giddens y Sutton?",
+      "options": [
+        "La relación que un grupo mantiene con los medios de producción",
+        "Las diferencias entre grupos en relación con la reputación o el prestigio que les conceden los demás",
+        "El conjunto de individuos que trabajan juntos por intereses comunes",
+        "El nivel de ingresos que permite acceder al consumo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El estatus se refiere a las diferencias entre grupos en reputación o prestigio otorgado por los demás. La relación con los medios de producción define la clase, y el trabajo conjunto por intereses comunes define el partido."
+    },
+    {
+      "question": "En la teoría weberiana, un «partido» es:",
+      "options": [
+        "Una organización política inscrita oficialmente en el Estado",
+        "Un grupo de personas con el mismo nivel de renta",
+        "Un conjunto de profesionales con el mismo nivel educativo",
+        "Un grupo de individuos que trabajan conjuntamente porque tienen orígenes, aspiraciones o intereses comunes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En la definición recogida, el partido es un grupo de individuos que actúan juntos por tener orígenes, aspiraciones o intereses comunes; no se limita a un partido político formal."
+    },
+    {
+      "question": "¿Qué plantea Goldthorpe sobre la explicación de las sociedades?",
+      "options": [
+        "Que se explican en función del esquema de clases que las compone, y los individuos se clasifican según el esquema elegido",
+        "Que se explican por el consenso moral entre los grupos",
+        "Que se explican a partir de la performatividad del género",
+        "Que se explican por la acción de los agentes de socialización"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Goldthorpe desarrolla los planteamientos de Marx y Weber sosteniendo que las sociedades pueden explicarse por su esquema de clases, ya que los individuos se clasifican en una u otra clase según el esquema que se utilice."
+    },
+    {
+      "question": "¿Por qué no se puede asumir un único esquema de clases como válido?",
+      "options": [
+        "Porque las clases sociales han desaparecido en las sociedades actuales",
+        "Porque los esquemas de clases se aplican en países industrializados",
+        "Porque existen grandes discusiones sociológicas sobre qué clases hay y cuáles son sus características",
+        "Porque la ley prohíbe clasificar a las personas por su posición social"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El desarrollo de las teorías de Marx y Weber ha generado grandes discusiones sobre qué clases existen y cómo son, por lo que ningún esquema se considera el único válido. Esto no implica que las clases hayan desaparecido."
+    },
+    {
+      "question": "¿Cómo se caracteriza la clase alta en el esquema comúnmente aceptado?",
+      "options": [
+        "Es un grupo mayoritario con perfiles educativos de alto nivel",
+        "Es un grupo minoritario que concentra gran cantidad de poder económico, material y político",
+        "Es un grupo con acceso limitado a los recursos independientemente de su cualificación",
+        "Es un grupo excluido por migración, pobreza o falta de hogar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La clase alta es un grupo minoritario que concentra gran poder económico, material y político. Los perfiles educativos altos describen la clase media, el acceso limitado la clase obrera y la exclusión la infraclase."
+    },
+    {
+      "question": "¿Qué distingue a la clase obrera según la unidad?",
+      "options": [
+        "Su acceso limitado a los recursos por el poder adquisitivo que le permite su trabajo, sea cual sea su cualificación",
+        "Su posesión de los medios de producción y del poder político",
+        "Su ubicación en el estrato inferior, sin canal de incorporación al sistema",
+        "Su dedicación a funciones directivas y profesionales de alto nivel"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La clase obrera tiene un acceso limitado a los recursos por el poder adquisitivo que le da su trabajo, independientemente de su cualificación. La ausencia de canal de incorporación es propia de la infraclase."
+    },
+    {
+      "question": "¿Qué perfil caracteriza a la clase media, intermedia o de servicios?",
+      "options": [
+        "Un grupo minoritario con gran concentración de poder político",
+        "Un grupo con acceso limitado a recursos por su bajo poder adquisitivo",
+        "Un grupo con perfiles educativos y ocupacionales de alto nivel, como directivos, funcionarios o profesionales",
+        "Un grupo en situación de exclusión por migración o marginalidad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La clase media de servicios agrupa perfiles educativos y ocupacionales de alto nivel (directivos, funcionarios, profesionales). Las otras opciones describen la clase alta, la clase obrera y la infraclase."
+    },
+    {
+      "question": "¿Por qué se plantea dividir la clase media en «clases medias» según diversos autores?",
+      "options": [
+        "Porque se mezclan trabajadores de buenos salarios y trabajos poco cualificados con trabajadores de salarios intermedios y trabajos cualificados",
+        "Porque unos viven en ciudades y otros en zonas rurales",
+        "Porque unos pertenecen a la administración pública y otros a la empresa privada",
+        "Porque unos tienen más prestigio que otros en la vida política"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se distinguen los de «cuello azul» (buenos salarios y estabilidad, trabajo poco cualificado) y los de «cuello blanco» (salarios intermedios, trabajo cualificado), que a veces se mezclan en el mismo grupo."
+    },
+    {
+      "question": "Un operario industrial con buen salario y estabilidad, pero con un trabajo poco cualificado, ¿a qué subgrupo de clase media correspondería?",
+      "options": [
+        "Cuello blanco",
+        "Clase alta",
+        "Cuello azul",
+        "Infraclase"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El trabajador con buenos salarios y estabilidad pero poco cualificado se denomina de «cuello azul». El «cuello blanco» tiene salarios intermedios y trabajos cualificados."
+    },
+    {
+      "question": "¿Qué rasgo define a la infraclase o clase marginada?",
+      "options": [
+        "Un acceso a los recursos limitado pero con empleo estable",
+        "Un nivel educativo medio y salarios intermedios",
+        "Un perfil directivo con poca capacidad de decisión política",
+        "Condiciones de vida, acceso a recursos y nivel educativo bajos que sitúan en exclusión social"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La infraclase corresponde al estrato inferior, con bajas condiciones de vida, recursos y nivel educativo, y se encuentra en exclusión social. La clase obrera, en cambio, tiene un acceso limitado pero está integrada en el sistema laboral."
+    },
+    {
+      "question": "¿Por qué se menciona a las mujeres al hablar de la infraclase?",
+      "options": [
+        "Porque actualmente son mayoría entre las personas sin hogar",
+        "Porque durante siglos, en la mayoría de las sociedades, no se consideraba su autonomía, capacidad de trabajo ni de voto",
+        "Porque su nivel educativo ha sido históricamente inferior al de los hombres",
+        "Porque las teorías feministas las clasifican en esa clase por definición"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto indica que durante siglos las mujeres se ubicaron en este grupo al no reconocerse su autonomía, su capacidad de trabajo ni de voto. Se trata de una situación histórica, no de una clasificación actual por definición."
+    },
+    {
+      "question": "¿Qué plantearon las escuelas de pensamiento durante el siglo XX, especialmente en los años 70, respecto a la educación?",
+      "options": [
+        "Que la educación no tiene relación con las desigualdades sociales",
+        "Distintas explicaciones sobre la posible influencia de la educación en las desigualdades entre grupos",
+        "Que la educación debe separarse completamente del análisis sociológico",
+        "Que la educación es un mecanismo biológico de selección"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el siglo XX, y sobre todo en los años 70, se propusieron diversas explicaciones sobre cómo la educación puede influir en las desigualdades entre los grupos de una sociedad."
+    },
+    {
+      "question": "¿Qué punto en común tienen todas las teorías y escuelas sociológicas estudiadas en relación con los grupos?",
+      "options": [
+        "Defienden que las clases sociales deben desaparecer",
+        "Consideran que los grupos se relacionan por el conflicto armado",
+        "Sostienen que la educación elimina las diferencias entre grupos",
+        "Asumen que existen grupos distintos en cada sociedad que se relacionan por consenso, conflicto o interpretaciones, según la teoría"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Todas asumen la existencia de grupos distintos en cada sociedad que se relacionan en búsqueda de consenso, por conflicto o según sus interpretaciones, dependiendo de la teoría."
+    },
+    {
+      "question": "¿Qué teoría es la más relevante en el origen del concepto de estructura social y plantea la estratificación para definir diferencias entre clases?",
+      "options": [
+        "La teoría de la lucha de clases de Karl Marx",
+        "La teoría del discurso pedagógico de Bernstein",
+        "La teoría de la correspondencia de Bowles y Gintis",
+        "La teoría del interaccionismo de Mead"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Aunque el concepto de estructura social tiene múltiples orígenes, la teoría más relevante fue la lucha de clases de Marx, que plantea la estratificación social para definir las diferencias entre clases."
+    },
+    {
+      "question": "¿Qué papel se atribuye a Althusser en el debate sobre educación y reproducción social?",
+      "options": [
+        "Fue el creador de la teoría del habitus",
+        "Fue el defensor de la educación dialógica",
+        "Fue el precursor de la teoría estructuralista",
+        "Fue el autor de la teoría del capital humano"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Althusser se presenta como precursor de la teoría estructuralista. El habitus es de Bourdieu, la educación dialógica de Habermas, Beck y Freire."
+    },
+    {
+      "question": "Según Bourdieu, ¿cómo influye el habitus en el sistema de enseñanza?",
+      "options": [
+        "Elimina las diferencias de origen entre el alumnado",
+        "Reproduce el sistema de enclasamiento social, de modo que el éxito o fracaso depende del grupo social de procedencia",
+        "Provoca que el alumnado tenga las mismas oportunidades de éxito",
+        "Impide que los docentes transmitan valores"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bourdieu sostiene que el habitus como sistema de enclasamiento se reproduce en el sistema de enseñanza, con mayor o menor probabilidad de éxito según el grupo social del que se provenga."
+    },
+    {
+      "question": "¿Qué sostienen Baudelot y Establet sobre la escuela?",
+      "options": [
+        "Que es un espacio de producción cultural autónomo",
+        "Que reproduce el sistema de premios y castigos de la fábrica",
+        "Que permite el diálogo igualitario entre estudiantes",
+        "Que retroalimenta la división social existente en el mercado de trabajo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Para Baudelot y Establet la escuela retroalimenta la división social del mercado de trabajo. La idea de premios y castigos equivalentes en escuela y producción es de Bowles y Gintis."
+    },
+    {
+      "question": "La teoría de la correspondencia de Bowles y Gintis afirma que:",
+      "options": [
+        "La escuela desarrolla las mismas relaciones sociales y el mismo sistema de premios y castigos que el ámbito productivo",
+        "La escuela recontextualiza y transmite nuevas ideas mediante el discurso pedagógico",
+        "La escuela crea valores propios por medio de productores culturales",
+        "La escuela es un proyecto político con potencial de cambio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La correspondencia sostiene que la escuela replica las relaciones sociales y el sistema de premios y castigos del ámbito productivo. Las otras opciones recogen ideas de Bernstein, Willis y Giroux."
+    },
+    {
+      "question": "Un centro educativo donde el alumnado obedece jerarquías estrictas y recibe premios y sanciones similares a los de una empresa ilustra mejor:",
+      "options": [
+        "La teoría del discurso pedagógico",
+        "La teoría dialógica de Freire",
+        "La teoría de la correspondencia de Bowles y Gintis",
+        "El currículo crítico de Apple"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Este caso refleja que la escuela reproduce las relaciones y el sistema de premios y castigos del ámbito productivo, tal como plantea la teoría de la correspondencia."
+    },
+    {
+      "question": "¿Qué tienen en común Althusser, Bourdieu, Baudelot y Establet, y Bowles y Gintis?",
+      "options": [
+        "Defienden que la educación elimina las barreras entre clases",
+        "Consideran que el diálogo igualitario transforma la escuela",
+        "Sostienen que los docentes son productores culturales",
+        "Argumentan que la educación contribuye al estructuralismo y a la reproducción social"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Todos pertenecen al grupo de teorías que sostienen que la educación contribuye al estructuralismo y a la reproducción social de las desigualdades."
+    },
+    {
+      "question": "¿Qué sostiene el segundo grupo de teorías, que superan el reproduccionismo?",
+      "options": [
+        "Que la educación reproduce necesariamente la estructura de clases",
+        "Que la educación contribuye a que las personas puedan desplazarse de un grupo social a otro",
+        "Que la educación transmite los valores de las clases dominantes",
+        "Que la educación es irrelevante para la movilidad social"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Estas teorías indican que la educación puede facilitar el desplazamiento entre grupos sociales, por lo que se basan en el concepto de movilidad social."
+    },
+    {
+      "question": "Las teorías dialógicas de Habermas, Beck y Freire destacan que la educación:",
+      "options": [
+        "Reproduce la división del mercado de trabajo",
+        "Legitima la estructura social y sus jerarquías",
+        "Permite el diálogo en un contexto de igualdad con fuerte potencial transformador",
+        "Se limita a transmitir contenidos ya existentes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las teorías dialógicas defienden que la educación permite el diálogo en un contexto de igualdad entre los individuos, con gran potencial transformador, apoyado en el aprendizaje constructivo y cooperativo."
+    },
+    {
+      "question": "¿En qué tipos de aprendizaje se apoyan las teorías dialógicas?",
+      "options": [
+        "Constructivo y cooperativo",
+        "Memorístico y repetitivo",
+        "Competitivo e individual",
+        "Conductista y por refuerzo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las teorías dialógicas se apoyan en el aprendizaje constructivo y cooperativo, que favorece el diálogo igualitario. Los otros tipos no se asocian a este planteamiento."
+    },
+    {
+      "question": "En la teoría del discurso pedagógico de Bernstein, el contenido de la enseñanza permite:",
+      "options": [
+        "Reproducir sin cambios los valores del grupo dominante",
+        "Recontextualizar y transmitir nuevas ideas",
+        "Clasificar al alumnado según su origen social",
+        "Sustituir el aprendizaje por la socialización familiar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bernstein, ubicado entre las teorías que superan el reproduccionismo, considera que el contenido de la enseñanza permite recontextualizar y transmitir nuevas ideas."
+    },
+    {
+      "question": "¿Qué propone Apple para modificar la transmisión de la educación?",
+      "options": [
+        "Eliminar el currículo oficial",
+        "Reforzar los exámenes estandarizados",
+        "Reproducir el sistema de premios del mundo laboral",
+        "Un planteamiento curricular crítico a través de comunidades e investigación"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Apple plantea un enfoque curricular crítico basado en comunidades e investigación que permita modificar la transmisión de la educación."
+    },
+    {
+      "question": "La idea de que la escuela crea valores y no solo los transmite, y de que debe contar con productores culturales, es de:",
+      "options": [
+        "Giroux",
+        "Baudelot",
+        "Willis",
+        "Althusser"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Willis sostiene que la educación debe contar con productores culturales porque la escuela crea valores. Giroux, en cambio, destaca el carácter político de la educación y el papel de los educadores."
+    },
+    {
+      "question": "Según Giroux, ¿qué papel desempeñan los educadores y educadoras?",
+      "options": [
+        "Forman parte de la educación, que es un proyecto político con gran potencialidad de cambio",
+        "Son meros transmisores neutros de contenidos",
+        "Actúan como agentes que perpetúan la estructura estratificada",
+        "Son sustituibles por la socialización familiar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Giroux considera que el profesorado forma parte de la educación, entendida como un proyecto político con gran potencial de cambio y de transmisión de valores."
+    },
+    {
+      "question": "¿Con qué teoría, estudiada en la UD 6, se relacionan las teorías estructuralistas y de reproducción social?",
+      "options": [
+        "La teoría del capital humano",
+        "La teoría credencialista",
+        "La teoría del discurso pedagógico",
+        "La teoría de la segmentación del mercado de trabajo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las teorías estructuralistas y de reproducción social se relacionan con la segmentación del mercado de trabajo. La teoría credencialista y la del capital humano se vinculan con las teorías que superan el reproduccionismo."
+    },
+    {
+      "question": "¿Qué es la movilidad social?",
+      "options": [
+        "El desplazamiento de población entre países por motivos laborales",
+        "Los procesos mediante los cuales un individuo puede desplazarse de una posición socioeconómica a otra",
+        "La reproducción de la posición social de los padres en los hijos",
+        "El cambio de valores culturales de una generación a otra"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La movilidad social alude a los procesos por los que un individuo se desplaza de una posición socioeconómica a otra. Su contrario sería la reproducción de la posición de origen."
+    },
+    {
+      "question": "La movilidad vertical consiste en:",
+      "options": [
+        "Ascender o descender en la escala socioeconómica según se ganen o pierdan recursos",
+        "Cambiar de barrio, ciudad o región",
+        "Cambiar de grupo social dentro de la propia historia de vida",
+        "Alcanzar un estatus distinto al de los padres"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La movilidad vertical es el ascenso o descenso en la escala socioeconómica, según se aumenten o pierdan recursos económicos, materiales y políticos."
+    },
+    {
+      "question": "La movilidad horizontal se refiere a:",
+      "options": [
+        "Subir de clase por medio de la educación",
+        "Pasar de la clase obrera a la clase media",
+        "El desplazamiento geográfico de un barrio a otro, entre ciudades o regiones",
+        "El cambio de estatus entre generaciones"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La movilidad horizontal es el desplazamiento geográfico, y se tiene en cuenta porque el territorio es una de las características que definen a los grupos y sociedades."
+    },
+    {
+      "question": "La movilidad intrageneracional se produce cuando:",
+      "options": [
+        "Los hijos alcanzan un estatus distinto al de sus padres",
+        "Una persona cambia de residencia sin variar su situación económica",
+        "Un grupo de generaciones sustituye a otro en el poder",
+        "Un individuo cambia de grupo social a lo largo de su propia vida"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La movilidad intrageneracional alude al cambio de grupo social o de estatus dentro de la propia historia de vida del individuo."
+    },
+    {
+      "question": "La movilidad intergeneracional compara:",
+      "options": [
+        "La posición de una persona al inicio y al final de su carrera",
+        "La posición de un individuo respecto a la que tenían sus generaciones pasadas, como padres o abuelos",
+        "La residencia actual con la residencia de la infancia",
+        "El nivel educativo de hermanos de la misma familia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En la movilidad intergeneracional se compara el grupo social del individuo con el de sus generaciones anteriores (padres, abuelos). Comparar el inicio y el final de la carrera sería intrageneracional."
+    },
+    {
+      "question": "Una hija de familia obrera que llega a ser médica ejemplifica principalmente:",
+      "options": [
+        "Movilidad vertical ascendente de tipo intergeneracional",
+        "Movilidad horizontal intrageneracional",
+        "Reproducción social",
+        "Movilidad vertical descendente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Asciende en la escala socioeconómica (vertical) y su estatus supera el de sus padres (intergeneracional). Es un ejemplo de movilidad, no de reproducción social."
+    },
+    {
+      "question": "Una persona que se traslada de Sevilla a Madrid manteniendo su posición económica y profesional ejemplifica:",
+      "options": [
+        "Movilidad vertical ascendente",
+        "Movilidad intergeneracional",
+        "Movilidad horizontal",
+        "Movilidad vertical descendente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El desplazamiento geográfico entre ciudades sin cambio de posición socioeconómica es movilidad horizontal."
+    },
+    {
+      "question": "¿Por qué es común que la movilidad vertical y la horizontal se den de forma simultánea?",
+      "options": [
+        "Porque ambas dependen del mismo tipo de recursos educativos",
+        "Porque la ley las regula de manera conjunta",
+        "Porque ambas implican un cambio de generación",
+        "Porque las posiciones más altas suelen implicar vivir en grandes ciudades y las clases obreras se ubican en zonas industrializadas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las posiciones socioeconómicas altas suelen asociarse a grandes ciudades y las clases obreras a zonas más industrializadas, por lo que subir o bajar de posición suele implicar cambiar de lugar."
+    },
+    {
+      "question": "¿De qué depende que se hable de movilidad intrageneracional o intergeneracional?",
+      "options": [
+        "Del nivel de renta del individuo",
+        "De la perspectiva de estudio: la historia de vida individual o las dinámicas grupales entre generaciones",
+        "Del territorio donde viva el individuo",
+        "Del tipo de empleo que desempeñe"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La distinción responde a la perspectiva desde la que se estudie: la historia de vida individual (intrageneracional) o las dinámicas de unas generaciones respecto a otras (intergeneracional)."
+    },
+    {
+      "question": "La expresión «ascensor social» alude a:",
+      "options": [
+        "La movilidad vertical",
+        "La movilidad horizontal",
+        "La reproducción del habitus",
+        "La estratificación por estatus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El término ascensor social se refiere a la movilidad vertical, es decir, a subir o bajar en la escala socioeconómica."
+    },
+    {
+      "question": "Un trabajador que empieza como peón y, tras formarse, llega a director de planta, ejemplifica:",
+      "options": [
+        "Movilidad intergeneracional descendente",
+        "Movilidad horizontal pura",
+        "Reproducción de la clase de origen",
+        "Movilidad vertical ascendente intrageneracional"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El cambio de posición ocurre dentro de su propia vida laboral (intrageneracional) y supone ascenso en la escala socioeconómica (vertical)."
+    },
+    {
+      "question": "Comparando los dos grupos de teorías sobre educación y sociedad, ¿cuál es la diferencia fundamental?",
+      "options": [
+        "El primero ve la educación como reproductora de desigualdades y el segundo como posible vía de movilidad y transformación",
+        "El primero estudia la familia y el segundo la escuela",
+        "El primero rechaza las clases y el segundo las acepta",
+        "El primero es microsociológico y el segundo macrosociológico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las teorías reproduccionistas ven la educación como perpetuadora de las desigualdades, mientras que las que las superan la entienden como medio de movilidad y cambio social."
+    },
+    {
+      "question": "¿Qué función ha cumplido la escuela según la unidad, al ser uno de los agentes sociales más estudiados?",
+      "options": [
+        "La de transmitir conocimientos técnicos al alumnado",
+        "Legitimar la estructura social y sus jerarquías, y también producir movilidad",
+        "Sustituir a la familia en la socialización primaria",
+        "Eliminar los conflictos entre clases sociales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La escuela ha servido tanto para legitimar la estructura social y sus jerarquías como para producir movilidad, lo que refleja el debate entre reproducción y cambio."
+    },
+    {
+      "question": "Un profesor universitario con salario modesto pero gran reconocimiento social ilustra la diferencia entre:",
+      "options": [
+        "Movilidad vertical e intrageneracional",
+        "Estatus y partido",
+        "Conducta y acción",
+        "Estatus y renta, ya que el prestigio no depende de la riqueza"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El estatus se basa en la reputación o el prestigio y no coincide necesariamente con la riqueza; la posesión de riqueza suele dar estatus, pero hay muchas excepciones."
+    },
+    {
+      "question": "¿Por qué se afirma que la posesión de riqueza suele conceder estatus, pero con excepciones?",
+      "options": [
+        "Porque el estatus depende de la reputación que otorgan los demás y no coincide con los recursos económicos",
+        "Porque el estatus se define por la relación con los medios de producción",
+        "Porque el estatus depende del nivel educativo",
+        "Porque el estatus se hereda por vía genética"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El estatus es una cuestión de prestigio otorgado por los demás, por lo que puede no coincidir con la riqueza. La relación con los medios de producción define la clase."
+    },
+    {
+      "question": "Si un grupo de vecinos se organiza para reclamar mejoras en su barrio por tener intereses comunes, ¿qué elemento weberiano ilustra?",
+      "options": [
+        "Clase",
+        "Estatus",
+        "Habitus",
+        "Partido"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El partido en sentido weberiano es un grupo de individuos que trabajan conjuntamente porque tienen aspiraciones o intereses comunes, como en este caso."
+    },
+    {
+      "question": "¿Qué diferencia fundamental hay entre la visión de Marx y la de Weber sobre la estratificación?",
+      "options": [
+        "Marx basa la estratificación en la clase y Weber añade además el estatus y el partido",
+        "Marx añade el estatus y Weber se limita al partido",
+        "Marx rechaza las clases y Weber las defiende",
+        "Marx se centra en la socialización y Weber en la movilidad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Marx plantea la estratificación sobre la clase (relación con los medios de producción); Weber incorpora además el estatus y el partido, lo que genera un cuadro más complejo."
+    },
+    {
+      "question": "El esquema de clases común incluye clase alta, media, obrera e infraclase. ¿Qué rasgo diferencia a la clase obrera de la infraclase?",
+      "options": [
+        "La clase obrera concentra poder político y la infraclase no",
+        "La clase obrera tiene un nivel educativo alto y la infraclase medio",
+        "La clase obrera accede a recursos limitados mediante el trabajo, mientras que la infraclase queda excluida del sistema",
+        "La clase obrera vive en el campo y la infraclase en la ciudad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La clase obrera tiene acceso limitado a recursos gracias a su trabajo; la infraclase está en exclusión social, sin canal de incorporación que le ofrezca el sistema."
+    },
+    {
+      "question": "¿Qué ejemplos de situaciones se ubican dentro de la infraclase?",
+      "options": [
+        "Funcionarios con estabilidad laboral y salario medio",
+        "Directivos de grandes empresas",
+        "Profesionales liberales con alto nivel educativo",
+        "Personas migrantes en marginalidad, en pobreza extrema o sin hogar"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En la infraclase se incluyen personas en situaciones de gran dificultad como migración, marginalidad, pobreza extrema o sin hogar, a las que el sistema no ofrece un canal de incorporación."
+    },
+    {
+      "question": "¿Por qué el territorio es relevante al hablar de movilidad horizontal?",
+      "options": [
+        "Porque determina el idioma que se habla",
+        "Porque el espacio geográfico es una de las características que definen a los grupos sociales y a las propias sociedades",
+        "Porque el territorio fija la clase social de origen",
+        "Porque cada región tiene su propia teoría sociológica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto señala que el territorio es una de las características definitorias de los grupos y sociedades, de ahí que el desplazamiento geográfico se considere un tipo de movilidad."
+    },
+    {
+      "question": "¿Qué afirma la teoría de la correspondencia que la diferencia de las teorías dialógicas?",
+      "options": [
+        "Que la escuela reproduce las relaciones productivas, mientras que las dialógicas la ven como espacio transformador",
+        "Que la escuela debe eliminar el diálogo en el aula",
+        "Que la escuela atiende a la clase obrera",
+        "Que la escuela es independiente de la economía"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La teoría de la correspondencia pertenece al grupo reproduccionista (la escuela replica las relaciones del mundo productivo); las dialógicas ven en el diálogo igualitario un potencial transformador."
+    },
+    {
+      "question": "Si se asume que la escuela solo reproduce las desigualdades, ¿qué idea de los autores que superan el reproduccionismo contradiría esa afirmación?",
+      "options": [
+        "La idea de Althusser sobre el estructuralismo",
+        "La idea de Bourdieu sobre el enclasamiento",
+        "La idea de Baudelot y Establet sobre la división laboral",
+        "La idea de Willis de que la escuela crea valores y no solo los transmite"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Willis sostiene que la escuela crea valores, es decir, no se limita a reproducir los existentes. Los otros autores pertenecen al grupo reproduccionista."
+    },
+    {
+      "question": "¿Con qué dos teorías, estudiadas en la UD 6, se relacionan los planteamientos que superan el reproduccionismo?",
+      "options": [
+        "La teoría de la correspondencia y la del habitus",
+        "La teoría credencialista y la teoría del capital humano",
+        "La teoría de la segmentación y la del conflicto",
+        "La teoría del interaccionismo y la del funcionalismo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las teorías que superan el reproduccionismo se relacionan con la teoría credencialista y la teoría del capital humano, que se estudian en la UD 6."
+    },
+    {
+      "question": "Ordena de menor a mayor concentración de poder económico y político los grupos del esquema común. ¿Cuál es el orden correcto?",
+      "options": [
+        "Clase alta, clase media, clase obrera, infraclase",
+        "Clase media, clase alta, infraclase, clase obrera",
+        "Infraclase, clase obrera, clase media, clase alta",
+        "Clase obrera, infraclase, clase alta, clase media"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La infraclase ocupa el estrato inferior y la clase alta concentra mayor poder económico, material y político; entre ambas se sitúan la clase obrera y la clase media."
+    },
+    {
+      "question": "¿Qué conclusión puede extraerse de que el esquema de clases sea objeto de debate sociológico?",
+      "options": [
+        "Que la estratificación social carece de utilidad",
+        "Que todas las sociedades tienen exactamente las mismas clases",
+        "Que la clase social no influye en la educación",
+        "Que las clases se definen de forma distinta según el autor y el esquema utilizado"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Al existir discusión sobre qué clases hay y cómo se caracterizan, la clasificación varía según el autor y el esquema. Esto no resta utilidad al análisis de la estratificación."
+    },
+    {
+      "question": "Según el texto, ¿qué relación existe entre estructura social y educación en las teorías que la consideran un factor de cambio?",
+      "options": [
+        "La educación fija a cada persona en su clase de origen",
+        "La educación puede contribuir a que las personas se desplacen en la estructura social",
+        "La educación es una consecuencia de la economía",
+        "La educación es ajena a la estructura social"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las teorías que superan el reproduccionismo sostienen que la educación puede permitir el desplazamiento entre grupos sociales, es decir, la movilidad en la estructura."
+    },
+    {
+      "question": "Una persona que pierde su empleo y sus ahorros y pasa a tener menos recursos económicos y materiales que antes ejemplifica:",
+      "options": [
+        "Movilidad vertical descendente",
+        "Movilidad horizontal ascendente",
+        "Movilidad intergeneracional ascendente",
+        "Reproducción del estatus de origen"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La movilidad vertical incluye descender en la escala socioeconómica cuando se pierden recursos. No hay desplazamiento geográfico ni comparación con generaciones anteriores en el caso descrito."
+    },
+    {
+      "question": "Para Bourdieu y para Bowles y Gintis, el sistema educativo tiende a:",
+      "options": [
+        "Compensar las diferencias de origen mediante el diálogo igualitario",
+        "Reflejar y perpetuar la organización social y las posiciones de partida del alumnado",
+        "Crear nuevos valores al margen de la estructura social",
+        "Sustituir la estratificación por un esquema de clases único"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ambos autores se ubican en las teorías de reproducción social: el sistema educativo refleja y perpetúa la organización social, ya sea por el habitus o por la correspondencia con el mundo productivo."
+    },
+    {
+      "question": "¿Qué es la socialización según la unidad?",
+      "options": [
+        "El proceso mediante el cual un individuo se incorpora a la sociedad en la que nace",
+        "El proceso por el que una persona cambia de clase social a lo largo de su vida",
+        "El conjunto de normas escritas que regulan la convivencia",
+        "El desplazamiento geográfico de un individuo a otra región"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La socialización es el proceso por el que un individuo se incorpora a la sociedad en la que nace. Cambiar de clase es movilidad social y el desplazamiento geográfico es movilidad horizontal."
+    },
+    {
+      "question": "¿Qué sostiene el determinismo biológico acerca de la socialización?",
+      "options": [
+        "Que depende del contexto cultural en que se nace",
+        "Que los seres humanos tenemos ciertos instintos de cómo socializar según nuestra herencia genética",
+        "Que es un proceso propio de la infancia",
+        "Que se produce por decisión consciente del individuo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El determinismo biológico considera que existen instintos de socialización según la herencia genética. La corriente de la relevancia de la cultura, preponderante hoy, subraya el papel del contexto cultural."
+    },
+    {
+      "question": "La corriente de la relevancia de la cultura defiende que los seres humanos:",
+      "options": [
+        "Nacemos sin ninguna predisposición a socializar",
+        "Socializamos por herencia genética",
+        "Nacemos con predisposiciones a la socialización que adaptamos al contexto cultural",
+        "Socializamos de manera idéntica en cualquier cultura"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Esta corriente, asumida como preponderante, plantea que nacemos con predisposiciones a socializar que adaptamos según el contexto cultural en el que nacemos."
+    },
+    {
+      "question": "Para Bernstein (1998), la socialización es un proceso complejo por el cual:",
+      "options": [
+        "Un sujeto cultural se transforma en ser biológico",
+        "Un grupo se convierte en una estructura social estable",
+        "Un individuo pasa de una clase a otra",
+        "Un ser biológico se transforma en un sujeto cultural"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Bernstein define la socialización como el proceso complejo mediante el cual un ser biológico se transforma en un sujeto cultural, con control que suscita disposiciones morales, intelectuales y afectivas."
+    },
+    {
+      "question": "Según la definición de Rocher, la socialización implica que la persona:",
+      "options": [
+        "Aprende e interioriza los elementos socioculturales de su medio, los integra en su personalidad y se adapta al entorno social",
+        "Elige libremente los valores que desea adoptar al margen de su entorno",
+        "Imita a los miembros de su familia",
+        "Rechaza los elementos socioculturales de su medio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Rocher plantea que la persona aprende e interioriza los elementos socioculturales de su medio, los integra en su personalidad bajo la influencia de agentes significativos y se adapta al entorno."
+    },
+    {
+      "question": "La definición de Giddens destaca que, en la socialización:",
+      "options": [
+        "Las personas son meros receptores pasivos de la cultura",
+        "La cultura y la sociedad influyen en la personalidad y, a la vez, en el comportamiento cotidiano se recrean activamente los contextos cultural y social",
+        "La sociedad no condiciona las perspectivas individuales",
+        "Los contextos sociales permanecen inmutables"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Giddens subraya la doble influencia: la cultura y la sociedad moldean personalidades y perspectivas, pero con nuestro comportamiento diario recreamos y reconstruimos activamente esos contextos."
+    },
+    {
+      "question": "¿Cuándo comienza y hasta cuándo se desarrolla el proceso de socialización?",
+      "options": [
+        "Comienza en la adolescencia y termina en la edad adulta",
+        "Comienza en la escuela y termina al acabar los estudios",
+        "Comienza con el nacimiento, es más fuerte en los primeros años y se da durante toda la vida",
+        "Comienza a los seis años y termina en la juventud"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La socialización comienza con el nacimiento y es más intensa en los primeros años, pero se da durante toda la vida mediante la interacción con los demás."
+    },
+    {
+      "question": "¿Cuál de los siguientes NO es uno de los aspectos comunes a las definiciones de socialización recogidos por Marín (1986)?",
+      "options": [
+        "Adquisición de la cultura",
+        "Integración de la cultura en la personalidad",
+        "Adaptación al entorno social",
+        "Rechazo de las normas del grupo de origen"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los aspectos comunes son la adquisición de la cultura, su integración en la personalidad y la adaptación al entorno social. El rechazo de las normas no figura entre ellos."
+    },
+    {
+      "question": "El aspecto de la socialización denominado «integración de la cultura en la personalidad» implica que:",
+      "options": [
+        "La cultura forma parte de la persona, que no percibe el control que se ejerce sobre ella",
+        "La persona rechaza conscientemente la cultura de su entorno",
+        "La persona decide en qué momento adquiere los valores",
+        "La cultura se mantiene separada de la identidad individual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Al integrarse en la personalidad, la cultura forma parte de la persona, que no percibe el control social que se ejerce sobre ella."
+    },
+    {
+      "question": "¿A qué se refiere la «adaptación al entorno social» como aspecto de la socialización?",
+      "options": [
+        "A la capacidad de cambiar de residencia con facilidad",
+        "Al sentimiento de pertenencia biológica, afectiva y de pensamiento con una comunidad",
+        "A la obtención de un empleo en el entorno local",
+        "A la adquisición de títulos académicos reconocidos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La adaptación al entorno social supone un sentimiento de pertenencia biológica, afectiva y de pensamiento con una comunidad."
+    },
+    {
+      "question": "Según Marín, ¿cuál es el mecanismo de socialización más superficial, que también puede usarse para adiestrar animales?",
+      "options": [
+        "La interiorización de la realidad",
+        "La construcción de la identidad",
+        "El aprendizaje",
+        "La legitimación de roles"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El aprendizaje es el aspecto más superficial de la socialización y sirve para adiestrar tanto a personas como a animales, mediante repetición, imitación, recompensas y castigos, y ensayo y error."
+    },
+    {
+      "question": "¿Cuál de los siguientes procedimientos NO forma parte del mecanismo de aprendizaje descrito por Marín?",
+      "options": [
+        "Repetición",
+        "Imitación",
+        "Ensayos y errores",
+        "Interpretación inmediata de la realidad"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El aprendizaje se lleva a cabo por repetición, imitación, recompensas y castigos, y ensayos y errores. La interpretación inmediata de la realidad corresponde a la interiorización."
+    },
+    {
+      "question": "¿Qué diferencia a la interiorización o internalización de la realidad del aprendizaje?",
+      "options": [
+        "Es un mecanismo propiamente humano que permite interpretar de forma inmediata la realidad y comprender a los semejantes",
+        "Es un mecanismo compartido con los animales",
+        "Es un procedimiento basado en premios y castigos",
+        "Es un proceso que ocurre en la edad adulta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La interiorización es la interpretación inmediata de la realidad, que permite comprender a los semejantes, y es propiamente humana, a diferencia del aprendizaje, que puede aplicarse a animales."
+    },
+    {
+      "question": "Un niño que aprende a saludar porque recibe elogios cuando lo hace y una regañina cuando no, ¿qué procedimiento de aprendizaje ilustra?",
+      "options": [
+        "Imitación",
+        "Recompensas y castigos",
+        "Ensayo y error",
+        "Interiorización"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El elogio al comportamiento deseado y la regañina ante el no deseado son recompensas y castigos, uno de los procedimientos del aprendizaje."
+    },
+    {
+      "question": "Según Berger y Luckmann, ¿qué es la socialización primaria?",
+      "options": [
+        "Cualquier proceso posterior que introduce al individuo en nuevos sectores de su sociedad",
+        "La socialización que se produce en el entorno laboral",
+        "La primera por la que el individuo atraviesa en la niñez, por medio de la cual se convierte en miembro de la sociedad",
+        "La socialización que ocurre en la escuela secundaria"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Para Berger y Luckmann, la socialización primaria es la primera que atraviesa el individuo en la niñez y lo convierte en miembro de la sociedad. La secundaria es cualquier proceso posterior."
+    },
+    {
+      "question": "¿Por qué la adhesión emocional es relevante en la socialización primaria?",
+      "options": [
+        "Porque los conocimientos adquiridos también son emocionales y sin ella el aprendizaje sería difícil o imposible",
+        "Porque sustituye al aprendizaje de normas",
+        "Porque evita que el niño interiorice la cultura",
+        "Porque es irrelevante en la infancia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los conocimientos de la socialización primaria son también emocionales, y probablemente sin adhesión emocional el aprendizaje sería difícil o imposible."
+    },
+    {
+      "question": "¿Por qué la socialización primaria se focaliza en la familia?",
+      "options": [
+        "Porque la ley obliga a las familias a educar",
+        "Porque el niño aún no tiene capacidad de aprender fuera del hogar",
+        "Porque los seres humanos nacen y se insertan inmediatamente en el mundo social, y la infancia se centra en el núcleo familiar",
+        "Porque la escuela no interviene en el desarrollo del niño"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Como los seres humanos nacen y se insertan de inmediato en el mundo social, esa primera fase se establece en la infancia y se focaliza en la familia, considerada clave para el desarrollo de los individuos."
+    },
+    {
+      "question": "¿Cuál de los siguientes elementos se adquiere durante la socialización primaria?",
+      "options": [
+        "Vocabulario específico de un rol profesional",
+        "Adscripción a posiciones ideológico-políticas elegidas en la edad adulta",
+        "Conocimiento especializado propio de la división del trabajo",
+        "Normas y valores culturales, roles sociales y lenguaje"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En la socialización primaria se adquieren normas y valores, roles sociales, lenguaje, habilidades sociales básicas y primeros vínculos afectivos. Los rasgos especializados son propios de la secundaria."
+    },
+    {
+      "question": "Según el texto, ¿por qué los bebés aprenden sus primeras palabras?",
+      "options": [
+        "Porque las repiten el núcleo familiar incansablemente hasta que el bebé puede pronunciarlas",
+        "Porque las aprenden en la escuela infantil",
+        "Porque nacen con un vocabulario innato",
+        "Porque las ven en medios de comunicación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las primeras palabras cubren necesidades básicas y se aprenden porque el núcleo familiar las repite hasta que el bebé las pronuncia, lo que ilustra el papel de la familia en la socialización primaria."
+    },
+    {
+      "question": "Los agentes primarios de socialización son aquellos que:",
+      "options": [
+        "Aparecen en la edad adulta",
+        "Tienen como finalidad específica esa socialización",
+        "Carecen de jerarquía dentro de cada contexto social",
+        "Se encargan de la socialización laboral"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se consideran agentes primarios los que tienen como finalidad específica la socialización, con independencia de que puedan tener diferentes niveles de jerarquía según el contexto."
+    },
+    {
+      "question": "¿Qué autores proponen la clasificación didáctica de agentes de socialización primaria y secundaria?",
+      "options": [
+        "Berger y Luckmann",
+        "Marín y Rocher",
+        "Agulló-Tomás y Sánchez-Moreno",
+        "Giddens y Sutton"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A nivel didáctico se adopta la clasificación de Agulló-Tomás y Sánchez-Moreno (2003), que diferencian agentes de socialización primaria y secundaria."
+    },
+    {
+      "question": "¿Qué agentes se consideran fundamentalmente primarios en esa clasificación?",
+      "options": [
+        "Trabajo, medios de comunicación y asociaciones",
+        "Partidos políticos y organizaciones",
+        "Medios de comunicación e instituciones del Estado",
+        "Familia, religión y escuela"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los agentes primarios son la familia, la religión y la escuela. El trabajo, los agentes políticos, los medios y las organizaciones son secundarios."
+    },
+    {
+      "question": "¿Qué funciones cumple la familia como agente de socialización?",
+      "options": [
+        "Transmisión de valores, interiorización de hábitos y normas y construcción de fundamentos para el comportamiento",
+        "Control del orden social y participación política",
+        "Dirección de la opinión pública",
+        "Estructuración del tiempo y espacio laborales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La familia, agente primario por excelencia, transmite valores, favorece la interiorización de hábitos y normas y construye fundamentos del comportamiento."
+    },
+    {
+      "question": "¿Por qué se dice que la familia es el agente primario «por excelencia»?",
+      "options": [
+        "Porque es la única que socializa a los individuos",
+        "Porque es el agente más importante y su impacto integra al ser en la comunidad desde el nacimiento",
+        "Porque sustituye a la escuela en la formación",
+        "Porque su influencia termina al finalizar la infancia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La familia es uno de los agentes más importantes y el primario por excelencia por el impacto que genera en la integración de un ser a la comunidad. No es el único agente ni su influencia termina con la infancia."
+    },
+    {
+      "question": "¿Qué papel cumple la religión como agente primario de socialización?",
+      "options": [
+        "Forma parte del ideario moral de los individuos y puede condicionar su inserción social más allá de las instituciones religiosas",
+        "Sustituye a la familia en la transmisión de hábitos",
+        "Regula el acceso al mercado laboral",
+        "Dirige la opinión pública mediante la prensa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La religión forma parte del ideario moral y puede condicionar la inserción social incluso fuera de las propias fronteras de la institución religiosa."
+    },
+    {
+      "question": "Entre las funciones de la religión en el proceso de socialización, la «cohesión social» consiste en:",
+      "options": [
+        "Mantener la conformidad con el orden establecido",
+        "Consolar y ayudar a sobrellevar problemas",
+        "Unir a la sociedad por medio de valores, símbolos y creencias",
+        "Generar desigualdades entre grupos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La cohesión social une a la sociedad a través de valores, símbolos y creencias. Mantener el orden es control social, consolar es la función catártica y generar desigualdades es el conflicto social."
+    },
+    {
+      "question": "Una persona que encuentra en su comunidad religiosa consuelo tras una pérdida familiar ilustra la función:",
+      "options": [
+        "De control social",
+        "De cohesión social",
+        "De conflicto social",
+        "Catártica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La función catártica consiste en consolar y ayudar a sobrellevar problemas, como ocurre en este caso."
+    },
+    {
+      "question": "Cuando la religión mantiene la conformidad con el orden establecido, cumple una función de:",
+      "options": [
+        "Control social",
+        "Cohesión social",
+        "Función catártica",
+        "Conflicto social"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Mantener la conformidad con el orden establecido es la función de control social de la religión."
+    },
+    {
+      "question": "¿Por qué la religión puede considerarse también fuente de «conflicto social»?",
+      "options": [
+        "Porque unifica a todos los miembros de la sociedad",
+        "Porque genera ciertas desigualdades",
+        "Porque impide la adquisición del lenguaje",
+        "Porque elimina los roles sociales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre las funciones de la religión se señala que genera ciertas desigualdades, lo que constituye su faceta de conflicto social."
+    },
+    {
+      "question": "¿Qué papel ha desempeñado la escuela como agente social según la unidad?",
+      "options": [
+        "Ha servido para legitimar la estructura social y sus jerarquías y también para producir movilidad",
+        "Ha reemplazado a la familia en la socialización primaria",
+        "Ha estado al margen de los debates sociológicos",
+        "Ha eliminado las diferencias entre los grupos sociales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La escuela es uno de los agentes sociales más estudiados y ha servido tanto para legitimar la estructura social y sus jerarquías como para producir movilidad."
+    },
+    {
+      "question": "La unidad indica que la función socializadora de la escuela se profundizará en:",
+      "options": [
+        "La UD 2",
+        "La UD 4",
+        "La UD 6",
+        "La UD 3"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto remite a la Unidad didáctica 2 para profundizar en la función socializadora de la escuela. La UD 4 trata, entre otras cuestiones, la performatividad de género y la UD 6 la segmentación del mercado de trabajo."
+    },
+    {
+      "question": "¿Qué es la socialización secundaria según Berger y Luckmann?",
+      "options": [
+        "La socialización que ocurre en la infancia dentro de la familia",
+        "El proceso posterior que introduce al individuo ya socializado en nuevos sectores del mundo objetivo de su sociedad",
+        "La socialización propia del ámbito escolar",
+        "La suma de los aprendizajes biológicos innatos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Para Berger y Luckmann, la socialización secundaria es cualquier proceso posterior que introduce al individuo ya socializado en nuevos sectores del mundo objetivo de su sociedad."
+    },
+    {
+      "question": "¿Qué son los «submundos institucionales» en la socialización secundaria?",
+      "options": [
+        "Los espacios marginales donde viven los excluidos",
+        "Las instituciones ilegales del Estado",
+        "Realidades parciales que requieren legitimación y se componen de elementos normativos, afectivos y cognoscitivos",
+        "Los grupos de iguales de la infancia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los submundos institucionales son realidades parciales, distintas de la realidad base de la socialización primaria, que requieren legitimación y tienen componentes normativos, afectivos y cognoscitivos."
+    },
+    {
+      "question": "En la socialización secundaria se producen reajustes en la identidad personal y social debido a:",
+      "options": [
+        "La separación respecto de la familia de origen",
+        "La pérdida de capacidad para aprender nuevas normas",
+        "La dependencia de los agentes primarios",
+        "La identificación con diversos grupos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En esta fase hay reajustes de identidad personal y social por la identificación con diversos grupos, por ejemplo formas de vida como el veganismo o posiciones ideológicas no adquiridas en la primera infancia."
+    },
+    {
+      "question": "Una persona que adopta el veganismo en la juventud ilustra mejor:",
+      "options": [
+        "Un reajuste de identidad propio de la socialización secundaria",
+        "Un proceso de socialización primaria",
+        "Una función latente de la escuela",
+        "Una forma de movilidad horizontal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto cita las formas de vida específicas, como el veganismo, como ejemplo de identificación con grupos no adquirida en la primera infancia, propia de la socialización secundaria."
+    },
+    {
+      "question": "¿Qué ocurre también en la fase de socialización secundaria, además de los reajustes de identidad?",
+      "options": [
+        "Se adquiere el lenguaje materno",
+        "Surge la distribución de roles, la división del trabajo y el conocimiento especializado",
+        "Se establecen los primeros vínculos afectivos",
+        "Se aprende el sentido básico de las rutinas diarias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En la secundaria surgen la distribución de roles, la división del trabajo y el conocimiento especializado. El lenguaje materno, los vínculos afectivos y las rutinas son rasgos de la primaria."
+    },
+    {
+      "question": "¿Cuándo comienza la socialización secundaria y cuándo termina?",
+      "options": [
+        "Comienza en el nacimiento y termina en la adolescencia",
+        "Comienza al ingresar en la universidad y termina con la jubilación",
+        "Probablemente comienza al finalizar la infancia, aunque sin certeza, y no termina porque el ser humano no deja de socializar",
+        "Comienza a los cuatro años y termina a los dieciocho"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Probablemente comienza cuando finaliza la infancia, aunque no hay certezas, y no termina porque el ser humano nunca deja de socializar."
+    },
+    {
+      "question": "¿Qué papel pueden desempeñar los profesionales de la educación en la socialización secundaria?",
+      "options": [
+        "Sustituir por completo a la familia",
+        "Evitar que el alumnado entre en contacto con otros grupos",
+        "Controlar la identidad de los estudiantes",
+        "Guiar a sus estudiantes en esta compleja etapa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El texto señala que los profesionales de la educación pueden cumplir un rol importante para guiar a sus estudiantes durante la compleja etapa de la socialización secundaria."
+    },
+    {
+      "question": "Los argots profesionales, las jergas juveniles o las lenguas del lugar de acogida son ejemplos de:",
+      "options": [
+        "Vocabulario específico adquirido según el rol, propio de la socialización secundaria",
+        "Palabras básicas aprendidas en la socialización primaria",
+        "Instintos lingüísticos heredados",
+        "Mecanismos de aprendizaje por premios y castigos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la socialización secundaria se adquiere vocabulario específico acorde con el rol, que contribuye a interpretar comportamientos rutinarios institucionales; los argots y jergas son ejemplos."
+    },
+    {
+      "question": "¿Por qué los casos de bullying suelen darse al finalizar la infancia?",
+      "options": [
+        "Porque el sujeto deja de relacionarse con su familia",
+        "Porque entra en contacto con otros grupos que construyen códigos de identidad y pertenencia",
+        "Porque pierde interés por la escuela",
+        "Porque deja de interiorizar normas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Al terminar la infancia el sujeto entra en contacto con otros grupos sociales que construyen códigos de identidad y pertenencia, y es entonces cuando suelen aparecer el bullying y conflictos de identidad."
+    },
+    {
+      "question": "Con el cambio social y cultural, ¿qué ocurre con los agentes secundarios de socialización?",
+      "options": [
+        "Dejan de tener influencia en la vida de las personas",
+        "Son sustituidos por la familia",
+        "Pueden incorporarse como parte esencial del proceso de socialización",
+        "Se limitan a la etapa escolar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Aunque los agentes primarios pueden ser más trascendentales en las primeras etapas, con los cambios sociales y culturales se pueden incorporar los agentes secundarios como parte esencial del proceso."
+    },
+    {
+      "question": "¿Qué determina qué agentes de socialización tienen mayor relevancia en cada momento?",
+      "options": [
+        "El nivel de renta familiar",
+        "El lugar de residencia",
+        "La religión de la familia",
+        "Las diferentes etapas de la vida"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Según las etapas de la vida, unos u otros agentes tienen mayor relevancia en el proceso de socialización."
+    },
+    {
+      "question": "¿Qué ocupa parte del terreno que antes ocupaba la Iglesia, según la unidad?",
+      "options": [
+        "El trabajo remunerado",
+        "Los medios de comunicación",
+        "Los partidos políticos",
+        "Las asociaciones de ocio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto señala que parte del terreno que ocupaba la Iglesia lo ocupa el trabajo remunerado, uno de los agentes secundarios."
+    },
+    {
+      "question": "La función del trabajo de estructurar tiempo y espacio consiste en:",
+      "options": [
+        "Facilitar el acceso a la economía y al consumo",
+        "Marcar el ritmo de vida de las personas",
+        "Mejorar la calidad de vida material",
+        "Dar utilidad social a la persona"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La estructuración de tiempo y espacio marca el ritmo de vida. El acceso a la economía es la función económica, la mejora material es confort y la utilidad social es la identidad."
+    },
+    {
+      "question": "La idea «somos lo que hacemos» se relaciona con la función del trabajo de:",
+      "options": [
+        "Confort y comodidad",
+        "Función económica",
+        "Identidad personal, laboral y social",
+        "Estructuración de tiempo y espacio"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La función de identidad personal, laboral y social vincula lo que somos con lo que hacemos, otorgando utilidad social a la persona."
+    },
+    {
+      "question": "¿Cuál es la principal función de los agentes políticos como agentes secundarios de socialización?",
+      "options": [
+        "Dirigir la opinión pública y construir redes sociales",
+        "Transmitir valores familiares",
+        "Facilitar el acceso al consumo",
+        "Controlar el orden social y fomentar la participación social"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los agentes políticos (partidos, movimientos sociales, instituciones del Estado) tienen como función principal controlar el orden social y fomentar la participación social."
+    },
+    {
+      "question": "¿Qué función cumple el trabajo remunerado al facilitar el acceso a la economía y al consumo?",
+      "options": [
+        "Función de identidad personal",
+        "Función económica",
+        "Función de confort y comodidad",
+        "Función de estructuración de tiempo y espacio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Facilitar el acceso a la economía y al consumo es la función económica del trabajo. El confort se refiere a la calidad de vida material y la identidad a la utilidad social de la persona."
+    },
+    {
+      "question": "¿Qué diferencia fundamental hay entre socialización primaria y secundaria en cuanto a la realidad en la que se produce?",
+      "options": [
+        "La primaria introduce en la realidad base de la persona; la secundaria introduce en realidades parciales o submundos distintos de esa base",
+        "La primaria se produce en la escuela y la secundaria en la familia",
+        "La primaria termina en la adolescencia y la secundaria no tiene componentes afectivos",
+        "La primaria carece de contenido normativo y la secundaria lo tiene"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La secundaria introduce en submundos institucionales, realidades parciales distintas de la realidad base de la primaria, pero igualmente con componentes normativos, afectivos y cognoscitivos."
+    },
+    {
+      "question": "Los primeros vínculos afectivos y el sentido del tiempo y las rutinas diarias se adquieren en:",
+      "options": [
+        "La socialización secundaria",
+        "La socialización laboral",
+        "La socialización primaria",
+        "La socialización política"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Entre los rasgos de la socialización primaria están el desarrollo de los primeros vínculos afectivos y la adquisición del sentido del tiempo y de las rutinas diarias."
+    },
+    {
+      "question": "¿Qué implica que la socialización primaria sea más acelerada que las etapas posteriores?",
+      "options": [
+        "Que la persona deja de aprender a partir de la infancia",
+        "Que las etapas posteriores carecen de importancia",
+        "Que la persona no puede modificar su identidad",
+        "Que el aprendizaje es especialmente intenso en la infancia, aunque la socialización continúa toda la vida"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El aprendizaje en la socialización primaria es más acelerado, pero la socialización se da durante toda la vida mediante la interacción con los demás."
+    },
+    {
+      "question": "¿Qué funciones pueden cumplir los medios de comunicación social como agentes secundarios, según el tipo de medio?",
+      "options": [
+        "Transmitir el vocabulario profesional y regular el mercado laboral",
+        "Legitimar los submundos institucionales y repartir roles laborales",
+        "Estructurar el tiempo de trabajo y dar acceso al consumo",
+        "Dirigir la opinión pública, mantener el orden social, inculcar valores y actitudes, o construir redes sociales"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los medios de comunicación pueden dirigir la opinión pública, mantener el orden social, inculcar valores y actitudes, fomentar la libertad y la articulación social o construir redes sociales, según el medio."
+    },
+    {
+      "question": "Una ONG o un grupo de protesta, ¿a qué tipo de agente de socialización secundaria pertenece?",
+      "options": [
+        "Organizaciones o asociaciones",
+        "Agentes políticos",
+        "Medios de comunicación",
+        "Trabajo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ONG, grupos de protesta, asociaciones profesionales y organizaciones lúdicas, culturales o de ocio se incluyen en el agente secundario de organizaciones o asociaciones."
+    },
+    {
+      "question": "Una asociación de aficionados a la fotografía que organiza excursiones ilustra principalmente:",
+      "options": [
+        "Un agente político",
+        "Un agente secundario de tipo organización o asociación de ocio",
+        "Un agente primario de socialización",
+        "Un medio de comunicación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las organizaciones de carácter lúdico, cultural o de ocio son agentes secundarios del tipo organizaciones o asociaciones."
+    },
+    {
+      "question": "¿Qué agentes de socialización engloban partidos políticos, movimientos sociales e instituciones administrativas del Estado?",
+      "options": [
+        "Los agentes primarios",
+        "Las organizaciones de ocio",
+        "Los agentes políticos",
+        "Los medios de comunicación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los agentes políticos incluyen partidos o movimientos sociales e instituciones políticas y administrativas del Estado."
+    },
+    {
+      "question": "Según el resumen de la unidad, ¿qué función tiene la asignatura Sociedad, Familia y Educación en la formación docente?",
+      "options": [
+        "Entrenar en técnicas de evaluación del alumnado",
+        "Enseñar a programar las unidades didácticas",
+        "Analizar la psicología del aprendizaje individual",
+        "Abrir la mirada hacia la dimensión social y comprender que individuos y sistemas educativos son causa y consecuencia de la sociedad"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La función de la asignatura es abrir la mirada a la dimensión social, comprendiendo que individuos y sistemas educativos son causa y consecuencia de la sociedad."
+    },
+    {
+      "question": "¿Con qué asignaturas forma parte Sociedad, Familia y Educación del bloque que introduce a los futuros profesionales de la educación?",
+      "options": [
+        "Didáctica general y Evaluación educativa",
+        "Aprendizaje y Desarrollo de la Personalidad, y Procesos y Contextos Educativos",
+        "Orientación académica y Tecnología educativa",
+        "Innovación docente y Educación inclusiva"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Junto con Aprendizaje y Desarrollo de la Personalidad y Procesos y Contextos Educativos, introduce a los profesionales en formación en los conocimientos que deberán adquirir."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre la perspectiva de la psicología y la de la sociología y la antropología?",
+      "options": [
+        "La psicología observa de la sociedad al individuo y la sociología del individuo a la sociedad",
+        "La psicología estudia el pasado y la sociología el futuro",
+        "La psicología observa del individuo hacia la sociedad; la antropología y la sociología lo hacen a la inversa",
+        "La psicología estudia colectivos y la antropología individuos aislados"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La psicología observa la realidad desde el individuo hacia la sociedad, y la antropología y la sociología lo hacen a la inversa."
+    },
+    {
+      "question": "¿Qué diferencia sutil existe entre la sociología y la antropología?",
+      "options": [
+        "La sociología analiza contextos específicos de desarrollo y la antropología explica cómo ha sucedido algo a lo largo del tiempo",
+        "La sociología estudia el pasado y la antropología el presente",
+        "La sociología estudia a los individuos y la antropología a las instituciones",
+        "La sociología no estudia la cultura y la antropología sí"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La sociología se concentra en contextos específicos (momentos, lugares, culturas, instituciones) y la antropología en explicar cómo ha sucedido algo a lo largo del tiempo."
+    },
+    {
+      "question": "La cita «El hombre es un ser social por naturaleza», con la que se abre la unidad, es de:",
+      "options": [
+        "Comte",
+        "Aristóteles",
+        "Durkheim",
+        "Weber"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La unidad abre con esta cita atribuida a Aristóteles, que anticipa la idea de que los seres humanos son sociales y necesitan a otros para sobrevivir y desarrollarse."
+    },
+    {
+      "question": "¿Cuál es el eje vertebrador de la unidad?",
+      "options": [
+        "La relación entre educación y mercado laboral",
+        "La relación entre familia y Estado",
+        "La relación entre individuo y sociedad",
+        "La relación entre cultura y economía"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La relación entre individuo y sociedad es el eje vertebrador de la unidad, y el proceso de socialización se presenta como su hilo conductor."
+    },
+    {
+      "question": "¿Qué ciencias se nutren o interrelacionan con la mirada sociológica en esta asignatura?",
+      "options": [
+        "Las matemáticas, la física y la química",
+        "El derecho, la economía y la geografía",
+        "La medicina, la biología y la ecología",
+        "La filosofía, la antropología, la sociolingüística, la educación y la psicología social"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La base disciplinar es la mirada sociológica, que se nutre de la filosofía, la antropología, la sociolingüística, la educación y la psicología social."
+    },
+    {
+      "question": "Manuel Castells destaca por ser:",
+      "options": [
+        "Un sociólogo español relevante, precursor de la sociedad de la información y ministro de universidades entre 2020 y 2021",
+        "Un sociólogo francés autor del concepto de habitus",
+        "Un teórico alemán de la acción social",
+        "Un pionero de la sociología del siglo XIX"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Castells es uno de los sociólogos españoles más relevantes, precursor de la sociedad de la información y ministro de universidades entre 2020 y 2021. El habitus es de Bourdieu."
+    },
+    {
+      "question": "¿Qué teoría explicaría mejor un barrio donde los grupos compiten por recursos y poder, con unos dominantes y otros desfavorecidos?",
+      "options": [
+        "Funcionalismo",
+        "Teorías del conflicto",
+        "Interaccionismo simbólico",
+        "Teoría social francesa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La descripción de grupos que compiten por poder y recursos, con dominantes y desfavorecidos, corresponde a las teorías del conflicto."
+    },
+    {
+      "question": "Si se quiere analizar cómo un grupo de estudiantes construye el significado de «ser buen alumno» a través de su interacción diaria, ¿qué enfoque resulta más adecuado?",
+      "options": [
+        "Funcionalismo",
+        "Teorías del conflicto",
+        "Interaccionismo simbólico",
+        "Teoría de la correspondencia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El interaccionismo simbólico estudia cómo los significados se construyen y aprenden en la interacción con otras personas, y se orienta a la microsociología."
+    },
+    {
+      "question": "Un estudio que explique la escuela como una institución que contribuye a la estabilidad social mediante valores compartidos se apoya principalmente en:",
+      "options": [
+        "Las teorías del conflicto",
+        "El interaccionismo simbólico",
+        "El posmodernismo",
+        "El funcionalismo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Explicar las instituciones por su contribución a la estabilidad y al consenso de valores es propio del funcionalismo."
+    },
+    {
+      "question": "El hecho de que una norma escolar, creada para ordenar el comedor, termine fomentando amistades entre cursos sin que nadie lo buscara es un ejemplo de:",
+      "options": [
+        "Función latente",
+        "Función manifiesta",
+        "Disfunción",
+        "Alienación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las funciones latentes son consecuencias implícitas y no deliberadas de las acciones, como las amistades surgidas sin que nadie las buscara."
+    },
+    {
+      "question": "Si una escuela organiza tutorías con la finalidad explícita de mejorar el rendimiento académico, está ejerciendo una función:",
+      "options": [
+        "Latente",
+        "Disfuncional",
+        "Manifiesta",
+        "Alienante"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las funciones manifiestas son acciones reconocidas de manera explícita e intencional por el grupo que las ejecuta, como aquí."
+    },
+    {
+      "question": "¿Qué escuela de pensamiento sostendría que para entender un fenómeno colectivo conviene estudiar primero las acciones reflexivas de los individuos?",
+      "options": [
+        "La teoría social francesa",
+        "La teoría social alemana",
+        "El funcionalismo",
+        "La teoría de la correspondencia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La teoría social alemana, relacionada con el individualismo, considera que el estudio del individuo y su acción reflexiva explica los fenómenos colectivos."
+    },
+    {
+      "question": "Un investigador que sostiene que las causas de un hecho social deben buscarse entre los hechos sociales que le precedieron adopta la lógica de:",
+      "options": [
+        "La escuela de Chicago",
+        "La teoría social alemana",
+        "El interaccionismo simbólico",
+        "La teoría social francesa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Para la teoría social francesa, vinculada al colectivismo, las causas de un hecho social se buscan en hechos sociales anteriores y se explican en la conciencia colectiva."
+    },
+    {
+      "question": "¿Qué relación existe entre la escuela de Chicago y el interaccionismo simbólico?",
+      "options": [
+        "La escuela de Chicago se sostiene en el interaccionismo simbólico",
+        "La escuela de Chicago lo rechaza por ser microsociológico",
+        "La escuela de Chicago se sostiene en el funcionalismo",
+        "La escuela de Chicago es anterior y no tiene vínculo con él"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La escuela de Chicago, con orientación microsociológica y figuras como Mead, se sostiene en el interaccionismo simbólico."
+    },
+    {
+      "question": "¿Qué autora centró su análisis en la dependencia económica de las mujeres, que se someten a «la voluntad de otro»?",
+      "options": [
+        "Harriet Martineau",
+        "Charlotte Perkins Gilman",
+        "Jane Addams",
+        "Beatriz Potter Webb"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gilman analizó la relación entre individuo y economía, destacando la dependencia económica de las mujeres, que se someten a la voluntad de otro."
+    },
+    {
+      "question": "Una socióloga que defiende que la raza es un eje de desigualdad tan importante como la clase estaría más cerca de:",
+      "options": [
+        "Marianne Weber",
+        "Beatriz Potter Webb",
+        "Ana Julia Cooper e Ida Wells-Barnett",
+        "Harriet Martineau"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cooper y Wells-Barnett sostuvieron que no solo la clase, sino las prácticas de explotación por raza o color de piel, eran el eje de la desigualdad."
+    },
+    {
+      "question": "¿Cuál de las siguientes autoras enfatizó la compatibilidad entre intereses individuales y bienestar colectivo mediante el activismo social?",
+      "options": [
+        "Marianne Weber",
+        "Charlotte Perkins Gilman",
+        "Ida Wells-Barnett",
+        "Jane Addams"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Jane Addams, reconocida por su activismo social, promovió una ética social que hiciera coincidir los intereses individuales con el bienestar colectivo."
+    },
+    {
+      "question": "El hecho de que los conflictos de identidad sexual o cultural se generen también al finalizar la infancia se explica porque:",
+      "options": [
+        "El individuo entra en contacto con otros grupos que construyen códigos de identidad y pertenencia",
+        "La familia deja de ejercer su función socializadora",
+        "El lenguaje materno se pierde",
+        "La escuela deja de transmitir valores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En ese periodo el sujeto contacta con otros grupos sociales que construyen códigos de identidad y pertenencia, lo que puede generar conflictos de identidad sexual o cultural."
+    },
+    {
+      "question": "¿Por qué fortalecer las dinámicas familiares se considera una necesidad social, según Martínez et al. (2019)?",
+      "options": [
+        "Porque la familia sustituye a las instituciones educativas",
+        "Por el impacto que genera la integración de un ser a la comunidad",
+        "Porque la familia garantiza la movilidad social",
+        "Porque la familia controla el acceso al trabajo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Martínez et al. señalan que la integración de un ser en la comunidad genera un gran impacto, por lo que reconocer y confortar el relacionamiento interno familiar es una necesidad social."
+    },
+    {
+      "question": "¿Cuál de los siguientes conceptos se relaciona con la «construcción social de la realidad» que enmarca el proceso de socialización?",
+      "options": [
+        "La reflexión sobre si este proceso es objetivo, subjetivo o una mezcla de ambos",
+        "La clasificación de clases en el mercado laboral",
+        "La distinción entre movilidad vertical y horizontal",
+        "El esquema de clases de Goldthorpe"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La construcción social de la realidad, proceso más amplio que incluye la socialización, invita a reflexionar si es objetivo, subjetivo o mezcla de ambos."
+    },
+    {
+      "question": "Una familia migrante que mantiene la lengua de origen de su país mientras los hijos aprenden la lengua del lugar de acogida en la escuela muestra que:",
+      "options": [
+        "La socialización primaria desaparece al migrar",
+        "Los agentes de socialización pueden aportar vocabulario y códigos diferentes en distintos contextos",
+        "La escuela no es un agente de socialización",
+        "La religión determina la lengua"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La unidad menciona las lenguas originarias o del lugar de acogida como parte del vocabulario específico que se adquiere en la socialización secundaria, junto con otros códigos de cada contexto."
+    },
+    {
+      "question": "¿Qué distingue los conceptos de «sociedad» y «estructura social» en la unidad?",
+      "options": [
+        "Son sinónimos intercambiables",
+        "La estructura social es el conjunto de individuos y la sociedad el conjunto de normas",
+        "La sociedad es el conjunto de relaciones entre humanos y la estructura social caracteriza esa sociedad según sus grupos y las relaciones entre ellos",
+        "La estructura social es una teoría y la sociedad una institución"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La sociedad es el conjunto de relaciones entre seres humanos que comparten un espacio social; la estructura social es la caracterización de esa sociedad en función de sus grupos, rasgos centrales y relaciones entre ellos."
+    },
+    {
+      "question": "¿Qué ocurre con la movilidad social cuando la educación actúa como mecanismo reproductor?",
+      "options": [
+        "Aumenta de forma notable",
+        "Se vuelve horizontal",
+        "Pasa a ser intrageneracional",
+        "Se ve limitada, porque el origen social condiciona el éxito escolar"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Si la educación reproduce las posiciones de origen, como plantean Bourdieu o Bowles y Gintis, el origen social condiciona el éxito y se limita la movilidad."
+    },
+    {
+      "question": "Según Fernández-Palomares, la discusión sobre el papel de la educación en las desigualdades se intensificó especialmente:",
+      "options": [
+        "En la década de los 70 del siglo XX",
+        "En la década de 1920",
+        "En la década de 1990",
+        "En el siglo XIX"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La unidad indica que durante el siglo XX, especialmente en la década de los 70, las escuelas de pensamiento plantearon distintas explicaciones sobre la influencia de la educación en las desigualdades."
+    },
+    {
+      "question": "Si una docente quiere que el aula sea un espacio de diálogo igualitario con aprendizaje cooperativo, ¿qué planteamiento teórico respalda su práctica?",
+      "options": [
+        "La teoría de la correspondencia",
+        "Las teorías dialógicas de Habermas, Beck y Freire",
+        "La teoría estructuralista de Althusser",
+        "La reproducción del habitus de Bourdieu"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las teorías dialógicas defienden que la educación permite el diálogo en un contexto de igualdad, apoyado en el aprendizaje constructivo y cooperativo."
+    },
+    {
+      "question": "Una educadora que considera la educación un proyecto político con potencial de cambio y se siente parte de él coincide con:",
+      "options": [
+        "Bowles y Gintis",
+        "Baudelot y Establet",
+        "Giroux",
+        "Althusser"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Giroux sostiene que los educadores forman parte de la educación, entendida como un proyecto político con gran potencialidad de cambio y de transmisión de valores."
+    },
+    {
+      "question": "¿Qué idea del texto sobre Bernstein aparece tanto en el apartado de educación y sociedad como en el de socialización?",
+      "options": [
+        "Su teoría de la correspondencia entre escuela y fábrica",
+        "Su distinción entre conducta y acción",
+        "Su teoría del habitus de clase",
+        "Su teoría del discurso pedagógico y su definición de socialización como transformación de un ser biológico en sujeto cultural"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Bernstein aparece en las teorías que superan el reproduccionismo (discurso pedagógico) y en la definición de socialización como paso de ser biológico a sujeto cultural."
+    },
+    {
+      "question": "¿Qué teoría sociológica enfatiza que los significados se aprenden en interacción y que la cultura no puede existir sin posibilidad de enseñar esos significados?",
+      "options": [
+        "El interaccionismo simbólico",
+        "Las teorías del conflicto",
+        "El funcionalismo",
+        "La teoría de la correspondencia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El interaccionismo simbólico sostiene que los significados se aprenden interactuando, y la nota asociada vincula cultura, sociedad y posibilidad de enseñar significados."
+    },
+    {
+      "question": "¿Qué diferencia hay entre la clase y el estatus en la aplicación a una persona?",
+      "options": [
+        "La clase depende de la relación con los medios de producción y el estatus del prestigio que le conceden los demás",
+        "La clase depende del prestigio y el estatus de la propiedad",
+        "Ambas dependen del lugar de residencia",
+        "Ambas dependen de la pertenencia a un partido"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La clase marxista se basa en la relación con los medios de producción; el estatus, en la reputación o prestigio que otorgan otras personas."
+    },
+    {
+      "question": "Un grupo de trabajadores de distintos oficios que se asocia para defender intereses laborales comunes ejemplifica mejor:",
+      "options": [
+        "Un estatus",
+        "Un partido en sentido weberiano",
+        "Una disfunción",
+        "Una movilidad horizontal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En sentido weberiano, el partido es un grupo que trabaja conjuntamente porque comparte orígenes, aspiraciones o intereses comunes."
+    },
+    {
+      "question": "¿Qué relación hay entre la escuela y la socialización secundaria según el apartado sobre profesionales de la educación?",
+      "options": [
+        "La escuela no interviene en esa etapa",
+        "La escuela actúa durante la primera infancia",
+        "Los docentes pueden guiar al alumnado durante la compleja etapa de contacto con otros grupos sociales",
+        "La escuela se limita a transmitir contenidos académicos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los profesionales de la educación pueden cumplir un rol importante para guiar a sus estudiantes durante la socialización secundaria, una etapa compleja marcada por nuevos grupos de pertenencia."
+    },
+    {
+      "question": "¿Cuál es el sentido de que la socialización «no solo se dé en los primeros años de vida»?",
+      "options": [
+        "Que los primeros años no son relevantes",
+        "Que la familia deja de ser un agente primario",
+        "Que la cultura se adquiere de una vez en la niñez",
+        "Que se prolonga durante toda la vida mediante la interacción con los demás"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Aunque es más fuerte en los primeros años, la socialización se da durante toda la vida a través de la interacción con los demás."
+    },
+    {
+      "question": "¿Qué enfoque sostiene que la sociedad avanza gracias a las tensiones entre grupos y no tanto por el consenso?",
+      "options": [
+        "Las teorías del conflicto",
+        "El funcionalismo",
+        "La teoría social francesa",
+        "El colectivismo de Durkheim"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las teorías del conflicto explican las relaciones entre grupos y el desarrollo de la sociedad mediante las desigualdades de poder y la competencia, no desde el consenso."
+    },
+    {
+      "question": "La diferencia entre aprendizaje e interiorización sirve para distinguir:",
+      "options": [
+        "Lo que los humanos comparten con los animales, de lo que es propiamente humano y nos convierte en seres sociales",
+        "La socialización primaria de la secundaria",
+        "La cultura de la estructura social",
+        "El estatus de la clase"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El aprendizaje (repetición, imitación, premios y castigos, ensayo y error) puede aplicarse a animales; la interiorización de la realidad es propiamente humana y nos convierte en seres sociales."
+    },
+    {
+      "question": "Un adolescente que adopta la jerga de su grupo de amigos y la utiliza para sentirse parte de él ilustra:",
+      "options": [
+        "Socialización primaria dentro de la familia",
+        "Adquisición de vocabulario específico propio de la socialización secundaria",
+        "Una función latente de la religión",
+        "Movilidad social intergeneracional"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las jergas juveniles son ejemplo del vocabulario específico que se adquiere en la socialización secundaria, ligado a la identificación con nuevos grupos."
+    },
+    {
+      "question": "¿Qué puede concluirse sobre la relación entre los agentes primarios y los secundarios?",
+      "options": [
+        "Los secundarios son más importantes en la infancia",
+        "Los primarios pueden ser más trascendentales al principio de la vida, pero los secundarios ganan peso con los cambios sociales y las etapas vitales",
+        "Los agentes primarios desaparecen en la edad adulta",
+        "Los secundarios no participan en la identidad personal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los agentes primarios pueden ser más trascendentales en las primeras etapas, mientras que los secundarios se incorporan como parte esencial del proceso con los cambios sociales y según las etapas de la vida."
+    },
+    {
+      "question": "Una persona que pasa de ser peón a ser propietaria de una empresa constructora y se traslada a la capital ejemplifica la combinación de:",
+      "options": [
+        "Movilidad intergeneracional y reproducción social",
+        "Movilidad vertical ascendente y movilidad horizontal",
+        "Movilidad horizontal y descendente",
+        "Disfunción y función latente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ascender en la escala socioeconómica es movilidad vertical, y trasladarse a otra ciudad es movilidad horizontal; ambas pueden darse a la vez."
+    },
+    {
+      "question": "Si una persona nace en un hogar de clase obrera, llega a ser directora de un instituto y sus padres siguieron siendo obreros, se puede decir que:",
+      "options": [
+        "Hubo reproducción social completa",
+        "Hubo movilidad horizontal sin ascenso",
+        "Hubo movilidad intergeneracional ascendente",
+        "No hubo ningún tipo de movilidad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La persona alcanza un grupo social superior al de sus padres, lo que constituye movilidad intergeneracional ascendente."
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones resume mejor el valor de las teorías sociológicas para el profesorado?",
+      "options": [
+        "Aportan respuestas definitivas e iguales sobre cómo funciona la escuela",
+        "Ofrecen marcos distintos para interpretar la relación individuo-sociedad y, por tanto, los modelos de familia y de educación",
+        "Permiten predecir el rendimiento de cada alumno",
+        "Sustituyen el análisis de los casos concretos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cada teoría aborda la relación individuo-sociedad de forma distinta, lo que permite comprender cómo se interpretan los modelos de sociedad, familia y educación."
+    },
+    {
+      "question": "El concepto de habitus conecta la socialización con las desigualdades porque:",
+      "options": [
+        "Los esquemas adquiridos en la socialización condicionan percepciones y acciones y se reproducen en el sistema de enseñanza",
+        "Es una ley que regula el acceso a la escuela",
+        "Mide el nivel de ingresos familiar",
+        "Establece la edad de comienzo de la socialización secundaria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para Bourdieu, el habitus incorporado en la socialización condiciona percepciones y acciones y se reproduce en el sistema de enseñanza, donde el éxito depende del grupo social de procedencia."
+    },
+    {
+      "question": "Si se afirma que una sociedad es un grupo homogéneo con necesidades y objetivos comunes, ¿qué crítica del texto se le aplicaría?",
+      "options": [
+        "Que ignora el consenso moral",
+        "Que las sociedades están llenas de personas diversas con múltiples necesidades y objetivos que generan ideas nuevas",
+        "Que no reconoce funciones manifiestas",
+        "Que defiende la lucha de clases"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La limitación del funcionalismo es considerar la sociedad homogénea, cuando en realidad hay diversidad de personas, necesidades y objetivos que hacen evolucionar las sociedades."
+    },
+    {
+      "question": "¿Qué sostiene la teoría de clases marxista dentro de las teorías del conflicto sobre la relación entre grupos?",
+      "options": [
+        "Que los grupos cooperan en armonía por un consenso moral",
+        "Que los grupos construyen significados compartidos mediante símbolos",
+        "Que existe lucha entre clases por las diferencias en la relación con los medios de producción",
+        "Que los grupos se distinguen por su cultura"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La teoría de clases marxista pertenece a las teorías del conflicto: las clases se definen por su relación con los medios de producción y mantienen una lucha derivada de esa desigualdad."
+    },
+    {
+      "question": "¿Qué ejemplo ilustra la modernidad líquida de Bauman en el ámbito económico?",
+      "options": [
+        "Que los conceptos de economía e inversión eran más claros y tangibles hace décadas, y hoy son complejos y cambiantes",
+        "Que la economía se basa en el consenso moral",
+        "Que la economía se organiza en clases fijas",
+        "Que el trabajo remunerado ha desaparecido"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Bauman ilustra la fluidez de la realidad con la economía y la inversión: antes sus conceptos eran más claros y tangibles, y hoy son procesos complejos y cambiantes."
+    },
+    {
+      "question": "¿Por qué las diferencias de perspectiva entre disciplinas, como psicología, antropología y sociología, son relevantes para el profesorado?",
+      "options": [
+        "Porque cada una observa los fenómenos sociales desde una perspectiva distinta y aporta una comprensión complementaria",
+        "Porque permiten elegir la única disciplina válida",
+        "Porque eliminan la necesidad de la sociología",
+        "Porque sustituyen el estudio de la socialización"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La diferencia entre disciplinas la aporta la perspectiva desde la que se observa cada fenómeno; esa variedad ofrece una comprensión complementaria de la vida social."
+    }
+  ]
+}

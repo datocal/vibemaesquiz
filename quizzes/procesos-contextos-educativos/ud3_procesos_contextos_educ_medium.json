@@ -1,0 +1,2208 @@
+{
+  "title": "UD3. Organización de los centros educativos (Nivel medio)",
+  "description": "Quiz de nivel medio sobre la organización escolar, sus dimensiones, su evolución histórica, las teorías organizativas, la tipología de centros, su contexto, los espacios y la accesibilidad.",
+  "category": "procesos-contextos-educativos",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "¿A qué hace referencia, en esencia, el concepto de organización escolar según su origen etimológico?",
+      "options": [
+        "A evaluar el rendimiento de los centros educativos",
+        "A ordenar los centros educativos",
+        "A dirigir al profesorado de cada centro",
+        "A planificar los contenidos del currículo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El término organización deriva del griego «órgano» y equivale en latín a «ordenación», por lo que organización escolar remite a ordenar los centros educativos. Las demás opciones son funciones concretas, no el sentido etimológico."
+    },
+    {
+      "question": "¿Para qué sirve la estructura organizativa formal de un centro educativo?",
+      "options": [
+        "Para sustituir las decisiones del equipo docente por normas externas",
+        "Para homogeneizar al alumnado en grupos idénticos",
+        "Para eliminar las relaciones informales entre sus miembros",
+        "Para coordinar la actividad y poner en práctica las tareas necesarias para lograr los objetivos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La estructura formal se enfoca a coordinar la actividad y ejecutar las tareas que permiten alcanzar los objetivos propuestos, y sustenta funciones, responsabilidades y toma de decisiones. No elimina las relaciones informales ni busca homogeneizar."
+    },
+    {
+      "question": "¿Cómo se caracteriza la organización escolar como disciplina?",
+      "options": [
+        "Como disciplina aplicada que es ciencia, tecnología y práctica",
+        "Como una disciplina puramente teórica sin aplicación práctica",
+        "Como una rama exclusiva de la didáctica de cada materia",
+        "Como un conjunto de normas administrativas sin base científica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se trata de una disciplina aplicada, fundamentada en teorías de la organización y de la escuela, y debe considerarse ciencia, tecnología y práctica. No es meramente teórica ni se reduce a normativa."
+    },
+    {
+      "question": "Cuando se dice que la organización escolar tiene un sentido dinámico y otro estático, ¿qué significa?",
+      "options": [
+        "Dinámico es el efecto de organizar y estático la acción de organizar",
+        "Dinámico es el alumnado y estático el profesorado",
+        "Dinámico es la acción de organizar y estático el efecto de organizar",
+        "Dinámico es lo formal y estático lo informal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En sentido dinámico comprende la acción de organizar y en sentido estático el efecto o resultado de organizar. La primera opción invierte los conceptos y las otras no tienen relación con esta distinción."
+    },
+    {
+      "question": "¿Qué equilibrio debe existir en la organización escolar según los autores de referencia?",
+      "options": [
+        "Entre autonomía y control burocrático",
+        "Entre centralización y descentralización",
+        "Entre eficacia y eficiencia",
+        "Entre calidad y cantidad de alumnado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Entre los aspectos de la organización escolar se señala que debe existir un equilibrio entre la eficacia (lograr los objetivos) y la eficiencia (hacerlo con los recursos adecuados). Los otros pares no se plantean como equilibrio clave."
+    },
+    {
+      "question": "¿Cuáles son las cinco dimensiones de la realidad organizativa del centro según González et al. (2003)?",
+      "options": [
+        "Estructural, relacional, cultural, procesual y entorno",
+        "Estructural, curricular, cultural, funcional y comunitaria",
+        "Organizativa, relacional, ambiental, procesual y normativa",
+        "Directiva, pedagógica, cultural, social y de entorno"
+      ],
+      "correctAnswer": 0,
+      "explanation": "González et al. (2003) distinguen las dimensiones estructural, relacional, cultural, procesual y entorno. Las otras combinaciones mezclan términos que no forman parte de esta clasificación."
+    },
+    {
+      "question": "¿Qué elementos se incluyen en la dimensión estructural del centro?",
+      "options": [
+        "Los valores y creencias compartidos por el profesorado",
+        "Roles, unidades organizativas, mecanismos de decisión, tareas, espacios y materiales",
+        "Las relaciones con sindicatos y administraciones",
+        "Los planes de innovación y evaluación del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La dimensión estructural abarca roles, responsabilidades, unidades organizativas (departamentos, equipo directivo), mecanismos de decisión y comunicación, estructuración de tareas y espacios. Los valores son culturales, los planes procesuales y las relaciones externas son de entorno."
+    },
+    {
+      "question": "¿Por qué los centros de secundaria de un mismo sistema educativo tienen una dimensión estructural similar?",
+      "options": [
+        "Porque comparten el mismo clima social",
+        "Porque cuentan con el mismo alumnado",
+        "Porque parten de las normativas y regulaciones de la Administración educativa",
+        "Porque aplican las mismas metodologías en el aula"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La similitud estructural se debe a que todos parten de la normativa de la Administración educativa. El clima social y las relaciones difieren entre centros, y la metodología no determina la estructura formal."
+    },
+    {
+      "question": "¿Qué dimensión define el clima social del centro y, con él, la forma de afrontar los conflictos y la participación?",
+      "options": [
+        "Estructural",
+        "Procesual",
+        "Cultural",
+        "Relacional"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La dimensión relacional se centra en las relaciones formales e informales entre las personas, y define el clima social, el grado de satisfacción, la gestión de conflictos y la participación. La cultural se refiere a valores y creencias implícitos."
+    },
+    {
+      "question": "¿Qué procesos constituyen el núcleo de la dimensión procesual?",
+      "options": [
+        "Los procesos de enseñanza-aprendizaje",
+        "Los procesos de contratación del personal",
+        "Los procesos de matriculación del alumnado",
+        "Los procesos de gestión económica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la dimensión procesual, los procesos de enseñanza-aprendizaje son el núcleo del centro, y alrededor de ellos se ponen en marcha otras actuaciones organizativas como planes de mejora, evaluación o innovación."
+    },
+    {
+      "question": "¿Por qué se dice que la dimensión cultural es la menos visible?",
+      "options": [
+        "Porque no existe en los documentos del centro",
+        "Porque incluye valores, creencias y supuestos implícitos construidos por la interacción de sus miembros",
+        "Porque depende de la normativa autonómica",
+        "Porque se limita a las tradiciones festivas del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La dimensión cultural recoge valores, creencias y supuestos construidos con la interacción, que resultan implícitos. Aunque algunos valores aparecen en documentos organizativos, gran parte permanece implícita."
+    },
+    {
+      "question": "La relación de un instituto con una asociación de madres y padres, ¿en qué tipo de relaciones del entorno se clasifica?",
+      "options": [
+        "Relaciones mediatas",
+        "Relaciones inmediatas o directas",
+        "Relaciones formales internas",
+        "Relaciones culturales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La dimensión entorno distingue relaciones inmediatas o directas (Administración, equipos de orientación, asociaciones de padres y madres) y mediatas (instituciones gubernamentales, sindicatos)."
+    },
+    {
+      "question": "La relación del centro con los sindicatos, ¿qué tipo de relación del entorno representa?",
+      "options": [
+        "Inmediata",
+        "Estructural",
+        "Mediata",
+        "Procesual"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los sindicatos y las instituciones gubernamentales se clasifican como relaciones mediatas del entorno, frente a las inmediatas con la Administración, los equipos de orientación o las familias."
+    },
+    {
+      "question": "En un instituto, el reparto de horarios y la fijación de ratios de alumnado por aula, ¿a qué dimensión pertenecen?",
+      "options": [
+        "Estructural",
+        "Cultural",
+        "Relacional",
+        "Entorno"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La estructuración de las tareas (ratios, horarios) forma parte de la dimensión estructural, que describe cómo está organizado el centro."
+    },
+    {
+      "question": "Un centro elabora un plan de innovación y un plan de mejora. ¿Qué dimensión se refleja principalmente?",
+      "options": [
+        "Entorno",
+        "Estructural",
+        "Cultural",
+        "Procesual"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La dimensión procesual alude a la forma de actuar en los procesos y a las actuaciones organizativas como planes de actuación, evaluación, mejora, innovación o liderazgo."
+    },
+    {
+      "question": "Dos institutos con la misma normativa funcionan de manera muy distinta porque sus profesionales mantienen relaciones singulares. ¿Qué dimensión lo explica?",
+      "options": [
+        "La dimensión relacional",
+        "La dimensión estructural",
+        "La dimensión procesual",
+        "La dimensión de entorno"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La dimensión relacional explica que cada centro sea diferente por estar formado por personas con relaciones singulares, aunque la estructura formal sea similar por compartir normativa."
+    },
+    {
+      "question": "¿Quién empleó por primera vez el término organización escolar en 1854?",
+      "options": [
+        "Pedro de Alcántara",
+        "Francesco Tonucci",
+        "Mariano Carderera",
+        "Eduardo Vicente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mariano Carderera usó el término en 1854 en el primer diccionario de pedagogía, aunque diluido y fusionado con el concepto de didáctica. Alcántara lo separó de la didáctica en 1900."
+    },
+    {
+      "question": "¿Qué aportó Pedro de Alcántara en 1900 a la organización escolar?",
+      "options": [
+        "La fusionó con el concepto de didáctica",
+        "La incluyó como parte de la pedagogía, separada de la didáctica, con tres ámbitos",
+        "La definió como teoría general de sistemas",
+        "La limitó a la administración económica de los centros"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Alcántara incluyó la organización como parte de la pedagogía, ya separada de la didáctica, y estableció tres ámbitos: administración educativa, organización interna de la escuela y legislación."
+    },
+    {
+      "question": "¿Qué visión del centro educativo caracteriza la etapa de la escuela como organismo?",
+      "options": [
+        "Una empresa que regula técnicamente la enseñanza",
+        "Una comunidad que potencia la participación de las familias",
+        "Un sistema abierto totalmente dependiente del entorno",
+        "Un conjunto de elementos y miembros con funciones determinadas para que funcione"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En la etapa de la escuela como organismo, el centro se entiende formado por distintos elementos y miembros con funciones determinadas. La empresa corresponde a la etapa de fábrica y la comunidad a la de comunidad."
+    },
+    {
+      "question": "¿Qué idea defiende la etapa de la escuela como fábrica?",
+      "options": [
+        "Que la enseñanza puede regularse técnicamente y siguiendo los pasos pertinentes se garantiza la calidad",
+        "Que el centro debe potenciar la participación de todos los agentes",
+        "Que cada docente debe adaptar la organización a su aula",
+        "Que el centro debe abrirse a las necesidades de la comunidad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La escuela como fábrica concibe el centro como una empresa en la que la enseñanza se regula técnicamente y la calidad se asegura siguiendo los pasos adecuados. Las demás opciones remiten a la visión comunitaria."
+    },
+    {
+      "question": "¿Qué objetivo persigue la etapa de la escuela como comunidad?",
+      "options": [
+        "Maximizar los resultados medibles del alumnado",
+        "Satisfacer las necesidades de la comunidad potenciando la participación del profesorado, alumnado y familias",
+        "Reducir la influencia del entorno sobre el centro",
+        "Normalizar los procedimientos escritos del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En esta etapa el centro se concibe como comunidad educativa que potencia la participación de profesorado, alumnado y familias para satisfacer las necesidades de la comunidad."
+    },
+    {
+      "question": "¿De qué ámbito proceden las teorías generales que han influido en la organización escolar?",
+      "options": [
+        "Del ámbito militar y religioso",
+        "Del ámbito sanitario y asistencial",
+        "Del ámbito empresarial, industrial o comercial",
+        "Del ámbito exclusivamente pedagógico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Estas teorías organizativas están inspiradas en el ámbito empresarial, industrial o comercial y se trasladaron después a la explicación de las organizaciones educativas."
+    },
+    {
+      "question": "¿Qué finalidad tenía la teoría de la organización científica impulsada por Taylor y Fayol?",
+      "options": [
+        "Humanizar el trabajo en las organizaciones",
+        "Racionalizar el trabajo para obtener más beneficios",
+        "Fomentar el desarrollo personal de los trabajadores",
+        "Abrir las organizaciones a su entorno"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El management científico surgió a principios del siglo XX por la complejidad de las organizaciones industriales y buscaba racionalizar el trabajo para aumentar beneficios, mediante un análisis científico de tiempos y tareas."
+    },
+    {
+      "question": "¿Qué consecuencias tiene la teoría científica en la organización escolar?",
+      "options": [
+        "Clasificación homogénea del alumnado y jerarquización y centralización del sistema",
+        "Mayor participación democrática de las familias",
+        "Apertura del centro al entorno social",
+        "Cambios planificados a partir de un diagnóstico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Al asimilar el centro y el alumnado a una máquina de producción de conocimientos, se clasifica de forma homogénea a los estudiantes y se jerarquiza y centraliza el sistema escolar."
+    },
+    {
+      "question": "La viñeta «La máquina de la escuela» de Tonucci ilustra críticamente qué enfoque?",
+      "options": [
+        "El movimiento de las relaciones humanas",
+        "La teoría del desarrollo organizativo",
+        "La teoría general de sistemas",
+        "La teoría de la organización científica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La viñeta representa al centro y al alumnado como una máquina de producción de conocimientos, idea propia de la organización científica, que da poca importancia al ser humano y se centra en el resultado."
+    },
+    {
+      "question": "¿En qué se basa el modelo burocrático de Max Weber?",
+      "options": [
+        "En la adaptación constante al entorno",
+        "En la motivación individual de los trabajadores",
+        "En un poder legal, racional e imparcial con normas y órdenes escritas",
+        "En el liderazgo carismático del director"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Weber considera la organización un problema político basado en un poder legal, racional e imparcial, y propone la burocracia con énfasis en normas y órdenes escritas y en adecuar los medios a los fines."
+    },
+    {
+      "question": "Según el modelo burocrático, ¿cómo se concibe el centro educativo en relación con su entorno?",
+      "options": [
+        "Como un sistema abierto y flexible",
+        "Como un conjunto rígido de roles y normas cerrado al entorno",
+        "Como una comunidad dependiente de las familias",
+        "Como una organización en cambio permanente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El modelo burocrático ve el centro como un conjunto rígido de roles, normas y significados, cerrado al entorno, lo que permitiría controlar y predecir con exactitud los resultados."
+    },
+    {
+      "question": "¿Qué problema trató de corregir el movimiento de las relaciones humanas de Elton Mayo?",
+      "options": [
+        "La falta de normas escritas",
+        "La excesiva apertura de las empresas al entorno",
+        "La ausencia de planificación del cambio",
+        "La tendencia a la deshumanización en el trabajo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Surge en Estados Unidos para corregir la deshumanización en el trabajo, haciendo énfasis en las personas y compatibilizando los intereses de la empresa con los de los trabajadores."
+    },
+    {
+      "question": "¿Cómo se refleja la teoría de las relaciones humanas en la organización escolar?",
+      "options": [
+        "En la democracia escolar y la educación personalizada",
+        "En la clasificación homogénea del alumnado",
+        "En la burocratización de los procedimientos",
+        "En el control exhaustivo de los tiempos de trabajo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Su influencia se aprecia en la democracia escolar y la educación personalizada, aunque manteniendo unidad, jerarquía y coordinación para cumplir los intereses de la organización."
+    },
+    {
+      "question": "¿Quién formuló la teoría general de sistemas y a mediados de qué siglo surgió?",
+      "options": [
+        "Weber, a principios del siglo XIX",
+        "Taylor, a principios del siglo XX",
+        "Mayo, a finales del siglo XIX",
+        "Bertalanffy, a mediados del siglo XX"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La teoría general de sistemas surgió a mitad del siglo XX de la mano del biólogo alemán Ludwig von Bertalanffy, con el objetivo de elaborar principios aplicables a cualquier sistema."
+    },
+    {
+      "question": "Aplicada a la escuela, ¿qué implica la teoría general de sistemas?",
+      "options": [
+        "Que las escuelas deben ser cerradas y autosuficientes",
+        "Que las escuelas deben ser abiertas y dependientes del entorno, con influencia mutua",
+        "Que las escuelas deben seguir un modelo único de gestión",
+        "Que las escuelas deben estar dirigidas con órdenes escritas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Esta teoría implica escuelas abiertas, versátiles y dependientes del entorno, con una influencia que va de la escuela al entorno y viceversa. El cierre al entorno es propio del modelo burocrático."
+    },
+    {
+      "question": "¿Qué aporta Griffiths a partir de la teoría general de sistemas?",
+      "options": [
+        "El estudio de tiempos y movimientos",
+        "El concepto de burocracia racional",
+        "Los subsistemas sociales formados por individuos y grupos de una misma organización",
+        "Las fases del cambio planificado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Griffiths establece los subsistemas sociales formados por individuos y grupos de trabajo de una misma organización, lo que permite explicar el funcionamiento basado en relaciones y vínculos entre iguales."
+    },
+    {
+      "question": "¿Cuándo y dónde surge la teoría del desarrollo organizativo?",
+      "options": [
+        "En los años 70 en Estados Unidos",
+        "A principios del siglo XX en Europa",
+        "En los años 90 en España",
+        "A mediados del siglo XIX en Alemania"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La teoría del desarrollo organizativo surge en los años 70 en Estados Unidos en torno al desarrollo planeado de las organizaciones, entendido como cambios planificados a partir de un diagnóstico."
+    },
+    {
+      "question": "¿Cuáles son las cuatro variables en que se fundamentan los cambios según la teoría del desarrollo organizativo?",
+      "options": [
+        "Estructura, tarea, tecnología y normativa",
+        "Autoridad, jerarquía, norma y control",
+        "Medioambiente, organización, grupo social e individuo",
+        "Clima, cultura, espacio y tiempo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los cambios se fundamentan en el medioambiente, la organización, el grupo social (liderazgo, comunicación, relaciones) y el individuo (motivaciones, habilidades, necesidades e intereses)."
+    },
+    {
+      "question": "¿Qué busca la teoría del desarrollo organizativo en el ámbito escolar?",
+      "options": [
+        "Fijar normas inmutables para predecir resultados",
+        "Modificar estrategias, normas y motivación del grupo para adaptarse al nuevo ambiente y mejorar",
+        "Aislar al centro de las influencias del entorno",
+        "Aumentar la producción de conocimientos mediante el control de tiempos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Busca modificar las estrategias organizativas, las normas y la motivación del grupo social, adaptarse al nuevo ambiente y mejorar a individuos e instituciones. Las otras opciones se asocian a modelos científico o burocrático."
+    },
+    {
+      "question": "Un centro evalúa los resultados únicamente en cifras y descuida el proceso y a las personas. ¿Con qué teoría se identifica esta visión?",
+      "options": [
+        "Con la teoría de la organización científica",
+        "Con la teoría general de sistemas",
+        "Con el movimiento de las relaciones humanas",
+        "Con la teoría del desarrollo organizativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En la organización científica importan los resultados medidos objetivamente y se atiende al resultado final y no al proceso, con poca importancia al ser humano."
+    },
+    {
+      "question": "¿Qué teoría prioriza la elaboración de normas y órdenes escritas para adecuar los medios a los fines?",
+      "options": [
+        "Teoría general de sistemas",
+        "Modelo burocrático clásico",
+        "Desarrollo organizativo",
+        "Relaciones humanas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El modelo burocrático weberiano hace hincapié en el establecimiento de normas y órdenes escritas para adecuar los medios a los fines que se pretenden."
+    },
+    {
+      "question": "Si un equipo directivo analiza la relación entre el entorno, el centro y la comunidad como subsistemas interdependientes, ¿qué enfoque está aplicando?",
+      "options": [
+        "Modelo burocrático",
+        "Organización científica",
+        "Teoría general de sistemas",
+        "Relaciones humanas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las continuas relaciones entre entorno, centro escolar y comunidad como subsistemas relacionados corresponden a la teoría general de sistemas, que explica el funcionamiento basado en vínculos e interrelaciones."
+    },
+    {
+      "question": "Según Ferrández-Arenaz, ¿por qué no es posible pensar en procesos de enseñanza-aprendizaje al margen de la organización?",
+      "options": [
+        "Porque la organización sustituye al currículo",
+        "Porque la enseñanza depende exclusivamente de la legislación",
+        "Porque la organización determina la evaluación final del alumnado",
+        "Porque dependen de la organización del centro, las funciones docentes, las relaciones y la gestión de tiempos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La cita señala que los procesos de enseñanza-aprendizaje están unidos a planteamientos organizativos como la organización del centro, las funciones docentes, las relaciones humanas y la gestión de tiempos."
+    },
+    {
+      "question": "En la definición de Santamaría (2021), la organización escolar se orienta al logro de:",
+      "options": [
+        "Los objetivos educativos conjuntamente planteados",
+        "Los resultados económicos del centro",
+        "La uniformidad de los métodos docentes",
+        "La reducción de la participación familiar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Santamaría define la organización escolar como ordenación consciente de fines, personas y recursos, en interdependencia sociocultural, política, administrativa y legislativa, orientada al logro de los objetivos educativos conjuntamente planteados."
+    },
+    {
+      "question": "¿Con qué conceptos se relaciona la organización escolar como instrumento de ordenación?",
+      "options": [
+        "Con la rigidez, el aislamiento y la uniformidad",
+        "Con la eficacia, la calidad, la correcta adecuación y la normatividad",
+        "Con la competitividad, el beneficio y la jerarquía",
+        "Con la espontaneidad, la improvisación y la autonomía total"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre los aspectos de la organización escolar se señala su relación con la eficacia, la calidad, la correcta adecuación y la normatividad, combinando elementos interdependientes."
+    },
+    {
+      "question": "Dos centros aplican procesos similares, pero uno es muy jerarquizado y otro participativo. ¿Qué cabe esperar según la dimensión procesual?",
+      "options": [
+        "Que los procesos se implanten de igual forma en ambos",
+        "Que el centro participativo no tenga procesos de enseñanza",
+        "Que los procesos no se implanten ni desarrollen de igual forma en ambos",
+        "Que ambos tengan idéntico clima social"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los procesos no son independientes de las estructuras: no se implantan y desarrollan de la misma manera en un centro con estructuras participativas que en otro muy jerarquizado."
+    },
+    {
+      "question": "¿Cómo se relaciona la dimensión cultural con los documentos organizativos del centro?",
+      "options": [
+        "Ningún valor aparece reflejado en ellos",
+        "Todos los valores están recogidos de forma explícita",
+        "Los documentos sustituyen la cultura del centro",
+        "Algunos valores y principios sí están recogidos en ellos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Aunque la dimensión cultural es la más implícita, algunos valores y principios sí quedan recogidos en los documentos organizativos del centro."
+    },
+    {
+      "question": "La teoría general de sistemas se refleja en la escuela en diferentes niveles. ¿Cuáles?",
+      "options": [
+        "En el sistema educativo, en un centro escolar y en el aula",
+        "Solamente en el sistema educativo estatal",
+        "En el departamento didáctico y la tutoría familiar",
+        "En la familia y en el entorno laboral"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La interrelación sistémica se observa de manera general en el sistema educativo y de manera particular en un centro escolar o en la propia aula."
+    },
+    {
+      "question": "¿En qué asignatura se profundizará en las teorías organizativas según la unidad?",
+      "options": [
+        "Innovación Docente e Iniciación a la Investigación Educativa",
+        "Sociedad, Familia y Educación",
+        "Aprendizaje y Desarrollo de la Personalidad",
+        "Complementos de Formación Disciplinar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La unidad indica que estas teorías se abordarán en profundidad en la UD6 de la asignatura Sociedad, Familia y Educación. Innovación Docente se menciona en relación con el aprendizaje-servicio."
+    },
+    {
+      "question": "Compara el enfoque de las relaciones humanas con el de la organización científica: ¿cuál es la diferencia principal?",
+      "options": [
+        "La primera otorga importancia a las personas y la segunda se centra en la racionalización y los resultados",
+        "La primera defiende el control de tiempos y la segunda la democracia escolar",
+        "La primera propone un centro cerrado y la segunda un centro abierto",
+        "La primera surgió en el siglo XIX y la segunda en los años 70"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las relaciones humanas ponen énfasis en las personas y en compatibilizar sus intereses con los de la organización, mientras que la organización científica prioriza la racionalización del trabajo y los resultados medibles."
+    },
+    {
+      "question": "¿Por qué resulta complejo delimitar el concepto de centro educativo?",
+      "options": [
+        "Porque cada uno tiene características y peculiaridades propias como enseñanzas, titularidad, financiación y denominación",
+        "Porque la ley no reconoce una definición de centro",
+        "Porque los centros públicos y privados no pueden compararse",
+        "Porque los centros cambian de nombre cada curso"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cada centro presenta características concretas (enseñanzas que imparte, titularidad, financiación, denominación), lo que dificulta una definición única. Las otras opciones no se corresponden con lo expuesto."
+    },
+    {
+      "question": "Según Teixidó (2005), ¿qué características comparten todos los centros educativos?",
+      "options": [
+        "Titularidad pública, financiación estatal y currículo común",
+        "Objetivos que orientan la educación, acción coordinada de un grupo de personas y fines previamente establecidos",
+        "Edificio propio, claustro estable y un único nivel educativo",
+        "Autonomía de gestión, concierto educativo y evaluación externa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Teixidó señala tres rasgos comunes: poseen objetivos que orientan la educación, implican la acción coordinada de personas que interaccionan y buscan fines previamente establecidos."
+    },
+    {
+      "question": "¿Qué reconoce el artículo 27.6 de la Constitución española de 1978 en relación con los centros?",
+      "options": [
+        "La gratuidad de todos los centros privados",
+        "La obligación de que los centros sean públicos",
+        "La libertad de creación de centros docentes por personas físicas y jurídicas, dentro del respeto a los principios constitucionales",
+        "La centralización de la titularidad de los centros en el Estado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El artículo 27.6 reconoce a personas físicas y jurídicas la libertad de creación de centros docentes con respeto a los principios constitucionales, lo que permite la existencia de centros privados."
+    },
+    {
+      "question": "¿Cómo se define un centro público según titularidad y financiación?",
+      "options": [
+        "Titularidad privada y financiación mixta",
+        "Titularidad privada y financiación pública",
+        "Titularidad de la Administración educativa y financiación con fondos privados",
+        "Titularidad de la Administración educativa y financiación con fondos públicos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En un centro público la titularidad corresponde a la Administración educativa y se financia con fondos públicos. El concertado combina titularidad privada y posible financiación pública."
+    },
+    {
+      "question": "¿Qué distingue a un centro privado concertado de un centro privado?",
+      "options": [
+        "Puede financiarse con fondos públicos mediante un régimen de conciertos",
+        "Su titularidad corresponde a la Administración",
+        "Imparte enseñanzas distintas a las del sistema",
+        "Carece de titular identificable"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ambos tienen titularidad privada, pero el concertado puede recibir fondos públicos mediante conciertos, mientras que el privado se financia con fondos privados."
+    },
+    {
+      "question": "¿Qué etapa imparte una Escuela Infantil (EI)?",
+      "options": [
+        "Educación Primaria",
+        "Educación Infantil de 0 a 6 años",
+        "Educación Infantil de 3 a 6 años únicamente",
+        "Educación Secundaria Obligatoria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las escuelas infantiles imparten Educación Infantil (0-6 años). El CEIP añade además la Educación Primaria."
+    },
+    {
+      "question": "¿Qué etapas imparte un CEIP?",
+      "options": [
+        "Educación Infantil y Educación Secundaria",
+        "Educación Primaria y Bachillerato",
+        "Educación Infantil (0-6 años) y Educación Primaria (6-12 años)",
+        "Educación Primaria y Formación Profesional Básica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Centro de Educación Infantil y Primaria imparte Educación Infantil (0-6) y Primaria (6-12). El CEP, en cambio, solo imparte Primaria."
+    },
+    {
+      "question": "¿Qué caracteriza a un Centro Rural Agrupado (CRA)?",
+      "options": [
+        "Imparte Bachillerato en zonas rurales",
+        "Atiende a personas adultas del medio rural",
+        "Imparte Formación Profesional agraria",
+        "Imparte el segundo ciclo de Infantil (3-6 años) y Educación Primaria (6-12 años)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El CRA agrupa el segundo ciclo de Educación Infantil y la Educación Primaria. Las otras opciones corresponden a otros tipos de centro o a enseñanzas distintas."
+    },
+    {
+      "question": "¿A quién atiende un Centro de Educación Especial (CEE)?",
+      "options": [
+        "Al alumnado con necesidades educativas especiales de 3 a 21 años",
+        "Al alumnado de altas capacidades de 6 a 16 años",
+        "Al alumnado extranjero recién llegado",
+        "Al alumnado adulto sin titulación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según la tabla de denominaciones, los CEE atienden alumnado con necesidades educativas especiales (NEE) de 3 a 21 años."
+    },
+    {
+      "question": "¿Qué enseñanzas imparte un Instituto de Educación Secundaria (IES)?",
+      "options": [
+        "Educación Primaria y ESO",
+        "ESO, Bachillerato y Formación Profesional",
+        "Solo Bachillerato",
+        "Bachillerato y enseñanzas universitarias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El IES imparte ESO, Bachillerato y Formación Profesional, según la clasificación de Eurydice (2023)."
+    },
+    {
+      "question": "¿Qué ofrece un Centro Integrado de Formación Profesional (CIFP)?",
+      "options": [
+        "Enseñanzas artísticas superiores y conservatorio",
+        "Educación de personas adultas y alfabetización",
+        "Formación Profesional y/o certificados de profesionalidad",
+        "Enseñanzas de idiomas por niveles"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los CIFP integran la Formación Profesional y los certificados de profesionalidad, uniendo la FP reglada y la formación para el empleo."
+    },
+    {
+      "question": "¿Cuál es la especificidad de los Centros de Referencia Nacional (CRN)?",
+      "options": [
+        "Atienden únicamente a alumnado de educación especial",
+        "Están especializados en un sector industrial o una familia profesional de FP",
+        "Imparten Bachillerato de investigación",
+        "Coordinan las escuelas rurales de cada provincia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los CRN están especializados en un sector industrial específico o familia profesional de FP, con el fin de fomentar la innovación y experimentación en los sectores productivos."
+    },
+    {
+      "question": "Además de los centros de la tabla de denominaciones, ¿cuál de los siguientes también se menciona como centro no universitario?",
+      "options": [
+        "Facultades de educación",
+        "Colegios mayores universitarios",
+        "Conservatorios de música y danza",
+        "Academias de oposiciones"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se mencionan conservatorios de música y danza, Escuela Oficial de Idiomas, escuelas superiores de arte dramático y diseño, centros de formación y experimentación agraria y centros ocupacionales."
+    },
+    {
+      "question": "¿Qué pueden hacer las comunidades autónomas respecto a la denominación de los centros?",
+      "options": [
+        "Prohibir los centros privados",
+        "Cambiar el currículo básico estatal",
+        "Eliminar los centros integrados",
+        "Determinar la denominación de otros centros públicos con enseñanzas agrupadas de forma distinta"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las comunidades autónomas, a través de sus Administraciones educativas, pueden determinar la denominación de otros centros públicos que ofrezcan enseñanzas agrupadas de manera distinta a la tabla."
+    },
+    {
+      "question": "Según Bolívar (2010), ¿a qué hace referencia el contexto interno de un centro?",
+      "options": [
+        "A la configuración organizativa: características que aportan identidad, cultura e imagen al centro",
+        "A las acciones de política educativa de la Administración",
+        "A las redes de colaboración con otras entidades",
+        "Al nivel sociocultural de las familias del barrio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El contexto interno es la configuración organizativa, con rasgos que dan identidad, cultura e imagen al centro, como las particularidades del alumnado o la singularidad del profesorado."
+    },
+    {
+      "question": "¿Cuál de estos elementos pertenece al contexto externo del centro?",
+      "options": [
+        "La singularidad del profesorado",
+        "La implicación de las familias y las acciones de política educativa",
+        "La cultura propia del claustro",
+        "Las particularidades sociales del alumnado dentro del aula"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El contexto externo incluye las características de la comunidad educativa (nivel sociocultural, redes de colaboración, implicación de las familias) y las acciones de política educativa (recursos, apoyo)."
+    },
+    {
+      "question": "Un instituto cuenta con un profesorado muy estable y con una imagen consolidada en el barrio. ¿A qué contexto se refiere principalmente esta característica?",
+      "options": [
+        "Al contexto externo",
+        "Al contexto político",
+        "Al contexto interno",
+        "Al contexto normativo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La identidad, cultura e imagen del centro y la singularidad del profesorado forman parte de su configuración organizativa, es decir, del contexto interno."
+    },
+    {
+      "question": "Durante muchos años los poderes públicos se mantuvieron al margen de la educación. ¿A qué institución se derivó principalmente esta tarea?",
+      "options": [
+        "A los gremios",
+        "A los ayuntamientos",
+        "A las empresas",
+        "A la iglesia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Según Bonal (2002), los poderes públicos derivaron la tarea educativa a otras instituciones, entre ellas la iglesia."
+    },
+    {
+      "question": "¿Qué cambio introdujo Francia tras la Revolución francesa de 1789?",
+      "options": [
+        "Un sistema centralista de educación que eliminó la responsabilidad del clero",
+        "Un sistema descentralizado basado en municipios",
+        "La gestión de las escuelas por parte de las familias",
+        "La privatización de todos los liceos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tras 1789 Francia implantó un sistema centralista de educación, eliminando la responsabilidad del clero. Muchos países, entre ellos España, copiaron ese modelo."
+    },
+    {
+      "question": "La anécdota del ministro francés sobre el latín en todos los liceos a las once de la mañana ilustra:",
+      "options": [
+        "La libertad curricular de cada liceo",
+        "La uniformidad derivada de la centralización de la educación",
+        "La escasa importancia de las lenguas clásicas",
+        "El predominio de la educación privada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La frase refleja que, con la centralización, todos los liceos seguían el mismo plan a la misma hora: una educación uniforme y controlada desde el centro."
+    },
+    {
+      "question": "¿Cómo se caracterizó la gestión de los centros durante el franquismo?",
+      "options": [
+        "Participativa y descentralizada",
+        "Autónoma y orientada a la comunidad",
+        "Burocrática y centralista, desigualitaria y autoritaria en la toma de decisiones",
+        "Flexible y abierta al entorno"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Con el franquismo se instauró un sistema burocrático y centralista, desigualitario y autoritario en la toma de decisiones, y obsoleto en contenidos y formación del profesorado (Bonal, 2002)."
+    },
+    {
+      "question": "¿Qué ocurre con la gestión de los centros tras la Constitución de 1978?",
+      "options": [
+        "Se suprime la gestión central en favor de los municipios",
+        "Se mantiene un modelo centralizado pero con cada vez más autonomía para los centros",
+        "Se privatiza la gestión de todos los centros",
+        "Se vuelve al modelo eclesiástico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se continúa con un modelo de gestión centralizado, pero otorgando progresivamente más autonomía a los centros para mejorar resultados y calidad educativa (Tébar, 2018)."
+    },
+    {
+      "question": "¿Qué tipo de centros se demandan actualmente según Bolívar (2010)?",
+      "options": [
+        "Centros cerrados que protejan su cultura académica",
+        "Centros especializados en un solo nivel",
+        "Centros abiertos y con capacidad de adaptación a contextos sociales complejos",
+        "Centros dependientes de un único modelo normativo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hoy se demandan centros abiertos y con capacidad de adaptación a los complejos contextos sociales."
+    },
+    {
+      "question": "¿Por qué se califica a la Educación Secundaria como compleja y problemática?",
+      "options": [
+        "Complejo por la normativa y problemático por el profesorado",
+        "Complejo por el número de centros y problemático por la financiación",
+        "Complejo por las materias y problemático por la evaluación",
+        "Complejo por el tramo de edad que abarca y problemático por el lugar intermedio que ocupa en el sistema"
+      ],
+      "correctAnswer": 3,
+      "explanation": "De Puelles (2011) la considera compleja por el tramo de edad que abarca y problemática por su lugar intermedio en el sistema educativo."
+    },
+    {
+      "question": "¿Qué denominaciones ha recibido históricamente la etapa que hoy llamamos Educación Secundaria?",
+      "options": [
+        "Enseñanza Media, Segunda Enseñanza o Bachillerato",
+        "Enseñanza Primaria Superior o Escuela Normal",
+        "Formación Profesional Básica o Escuela Taller",
+        "Instrucción Pública o Enseñanza Complementaria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según Viñao (2013), la etapa ha pasado por distintas formas de organización y denominación: Enseñanza Media, Segunda Enseñanza o Bachillerato."
+    },
+    {
+      "question": "La cita de Eduardo Vicente en el Congreso de 1901 sobre la enseñanza secundaria pone de manifiesto que:",
+      "options": [
+        "Existía consenso sobre su naturaleza",
+        "No había acuerdo sobre su naturaleza: preparación para la vida, cultura general, continuación de primaria o antecámara de la universidad",
+        "Estaba destinada exclusivamente a la formación técnica",
+        "Era una etapa ya perfectamente configurada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La cita refleja la falta de acuerdo sobre qué es la secundaria: para unos preparación para la vida, para otros cultura general, continuación de primaria o antecámara de la universidad."
+    },
+    {
+      "question": "¿Cuál es el origen remoto de la enseñanza secundaria?",
+      "options": [
+        "Las escuelas monásticas del siglo V",
+        "La Ilustración del siglo XVIII",
+        "Las facultades de artes, escuelas de gramática latina y colegios de humanidades de la Baja Edad Media",
+        "Las escuelas industriales del siglo XIX"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Su origen se remonta a la Baja Edad Media (siglos XIV y XV) con facultades de artes, escuelas de gramática latina y colegios de humanidades, donde se impartían estudios preparatorios para la universidad."
+    },
+    {
+      "question": "¿Qué se propuso en la Constitución de Cádiz (1812) respecto a la Segunda Enseñanza?",
+      "options": [
+        "Que se impartiera en los conventos",
+        "Que se impartiera en las escuelas de primeras letras",
+        "Que fuera gratuita en todo el territorio",
+        "Que se impartiera en centros llamados Universidades de Provincia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La Constitución de Cádiz propuso que la Segunda Enseñanza se impartiera en centros denominados Universidades de Provincia (Lorenzo-Vicente, 1996)."
+    },
+    {
+      "question": "¿Qué hito marca la configuración de la Educación Secundaria en España en los años 30-40 del siglo XIX?",
+      "options": [
+        "La creación en 1835 del primer instituto de segunda enseñanza, en Palma de Mallorca",
+        "La creación del instituto-escuela de Madrid",
+        "La aprobación de la Ley General de Educación",
+        "La apertura de la Escuela Central de Idiomas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El nivel se termina de configurar con la creación en 1835 del primer instituto de segunda enseñanza, situado en Palma de Mallorca (Viñao, 2013)."
+    },
+    {
+      "question": "¿Con qué objetivo se crearon en 1903 los institutos generales y técnicos?",
+      "options": [
+        "Impartir enseñanzas de agricultura, comercio y magisterio, además del bachillerato general",
+        "Preparar exclusivamente para la universidad",
+        "Formar únicamente a maestros de primaria",
+        "Atender al alumnado adulto trabajador"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los institutos generales y técnicos de 1903 ofrecían enseñanzas de agricultura, comercio, magisterio, etc., junto con el bachillerato general."
+    },
+    {
+      "question": "¿Qué pretendía la creación del instituto-escuela de Madrid en 1918?",
+      "options": [
+        "Sustituir el bachillerato por la FP",
+        "Reformar la Educación Secundaria probando primero el diseño curricular en la práctica y luego incorporarlo a la legislación",
+        "Crear un centro exclusivo para las élites",
+        "Unificar las escuelas de idiomas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se diseñó un currículo y se puso en práctica en la institución para evaluarlo; con las modificaciones oportunas se incorporaría después a la legislación."
+    },
+    {
+      "question": "¿Qué supuso la Ley General de Educación de 1970 para los institutos?",
+      "options": [
+        "Los cerró para el alumnado menor de 14 años",
+        "Los reservó al alumnado universitario",
+        "Su apertura a toda la población escolar de 6 a 16 años",
+        "Su conversión en centros de FP"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La LGE (1970) abrió los institutos a toda la población escolar de 6 a 16 años, tras un sistema selectivo y exclusivo de clases altas."
+    },
+    {
+      "question": "Antes de la LGE de 1970, ¿cómo era la enseñanza secundaria?",
+      "options": [
+        "Universal y gratuita",
+        "Un sistema selectivo y exclusivo de las clases altas",
+        "Un sistema orientado a la formación para el empleo",
+        "Un sistema gestionado por las familias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hasta 1970 las enseñanzas secundarias eran selectivas y exclusivas de las clases altas, concebidas para quienes después irían a la universidad."
+    },
+    {
+      "question": "¿Por qué los actuales IES muestran dificultades para atender la diversidad del alumnado?",
+      "options": [
+        "Porque carecen de profesorado especializado",
+        "Porque su financiación procede de fondos privados",
+        "Porque imparten únicamente Formación Profesional",
+        "Porque heredan los antiguos institutos, diseñados para élites que iban a la universidad"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los IES heredan los antiguos institutos diseñados para élites, por lo que su organización necesita un rediseño ajustado a las necesidades y demandas actuales (Bolívar, 2010)."
+    },
+    {
+      "question": "¿De qué necesidad ha surgido históricamente la Formación Profesional?",
+      "options": [
+        "De la necesidad de las empresas de formar trabajadores",
+        "De la necesidad de acceder a la universidad",
+        "De la necesidad de alfabetizar a la población",
+        "De la necesidad de unificar el currículo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La FP surgió de la necesidad de las empresas de formar trabajadores, con una doble perspectiva: la formación propia de las empresas y la formación reglada con itinerario profesionalizante."
+    },
+    {
+      "question": "¿Cuál es la doble perspectiva desde la que ha partido la FP?",
+      "options": [
+        "Pública universitaria y privada religiosa",
+        "Centros privados que formaban a sus trabajadores y formación reglada con itinerario profesionalizante",
+        "Formación local y formación internacional",
+        "Formación inicial del profesorado y formación continua"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Por un lado, las empresas formaban a sus propios trabajadores; por otro, la formación reglada aportaba un itinerario profesionalizante ajustado a las demandas de la sociedad."
+    },
+    {
+      "question": "¿Qué fue el Conservatorio de Artes fundado en Madrid en 1824?",
+      "options": [
+        "Un centro privado de música",
+        "Una escuela de magisterio",
+        "Un centro público que preparaba para operaciones industriales en artes, oficios y agricultura",
+        "Un instituto de segunda enseñanza"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Fue un centro público para preparar en operaciones industriales de artes, oficios y agricultura; en 1827 pasó a ser de enseñanzas técnicas y en 1850 Real Instituto Industrial."
+    },
+    {
+      "question": "¿En qué se transformó el Conservatorio de Artes con la reorganización de la formación técnica de 1850?",
+      "options": [
+        "En la Escuela Central de Idiomas",
+        "En la primera Escuela de Artes y Oficios",
+        "En un instituto laboral",
+        "En el Real Instituto Industrial"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En 1850 se transformó en el Real Instituto Industrial, con carácter de escuela industrial superior (Montero, 1998)."
+    },
+    {
+      "question": "¿Qué consecuencia tuvo la Ley Moyano de 1857 en la formación técnica?",
+      "options": [
+        "La creación de las Escuelas Profesionales de Artes y Oficios, aunque la primera no se fundó hasta 1886 en Sarriá",
+        "La regulación de los centros integrados de FP",
+        "La creación de las escuelas-taller",
+        "La integración de la FP en los IES"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tras la Ley de Instrucción Pública de 1857 se crean las Escuelas Profesionales de Artes y Oficios, pero la primera escuela se funda en 1886 en Sarriá."
+    },
+    {
+      "question": "¿A quién iba dirigida la educación técnica de las Escuelas de Artes y Oficios?",
+      "options": [
+        "A las élites universitarias",
+        "A las clases medias y bajas, según las necesidades de la pequeña burguesía industrial",
+        "A las mujeres de familias nobles",
+        "A los maestros en formación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Su objetivo era dar una educación técnica a las clases medias y bajas orientada a las necesidades de la pequeña burguesía industrial."
+    },
+    {
+      "question": "¿Qué ocurre en 1928 en la FP y a qué se debe?",
+      "options": [
+        "Se integra en los IES por la LOGSE",
+        "Se regulan e institucionalizan estas enseñanzas en el sector público, tras la reindustrialización posterior a la Primera Guerra Mundial",
+        "Se crean las escuelas-taller por la entrada en la Comunidad Europea",
+        "Se aprueba la LOE"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En 1928 se regulan e institucionalizan las enseñanzas profesionales en el sector público, implantando una red de centros para dar respuesta a las necesidades de formación tras la reindustrialización posterior a la Primera Guerra Mundial."
+    },
+    {
+      "question": "¿Qué tipos de centros de estudio existían en la FP de 1928?",
+      "options": [
+        "Institutos laborales, politécnicos y escuelas-taller",
+        "Facultades técnicas y colegios mayores",
+        "Oficinas-laboratorios, escuelas de trabajo, escuelas especiales y escuelas industriales",
+        "Escuelas de aprendizaje y conservatorios"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Existían oficinas-laboratorios (preaprendizaje), escuelas de trabajo (oficiales y maestros industriales), escuelas especiales (oficiales y maestros artesanos) y escuelas industriales (técnicos industriales)."
+    },
+    {
+      "question": "¿Qué eran los institutos laborales surgidos en 1949?",
+      "options": [
+        "Centros únicamente femeninos de magisterio",
+        "Centros de idiomas para adultos",
+        "Centros exclusivos de la iglesia",
+        "Centros masculinos o femeninos, públicos o privados, con talleres y aulas tradicionales"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los institutos laborales podían ser masculinos o femeninos, públicos o privados, y contaban con talleres y aulas tradicionales."
+    },
+    {
+      "question": "¿Con qué objetivo se constituyeron en 1955 las escuelas de aprendizaje y maestría industrial?",
+      "options": [
+        "Impulsar las enseñanzas profesionales dentro del sistema educativo",
+        "Formar al profesorado de secundaria",
+        "Impartir idiomas modernos",
+        "Atender a la educación especial"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se crearon para impulsar las enseñanzas profesionales dentro del sistema educativo y más adelante pasaron a denominarse centros nacionales de FP e institutos politécnicos."
+    },
+    {
+      "question": "¿Qué consecuencia tuvo la entrada de España en la Comunidad Europea en la FP?",
+      "options": [
+        "La desaparición de la formación ocupacional",
+        "Los planes de formación e inserción profesional (FIP), la formación ocupacional y las escuelas-taller",
+        "La creación de los CRN",
+        "La regulación de los CIFP"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En la segunda mitad de los años ochenta surgieron los planes FIP, se inició la formación ocupacional y se crearon las escuelas-taller."
+    },
+    {
+      "question": "¿Qué supuso la LOGSE (1990) para la FP reglada?",
+      "options": [
+        "Su separación definitiva de las enseñanzas secundarias",
+        "Su traslado a las universidades",
+        "Su integración en los IES, con una concepción global de las enseñanzas secundarias",
+        "Su sustitución por la formación ocupacional"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Con la LOGSE la FP reglada se integra en los institutos de Educación Secundaria, pasando a una concepción global de todas las enseñanzas secundarias."
+    },
+    {
+      "question": "¿Qué finalidad tiene el Real Decreto 1558/2005 en relación con la FP?",
+      "options": [
+        "Regular los centros de referencia nacional",
+        "Regular los centros integrados de FP para integrar la FP reglada y la formación para el empleo",
+        "Crear las escuelas-taller",
+        "Establecer el acceso a las escuelas de idiomas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El RD 1558/2005 regula los CIFP con el objetivo de integrar la FP reglada y la formación para el empleo. Los CRN se regulan en 2008."
+    },
+    {
+      "question": "¿Qué establece la LOE de 2006 respecto a la FP?",
+      "options": [
+        "Las bases de la FP en el sistema educativo",
+        "La creación de los institutos laborales",
+        "La regulación de la Escuela Central de Idiomas",
+        "La centralización de los centros de FP"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LOE (2006) establece las bases de la FP en el sistema educativo, un año después de regularse los CIFP."
+    },
+    {
+      "question": "¿Con qué objetivo regula el Real Decreto 229/2008 los centros de referencia nacional (CRN-FP)?",
+      "options": [
+        "Atender al alumnado de educación especial",
+        "Integrar la FP en los IES",
+        "Formar a trabajadores de la pequeña burguesía industrial",
+        "Fomentar la innovación y experimentación en los diferentes sectores productivos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los CRN-FP se regulan en 2008 para fomentar la innovación y la experimentación en los distintos sectores productivos."
+    },
+    {
+      "question": "Los centros de FP, pese a estar incluidos en la Educación Secundaria, ¿qué rasgo organizativo presentan?",
+      "options": [
+        "Una organización idéntica a la de los institutos",
+        "Una organización diferente, orientada a la formación para el trabajo",
+        "Una organización orientada exclusivamente a la universidad",
+        "Una organización sin relación con el entorno productivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El resumen indica que los centros de FP, aun incluidos en la Educación Secundaria, presentan una organización diferente orientada a la formación para el trabajo."
+    },
+    {
+      "question": "¿Qué supuso la creación en 1911 de la Escuela Central de Idiomas en Madrid?",
+      "options": [
+        "Un paso para superar el estancamiento cultural y abrir el país a otras culturas europeas",
+        "El inicio de la Formación Profesional reglada",
+        "La creación del primer instituto de segunda enseñanza",
+        "La integración de los idiomas en el bachillerato"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Escuela Central de Idiomas ayudó a superar el estancamiento cultural y facilitó la apertura y acercamiento del país a otras culturas, fundamentalmente europeas, con el apoyo del proyecto de la Institución Libre de Enseñanza."
+    },
+    {
+      "question": "¿Cuál de estos rasgos refleja el carácter modernizador de la Escuela Central de Idiomas?",
+      "options": [
+        "La separación del alumnado por sexos",
+        "La coeducación desde el principio",
+        "La enseñanza centrada en la gramática y la traducción",
+        "El acceso restringido a las élites"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Desde el principio convivieron alumnos y alumnas en las aulas. Además, se empleó el método directo y se democratizó la enseñanza de idiomas, antes reservada a las élites."
+    },
+    {
+      "question": "¿Qué método didáctico introdujo la Escuela Central de Idiomas y a cuál sustituyó?",
+      "options": [
+        "El método directo, que sustituyó al de gramática-traducción",
+        "El método audiolingual, que sustituyó al directo",
+        "El método gramática-traducción, que sustituyó al directo",
+        "El método comunicativo, que sustituyó al audiolingual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El método directo daba prioridad a la lengua oral y al vocabulario cotidiano, y sustituyó al método de gramática-traducción, el más popular en ese momento."
+    },
+    {
+      "question": "¿En qué consistió la democratización de la enseñanza de idiomas que promovió la escuela?",
+      "options": [
+        "En ofrecer los idiomas solo a quienes tenían titulación universitaria",
+        "En limitar la oferta a una lengua extranjera",
+        "En trasladar las clases a los institutos",
+        "En abrir una enseñanza hasta entonces reservada casi exclusivamente a las élites"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Hasta entonces el aprendizaje de idiomas estaba reservado casi exclusivamente a las élites; la escuela lo abrió con requisitos de acceso muy básicos."
+    },
+    {
+      "question": "¿Cómo estableció la Real Orden de 1911 la estructura de las enseñanzas de la Escuela Central de Idiomas?",
+      "options": [
+        "Dos cursos con un tercero de especialización",
+        "Cinco cursos con examen final",
+        "Tres cursos, completables con un cuarto curso de especialización",
+        "Un único curso intensivo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La Real Orden de 1911 estableció tres cursos que podían completarse con un cuarto de especialización."
+    },
+    {
+      "question": "¿Qué obtenían a partir de 1912 los alumnos que superaban la prueba oral y escrita?",
+      "options": [
+        "Un título universitario",
+        "Un certificado de aptitud de las disciplinas cursadas",
+        "Un diploma de nivel C2",
+        "Una beca de intercambio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A partir de 1912, quienes superaban la prueba oral y escrita obtenían un certificado de aptitud de las disciplinas cursadas."
+    },
+    {
+      "question": "¿Cuál era el requisito de acceso a la Escuela Central de Idiomas?",
+      "options": [
+        "Poseer el título de bachiller",
+        "Superar una prueba de ingreso de nivel universitario",
+        "Ser mayor de 12 años, solicitar la admisión y pagar la matrícula",
+        "Ser recomendado por un profesor"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El único requisito era ser mayor de 12 años, solicitar la admisión y pagar la matrícula."
+    },
+    {
+      "question": "¿Qué idiomas ofrecía inicialmente la Escuela Central de Idiomas?",
+      "options": [
+        "Alemán, francés e inglés",
+        "Árabe, ruso y chino",
+        "Italiano, portugués y catalán",
+        "Latín, griego y hebreo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La oferta inicial incluía alemán, francés e inglés; poco después se añadieron árabe vulgar, español para extranjeros, italiano y portugués, además de un curso de esperanto."
+    },
+    {
+      "question": "¿Qué institución apoyó con su proyecto pedagógico la iniciativa de la Escuela Central de Idiomas?",
+      "options": [
+        "La Institución Libre de Enseñanza, fundada en 1876",
+        "La Universidad Central de Madrid, fundada en 1920",
+        "El Real Instituto Industrial, fundado en 1850",
+        "El instituto-escuela, fundado en 1918"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El proyecto pedagógico de la Institución Libre de Enseñanza (fundada en 1876) apoyó la iniciativa, facilitando el acercamiento a otras culturas."
+    },
+    {
+      "question": "¿Qué cambio se produjo en 1920 respecto a la Escuela Central de Idiomas?",
+      "options": [
+        "Fue clausurada por falta de alumnado",
+        "Fue trasladada a Barcelona",
+        "Fue convertida en instituto de bachillerato",
+        "Fue adscrita a la Universidad Central de Madrid y se permitió contratar más profesorado"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En 1920 se adscribió a la Universidad Central de Madrid y se permitió la contratación de más profesorado. Su director, Rodolfo Gil Fernández, impulsó un reglamento propio, ayudas y becas."
+    },
+    {
+      "question": "¿Qué necesidades buscó cubrir el director Rodolfo Gil Fernández?",
+      "options": [
+        "Reducir las tasas, eliminar los exámenes y ampliar el horario",
+        "Reglamento orgánico propio, ayudas para libros y publicaciones y becas de intercambio para los mejores expedientes",
+        "Crear escuelas en otras ciudades y suprimir el árabe",
+        "Sustituir al profesorado y abrir cursos nocturnos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Luchó por establecer un reglamento orgánico propio, obtener ayudas para libros y publicaciones y ofrecer becas de intercambio o bolsas de viaje para el alumnado con mejores notas."
+    },
+    {
+      "question": "En el plan de estudios de esta etapa, ¿qué idiomas tenían una duración distinta a los cuatro cursos?",
+      "options": [
+        "Francés e inglés",
+        "Alemán e italiano",
+        "Árabe vulgar (tres cursos) y Lengua Española para Extranjeros (según la demanda)",
+        "Portugués y esperanto"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El plan se estructuraba en cuatro cursos, excepto el árabe vulgar (tres cursos) y la Lengua Española para Extranjeros, organizada según la demanda y afluencia del alumnado."
+    },
+    {
+      "question": "¿Qué consecuencias tuvo la guerra civil y la posguerra para la Escuela Central de Idiomas?",
+      "options": [
+        "Se suspendieron las clases y el profesorado fue sometido a expedientes de depuración",
+        "Se amplió el profesorado sin controles",
+        "Se abrieron escuelas en todas las provincias",
+        "Se eliminó el pago de tasas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Con la guerra se suspendieron las clases; en 1939 se reanudaron, pero solo el 50 % del alumnado retomó los estudios y el profesorado pasó por expedientes de depuración."
+    },
+    {
+      "question": "¿Qué idioma se incorporó en el curso 1956-1957 pese a que España no mantenía relaciones diplomáticas con la Unión Soviética?",
+      "options": [
+        "Chino mandarín",
+        "Ruso",
+        "Japonés",
+        "Polaco"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El ruso se incorporó en el curso 1956-1957 y fue una lengua muy demandada, a pesar de la ausencia de relaciones diplomáticas con la Unión Soviética."
+    },
+    {
+      "question": "¿Cómo repercutió el fin del aislamiento internacional de los años cincuenta en la Escuela Central de Idiomas?",
+      "options": [
+        "Provocó su cierre definitivo",
+        "Redujo la oferta a un solo idioma",
+        "Supuso su traslado a otra ciudad",
+        "La nueva coyuntura internacional influyó en su evolución, con cambios como el español para extranjeros en tres cursos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Al retomarse las relaciones diplomáticas y entrar España en organismos como la FAO, la UNESCO y la ONU, la nueva coyuntura repercutió en la escuela; en 1953 el español para extranjeros se estructuró en iniciación, medio y superior."
+    },
+    {
+      "question": "¿Qué se logró en la etapa de consolidación y expansión con la llamada enseñanza libre?",
+      "options": [
+        "Que el alumnado no matriculado pudiera certificar sus conocimientos aprobando los exámenes y pagando las tasas",
+        "Que la enseñanza fuera gratuita",
+        "Que se eliminaran los exámenes",
+        "Que los idiomas se impartieran en los institutos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La enseñanza libre permitió que estudiantes no matriculados certificaran sus conocimientos en cualquier curso, siempre que aprobaran las dos convocatorias de examen y pagaran las tasas."
+    },
+    {
+      "question": "¿Qué dispuso el decreto de 1964 sobre las escuelas de idiomas?",
+      "options": [
+        "Autorizó la creación de tres escuelas, además de la Central: Barcelona, Valencia y Bilbao",
+        "Suprimió la Escuela Central",
+        "Creó escuelas en todas las capitales de provincia",
+        "Transfirió las escuelas a las comunidades autónomas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En 1964 se autorizó la creación de las tres primeras escuelas de idiomas además de la Central, en Barcelona, Valencia y Bilbao, lo que sentó las bases de la Red de Escuelas Oficiales de Idiomas."
+    },
+    {
+      "question": "¿Qué ocurrió con la oferta de idiomas con el paso de los años en las EOI?",
+      "options": [
+        "Se redujo al inglés y al francés",
+        "Se incorporaron idiomas como mandarín, japonés, rumano o polaco y las lenguas autonómicas",
+        "Se limitó a lenguas románicas",
+        "Se trasladó a la universidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se incorporaron mandarín, japonés, rumano, polaco, griego, neerlandés y danés, además de catalán, euskera, gallego y valenciano."
+    },
+    {
+      "question": "¿Cómo organiza la LOMLOE la enseñanza de idiomas?",
+      "options": [
+        "En dos niveles: elemental y superior",
+        "En cuatro niveles: inicial, básico, medio y alto",
+        "En tres niveles: básico, intermedio y avanzado, que corresponden a A, B y C del MCER",
+        "En seis cursos sin correspondencia con el MCER"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La LOMLOE establece los niveles básico, intermedio y avanzado, correspondientes respectivamente a A, B y C del Marco Común Europeo, subdivididos en A1, A2, B1, B2, C1 y C2."
+    },
+    {
+      "question": "¿Qué edad se requiere para acceder a las enseñanzas de idiomas y qué excepción existe?",
+      "options": [
+        "12 años, y los mayores de 10 si estudian otro idioma",
+        "18 años, y los mayores de 16 con autorización",
+        "14 años, y los mayores de 12 con tutor",
+        "16 años, y los mayores de 14 si se matriculan en un idioma distinto al cursado en la ESO"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La LOMLOE exige tener 16 años; también pueden acceder los mayores de 14 años si se matriculan en un idioma distinto al cursado en la ESO."
+    },
+    {
+      "question": "Según el Reglamento Orgánico de 1930 de la Escuela Central de Idiomas, ¿qué idiomas tenían cabida en el plan de estudios?",
+      "options": [
+        "Cualquier idioma, limitándose a los de uso más extendido pero con posibilidad de ampliarse",
+        "Únicamente los idiomas europeos",
+        "Solamente lenguas que se hablaran en España",
+        "Los idiomas que eligiera cada profesor"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El reglamento señala que tienen cabida todos los idiomas sin excepción, limitando las enseñanzas a las de uso más extendido, pero con posibilidad de ampliación."
+    },
+    {
+      "question": "Según Bolívar (2010), ¿qué puede ocurrir si las normas y valores de la cultura escolar academicista no coinciden con la cultura de origen del alumno?",
+      "options": [
+        "Mejora automáticamente su rendimiento",
+        "Siente que el centro da la espalda a su cultura y pueden surgir conductas antisociales y problemáticas",
+        "Se adapta con rapidez a las normas",
+        "Aumenta su participación en el centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cuando el alumnado no se siente acogido porque el centro ignora su cultura, pueden surgir conductas antisociales y problemáticas."
+    },
+    {
+      "question": "¿Desde dónde debe partir el proceso educativo para ser significativo para el alumnado, según Teixidó (2005)?",
+      "options": [
+        "Desde los contenidos del libro de texto",
+        "Desde las exigencias de la universidad",
+        "Desde las realidades próximas del alumnado",
+        "Desde las preferencias del profesorado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Para que el proceso educativo sea significativo se debe partir de las realidades próximas del alumnado, ya que el contexto concreto condiciona la organización y el aprendizaje."
+    },
+    {
+      "question": "¿Cómo se percibía antiguamente la relación del centro con su entorno?",
+      "options": [
+        "Como una institución muy integrada en los acontecimientos del día a día",
+        "Como una institución dependiente de las asociaciones del barrio",
+        "Como una institución cuya función era sustituir a la familia",
+        "Como una institución que trabajaba de manera bastante independiente y alejada de su entorno"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Aunque se formaba para integrarse en el contexto, el centro trabajaba de forma bastante independiente y alejada del día a día de su entorno. Hoy se busca participación activa y prolongada con asociaciones y administraciones."
+    },
+    {
+      "question": "¿Qué propuesta trabaja InteRed en centros educativos de varias comunidades autónomas?",
+      "options": [
+        "El aprendizaje-servicio",
+        "El aprendizaje memorístico",
+        "La enseñanza directa de idiomas",
+        "La educación a distancia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "InteRed trabaja la propuesta de aprendizaje-servicio en centros de la Comunidad Valenciana, Castilla y León, Cataluña y Andalucía; su aplicación práctica se profundiza en Innovación Docente e Iniciación a la Investigación Educativa."
+    },
+    {
+      "question": "¿Cuál de estos fines persigue la colaboración activa y prolongada de los centros con asociaciones y colectivos (Imbernón, 2010)?",
+      "options": [
+        "Reducir la autonomía del centro",
+        "Contextualizar los contenidos curriculares a la realidad próxima y aumentar la significación de los aprendizajes",
+        "Disminuir la participación del alumnado",
+        "Sustituir los contenidos oficiales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Esa colaboración busca contextualizar el currículo, aumentar la significación de los aprendizajes y la motivación, desarrollar habilidades y trabajar la solidaridad y la empatía, entre otros fines."
+    },
+    {
+      "question": "Un instituto ubicado en un barrio industrial organiza visitas a empresas para ilustrar contenidos. ¿Qué finalidad de la relación con el entorno aplica?",
+      "options": [
+        "Reducir las ratios",
+        "Disminuir las tareas del claustro",
+        "Contextualizar los contenidos curriculares y aumentar la motivación del alumnado",
+        "Cambiar la titularidad del centro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Aprovechar el entorno próximo permite contextualizar contenidos a la realidad del alumnado, dar significado a los aprendizajes y aumentar la motivación."
+    },
+    {
+      "question": "¿Cuál es el fin último de promover la relación y colaboración del centro con su entorno?",
+      "options": [
+        "Contribuir a mejorar la calidad educativa para hacer una sociedad mejor",
+        "Obtener mayor financiación privada",
+        "Aumentar el número de matrículas",
+        "Reducir el trabajo del profesorado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Estas actuaciones contribuyen a mejorar la calidad educativa con el fin de construir una sociedad mejor."
+    },
+    {
+      "question": "¿Por qué ha crecido el interés por la organización de los espacios y el mobiliario escolar?",
+      "options": [
+        "Porque la normativa obliga a renovar el mobiliario cada año",
+        "Porque inciden en el proceso educativo y se cuestiona si el mobiliario tradicional es el más adecuado",
+        "Porque reducen el coste de los centros",
+        "Porque sustituyen al currículo oficial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Investigadores y profesionales quieren conocer cómo el mobiliario y los espacios inciden en el proceso educativo, y se cuestiona abiertamente la adecuación del mobiliario tradicional."
+    },
+    {
+      "question": "¿Con qué concepto de la UD2 se relaciona la organización de los espacios en el aula?",
+      "options": [
+        "Con el currículo oficial",
+        "Con el currículo nulo",
+        "Con el currículo oculto",
+        "Con el currículo explícito"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En la UD2 («Tipos de currículo») se alude a la organización de los espacios en el aula como un ejemplo de currículo oculto."
+    },
+    {
+      "question": "¿Qué indican estudios como el de Blanco et al. (2015) sobre el mobiliario de los centros?",
+      "options": [
+        "Que cumple los requerimientos de flexibilidad pedagógica",
+        "Que es innecesario para el aprendizaje",
+        "Que ha mejorado en la última década",
+        "Que en la mayoría de los centros no cumple los requerimientos funcionales y de flexibilidad pedagógica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El mobiliario disponible en la mayoría de los centros no responde a los requerimientos funcionales y de flexibilidad pedagógica."
+    },
+    {
+      "question": "¿Qué ocurre con la incorporación de modelos educativos activos en el aula según Rodríguez et al. (2016)?",
+      "options": [
+        "Queda condicionada, en muchos casos, por los espacios y el mobiliario",
+        "Es independiente del espacio",
+        "Se facilita por el mobiliario tradicional",
+        "Solo depende del número de alumnos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La incorporación de modelos activos se ve condicionada por los espacios y el mobiliario, por lo que requieren atención continua para adecuarlos."
+    },
+    {
+      "question": "¿Qué significa organizar el espacio escolar según Bolívar (2010)?",
+      "options": [
+        "Decorar las aulas con materiales del alumnado",
+        "Disponer el lugar y su orden para favorecer el proceso de enseñanza-aprendizaje integrado en el currículo",
+        "Reducir el número de aulas del centro",
+        "Asignar aulas fijas a cada docente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Organizar el espacio es cómo disponer el lugar y su orden para favorecer el proceso de enseñanza-aprendizaje de modo integrado en el currículo."
+    },
+    {
+      "question": "Según Otálora (2010), el espacio donde se desarrolla el aprendizaje debe considerarse:",
+      "options": [
+        "Un elemento decorativo sin influencia pedagógica",
+        "Una cuestión de seguridad exclusivamente",
+        "Una herramienta o recurso para lograr los objetivos educativos",
+        "Un gasto que debe minimizarse"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Otálora lo considera una herramienta o recurso para la consecución de los logros educativos, no un mero soporte físico."
+    },
+    {
+      "question": "¿Qué propone la diseñadora Rosan Bosch en su charla sobre espacios educativos?",
+      "options": [
+        "Mantener el aula tradicional",
+        "Eliminar los espacios comunes",
+        "Aumentar el número de pupitres",
+        "Cambiar el entorno físico para convertir los centros en lugares de donde los estudiantes no quieran irse"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Rosan Bosch habla de transformar el entorno físico de los centros para que sean lugares de los que el alumnado no quiera marcharse."
+    },
+    {
+      "question": "¿Cómo define el preámbulo del Real Decreto citado la accesibilidad universal?",
+      "options": [
+        "Aquella que permite a las personas con discapacidad vivir en igualdad, libertad, de forma independiente y participar plenamente en todos los aspectos de la vida",
+        "La eliminación de todas las barreras de los edificios públicos únicamente",
+        "La adaptación curricular para el alumnado con dificultades",
+        "La gratuidad de los servicios educativos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La accesibilidad universal permite que las personas con discapacidad vivan en igualdad, en libertad, de forma independiente y participen plenamente en todos los aspectos de la vida."
+    },
+    {
+      "question": "Al hablar de accesibilidad en los centros, ¿qué principio se persigue?",
+      "options": [
+        "La igualdad de oportunidades y el uso equitativo de espacios, programas y herramientas",
+        "La separación de espacios para el alumnado con discapacidad",
+        "La reducción de costes de mantenimiento",
+        "La uniformidad del mobiliario"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Hablar de accesibilidad es hablar de igualdad de oportunidades; los centros deben garantizar el uso equitativo de espacios, programas y herramientas por toda la comunidad educativa (Solórzano, 2013)."
+    },
+    {
+      "question": "¿A qué se refiere la accesibilidad arquitectónica?",
+      "options": [
+        "A los materiales didácticos adaptados",
+        "A la accesibilidad referida a los espacios",
+        "A la normativa de evaluación",
+        "A los recursos digitales del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La accesibilidad arquitectónica es la referida a los espacios; los centros deben cumplir diferentes requisitos para que el entorno sea accesible."
+    },
+    {
+      "question": "¿Qué requisito de accesibilidad se señala respecto a la puerta principal del centro?",
+      "options": [
+        "Debe tener escalones de piedra",
+        "Debe estar al nivel de la calle y, preferiblemente, con videoportero",
+        "Debe ser giratoria",
+        "Debe abrirse solo con llave"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La puerta principal debe ser accesible, a nivel de la calle y, preferiblemente, con videoportero."
+    },
+    {
+      "question": "Si un centro tiene escaleras o desniveles, ¿qué debe disponer para ser accesible?",
+      "options": [
+        "Carteles informativos",
+        "Escaleras más estrechas",
+        "Ascensores o rampas y pasamanos",
+        "Alfombras antideslizantes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En caso de escaleras o desniveles se deben disponer ascensores o rampas y pasamanos."
+    },
+    {
+      "question": "¿Qué características deben tener los pasillos y puertas de un centro accesible?",
+      "options": [
+        "Pasillos estrechos y puertas con pomos redondos",
+        "Pasillos con mobiliario para el descanso y puertas pesadas",
+        "Pasillos señalizados con luces y puertas automáticas únicamente",
+        "Pasillos anchos y libres de obstáculos y puertas anchas con picaportes ergonómicos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Se requieren pasillos anchos y libres de obstáculos y puertas anchas con picaportes ergonómicos."
+    },
+    {
+      "question": "¿Qué medida de accesibilidad se propone para las aulas y la señalización del centro?",
+      "options": [
+        "Espacio entre las mesas y señalización con pictogramas",
+        "Mesas pegadas y carteles escritos pequeños",
+        "Aulas separadas por planta según discapacidad",
+        "Señalización solo en la entrada"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En las aulas debe haber espacio entre las mesas y el centro debe estar señalizado con pictogramas, junto a plazas de aparcamiento reservadas y baños adaptados."
+    },
+    {
+      "question": "Un instituto reserva plazas de aparcamiento, instala baños adaptados y señaliza con pictogramas. ¿Qué está garantizando?",
+      "options": [
+        "La calidad del clima social",
+        "La accesibilidad arquitectónica",
+        "La autonomía pedagógica",
+        "La concertación del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Estas medidas son requisitos de accesibilidad arquitectónica que favorecen la igualdad de oportunidades de todos los miembros de la comunidad educativa."
+    },
+    {
+      "question": "Teniendo en cuenta la etapa de consolidación de las EOI, ¿qué importancia tuvo el decreto de 1964?",
+      "options": [
+        "Fue el inicio de la Red de Escuelas Oficiales de Idiomas",
+        "Fue la creación de la Escuela Central de Idiomas",
+        "Fue la desaparición de la enseñanza libre",
+        "Fue la incorporación del ruso"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El decreto de 1964 sentó, de manera progresiva, las bases de la Red de Escuelas Oficiales de Idiomas al autorizar las tres primeras escuelas además de la Central."
+    },
+    {
+      "question": "El método directo aplicado en la Escuela Central de Idiomas daba prioridad a:",
+      "options": [
+        "La traducción de textos literarios",
+        "El análisis gramatical detallado",
+        "La lengua oral y la enseñanza de vocabulario de uso cotidiano",
+        "La memorización de listas de verbos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El método directo priorizaba la lengua oral y el vocabulario cotidiano, frente al enfoque de gramática-traducción."
+    },
+    {
+      "question": "Un centro de ESO rural con ratios inferiores a 15 estudiantes plantea qué oportunidades ofrece su entorno. ¿Qué idea de la unidad se pone en juego?",
+      "options": [
+        "Que el entorno carece de valor educativo",
+        "Que el contexto concreto de cada centro condiciona su organización y las oportunidades de aprendizaje",
+        "Que las ratios no influyen en la organización",
+        "Que los centros rurales deben copiar el modelo urbano"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cada centro se ubica en un contexto cuyas particularidades condicionan la organización y el proceso de enseñanza-aprendizaje, de modo que un entorno rural y uno industrial ofrecen oportunidades distintas."
+    },
+    {
+      "question": "¿Cómo se estructuró en 1953 el curso de español para extranjeros en la Escuela Central de Idiomas?",
+      "options": [
+        "En dos cursos: básico y avanzado",
+        "En cuatro cursos anuales",
+        "En tres cursos: iniciación, medio y superior",
+        "En un único curso de verano"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En 1953 se acordó impartirlo en tres cursos: iniciación, medio y superior. Además, el esperanto continuó impartiéndose, aunque sin calificación ni certificación oficial."
+    },
+    {
+      "question": "¿Qué rasgo distingue la situación del esperanto en la Escuela Central de Idiomas de los años cincuenta?",
+      "options": [
+        "Se impartía con certificación oficial",
+        "Se había eliminado del plan de estudios",
+        "Se impartía en tres cursos obligatorios",
+        "Continuaba impartiéndose, aunque sin calificación ni certificación"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El esperanto, lengua inventada por Zamenhof con fin universal, siguió impartiéndose sin calificación ni certificación oficial."
+    },
+    {
+      "question": "¿Qué publica anualmente el Ministerio de Educación y Formación Profesional sobre el sistema educativo?",
+      "options": [
+        "Datos y cifras del curso escolar sobre alumnado, profesorado, inversión, becas, centros y enseñanzas",
+        "El listado de las plazas de oposición",
+        "El calendario escolar de cada comunidad",
+        "Las programaciones didácticas de los centros"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El Ministerio publica cada curso los datos y cifras sobre alumnado, profesorado, inversión, becas y ayudas, centros educativos y enseñanzas."
+    },
+    {
+      "question": "¿Qué características tenía el Real Instituto de Madrid creado en 1850, según la unidad?",
+      "options": [
+        "Un edificio amplio pero sin medios materiales",
+        "Un edificio insuficiente, aunque con buenos medios materiales y un museo industrial",
+        "Un edificio que acogía exclusivamente a mujeres",
+        "Un edificio destinado a la enseñanza de idiomas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fue creado con carácter de escuela industrial superior; el edificio era insuficiente, pero sus medios materiales eran buenos y disponía de un museo industrial."
+    },
+    {
+      "question": "Un instituto dispone de un manual escrito que regula cada procedimiento, con roles rígidos y cerrado a influencias externas. ¿Qué modelo organizativo refleja?",
+      "options": [
+        "Desarrollo organizativo",
+        "Teoría general de sistemas",
+        "Relaciones humanas",
+        "Modelo burocrático weberiano"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Un centro regido por normas escritas, roles rígidos y cerrado al entorno responde al modelo burocrático clásico de Weber. Los otros enfoques apuestan por las personas, la apertura o el cambio planificado."
+    },
+    {
+      "question": "Un equipo directivo realiza un diagnóstico de su situación y diseña un cambio planificado y continuo en estrategias, normas y motivación del grupo. ¿Qué teoría aplica?",
+      "options": [
+        "Teoría del desarrollo organizativo",
+        "Organización científica",
+        "Modelo burocrático",
+        "Movimiento de relaciones humanas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El desarrollo organizativo entiende el cambio como un proceso dinámico, continuo y planificado a partir de un diagnóstico de situación."
+    },
+    {
+      "question": "Un centro impulsa la participación del alumnado en las decisiones y una educación personalizada, aunque manteniendo la jerarquía. ¿Qué teoría inspira esto?",
+      "options": [
+        "Teoría de la organización científica",
+        "Movimiento de las relaciones humanas",
+        "Modelo burocrático clásico",
+        "Teoría general de sistemas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La democracia escolar y la educación personalizada reflejan la influencia del movimiento de las relaciones humanas, que busca compatibilizar los intereses de las personas y de la organización."
+    },
+    {
+      "question": "Compara el modelo burocrático con la teoría general de sistemas: ¿en qué se diferencian respecto al entorno?",
+      "options": [
+        "Ambos defienden un centro cerrado",
+        "Ambos ignoran la influencia del entorno",
+        "El burocrático concibe el centro cerrado al entorno y el de sistemas lo concibe abierto y dependiente de él",
+        "El de sistemas concibe el centro cerrado y el burocrático abierto"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Para Weber el centro es cerrado a influencias externas y, por eso, predecible; para la teoría de sistemas la escuela es abierta, dependiente del entorno, con influencia mutua."
+    },
+    {
+      "question": "¿Qué teoría surge de la mano de un biólogo y busca principios aplicables a cualquier sistema?",
+      "options": [
+        "Organización científica",
+        "Relaciones humanas",
+        "Teoría general de sistemas",
+        "Desarrollo organizativo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Fue Ludwig von Bertalanffy, biólogo alemán, quien formuló la teoría general de sistemas con el fin de elaborar normas, reglas y principios válidos para cualquier contexto."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre la dimensión estructural y la relacional?",
+      "options": [
+        "La estructural trata de valores y la relacional de normas",
+        "La estructural describe cómo está organizado el centro de modo formal y la relacional recoge las interacciones formales e informales entre personas",
+        "La estructural es informal y la relacional es formal",
+        "La estructural depende del entorno y la relacional de la normativa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La dimensión estructural recoge roles, unidades, horarios y espacios (formal), mientras que la relacional se ocupa de los patrones de relación formales e informales, que dan lugar al clima social."
+    },
+    {
+      "question": "Los valores, creencias y modos de interpretar los acontecimientos escolares que se han ido construyendo entre los miembros forman parte de la dimensión:",
+      "options": [
+        "Procesual",
+        "Estructural",
+        "De entorno",
+        "Cultural"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La dimensión cultural, la más implícita, incluye los valores, creencias y supuestos construidos con la interacción de los miembros del centro."
+    },
+    {
+      "question": "Una fundación crea un colegio cuya titularidad es privada y cuyas actividades se pagan con cuotas de las familias. ¿Cómo se clasifica?",
+      "options": [
+        "Centro privado",
+        "Centro público",
+        "Centro privado concertado",
+        "Centro rural agrupado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Titularidad privada y financiación con fondos privados define un centro privado. Si recibiera fondos públicos mediante conciertos sería concertado."
+    },
+    {
+      "question": "Un colegio de titularidad privada recibe fondos públicos mediante un acuerdo con la Administración. ¿Qué tipo de centro es?",
+      "options": [
+        "Centro público",
+        "Centro privado concertado",
+        "Centro de referencia nacional",
+        "Centro integrado de FP"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La titularidad privada con posibilidad de financiación pública mediante un régimen de conciertos corresponde al centro privado concertado."
+    },
+    {
+      "question": "Un centro agrupa en zona rural el segundo ciclo de Infantil y Primaria. ¿Cuál es su denominación?",
+      "options": [
+        "CEIP",
+        "CEE",
+        "CRA",
+        "EPA"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El Centro Rural Agrupado imparte el segundo ciclo de Educación Infantil (3-6 años) y Educación Primaria (6-12 años)."
+    },
+    {
+      "question": "Un joven de 19 años con necesidades educativas especiales continúa escolarizado. ¿En qué tipo de centro es posible?",
+      "options": [
+        "En un CEE, que atiende hasta los 21 años",
+        "En un CEIP",
+        "En una EOI",
+        "En un CRN"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los Centros de Educación Especial atienden alumnado con NEE de 3 a 21 años, por lo que un joven de 19 puede seguir escolarizado en ellos."
+    },
+    {
+      "question": "¿Qué centro está destinado a la formación de personas adultas?",
+      "options": [
+        "CEP",
+        "EPA o EPAPU",
+        "CIFP",
+        "IES"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los centros de Educación para Personas Adultas (EPA o EPAPU) se dedican a la formación de personas adultas."
+    },
+    {
+      "question": "¿Qué criterios se usan para clasificar los centros no universitarios en España?",
+      "options": [
+        "Antigüedad, tamaño y localización",
+        "Número de profesores y de alumnos",
+        "Titularidad, fuente de financiación y niveles de enseñanza que imparten",
+        "Idioma vehicular y calendario escolar"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las características concretas de cada centro (titularidad, fuente de financiación y niveles de enseñanza) permiten conceptualizarlo y clasificarlo."
+    },
+    {
+      "question": "¿Qué diferencia la etapa de la escuela como fábrica de la de la escuela como comunidad?",
+      "options": [
+        "La fábrica busca regular técnicamente la enseñanza y la comunidad potencia la participación de profesorado, alumnado y familias",
+        "La fábrica potencia la participación y la comunidad regula técnicamente",
+        "Ambas conciben el centro como una empresa",
+        "Ambas surgen del movimiento de relaciones humanas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La fábrica entiende el centro como empresa que garantiza calidad siguiendo pasos técnicos; la comunidad lo ve como espacio de participación de todos para satisfacer las necesidades de la comunidad."
+    },
+    {
+      "question": "Si un instituto no reconoce la cultura de origen de parte de su alumnado, ¿qué consecuencia es previsible?",
+      "options": [
+        "Mayor sentimiento de acogida",
+        "Aumento del rendimiento",
+        "Aparición de conductas antisociales y problemáticas por no sentirse acogidos",
+        "Mejor clima de convivencia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cuando las normas de la cultura escolar academicista no coinciden con las de la cultura de origen, el alumnado siente que el centro le da la espalda y pueden surgir conductas problemáticas."
+    },
+    {
+      "question": "Un centro propone que el alumnado realice un servicio a una asociación del barrio vinculado al currículo. ¿Qué metodología se está aplicando?",
+      "options": [
+        "Aprendizaje memorístico",
+        "Aprendizaje-servicio",
+        "Evaluación sumativa",
+        "Enseñanza directa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El aprendizaje-servicio vincula el currículo con un servicio a la comunidad, en línea con la colaboración del centro con su entorno próximo."
+    },
+    {
+      "question": "La centralización educativa francesa de 1789 influyó en España. ¿Qué rasgo trasladó este modelo?",
+      "options": [
+        "La gestión de los centros por las familias",
+        "La responsabilidad del clero en la educación",
+        "La autonomía total de cada centro",
+        "Un sistema centralista que restaba responsabilidad al clero"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Tras la Revolución francesa se implantó un sistema centralista que eliminaba la responsabilidad del clero; muchos países, entre ellos España, copiaron este modelo."
+    },
+    {
+      "question": "Compara el franquismo con la etapa posterior a 1978 en la gestión de los centros. ¿Cuál es el cambio principal?",
+      "options": [
+        "Se pasa de un modelo autoritario y centralista a otro centralizado pero con creciente autonomía de los centros",
+        "Se pasa de la autonomía a la centralización",
+        "Se pasa de la gestión privada a la pública",
+        "No hay ningún cambio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El franquismo implantó un sistema burocrático, centralista y autoritario; la Constitución de 1978 mantiene la centralización de la gestión, pero concede cada vez más autonomía a los centros."
+    },
+    {
+      "question": "¿Por qué la Ley General de Educación de 1970 cambió el carácter de los institutos?",
+      "options": [
+        "Porque los abrió a toda la población escolar de 6 a 16 años, cuando antes eran selectivos",
+        "Porque los convirtió en centros de FP",
+        "Porque los trasladó a las universidades",
+        "Porque los redujo a una etapa de dos años"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La LGE amplió el acceso a toda la población escolar de 6 a 16 años; hasta entonces las enseñanzas secundarias eran exclusivas de las clases altas."
+    },
+    {
+      "question": "Un instituto-escuela diseña un currículo y lo pone en práctica para evaluarlo antes de llevarlo a la legislación. ¿Qué enfoque de reforma representa?",
+      "options": [
+        "Una reforma impuesta sin experimentación",
+        "Una reforma basada en la tradición",
+        "Una reforma solo normativa",
+        "Una reforma experimental basada en probar y ajustar antes de legislar"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El instituto-escuela de Madrid (1918) ensayó el diseño curricular en la práctica y, con las modificaciones oportunas, lo incorporó después a la legislación."
+    },
+    {
+      "question": "La FP ha surgido de la necesidad de las empresas de contar con trabajadores formados. ¿Qué implica esto para su organización?",
+      "options": [
+        "Que debe ajustarse a las demandas de la sociedad y del sector productivo",
+        "Que debe ser idéntica a la de los institutos",
+        "Que debe ser independiente del tejido empresarial",
+        "Que debe orientarse a la universidad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La organización de los centros de FP ha evolucionado según los requerimientos de la sociedad, con itinerarios profesionalizantes adaptados a las demandas del entorno productivo."
+    },
+    {
+      "question": "¿Cuál es la diferencia de propósito entre un CIFP y un CRN?",
+      "options": [
+        "El CIFP atiende a adultos sin formación y el CRN a niños",
+        "El CIFP integra la FP reglada y la formación para el empleo, y el CRN fomenta la innovación y experimentación en un sector",
+        "El CIFP imparte idiomas y el CRN música",
+        "No existe diferencia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El RD 1558/2005 regula los CIFP para integrar FP reglada y formación para el empleo; el RD 229/2008 regula los CRN para fomentar la innovación y experimentación en sectores productivos."
+    },
+    {
+      "question": "La coeducación desde el principio en la Escuela Central de Idiomas, ¿qué voluntad refleja?",
+      "options": [
+        "Una voluntad conservadora",
+        "Una voluntad de aislamiento",
+        "Una voluntad modernizadora y aperturista",
+        "Una voluntad de control político"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Junto con el método directo y la democratización del acceso, la coeducación muestra el carácter modernizador y aperturista de la escuela."
+    },
+    {
+      "question": "El nivel intermedio de las enseñanzas de idiomas de la LOMLOE, ¿a qué nivel del MCER corresponde?",
+      "options": [
+        "A",
+        "C",
+        "B",
+        "Ninguno"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Básico corresponde a A (A1, A2), intermedio a B (B1, B2) y avanzado a C (C1, C2)."
+    },
+    {
+      "question": "Una alumna de 15 años cursa francés en la ESO y quiere matricularse en la EOI. ¿Qué opción es posible según la LOMLOE?",
+      "options": [
+        "No puede acceder hasta los 18 años",
+        "Puede acceder a francés sin ninguna restricción",
+        "Solo puede acceder si ya tiene el título de bachiller",
+        "Puede acceder si se matricula en un idioma distinto al que cursa en la ESO"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El requisito general es tener 16 años, pero los mayores de 14 pueden acceder si se matriculan en un idioma distinto al cursado en la ESO; por eso no podría estudiar francés."
+    },
+    {
+      "question": "Un alumno de 14 años quiere estudiar en la EOI el mismo idioma que cursa en la ESO. ¿Qué ocurre?",
+      "options": [
+        "No cumple la excepción de los 14 años porque el idioma es el mismo, y debe esperar a los 16",
+        "Puede acceder directamente",
+        "Debe pagar una tasa extraordinaria y acceder",
+        "Puede acceder si tiene permiso familiar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La excepción solo ampara a mayores de 14 años que elijan un idioma diferente al de la ESO; en caso contrario, se exige tener 16 años."
+    },
+    {
+      "question": "Un aula con mesas fijas en filas dificulta el trabajo cooperativo. ¿Con qué idea de la unidad se relaciona?",
+      "options": [
+        "Con la idea de que los espacios y el mobiliario condicionan la incorporación de modelos educativos activos",
+        "Con la idea de que el espacio es irrelevante",
+        "Con la idea de que el mobiliario depende del clima social",
+        "Con la idea de que las ratios determinan la metodología"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La incorporación de modelos activos se ve condicionada por el espacio y el mobiliario, por lo que requiere atención continua para adecuarlos."
+    },
+    {
+      "question": "La disposición de las mesas en el aula transmite mensajes sobre cómo se enseña y aprende sin estar explicitada. ¿Qué tipo de currículo ilustra?",
+      "options": [
+        "Oculto",
+        "Explícito",
+        "Oficial",
+        "Nulo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La organización de los espacios del aula es un ejemplo de currículo oculto, ya que influye en el aprendizaje sin figurar en los documentos oficiales."
+    },
+    {
+      "question": "Un centro cuenta con un aula en la primera planta, a la que solo se llega por escaleras sin ascensor ni rampa. ¿Qué requisito incumple?",
+      "options": [
+        "El de pictogramas de señalización",
+        "El de plazas de aparcamiento reservadas",
+        "El de espacio entre las mesas",
+        "El de disponer de ascensores o rampas y pasamanos ante desniveles"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Si hay escaleras o desniveles, el centro debe disponer de ascensores o rampas y pasamanos para ser accesible."
+    },
+    {
+      "question": "¿Por qué la accesibilidad en los centros está relacionada con la igualdad de oportunidades?",
+      "options": [
+        "Porque garantiza el uso equitativo de espacios, programas y herramientas por toda la comunidad educativa",
+        "Porque reduce el número de alumnos por aula",
+        "Porque sustituye las adaptaciones curriculares",
+        "Porque elimina la necesidad de profesorado de apoyo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La accesibilidad universal permite que todas las personas usen de forma equitativa los espacios, programas y herramientas del centro, lo que sustenta la igualdad de oportunidades."
+    },
+    {
+      "question": "Un instituto mantiene reuniones periódicas con el ayuntamiento, un centro de salud y una asociación de vecinos. ¿Qué dimensión de la organización escolar refleja principalmente?",
+      "options": [
+        "Estructural",
+        "Entorno",
+        "Cultural",
+        "Procesual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La dimensión entorno recoge la interacción constante del centro con su medio: Administración, equipos de orientación, asociaciones, instituciones y sindicatos."
+    },
+    {
+      "question": "Santamaría (2021) destaca que los elementos de la organización escolar son interdependientes. ¿Qué implica esto?",
+      "options": [
+        "Que cada elemento funciona de manera aislada",
+        "Que los cambios en una parte no afectan al conjunto",
+        "Que la estructura es independiente de las personas",
+        "Que la organización combina los elementos y los hace interrelacionados"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Entre los aspectos de la organización escolar figura que combina los elementos que la forman y los hace interdependientes e interrelacionados."
+    },
+    {
+      "question": "¿Qué teoría surge en los años 70 en Estados Unidos y se centra en el cambio planificado: la científica, la de sistemas o la del desarrollo organizativo?",
+      "options": [
+        "La científica",
+        "La del desarrollo organizativo",
+        "La de sistemas",
+        "La burocrática"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El desarrollo organizativo nace en los años 70 en Estados Unidos; la científica es de principios del siglo XX, la de sistemas de mediados de siglo y la burocrática se basa en Weber."
+    },
+    {
+      "question": "Liderazgo, evaluación e innovación son actuaciones organizativas que se ponen en marcha para coordinar los procesos de enseñanza-aprendizaje. ¿En qué se diferencian de la dimensión estructural?",
+      "options": [
+        "Son dimensiones sin relación alguna",
+        "Pertenecen a la dimensión procesual, que alude a la forma de actuar, mientras que la estructural alude a cómo está organizado el centro",
+        "Pertenecen a la dimensión cultural",
+        "Pertenecen a la dimensión entorno"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La dimensión procesual se refiere a cómo se actúa en los procesos (planes, evaluación, mejora, innovación, liderazgo); la estructural describe roles, unidades, horarios y espacios."
+    },
+    {
+      "question": "Un centro de ESO rural con pocos estudiantes por aula y uno de un barrio industrial se organizan de modo distinto. ¿Qué factor lo explica principalmente?",
+      "options": [
+        "La titularidad exclusivamente",
+        "El contexto social en el que se ubica cada centro",
+        "El idioma de sus documentos",
+        "La edad del profesorado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cada centro se ubica en un contexto concreto cuyas particularidades condicionan su organización y el proceso de enseñanza-aprendizaje."
+    },
+    {
+      "question": "¿Qué ejemplo corresponde al sentido estático de la organización escolar?",
+      "options": [
+        "Organizar el claustro de una semana",
+        "Reorganizar los grupos al inicio del curso",
+        "Preparar el reparto de horarios",
+        "El organigrama resultante del centro ya organizado"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El sentido estático es el efecto de organizar (resultado: estructura ya establecida), mientras que el dinámico es la acción de organizar."
+    },
+    {
+      "question": "¿Por qué la tabla de denominaciones de centros se basa en las etapas que imparten?",
+      "options": [
+        "Porque permite identificar los niveles educativos de cada centro (EI, CEIP, IES, CIFP, etc.)",
+        "Porque define su financiación",
+        "Porque determina su titularidad",
+        "Porque establece su ubicación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La nomenclatura (EI, CEIP, CEP, CRA, CEE, IES, CIFP, CRN, EPA) se ordena según las etapas o niveles educativos que imparten los centros no universitarios."
+    },
+    {
+      "question": "Se afirma que el sistema educativo español hereda un modelo de gestión centralizado. ¿Qué cambio busca la mayor autonomía de centros?",
+      "options": [
+        "Reducir el número de centros",
+        "Aumentar la burocracia",
+        "Mejorar sus resultados y aumentar la calidad educativa",
+        "Eliminar la intervención de las familias"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Tras la Constitución de 1978 se otorga cada vez más autonomía a los centros con el fin de mejorar resultados y aumentar la calidad educativa."
+    },
+    {
+      "question": "Una escuela de aprendizaje y maestría industrial de 1955 pasó después a denominarse:",
+      "options": [
+        "Escuela Central de Idiomas",
+        "Centro integrado de FP",
+        "Instituto-escuela",
+        "Centro nacional de FP o instituto politécnico"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las escuelas de aprendizaje y maestría industrial pasaron más adelante a denominarse centros nacionales de Formación Profesional e institutos politécnicos."
+    },
+    {
+      "question": "¿Qué rasgo distingue el origen de las Escuelas de Artes y Oficios frente al de los institutos de secundaria?",
+      "options": [
+        "Se dirigían a clases medias y bajas con una educación técnica, frente a una secundaria selectiva para élites",
+        "Eran exclusivas de las clases altas",
+        "Preparaban solo para la universidad",
+        "Eran de titularidad eclesiástica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las Escuelas de Artes y Oficios ofrecían formación técnica para clases medias y bajas, mientras que la secundaria tradicional era selectiva y destinada a las élites que irían a la universidad."
+    },
+    {
+      "question": "El enfoque de la escuela como fábrica coincide con qué teoría organizativa?",
+      "options": [
+        "La teoría de la organización científica, que racionaliza el trabajo y controla los resultados",
+        "El movimiento de las relaciones humanas",
+        "La teoría del desarrollo organizativo",
+        "La teoría general de sistemas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Concebir el centro como empresa cuya enseñanza se regula técnicamente enlaza con el management científico, que busca eficacia y mejora del rendimiento."
+    },
+    {
+      "question": "La conservación de la dimensión estructural similar entre institutos y la diversidad entre ellos se explica porque:",
+      "options": [
+        "La estructura es formal y común por normativa, mientras que las relaciones, la cultura y el contexto varían de un centro a otro",
+        "Todos los institutos tienen el mismo clima",
+        "El contexto es idéntico en todos",
+        "La cultura la dicta la Administración"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La estructura formal deriva de la normativa común, pero cada centro es singular por las personas, relaciones, cultura y contexto en que se sitúa."
+    },
+    {
+      "question": "Si un instituto quiere pasar de una organización pensada para élites a otra que atienda la diversidad, ¿qué se necesita según la unidad?",
+      "options": [
+        "Reducir las enseñanzas",
+        "Un rediseño de su organización que se ajuste a las necesidades y demandas actuales",
+        "Cerrar el centro al entorno",
+        "Volver al modelo del siglo XIX"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los IES heredados de institutos diseñados para élites necesitan un rediseño organizativo ajustado a las necesidades y demandas actuales de un alumnado diverso."
+    },
+    {
+      "question": "¿Cuál es uno de los objetivos de la UD3 en relación con los espacios?",
+      "options": [
+        "Memorizar los planos de los edificios",
+        "Diseñar mobiliario escolar",
+        "Determinar la importancia de los espacios en la organización del centro educativo",
+        "Elaborar un presupuesto de obras"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Entre los objetivos figuran definir la organización escolar, identificar sus dimensiones, conocer la influencia de las teorías, conceptualizar los centros, explicar su evolución, reconocer la importancia del entorno y determinar la importancia de los espacios."
+    },
+    {
+      "question": "¿Qué enfoque de centro promueve la participación de profesorado, alumnado y familias para responder a las necesidades de su entorno?",
+      "options": [
+        "La escuela como fábrica",
+        "La escuela como organismo",
+        "La escuela como burocracia",
+        "La escuela como comunidad"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La escuela como comunidad potencia la participación de todos los agentes y busca satisfacer las necesidades de la comunidad, en línea con la actual apertura de los centros al entorno."
+    },
+    {
+      "question": "El Conservatorio de Artes de 1824 y la Escuela Central de Idiomas de 1911 muestran que:",
+      "options": [
+        "La creación de centros responde a las necesidades sociales y económicas de cada época",
+        "Los centros surgen al margen del contexto",
+        "Los centros dependen solo de la iglesia",
+        "Los centros son siempre privados"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La educación está condicionada por su tiempo y circunstancias: el Conservatorio respondió a necesidades industriales y la Escuela Central de Idiomas a la apertura cultural del país."
+    },
+    {
+      "question": "Los planes FIP y las escuelas-taller de los años ochenta y noventa se relacionan principalmente con:",
+      "options": [
+        "La formación reglada universitaria",
+        "La formación ocupacional y la inserción profesional",
+        "La enseñanza de idiomas",
+        "La educación especial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Con la entrada de España en la comunidad europea surgieron los planes de formación e inserción profesional y las escuelas-taller, iniciando la formación ocupacional."
+    },
+    {
+      "question": "Si un docente quiere que el espacio favorezca el aprendizaje activo, ¿qué debería considerar según la unidad?",
+      "options": [
+        "Mantener siempre la misma disposición",
+        "Ignorar el mobiliario",
+        "Reducir el número de materiales",
+        "Tratar el espacio como recurso y adecuarlo de forma continua a la metodología"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El espacio es una herramienta para lograr los objetivos educativos y requiere atención continua para adecuarlo a modelos activos, con mobiliario flexible."
+    },
+    {
+      "question": "El Real Instituto Industrial de 1850 y la Ley Moyano de 1857 se sitúan en un periodo de reorganización de qué tipo de enseñanza?",
+      "options": [
+        "De la enseñanza de idiomas",
+        "De la educación especial",
+        "De la formación técnica",
+        "De la educación infantil"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En 1850 se reorganizó la formación técnica y en 1857 la Ley Moyano dio lugar a las Escuelas Profesionales de Artes y Oficios, antecedentes de la FP."
+    },
+    {
+      "question": "Los centros de FP, a diferencia de otros de secundaria, tienen una organización orientada a:",
+      "options": [
+        "La formación para el trabajo",
+        "La preparación exclusiva para el Bachillerato",
+        "La enseñanza de segundas lenguas",
+        "La atención de alumnado de infantil"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pese a estar incluidos en la Educación Secundaria, los centros de FP presentan una organización diferente, orientada a la formación para el trabajo."
+    },
+    {
+      "question": "Según Imbernón (2010), ¿qué valores se trabajan cuando el centro colabora de forma activa y prolongada con asociaciones y colectivos de su entorno?",
+      "options": [
+        "Competitividad, individualismo y disciplina",
+        "Compañerismo, solidaridad y empatía",
+        "Obediencia, jerarquía y control",
+        "Neutralidad, distancia y autonomía"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre los fines de la colaboración con el entorno figuran trabajar el compañerismo, la solidaridad y la empatía, además de visibilizar a los colectivos que generan un bien común. Las otras opciones remiten a modelos más cerrados."
+    },
+    {
+      "question": "El análisis científico propuesto por la teoría de la organización científica para hallar la forma óptima de realizar una tarea se concretaba en:",
+      "options": [
+        "Autonomía del profesorado y flexibilidad de funciones",
+        "Participación de las familias y clima social positivo",
+        "Concepción de la autoridad, perfiles y funciones claras, canales sistemáticos y estudio de tiempos y tareas",
+        "Diagnóstico de situación y cambio planificado del grupo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Según Reta (2009), el análisis científico se concretaba en la concepción de la autoridad, la definición clara de perfiles, funciones y responsabilidades, canales sistemáticos y el estudio de tiempos y tareas."
+    },
+    {
+      "question": "¿Cuándo empieza a ordenarse legislativamente la Educación Secundaria en Europa?",
+      "options": [
+        "En la Baja Edad Media",
+        "A principios del siglo XIX",
+        "A mediados del siglo XX",
+        "A finales del siglo XVIII"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Aunque su origen se remonta a la Baja Edad Media, esta etapa no empieza a ordenarse legislativamente en Europa hasta principios del siglo XIX."
+    },
+    {
+      "question": "¿En qué se diferencia un Centro de Educación Primaria (CEP) de un CEIP?",
+      "options": [
+        "El CEP imparte únicamente Educación Primaria (6-12 años), mientras que el CEIP añade Educación Infantil",
+        "El CEP imparte Secundaria y el CEIP Primaria",
+        "El CEP es privado y el CEIP es público",
+        "El CEP atiende a alumnado con NEE y el CEIP no"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El CEP imparte Educación Primaria (6-12 años), mientras que el CEIP imparte Educación Infantil (0-6) y Primaria. La diferencia está en las etapas, no en la titularidad."
+    }
+  ]
+}

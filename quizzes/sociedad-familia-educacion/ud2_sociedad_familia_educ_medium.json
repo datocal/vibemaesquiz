@@ -1,0 +1,2208 @@
+{
+  "title": "UD2. Familia, escuela y sociedad (Nivel medio)",
+  "description": "Cuestionario de nivel medio sobre familia, escuela y sociedad: diversidad familiar, funciones, estilos parentales, vulnerabilidad y colaboración familia-escuela.",
+  "category": "sociedad-familia-educacion",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "¿Cómo reconoce la Declaración de los Derechos Humanos (1948) a la familia?",
+      "options": [
+        "Como un elemento natural y fundamental de la sociedad con derecho a protección estatal",
+        "Como una institución exclusivamente jurídica basada en el matrimonio civil",
+        "Como una unidad económica cuya definición corresponde a cada Estado",
+        "Como un grupo biológico con derecho a la protección de la comunidad religiosa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Declaración reconoce a la familia como elemento natural y fundamental de la sociedad con derecho a la protección de los Estados, aunque no ofrece una definición concreta. Las otras opciones añaden limitaciones jurídicas, económicas o religiosas que el texto no contiene."
+    },
+    {
+      "question": "Desde una mirada actualizada, ¿cuál es la forma más adecuada de entender la familia?",
+      "options": [
+        "Un grupo unido por vínculos jurídicos que convive bajo un mismo techo",
+        "Un conjunto de personas relacionadas, a menudo por parentesco, que cumplen funciones de cuidado, afecto y educación",
+        "Un grupo de personas con vínculos biológicos que se encarga de la reproducción",
+        "Un matrimonio estable con descendencia que comparte vivienda y recursos económicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se propone no limitar la familia en términos biológicos o jurídicos y entenderla por las funciones básicas que cumple (cuidado, afecto, sociales, económicas y educativas). Las demás opciones restringen el concepto a vínculos biológicos, jurídicos o al modelo matrimonial."
+    },
+    {
+      "question": "Una definición habitual de familia la presenta como un grupo de personas que residen en la misma vivienda y están unidas por lazos de parentesco. ¿Qué rasgo añade esta definición?",
+      "options": [
+        "Que el parentesco debe ser de sangre y de primer grado",
+        "Que el parentesco puede ser de sangre o político, sea cual sea su grado",
+        "Que el parentesco debe estar reconocido por una institución religiosa",
+        "Que el parentesco político aparece en las familias reconstituidas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Elboj e Íñiguez (2012) hablan de lazos de parentesco de sangre o políticos, independientemente de su grado. No exigen el primer grado, ni reconocimiento religioso, ni limitan el parentesco político a un tipo de familia."
+    },
+    {
+      "question": "Según Obiol (2012), ¿qué objetivo puede atribuirse al grupo social familiar?",
+      "options": [
+        "La transmisión del patrimonio económico entre generaciones",
+        "La reproducción y el cuidado de su descendencia",
+        "La integración laboral de los miembros más jóvenes",
+        "La conservación de las tradiciones religiosas de la comunidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Obiol define la familia como un grupo social con vínculo entre sus miembros cuyo objetivo es la reproducción y el cuidado de su descendencia. Las otras opciones son funciones secundarias que el texto no atribuye a esta definición."
+    },
+    {
+      "question": "¿Qué actitud se recomienda ante las nuevas formas de familia en este periodo de transición?",
+      "options": [
+        "Considerarlas modelos provisionales hasta que se recupere la familia tradicional",
+        "Evaluarlas según su parecido con el modelo tradicional de familia",
+        "Mantener flexibilidad para comprender que son tan válidas como la tradicional",
+        "Aceptarlas cuando estén plenamente reconocidas por la legislación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto insiste en tener flexibilidad para entender que están surgiendo otras formas de familia tan válidas como la tradicional. Las demás opciones suponen jerarquizar los modelos o condicionar su validez."
+    },
+    {
+      "question": "¿Qué composición tiene la familia tradicional occidental?",
+      "options": [
+        "Un matrimonio monógamo de hombre y mujer con su descendencia directa",
+        "Una pareja heterosexual con hijos y abuelos que conviven en el mismo hogar",
+        "Un grupo de parientes con un jefe de familia varón y su descendencia",
+        "Un matrimonio de hombre y mujer, con o sin hijos, que reside con sus padres"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La familia tradicional se compone de un matrimonio monógamo (hombre y mujer) y su descendencia directa. La convivencia con otros parientes define a la familia extensa, no a la tradicional en sentido estricto."
+    },
+    {
+      "question": "Una familia en la que los hijos llevan como primer apellido el del padre se describe como:",
+      "options": [
+        "Neolocal",
+        "Heteroparental",
+        "Matrilineal",
+        "Patrilineal"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La característica patrilineal indica que los hijos toman como primer apellido el del padre. Neolocal se refiere a la residencia y heteroparental al sexo de la pareja. Matrilineal sería el caso contrario."
+    },
+    {
+      "question": "Una pareja recién casada se traslada a una vivienda nueva, distinta de las de sus familias de origen. ¿Qué característica de la familia tradicional ilustra?",
+      "options": [
+        "Neolocalidad",
+        "Patrilinealidad",
+        "Heteroparentalidad",
+        "Extensión"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La neolocalidad supone convivir en un hogar de nueva creación, fuera de los hogares de los progenitores. La patrilinealidad se refiere al apellido, la heteroparentalidad al sexo de la pareja y la extensión a los parientes que conviven."
+    },
+    {
+      "question": "¿Qué diferencia a la familia extensa de la familia tradicional en sentido estricto?",
+      "options": [
+        "Que los hijos mantienen un vínculo de parentesco político con los abuelos",
+        "Que la pareja no está unida legalmente mediante matrimonio",
+        "Que conviven, además de la pareja e hijos, otros parientes como tíos o abuelos",
+        "Que la pareja reside en el mismo municipio que sus familias de origen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La familia extensa añade a la pareja casada y sus hijos otros parientes con los que convive, como tíos, hermanos o abuelos (Rodríguez-Tejeiro, 2012). No depende del estado civil ni de la proximidad geográfica."
+    },
+    {
+      "question": "¿Qué afirmación sobre la familia tradicional es correcta según el texto?",
+      "options": [
+        "Ha desaparecido casi por completo en las sociedades avanzadas",
+        "Sigue presente, aunque ha perdido predominio frente a nuevas formas de convivencia",
+        "Se ha mantenido sin cambios y convive con modelos minoritarios",
+        "Ha sido sustituida por la familia extensa como modelo mayoritario"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La familia tradicional no ha desaparecido, pero ha ido perdiendo predominio ante formas de convivencia que aumentan la inclusión y la tolerancia. Decir que ha desaparecido o que no ha cambiado contradice el texto."
+    },
+    {
+      "question": "Las familias reconstituidas son un ejemplo de que algunas formas familiares nuevas:",
+      "options": [
+        "Surgieron exclusivamente con el divorcio legalizado en 1981",
+        "Son fruto de la reproducción asistida y los avances médicos",
+        "Han estado presentes con mayor o menor reconocimiento a lo largo del tiempo",
+        "Aparecieron como consecuencia de la urbanización de las sociedades"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto señala que algunas características, como las familias reconstituidas, con mayor o menor reconocimiento siempre han estado presentes. No son un fenómeno exclusivo del divorcio moderno ni de la urbanización."
+    },
+    {
+      "question": "El ingreso masivo de las mujeres al trabajo remunerado ha propiciado nuevas formas familiares principalmente porque:",
+      "options": [
+        "Ha generado nuevas dinámicas de gestión del tiempo, organización y cuidados",
+        "Ha reducido el interés de las mujeres por formar una pareja estable",
+        "Ha aumentado el número de familias que viven en entornos rurales",
+        "Ha eliminado la necesidad de repartir las tareas domésticas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El cambio en la estructura laboral modifica la organización del tiempo y de los cuidados de los miembros de la familia. Las otras opciones atribuyen efectos que el texto no menciona."
+    },
+    {
+      "question": "¿Cómo ha influido la urbanización progresiva en la estructura familiar?",
+      "options": [
+        "Ha reforzado la convivencia con la familia extensa en las grandes ciudades",
+        "Ha favorecido el aumento de familias numerosas especiales",
+        "Ha debilitado la conexión con la familia extensa, reduciéndola al núcleo inmediato",
+        "Ha provocado el abandono del modelo de pareja de hecho"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La urbanización y la distancia con el lugar de trabajo debilitan el contacto con la familia extensa, sobre todo en grandes urbes, quedando la familia reducida al núcleo más inmediato."
+    },
+    {
+      "question": "¿Qué papel tiene el acceso a la educación y a la información en la aparición de nuevas formas familiares?",
+      "options": [
+        "Genera mayor conciencia de la diversidad familiar y cuestiona los conceptos tradicionales",
+        "Reduce la influencia de las normas sociales sobre la estructura familiar",
+        "Aumenta la esperanza de vida de los miembros de la familia",
+        "Favorece que las familias prefieran el modelo nuclear tradicional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La educación y la información dan mayor conciencia de la diversidad familiar, lo que lleva a replantear los conceptos de familia tradicional. No se relaciona directamente con la esperanza de vida ni refuerza el modelo tradicional."
+    },
+    {
+      "question": "¿Cuál de estos factores corresponde a los cambios en las normas sociales y culturales?",
+      "options": [
+        "La globalización de la economía y la estabilidad financiera",
+        "El envejecimiento progresivo de la población",
+        "La evolución, aceptación y reconocimiento de diferentes estructuras familiares",
+        "La mejora de los sistemas de comunicación entre familiares"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los cambios en las normas sociales y culturales implican evolución, aceptación y reconocimiento de distintas estructuras familiares y modelos de convivencia. Las otras opciones son factores independientes: económicos, demográficos y tecnológicos."
+    },
+    {
+      "question": "El aumento de las expectativas de vida y el envejecimiento de la población se consideran:",
+      "options": [
+        "Consecuencias de la aparición de nuevas formas familiares",
+        "Factores que han contribuido a la aparición de nuevas formas familiares",
+        "Características propias de la familia extensa tradicional",
+        "Efectos de la menor presencia de las mujeres en el empleo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Figuran en la lista de factores que han propiciado nuevas formas familiares (Obiol, 2012; Rotger, 2003). Son causas, no consecuencias, y no se vinculan con la familia extensa ni con el empleo femenino."
+    },
+    {
+      "question": "Las transformaciones familiares se describen como:",
+      "options": [
+        "Cambios bruscos impulsados por reformas legislativas",
+        "Procesos paulatinos, nacidos de dinámicas silenciosas que luego se convierten en nuevas realidades",
+        "Reacciones inmediatas a las crisis económicas de cada época",
+        "Fenómenos importados de otras culturas sin raíz en la sociedad local"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto explica que las transformaciones se producen de forma paulatina, a través de dinámicas silenciosas (elección de pareja, anticonceptivos, acceso a la universidad, divorcio) que luego se consolidan."
+    },
+    {
+      "question": "Una pareja sin hijos que convive de forma estable, ¿puede considerarse una familia?",
+      "options": [
+        "No, porque la descendencia es el requisito para constituir una familia",
+        "Si están unidos mediante matrimonio civil o religioso",
+        "Depende de si planean tener hijos en el futuro próximo",
+        "Sí, porque tener hijos no es sinónimo de ser familia"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El texto afirma explícitamente que las parejas sin hijos también son familias. La descendencia, el matrimonio o los planes futuros no son requisitos para ello."
+    },
+    {
+      "question": "¿Qué distingue a una familia homoparental de una heteroparental?",
+      "options": [
+        "El sexo de las personas que forman la pareja",
+        "El número de hijos que conviven en el hogar",
+        "La forma de filiación de los menores",
+        "El carácter legal o de hecho de la unión"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La clasificación atiende al sexo de los integrantes de la pareja: distinto sexo en la heteroparental y mismo sexo en la homoparental. No depende del número de hijos, de la filiación ni de la formalización de la unión."
+    },
+    {
+      "question": "Según Pichardo (2011), ¿qué diferencia presentan los hijos de familias homoparentales respecto a los de familias heteroparentales?",
+      "options": [
+        "Menor desarrollo psicoafectivo en la adolescencia",
+        "Mayor respeto hacia las personas homosexuales y flexibilidad en los roles de género",
+        "Mayores dificultades para el desarrollo intelectual en la infancia",
+        "Menor capacidad de adaptación al contexto escolar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los estudios constatan que tienen las mismas capacidades y desarrollo intelectual y psicoafectivo; la única diferencia es un mayor respeto a las personas homosexuales y mayor flexibilidad en los roles de género."
+    },
+    {
+      "question": "Un docente afirma que el alumnado de familias homoparentales tendrá un peor desarrollo emocional. ¿Qué respuesta se ajusta mejor a la evidencia citada?",
+      "options": [
+        "Es cierto en la etapa de primaria, pero se corrige en secundaria",
+        "Es cierto en parte, ya que depende del apoyo de la escuela",
+        "Es falso, pues los estudios constatan un desarrollo equivalente al de familias heteroparentales",
+        "Es falso solo cuando la pareja ha formalizado su unión legalmente"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Múltiples estudios indican que hijos e hijas de familias homoparentales tienen las mismas capacidades y el mismo desarrollo psicoafectivo e intelectual que los de familias heteroparentales."
+    },
+    {
+      "question": "¿Qué criterio se usa para distinguir entre familias monoparentales y biparentales?",
+      "options": [
+        "El estado civil de los progenitores",
+        "El sexo de los progenitores",
+        "La existencia de vínculos biológicos",
+        "El número de progenitores"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Giddens y Sutton (2014) clasifican las familias según el número de progenitores: uno en la monoparental y dos en la biparental."
+    },
+    {
+      "question": "¿Qué término se emplea para las familias compuestas por una madre y sus hijos o hijas?",
+      "options": [
+        "Monomarental",
+        "Biparental",
+        "Matrilocal",
+        "Reconstituida"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Monomarental se usa para hablar de familias formadas por una mujer y sus hijos, mientras que monoparental se aplica a un solo progenitor, sea hombre o mujer."
+    },
+    {
+      "question": "¿Por qué las familias monoparentales pueden situarse en mayor riesgo de vulnerabilidad?",
+      "options": [
+        "Porque la sobrecarga de responsabilidades no compartidas limita el tiempo para el trabajo remunerado",
+        "Porque los menores reciben menos atención afectiva que en otros modelos",
+        "Porque su duración es indefinida y no permite reorganizarse",
+        "Porque la legislación no les reconoce protección social ni jurídica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Almeda et al. (2016) señalan que las responsabilidades no compartidas generan sobrecarga y menos posibilidad de dedicar tiempo al trabajo remunerado, lo que aumenta la vulnerabilidad. No se afirma que haya menor afecto ni falta de protección."
+    },
+    {
+      "question": "La monoparentalidad puede darse:",
+      "options": [
+        "Por elección personal o por circunstancias sobrevenidas, con una duración determinada",
+        "Por una decisión judicial y con carácter permanente",
+        "Por fallecimiento del otro progenitor y con carácter definitivo",
+        "Por la formación de una nueva pareja que aporta hijos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Esta situación puede ser elegida o sobrevenida y puede tener una duración determinada. No es necesariamente permanente, y la formación de una nueva pareja daría lugar a una familia reconstituida."
+    },
+    {
+      "question": "¿Cuándo se considera numerosa una familia?",
+      "options": [
+        "Cuando tiene al menos cinco hijos o hijas",
+        "Cuando cuenta con tres o más hijos o hijas, o dos si uno tiene discapacidad",
+        "Cuando convive con más de cuatro parientes en el hogar",
+        "Cuando tiene cuatro o más hijos o hijas en cualquier caso"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Una familia es numerosa con tres o más hijos, y también en casos especiales como una familia de dos hijos en la que uno tiene discapacidad. A partir de cinco hijos pasa a ser numerosa especial."
+    },
+    {
+      "question": "Una familia con cinco hijos se clasifica como:",
+      "options": [
+        "Familia numerosa general",
+        "Familia numerosa especial",
+        "Familia extensa",
+        "Familia nuclear ampliada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A partir de cinco hijos la familia se considera numerosa especial. La extensa depende de los parientes que conviven, no del número de hijos."
+    },
+    {
+      "question": "Una familia con dos hijos, uno de ellos con discapacidad, ¿puede ser considerada numerosa?",
+      "options": [
+        "No, el requisito mínimo son tres hijos en cualquier circunstancia",
+        "Sí, aunque se clasifica como numerosa especial",
+        "No, salvo que la discapacidad afecte a ambos hijos",
+        "Sí, es uno de los casos especiales en que se aplica esta consideración"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El texto contempla este supuesto como caso especial para aplicar la consideración de familia numerosa. La categoría especial se reserva a quienes tienen cinco o más hijos."
+    },
+    {
+      "question": "¿Qué caracteriza a una familia reconstituida?",
+      "options": [
+        "Una pareja de nueva creación en la que al menos uno aporta hijos de una relación anterior",
+        "Una pareja que adopta a menores de una relación anterior de ambos",
+        "Una familia que se reagrupa tras un periodo de acogimiento temporal",
+        "Un núcleo familiar que recupera la convivencia con la familia extensa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las familias reconstituidas se forman con una nueva pareja en la que al menos uno de los miembros aporta descendencia de una relación anterior. No se definen por adopción, acogimiento ni por reagrupación con parientes."
+    },
+    {
+      "question": "En una familia reconstituida, la nueva pareja tiene un hijo en común. ¿Qué relación se produce entre este niño y los hijos previos de uno de los miembros?",
+      "options": [
+        "Relaciones de hermandad que varían según compartan o no progenitor biológico",
+        "Relaciones de primos que dependen del apellido de cada niño",
+        "Relaciones de hermandad equivalentes en todos los casos",
+        "Relaciones de parentesco político sin considerarse hermanos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto indica que se darán nuevas relaciones de hermandad, en función de si comparten progenitor biológico o no (hermanos de ambos padres o medio hermanos). No se tratan como primos ni todas son idénticas."
+    },
+    {
+      "question": "La idea de que \"ya no existe la familia, sino las familias\" pretende expresar que:",
+      "options": [
+        "Las familias han perdido su función educativa en la sociedad actual",
+        "Cada familia debe organizarse según el modelo tradicional de su cultura",
+        "Existe una pluralidad de modelos familiares y no uno único",
+        "Las familias numerosas son ya mayoritarias en los países desarrollados"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La expresión alude a la diversidad familiar: coexisten múltiples formas de familia, por lo que no puede hablarse de un único modelo."
+    },
+    {
+      "question": "Según la unidad, ¿cuál es hoy la forma más común de unión de pareja?",
+      "options": [
+        "La pareja de hecho",
+        "La cohabitación sin vinculación legal",
+        "El matrimonio, religioso o civil",
+        "La relación Living apart together"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El matrimonio, religioso o civil, sigue siendo la forma más común de unión, aunque ya no es la única reconocida legalmente."
+    },
+    {
+      "question": "¿Qué ocurre con los descendientes de una pareja de hecho respecto a los de un matrimonio?",
+      "options": [
+        "Tienen una consideración legal inferior hasta que sus padres se casan",
+        "Tienen la misma consideración legal que los de matrimonios civiles o religiosos",
+        "Su situación jurídica depende del criterio de cada centro educativo",
+        "Tienen derechos similares, pero limitados respecto a su madre"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los descendientes de parejas de hecho tienen la misma consideración legal que los de matrimonios, tanto civiles como religiosos."
+    },
+    {
+      "question": "¿De qué depende el alcance de los derechos jurídicos de las parejas de hecho en España?",
+      "options": [
+        "De la duración de la convivencia de la pareja",
+        "De la comunidad autónoma",
+        "De que tengan hijos en común",
+        "De la edad de los integrantes de la pareja"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La nota de la unidad indica que los derechos jurídicos de las parejas de hecho varían en función de la comunidad autónoma."
+    },
+    {
+      "question": "Una pareja convive y actúa socialmente como un matrimonio, pero sin vinculación legal. ¿Cuál es su estado civil a efectos oficiales?",
+      "options": [
+        "Casados de hecho",
+        "Solteros",
+        "Pareja de hecho automáticamente",
+        "Unidos civilmente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sin vinculación legal, la cohabitación lleva a efectos de estado civil a considerarlos personas solteras, aunque socialmente se comporten como un matrimonio."
+    },
+    {
+      "question": "Dos personas mantienen un compromiso afectivo estable, pero cada una vive en su propia casa. ¿Qué tipo de unión es?",
+      "options": [
+        "Pareja de hecho",
+        "Cohabitación sin vínculo",
+        "Familia neolocal",
+        "Living apart together (LAT)"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las parejas LAT viven en hogares diferentes pero mantienen el vínculo afectivo y de compromiso (Elboj e Íñiguez, 2012). La cohabitación y la neolocalidad implican compartir vivienda."
+    },
+    {
+      "question": "Tradicionalmente la familia se ha basado en vínculos biológicos. ¿Qué ha cambiado con los avances sociales y tecnológicos?",
+      "options": [
+        "Se han ampliado las formas de filiación más allá de la genética",
+        "Se ha dejado de considerar la procreación como una función familiar",
+        "Se ha impuesto la adopción como forma habitual de filiación",
+        "Se ha limitado el reconocimiento legal a los hijos biológicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Han surgido nuevas formas de filiación como la adopción, la reproducción asistida y el acogimiento, que van más allá de la filiación genética. No se ha eliminado la procreación ni se ha limitado el reconocimiento."
+    },
+    {
+      "question": "¿En qué consiste la adopción?",
+      "options": [
+        "En que una familia cuida de un menor de forma temporal mientras el Estado conserva la tutela",
+        "En que una familia acepta legalmente como hijo a un menor ajeno y lo integra como miembro propio",
+        "En que una pareja recurre a técnicas médicas para lograr la fecundación",
+        "En que una mujer gesta un hijo para otras personas que serán sus padres"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En la adopción una familia acepta legalmente como hijo a un menor ajeno, integrándolo como miembro propio. La primera opción describe el acogimiento, la tercera la reproducción asistida y la cuarta la gestación subrogada."
+    },
+    {
+      "question": "En la reproducción asistida, ¿qué ocurre con el vínculo genético y la consideración de los hijos?",
+      "options": [
+        "El vínculo genético debe existir y los hijos se consideran legítimos a efectos legales",
+        "El vínculo genético puede estar o no, y los hijos se consideran legítimos social y legalmente",
+        "El vínculo genético es irrelevante y la filiación se reconoce en el plano social",
+        "El vínculo genético se pierde y la filiación equivale a la adopción"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Estas técnicas permiten la fecundación ante dificultades fisiológicas; el vínculo genético puede estar presente o no, pero los hijos se consideran legítimos tanto social como legalmente."
+    },
+    {
+      "question": "¿Qué diferencia fundamental existe entre el acogimiento familiar y la adopción?",
+      "options": [
+        "En el acogimiento el menor pierde el contacto con su familia de origen",
+        "En el acogimiento la tutela pasa a la familia, mientras que en la adopción es compartida",
+        "En el acogimiento es temporal, la tutela sigue en manos del Estado y el menor puede volver con su familia de origen",
+        "En el acogimiento se exige el vínculo genético con alguno de los progenitores"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El acogimiento es una guarda temporal de un menor en desamparo; la tutela sigue en manos del Estado y el menor puede regresar con su familia de origen si cambia la situación que provocó el desamparo."
+    },
+    {
+      "question": "¿Cuál es la situación de la gestación subrogada en España según la unidad?",
+      "options": [
+        "Está permitida con control judicial previo",
+        "Está permitida para parejas heterosexuales casadas",
+        "Es una práctica no permitida, aunque en algunos países se reconoce la filiación de los padres intencionales",
+        "Es una práctica regulada por cada comunidad autónoma"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto señala que en España no está permitida, mientras que en algunos países se reconoce la filiación de los padres intencionales sobre el hijo gestado por una mujer subrogada."
+    },
+    {
+      "question": "¿Qué rasgo define a una familia funcional según Martínez et al. (2018)?",
+      "options": [
+        "La ausencia de conflictos y problemas en la convivencia",
+        "La capacidad de afrontar y resolver los problemas con relativa efectividad",
+        "La existencia de un reparto estricto de roles entre los progenitores",
+        "El predominio de normas rígidas que garanticen la disciplina"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las familias nunca están exentas de problemas; lo que define a las funcionales es su capacidad de afrontarlos y resolverlos con relativa efectividad. No se caracterizan por la ausencia de conflictos ni por normas rígidas."
+    },
+    {
+      "question": "¿Qué se considera esencial en las familias funcionales, según la nota de la unidad?",
+      "options": [
+        "La estabilidad económica de los progenitores",
+        "El amor incondicional a los hijos e hijas",
+        "La coincidencia en los valores religiosos del grupo",
+        "La convivencia con la familia extensa"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La nota destaca que el amor incondicional a los hijos e hijas es esencial en las familias funcionales. La estabilidad económica o la convivencia con parientes no se señalan como requisito."
+    },
+    {
+      "question": "¿Cómo define la unidad a una familia disfuncional?",
+      "options": [
+        "Aquella en la que los progenitores no ejercen ningún tipo de control",
+        "Aquella que no funciona porque carece de funciones educativas",
+        "Aquella en la que existe un solo progenitor al cargo de los hijos",
+        "Aquella cuya forma de funcionar no es la adecuada, aunque funcione"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Una familia disfuncional no es la que no funciona, sino aquella cuya manera de funcionar no es adecuada. No tiene relación con el número de progenitores."
+    },
+    {
+      "question": "¿Qué características tienen los límites en las familias funcionales?",
+      "options": [
+        "Son claros y flexibles, y facilitan el respeto mutuo, la convivencia y la justicia familiar",
+        "Son estrictos y estables, y garantizan la obediencia de los hijos",
+        "Son difusos y cambiantes, y se adaptan a cada situación",
+        "Son pactados por los hijos y revisados cada cierto tiempo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las familias funcionales imponen límites claros y flexibles que facilitan el respeto mutuo, la convivencia y la justicia familiar. Ni la rigidez ni la ausencia de claridad son rasgos funcionales."
+    },
+    {
+      "question": "Los objetivos de las familias funcionales se caracterizan por ser:",
+      "options": [
+        "Metas ambiciosas orientadas al éxito académico de los hijos",
+        "Objetivos a largo plazo definidos por los progenitores",
+        "Pequeños pasos realizables, sostenidos en valores y emociones positivas",
+        "Propósitos flexibles que cambian según las circunstancias económicas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los objetivos de las familias funcionales son pequeños pasos realizables sostenidos en valores y emociones positivas. No se centran en metas ambiciosas ni en las circunstancias económicas."
+    },
+    {
+      "question": "Al comunicarse, las familias funcionales favorecen elementos como:",
+      "options": [
+        "La obediencia, el orden y la competitividad",
+        "El perdón, el agradecimiento, la escucha y los momentos familiares",
+        "La autoridad, el silencio y la autonomía temprana",
+        "La negociación, el castigo y la responsabilidad individual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La comunicación en estas familias se favorece mediante el perdón, el agradecimiento, la alegría, la escucha, los momentos familiares y la serenidad."
+    },
+    {
+      "question": "¿Qué aspectos de la protección de la familia se reflejan en la Constitución española?",
+      "options": [
+        "Su protección educativa, cultural y religiosa",
+        "Su protección laboral, sanitaria y fiscal",
+        "Su protección jurídica, afectiva y comunitaria",
+        "Su protección social, económica y jurídica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La Constitución española recoge lo establecido en la Declaración de 1948 y asegura la protección social, económica y jurídica de la familia."
+    },
+    {
+      "question": "Una pareja con un hijo decide separarse y la madre queda sola al cuidado del menor. Según la clasificación por número de progenitores, ¿cómo se describe ahora ese hogar?",
+      "options": [
+        "Como una familia reconstituida",
+        "Como una familia monoparental, concretamente monomarental",
+        "Como una familia biparental con custodia delegada",
+        "Como una familia extensa con un núcleo reducido"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Al quedar un solo progenitor con el hijo se trata de una familia monoparental, y al ser una mujer, monomarental. La reconstituida exigiría una nueva pareja."
+    },
+    {
+      "question": "Si la pareja anterior vuelve a emparejarse y la nueva pareja aporta además un hijo propio, ¿qué tipo de familia se forma?",
+      "options": [
+        "Una familia reconstituida",
+        "Una familia numerosa especial",
+        "Una familia nuclear tradicional",
+        "Una familia homoparental"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Es una pareja de nueva creación en la que al menos uno de los miembros aporta hijos de una relación anterior, lo que define a la familia reconstituida. El número de hijos o el sexo de la pareja no determinan esta categoría."
+    },
+    {
+      "question": "¿Cómo se definen los estilos educativos parentales?",
+      "options": [
+        "Como el conjunto de normas escritas que establece la familia para convivir",
+        "Como las técnicas de castigo que usan los progenitores ante conductas inadecuadas",
+        "Como la forma de actuar basada en criterios que permite a los adultos responder a los menores en situaciones cotidianas",
+        "Como el modelo de familia que adoptan los progenitores según su cultura"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los estilos educativos son la manera de actuar, basada en criterios, con la que los adultos responden a los menores y toman decisiones. No se reducen a normas escritas, castigos ni a un modelo de familia."
+    },
+    {
+      "question": "Los estilos educativos parentales se caracterizan por:",
+      "options": [
+        "Tener estabilidad en el tiempo, aunque con variaciones y flexibilidad según la circunstancia",
+        "Mantenerse fijos durante la crianza, sin posibilidad de adaptación a cada situación",
+        "Cambiar de manera constante según el estado de ánimo de los progenitores",
+        "Depender exclusivamente de las características de personalidad de los hijos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tienen permanencia y estabilidad, pero también variaciones: padres y madres pueden elegir estrategias según lo que consideren más adecuado en cada circunstancia."
+    },
+    {
+      "question": "¿Qué dos conceptos clave permiten analizar los estilos de crianza?",
+      "options": [
+        "Autonomía y dependencia",
+        "Disciplina y recompensa",
+        "Comunicación y obediencia",
+        "Afecto y control"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los cuatro estilos parentales se establecen combinando el nivel de afecto (cariño con palabras y actos) y de control (regulación normativa y disciplina)."
+    },
+    {
+      "question": "¿Qué combinación de afecto y control define al estilo democrático?",
+      "options": [
+        "Alto control coercitivo y bajo afecto",
+        "Alto control no coercitivo y alto afecto",
+        "Bajo control y alto afecto",
+        "Bajo control y bajo afecto"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El estilo democrático combina alto control no coercitivo con alto afecto. El alto control coercitivo con bajo afecto es autoritario; el bajo control con alto afecto es permisivo; y bajo control con bajo afecto es negligente."
+    },
+    {
+      "question": "Unos progenitores dialogan con su hija adolescente, atienden sus necesidades y pactan normas con ella. ¿Qué estilo ejercen y qué efecto es esperable?",
+      "options": [
+        "Permisivo, con baja tolerancia a la frustración",
+        "Autoritario, con déficit en la toma de decisiones",
+        "Negligente, con dificultades para seguir instrucciones",
+        "Democrático, con autoestima, autonomía y responsabilidad"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La comunicación bidireccional y los acuerdos de diálogo son propios del estilo democrático, que favorece autoestima, autonomía, responsabilidad y competencias sociales."
+    },
+    {
+      "question": "En el estilo permisivo, ¿qué consecuencia es habitual en los hijos e hijas?",
+      "options": [
+        "Alta autoestima, bajos niveles de control de impulsos y dificultad para seguir instrucciones",
+        "Baja autoestima, alto control de impulsos y rigidez ante las normas",
+        "Déficit en competencias sociales y escasa autonomía en la toma de decisiones",
+        "Alta responsabilidad, elevada tolerancia a la frustración y buena adaptación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Con mucho afecto y poca atención a las normas, los hijos tienen alta autoestima, pero poco control de impulsos y dificultades para seguir ciertas instrucciones. Los déficits sociales y de decisión corresponden al estilo autoritario."
+    },
+    {
+      "question": "Un padre exige el cumplimiento estricto de las normas, apenas muestra cariño y la comunicación con su hijo es unidireccional. ¿Qué estilo parental ejerce?",
+      "options": [
+        "Autoritario",
+        "Democrático",
+        "Permisivo",
+        "Negligente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El alto control coercitivo, el bajo afecto y la comunicación unidireccional caracterizan el estilo autoritario. El negligente tiene bajo control y bajo afecto."
+    },
+    {
+      "question": "¿Qué consecuencias puede tener el estilo autoritario en los hijos e hijas?",
+      "options": [
+        "Alta autoestima y escaso control de los impulsos",
+        "Déficit en competencias sociales, autoestima, autonomía y toma de decisiones",
+        "Baja tolerancia a la frustración y necesidades básicas desatendidas",
+        "Responsabilidad elevada y buena capacidad de diálogo con las figuras adultas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El énfasis en las normas y la comunicación unidireccional pueden generar déficits en competencias sociales, autoestima, autonomía y toma de decisiones."
+    },
+    {
+      "question": "¿Cuál de estas características corresponde al estilo indiferente o negligente?",
+      "options": [
+        "Alto afecto con exigencia moderada de las normas familiares",
+        "Normas estrictas con comunicación exclusivamente de los padres a los hijos",
+        "Bajo control y bajo afecto, con límites poco claros y necesidades básicas a veces desatendidas",
+        "Atención a las necesidades afectivas sin supervisar el cumplimiento de las normas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El estilo negligente combina bajo control y bajo afecto: no hay comunicación ni límites claros y, a menudo, las necesidades básicas no están atendidas. La última opción describe al estilo permisivo."
+    },
+    {
+      "question": "Un docente observa a un alumno con baja autoestima, poca tolerancia a la frustración y dificultades para seguir instrucciones. ¿Con qué estilo parental se relaciona mejor este perfil?",
+      "options": [
+        "Democrático",
+        "Permisivo",
+        "Negligente",
+        "Autoritario"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Baja autoestima, déficit de habilidades sociales, dificultades de control de impulsos, baja tolerancia a la frustración y problemas para seguir instrucciones se asocian al estilo indiferente o negligente."
+    },
+    {
+      "question": "¿Qué diferencia principal hay entre el estilo permisivo y el negligente?",
+      "options": [
+        "El permisivo ejerce alto control y el negligente un control moderado",
+        "El permisivo muestra alto afecto y el negligente bajo afecto, con ambos de bajo control",
+        "El permisivo es coercitivo y el negligente utiliza el diálogo",
+        "El permisivo atiende las normas y el negligente se centra en el afecto"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ambos tienen bajo control, pero el permisivo se involucra afectivamente (alto afecto) y el negligente no (bajo afecto)."
+    },
+    {
+      "question": "Respecto al estilo autoritario y al democrático, ¿qué comparten y qué los diferencia?",
+      "options": [
+        "Ambos tienen alto control, pero el autoritario es coercitivo y con bajo afecto",
+        "Ambos tienen alto afecto, pero el autoritario no establece normas",
+        "Ambos tienen bajo control, pero difieren en la comunicación",
+        "Ambos usan comunicación bidireccional, pero el autoritario no es afectivo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los dos ejercen alto control, pero el democrático lo hace sin coerción y con alto afecto; el autoritario es coercitivo, con bajo afecto y comunicación unidireccional."
+    },
+    {
+      "question": "¿Cómo define la LOPIVI la parentalidad positiva?",
+      "options": [
+        "Como la educación que garantiza el éxito académico del menor en cualquier circunstancia",
+        "Como un comportamiento de los progenitores basado en el interés superior del menor y orientado a crecer en un entorno afectivo y sin violencia",
+        "Como el conjunto de derechos de los progenitores frente a las decisiones del centro educativo",
+        "Como un modelo de crianza centrado en la disciplina para prevenir conductas de riesgo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La LOPIVI (Ley Orgánica 8/2021) la define como un comportamiento fundamentado en el interés superior del menor, orientado a que crezca en un entorno afectivo y sin violencia, con derecho a opinar y participar."
+    },
+    {
+      "question": "Según la definición de la LOPIVI, la parentalidad positiva incluye:",
+      "options": [
+        "El derecho del menor a expresar su opinión y a ser tomado en cuenta en los asuntos que le afecten",
+        "La obligación del menor de seguir las decisiones de sus progenitores",
+        "La delegación de la educación en derechos y obligaciones a la escuela",
+        "El control progresivo de la conducta del menor por parte de la autoridad escolar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La definición incluye el derecho a expresar su opinión, a participar y a ser tomado en cuenta en los asuntos que le afecten, además de la educación en derechos y obligaciones."
+    },
+    {
+      "question": "¿A quién puede aplicarse el comportamiento parental positivo según la definición legal?",
+      "options": [
+        "A los progenitores biológicos del menor",
+        "A los progenitores y a otras personas con parentesco directo",
+        "A los progenitores o a quienes ejerzan funciones de tutela, guarda o acogimiento",
+        "A los progenitores y a los profesionales que atienden al menor"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La LOPIVI se refiere al comportamiento de los progenitores o de quienes ejerzan funciones de tutela, guarda o acogimiento, lo que amplía el concepto más allá de la filiación biológica."
+    },
+    {
+      "question": "¿Qué matiz añade la nota sobre la parentalidad positiva?",
+      "options": [
+        "Que debe respetar los derechos de los menores y atender también los de madres y padres",
+        "Que debe priorizar las decisiones del menor sobre las de los adultos",
+        "Que debe centrarse en la disciplina para garantizar el respeto a las normas",
+        "Que debe aplicarse con criterios idénticos en todas las etapas evolutivas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La nota subraya que, además de respetar los derechos de los menores, la parentalidad positiva debe atender los derechos de madres y padres."
+    },
+    {
+      "question": "Una familia establece rutinas y hábitos para que su hijo se sienta seguro con lo predecible. ¿Qué principio de la parentalidad positiva aplica?",
+      "options": [
+        "Reconocimiento y valoración de las capacidades del hijo",
+        "Organización de rutinas y hábitos en un entorno estructurado con límites",
+        "Establecimiento de vínculos afectivos cálidos",
+        "Educación sin violencia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Organizar rutinas y hábitos fomenta un entorno estructurado donde los hijos sienten seguridad gracias a lo predecible y a los límites (Capano y Ubach, 2013)."
+    },
+    {
+      "question": "Unos padres felicitan a su hija por el esfuerzo en un proyecto, valoran sus capacidades y escuchan sus preocupaciones. ¿Qué principio ilustran?",
+      "options": [
+        "Conocer las capacidades y motivaciones de los hijos para contribuir a su desarrollo",
+        "Facilitar que los hijos se sientan capaces, competentes e influyentes",
+        "Reconocer y valorar de forma positiva sus actividades, capacidades, limitaciones y preocupaciones",
+        "Organizar rutinas para fomentar la seguridad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El reconocimiento y la valoración positiva de actividades, experiencias, capacidades, limitaciones o preocupaciones es uno de los principios de la parentalidad positiva."
+    },
+    {
+      "question": "¿Cuál de estos NO es un principio de la parentalidad positiva propuesto por Capano y Ubach (2013)?",
+      "options": [
+        "Facilitar que los hijos se sientan competentes e influyentes",
+        "Establecer vínculos afectivos cálidos",
+        "Educar sin violencia",
+        "Mantener un control estricto de la conducta mediante castigos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El control estricto mediante castigos no figura entre los principios; la parentalidad positiva promueve vínculos cálidos, rutinas, reconocimiento, competencia y educación sin violencia."
+    },
+    {
+      "question": "La parentalidad positiva se aproxima más al estilo:",
+      "options": [
+        "Autoritario, por la importancia que da a las normas",
+        "Permisivo, por su énfasis en el afecto y la escucha",
+        "Democrático, por combinar afecto, límites y comunicación",
+        "Negligente, por reducir la intervención adulta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Combina vínculos afectivos cálidos, límites claros, rutinas y diálogo sin violencia, lo que coincide con el estilo democrático. El permisivo carece de control."
+    },
+    {
+      "question": "¿Qué técnica disciplinaria consiste en explicar al hijo cómo sus acciones afectan a los demás?",
+      "options": [
+        "Afirmación de poder",
+        "Retirada de cariño",
+        "Inducción",
+        "Calidez y afecto"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La inducción utiliza recursos de enseñanza (consecuencias y responsabilidad de los actos) para explicar el efecto de las acciones en otros y fomenta conductas prosociales como la empatía."
+    },
+    {
+      "question": "Unos progenitores amenazan con retirar privilegios y castigar para lograr obediencia inmediata. ¿Qué técnica emplean?",
+      "options": [
+        "Afirmación de poder",
+        "Inducción",
+        "Retirada de cariño",
+        "Calidez y afecto"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La afirmación de poder usa castigos, amenazas o retirada de privilegios para obtener obediencia. Puede ser efectiva a corto plazo, pero su exceso dificulta interiorizar valores prosociales."
+    },
+    {
+      "question": "¿Por qué el uso excesivo de la afirmación de poder es problemático?",
+      "options": [
+        "Porque genera menor obediencia inmediata que otras técnicas",
+        "Porque provoca desconfianza hacia los profesores en el aula",
+        "Porque impide que los progenitores establezcan normas claras",
+        "Porque dificulta que los hijos interioricen valores prosociales"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Aunque a corto plazo pueda parecer eficaz, su exceso dificulta la interiorización de valores prosociales. Sí obtiene obediencia inmediata, por lo que la primera opción es incorrecta."
+    },
+    {
+      "question": "Ante una mala conducta, una madre ignora a su hijo y le muestra decepción. ¿Qué técnica disciplinaria aplica?",
+      "options": [
+        "Inducción",
+        "Retirada de cariño",
+        "Afirmación de poder",
+        "Calidez y afecto"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ignorar al hijo y mostrar decepción constituye la retirada de cariño. Puede generar obediencia inmediata, pero no favorece el desarrollo de conductas prosociales."
+    },
+    {
+      "question": "¿Qué efecto tiene la técnica de calidez y afecto sobre la conducta del hijo?",
+      "options": [
+        "Genera obediencia inmediata a costa de la autoestima",
+        "Produce efectos muy positivos en su conducta prosocial",
+        "Reduce la necesidad de establecer normas familiares",
+        "Provoca dependencia emocional respecto a los progenitores"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Responder con sensibilidad, valorar la conducta y reaccionar de forma empática y respetuosa genera efectos muy positivos en la conducta prosocial, según Rodríguez-Pérez (2007)."
+    },
+    {
+      "question": "¿Qué técnicas disciplinarias favorecen más la conducta prosocial?",
+      "options": [
+        "Afirmación de poder y retirada de cariño",
+        "Inducción y calidez y afecto",
+        "Retirada de cariño e inducción",
+        "Afirmación de poder y calidez y afecto"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La inducción fomenta la empatía y la calidez y afecto produce efectos muy positivos en la conducta prosocial. Las otras dos técnicas generan obediencia, pero no favorecen valores prosociales."
+    },
+    {
+      "question": "Según el texto, ¿qué efecto tiene la exigencia de responsabilidad de los progenitores sobre las conductas prosociales?",
+      "options": [
+        "Genera niños y niñas igualmente responsables socialmente",
+        "Genera niños varones más responsables socialmente",
+        "Genera niñas más responsables y niños más dependientes",
+        "Reduce la responsabilidad social en edades tempranas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El texto indica que la exigencia de responsabilidad genera niños (varones) más responsables socialmente, mientras que la sensibilidad de los progenitores genera mayor responsabilidad por igual en niños y niñas."
+    },
+    {
+      "question": "¿Qué rasgo de los progenitores genera mayor responsabilidad en niños y niñas por igual?",
+      "options": [
+        "La exigencia de responsabilidad",
+        "El control estricto de las normas",
+        "La sensibilidad",
+        "La coerción moderada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los padres y madres con mayor sensibilidad generan niños y niñas con mayor responsabilidad por igual, mientras que la exigencia de responsabilidad influye sobre todo en los varones."
+    },
+    {
+      "question": "Una familia justifica el castigo con el argumento de que \"funciona a corto plazo\". ¿Qué matiz aporta la unidad?",
+      "options": [
+        "Es cierto y además favorece los valores prosociales a largo plazo",
+        "Puede ser efectiva a corto plazo, pero su exceso dificulta la interiorización de valores",
+        "Es falso, porque no produce cambios inmediatos en la conducta",
+        "Es cierto cuando se combina con la retirada de cariño"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La afirmación de poder puede considerarse efectiva a corto plazo, pero su exceso perjudica la interiorización de valores prosociales."
+    },
+    {
+      "question": "¿Qué nombre reciben las situaciones que requieren una atención especial distinta de la ordinaria dentro de la diversidad familiar del centro educativo?",
+      "options": [
+        "Situaciones de vulnerabilidad en el seno familiar",
+        "Situaciones de disfuncionalidad parental",
+        "Situaciones de riesgo estructural",
+        "Situaciones de exclusión familiar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La unidad habla de situaciones familiares en riesgo de vulnerabilidad que requieren una atención especial, diferente de la atención ordinaria."
+    },
+    {
+      "question": "¿Por qué la maternidad y paternidad adolescente puede considerarse una situación de vulnerabilidad?",
+      "options": [
+        "Porque implica una ruptura inevitable de la convivencia familiar",
+        "Porque obliga al alumnado a abandonar la escolarización obligatoria",
+        "Porque suele asociarse a la monoparentalidad y a la pobreza severa",
+        "Porque requiere acompañamiento para su desarrollo personal y académico y evitar la deserción escolar"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El profesorado debe tenerlo en cuenta para favorecer y acompañar el desarrollo personal y académico de este alumnado y, en lo posible, evitar la deserción escolar."
+    },
+    {
+      "question": "¿Qué papel debe asumir el contexto escolar ante el alumnado en situación de vulnerabilidad familiar?",
+      "options": [
+        "Ser un entorno seguro para el alumnado y sus familias, garantizando que no se perjudique su desarrollo integral",
+        "Derivar los casos a otros servicios y mantenerse al margen de la situación",
+        "Mantener la atención ordinaria para evitar la estigmatización del alumnado",
+        "Concentrar la atención en el rendimiento académico del alumno o alumna"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se debe promover que el contexto escolar sea un entorno seguro, garantizando que estas situaciones no perjudiquen el desarrollo integral de los menores."
+    },
+    {
+      "question": "El sharenting es un fenómeno de vulnerabilidad relacionado con:",
+      "options": [
+        "El abandono de los hijos al cuidado de familiares cercanos",
+        "El control parental excesivo del uso de dispositivos",
+        "La sustitución de la comunicación familiar por las redes",
+        "Compartir en línea información sobre los hijos e hijas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El sharenting consiste en compartir en línea información sobre los hijos e hijas, y se presenta como un nuevo fenómeno de vulnerabilidad en el seno familiar."
+    },
+    {
+      "question": "¿Qué situaciones de vulnerabilidad familiar se desarrollan en esta unidad?",
+      "options": [
+        "La ruptura familiar y la violencia dentro del seno familiar",
+        "La pobreza y la exclusión social",
+        "La maternidad adolescente y el sharenting",
+        "La monoparentalidad y la adopción"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Esta unidad aborda la ruptura familiar y la violencia en el seno familiar; la pobreza y la exclusión social se tratan de forma general en la Unidad didáctica 3."
+    },
+    {
+      "question": "¿En qué unidad se aborda la pobreza y la posibilidad de exclusión social?",
+      "options": [
+        "En la Unidad didáctica 1",
+        "En la Unidad didáctica 3",
+        "En la Unidad didáctica 4",
+        "En la propia Unidad didáctica 2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La nota de la unidad indica que la pobreza y, sobre todo, la posibilidad de exclusión social se abordarán de forma general en la Unidad didáctica 3."
+    },
+    {
+      "question": "¿Qué situaciones incluye la unidad dentro de la ruptura familiar?",
+      "options": [
+        "El divorcio, la violencia filioparental y el acogimiento",
+        "La separación y el divorcio, y el fallecimiento de uno de los progenitores",
+        "La custodia compartida y la adopción internacional",
+        "La separación, la reconstitución familiar y el duelo prolongado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Como situaciones de ruptura familiar se abordan la separación y el divorcio, así como el fallecimiento de uno de los progenitores."
+    },
+    {
+      "question": "¿En qué ámbitos suelen manifestarse las repercusiones del divorcio en los hijos e hijas?",
+      "options": [
+        "Bienestar emocional, conducta, bienestar económico y social, y rendimiento académico",
+        "Salud física, vivienda, ocio y relaciones con la familia extensa",
+        "Autoestima, orientación vocacional y elección de pareja en la adultez",
+        "Rendimiento académico y relaciones con el profesorado, exclusivamente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sánchez-Chiquito y Urraco (2021) mencionan repercusiones en bienestar emocional y conducta, bienestar económico, bienestar social y rendimiento académico, entre otras."
+    },
+    {
+      "question": "¿Cómo puede repercutir una ruptura de pareja en el rendimiento académico de un hijo?",
+      "options": [
+        "Mejora por la mayor autonomía que adquiere el menor",
+        "Se mantiene estable porque el entorno escolar no se ve afectado",
+        "Puede resentirse, entre otras razones, por la menor participación de los padres en su aprendizaje",
+        "Disminuye de forma permanente en la gran mayoría de casos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El rendimiento académico puede verse afectado, por ejemplo, por la disminución de la participación de los padres en el proceso de enseñanza-aprendizaje. Las repercusiones dependen de cada situación y no son automáticas."
+    },
+    {
+      "question": "Según Fariña et al. (2017), ¿qué efecto señalan algunos autores sobre la custodia compartida?",
+      "options": [
+        "Reduce el estrés de los hijos al mantener a ambos progenitores",
+        "Incrementa los niveles de estrés por los cambios de domicilio y la configuración familiar compleja",
+        "Mejora el rendimiento académico gracias a la mayor supervisión",
+        "No tiene efectos significativos sobre el bienestar emocional"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Algunos autores afirman que la custodia compartida puede incrementar el estrés ocasionado por los cambios frecuentes de domicilio y la configuración familiar compleja."
+    },
+    {
+      "question": "¿Qué ocurrió con el divorcio en España tras la Guerra Civil?",
+      "options": [
+        "La Ley del Divorcio de 1932 se mantuvo hasta la Constitución de 1978",
+        "La Ley del Divorcio de 1932 fue derogada y la Ley del Divorcio actual se promulgó en 1981",
+        "El divorcio se legalizó por primera vez en 1981 sin leyes anteriores",
+        "El divorcio se mantuvo legal con restricciones hasta 1978"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El divorcio se legalizó con la ley del 2 de marzo de 1932 (Segunda República), fue derogada con la dictadura, y en 1981 se promulgó la Ley del Divorcio tras la Constitución de 1978."
+    },
+    {
+      "question": "Un alumno cuyo padre ha fallecido muestra tristeza, enfado y miedo a perder a su madre. ¿Cómo debe interpretarse esta reacción?",
+      "options": [
+        "Como indicador de un trastorno que requiere derivación clínica inmediata",
+        "Como reacción totalmente normal en el duelo infantil y adolescente",
+        "Como señal de una crianza inadecuada previa a la pérdida",
+        "Como consecuencia de la falta de recursos emocionales del alumno"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Conmoción, ira, miedo a perder al otro progenitor, culpabilidad o tristeza se consideran reacciones totalmente normales tras el fallecimiento de un progenitor (Ordóñez y Lacasta, 2006)."
+    },
+    {
+      "question": "¿Cómo se define el duelo en la unidad?",
+      "options": [
+        "Como un trastorno emocional derivado de la pérdida de un ser querido",
+        "Como un proceso de adaptación emocional tras la pérdida de un ser querido, natural y adaptativo",
+        "Como la fase inicial de negación ante una ruptura familiar",
+        "Como la tristeza que aparece exclusivamente tras un fallecimiento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El duelo es el proceso de adaptación emocional tras la pérdida de un ser querido, por fallecimiento o por ruptura; es natural y adaptativo, no patológico, y no se limita al fallecimiento."
+    },
+    {
+      "question": "¿Cómo define el Consejo de Europa la violencia familiar?",
+      "options": [
+        "Como cualquier conflicto entre miembros de la familia que altere la convivencia",
+        "Como toda acción u omisión en el seno familiar que menoscaba la vida, la integridad o la libertad de un integrante",
+        "Como el maltrato físico ejercido por un adulto sobre un menor de edad",
+        "Como la agresión de los progenitores hacia los hijos que genera daño psicológico"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Es toda acción u omisión cometida por un miembro de la familia que menoscaba la vida o la integridad física o psicológica, o la libertad de otro integrante, y causa un serio daño a su desarrollo."
+    },
+    {
+      "question": "¿Qué implica entender la violencia familiar como ejercicio del poder?",
+      "options": [
+        "Que la ejerce el progenitor con mayor autoridad en la familia",
+        "Que existe un agresor y una víctima y puede darse entre cualquier miembro de la familia",
+        "Que se limita a las agresiones físicas, por requerir el uso de la fuerza",
+        "Que se produce principalmente en familias con estilos parentales autoritarios"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La violencia supone el empleo de la fuerza (física, psicológica, económica, etc.) e implica un agresor y una víctima; puede producirse entre cualquier miembro de la familia."
+    },
+    {
+      "question": "¿Qué factores suelen detonar la violencia filioparental?",
+      "options": [
+        "La inestabilidad de la adolescencia sumada a crisis personales, familiares o académicas",
+        "La falta de recursos económicos y de apoyo comunitario",
+        "La convivencia con la familia extensa en el hogar",
+        "El estilo parental democrático aplicado de forma permisiva"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se señala la inestabilidad de la adolescencia, sumada a crisis personales, familiares o académicas, como detonante de la violencia de hijos hacia progenitores u otros miembros."
+    },
+    {
+      "question": "Respecto a la violencia filioparental, ¿qué deberían hacer los centros educativos?",
+      "options": [
+        "Tratarla como un asunto privado de la familia que debe resolverse fuera del centro",
+        "Mantenerla bajo observación de la comunidad educativa para apoyar a estudiantes y familias",
+        "Derivar el caso directamente a las autoridades sin intervención previa",
+        "Dirigir las medidas disciplinarias hacia el alumno agresor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Al ser un fenómeno en crecimiento, aunque oculto en el círculo familiar, debe estar bajo observación de la comunidad educativa para apoyar a estudiantes y familias en su dificultad."
+    },
+    {
+      "question": "¿Por qué se dice que los estilos educativos parentales ofrecen tendencias globales y no reglas fijas?",
+      "options": [
+        "Porque los progenitores aplican un estilo distinto a cada hijo de forma aleatoria",
+        "Porque existen estilos más frecuentes, pero cada familia elige estrategias según la circunstancia",
+        "Porque los estilos dependen de la edad del menor y no de los progenitores",
+        "Porque los cuatro estilos aparecen mezclados en proporciones idénticas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hay tendencias globales de comportamiento y estilos más frecuentes, pero existe flexibilidad dentro de un marco de actuación en el que se seleccionan estrategias según la situación."
+    },
+    {
+      "question": "Si una familia quiere reforzar la autonomía y la responsabilidad de su hijo adolescente, ¿qué combinación le convendría adoptar?",
+      "options": [
+        "Alto control coercitivo con escasa expresión de afecto",
+        "Bajo control con afecto elevado y pocas normas",
+        "Alto control no coercitivo con afecto elevado y comunicación bidireccional",
+        "Bajo control y bajo afecto para favorecer la independencia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El estilo democrático (alto control no coercitivo y alto afecto) se asocia a autoestima, autonomía y responsabilidad, además de competencias sociales."
+    },
+    {
+      "question": "¿Qué función cumplen las escuelas de familia respecto a la parentalidad positiva, según lo recogido en la unidad?",
+      "options": [
+        "Sustituyen a los progenitores en la formación en valores",
+        "Promueven su desarrollo mediante el aprendizaje de habilidades y competencias de comunicación",
+        "Evalúan los estilos parentales de las familias del centro",
+        "Reciben las quejas de las familias sobre la actuación del profesorado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las escuelas de familia promueven la parentalidad positiva mediante el aprendizaje de habilidades y competencias de comunicación que favorecen un entorno seguro para el desarrollo de los hijos."
+    },
+    {
+      "question": "Una docente quiere ayudar a una familia con un hijo que presenta baja empatía. ¿Qué técnica disciplinaria le sugeriría para fomentarla?",
+      "options": [
+        "Inducción, explicando cómo sus acciones afectan a los demás",
+        "Afirmación de poder, con consecuencias estrictas",
+        "Retirada de cariño, ignorando la conducta inadecuada",
+        "Silenciar el conflicto, evitando hablar sobre lo ocurrido"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La inducción fomenta conductas prosociales como la empatía al explicar las consecuencias de los actos sobre los demás. Las otras opciones generan obediencia o evitación, no empatía."
+    },
+    {
+      "question": "¿Cuál es la intención principal de la unidad \"Familia, escuela y sociedad\"?",
+      "options": [
+        "Analizar las políticas educativas que regulan el funcionamiento de las familias",
+        "Reflexionar sobre la relación entre escuela, familia y sociedad y las dinámicas entre ellas",
+        "Comparar los sistemas educativos europeos desde una perspectiva histórica",
+        "Describir las funciones del profesorado en los órganos colegiados del centro"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La unidad busca reflexionar sobre la relación entre escuela, familia y sociedad y comprender las dinámicas que se gestan entre estas dimensiones de la vida social."
+    },
+    {
+      "question": "Para conectar escuela, familia y sociedad, la unidad propone:",
+      "options": [
+        "Priorizar la escuela como único espacio de aprendizaje formal",
+        "Valorar a la familia como principal transmisora de conocimiento académico",
+        "Considerar a la sociedad como el marco que dirige la actuación de las otras dos",
+        "Situarse en el amplio sentido de la educación y valorar cada una como espacio de construcción de conocimiento"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Es preciso asumir un sentido amplio de la educación y valorar cada ámbito (familia, escuela, sociedad) como espacio de construcción de conocimiento y aprendizaje."
+    },
+    {
+      "question": "Desde la perspectiva de la unidad, ¿cómo se concibe a la familia?",
+      "options": [
+        "Como grupo humano que establece relaciones simbióticas y a menudo tiene vínculos de parentesco",
+        "Como una institución cuya única función es la socialización primaria",
+        "Como una organización que complementa la tarea de la escuela",
+        "Como un grupo humano unido por vínculos genéticos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La unidad concibe la familia como grupo humano que establece relaciones simbióticas y que, a menudo, tiene vínculos de parentesco, con un rol socializador y de convivencia."
+    },
+    {
+      "question": "¿Qué idea de la relación familia-escuela se pretende retomar desde diferentes instancias?",
+      "options": [
+        "La subordinación de la familia a las decisiones técnicas del centro",
+        "La independencia de ambos ámbitos para evitar interferencias",
+        "La separación de funciones entre educación y socialización",
+        "La corresponsabilidad en la educación y la socialización"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Debido a los profundos cambios sociales, se promueve retomar y replantear la corresponsabilidad entre escuela y familia en la educación y la socialización."
+    },
+    {
+      "question": "¿Qué beneficios aporta la participación de las familias en decisiones y actividades de aprendizaje?",
+      "options": [
+        "Reduce la carga de trabajo del profesorado en tareas de evaluación",
+        "Amplía los recursos humanos de la escuela, mejora los resultados y favorece la inclusión",
+        "Sustituye la acción tutorial por una gestión más democrática",
+        "Garantiza el consenso entre profesorado y familias en los asuntos pedagógicos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La participación amplía los recursos humanos del centro, contribuye a mejorar los resultados académicos y favorece la inclusión de personas tradicionalmente excluidas."
+    },
+    {
+      "question": "¿En qué debe sustentarse la comunicación entre familias y profesionales de la educación?",
+      "options": [
+        "En notas informativas periódicas y reuniones puntuales",
+        "En una relación de colaboración basada en el respeto mutuo",
+        "En la autoridad del profesorado como experto en educación",
+        "En la delegación de tareas educativas a las familias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La comunicación debe trascender las meras notas informativas y sustentarse en una verdadera relación de colaboración, con el respeto mutuo como base."
+    },
+    {
+      "question": "Un centro solo envía circulares informativas a las familias. ¿Qué crítica se le haría desde la unidad?",
+      "options": [
+        "Que la comunicación debe trascender la información unilateral y basarse en la colaboración",
+        "Que las circulares deberían sustituirse por videollamadas con cada familia",
+        "Que debería delegar la comunicación en las asociaciones de familias",
+        "Que la comunicación escrita tiene menos valor legal que la oral"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La comunicación no debe limitarse a notas informativas, sino que debe fundarse en una relación de colaboración con respeto mutuo."
+    },
+    {
+      "question": "¿Cuál de las siguientes es una clave para recuperar la relación familia-escuela (Martínez et al., 2018)?",
+      "options": [
+        "Delimitar con claridad las responsabilidades de cada parte para evitar interferencias",
+        "Reducir los contactos al mínimo imprescindible para evitar conflictos",
+        "Construir un proyecto educativo sólido y consensuado con las familias",
+        "Centralizar las decisiones pedagógicas en el equipo directivo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Entre las claves figuran construir un proyecto educativo sólido y consensuado con las familias, compartir tiempos de calidad, comunicar con exigencia y cariño, planear juntos y estar abiertos al asesoramiento."
+    },
+    {
+      "question": "Un docente critica ante el alumnado las decisiones de la familia. ¿Qué clave de la relación familia-escuela incumple?",
+      "options": [
+        "Establecer tiempos compartidos de calidad",
+        "Estar abiertos al asesoramiento escolar",
+        "Llevar a cabo planes conjuntos y no desacreditarse mutuamente",
+        "Construir un proyecto educativo consensuado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Una de las claves es llevar a cabo planes conjuntos y no desacreditarse mutuamente. Criticar a la familia ante el alumnado socava la confianza y la colaboración."
+    },
+    {
+      "question": "¿Qué tres elementos resume la clave \"comunicación, exigencia y cariño\" en la relación familia-escuela?",
+      "options": [
+        "Un equilibrio entre diálogo, normas claras y afecto en la relación con el alumnado",
+        "Un reparto de tareas entre familia y escuela según su especialización",
+        "Una jerarquía en la que la escuela exige y la familia acompaña afectivamente",
+        "Una fórmula para evaluar el compromiso de las familias con el centro"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Es una clave para recuperar la relación y equilibra comunicación, exigencia y cariño. No implica una jerarquía ni un sistema de evaluación de las familias."
+    },
+    {
+      "question": "¿Con qué recurso cuenta el profesorado para atender a las familias, además de su propia experiencia?",
+      "options": [
+        "Con el asesoramiento del departamento de orientación",
+        "Con los informes de la inspección educativa",
+        "Con la mediación de la asociación de familias",
+        "Con el apoyo del equipo directivo en las tutorías"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El profesorado cuenta con la asesoría del departamento de orientación, pues cada docente es quien tiene el contacto más directo con las familias y debe poner en práctica sus capacidades de liderazgo."
+    },
+    {
+      "question": "¿Qué técnica de comunicación facilita el diálogo con la familia según Macià (2019)?",
+      "options": [
+        "La circular informativa",
+        "La entrevista",
+        "La agenda escolar",
+        "El informe de evaluación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La entrevista permite el diálogo y el intercambio de información, evitando que el docente sea el único emisor y las familias simples receptoras."
+    },
+    {
+      "question": "¿Qué debe evitar una buena entrevista entre docente y familia?",
+      "options": [
+        "Que el docente se convierta en el único emisor y la familia en receptora",
+        "Que se aborden aspectos personales del alumno",
+        "Que la familia aporte información sobre el contexto del alumno",
+        "Que se utilice un lenguaje cercano y poco formal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La entrevista debe permitir el diálogo y el intercambio de información bidireccional, evitando la comunicación unilateral del docente hacia la familia."
+    },
+    {
+      "question": "¿Qué recoge el preámbulo de la LOMLOE (Ley Orgánica 3/2020) sobre la colaboración con la familia?",
+      "options": [
+        "Que es una actuación opcional de los centros que dependerá de su proyecto educativo",
+        "Que es una actuación relevante e imprescindible para el desarrollo integral del alumnado, junto con la acción tutorial y la orientación",
+        "Que es una responsabilidad exclusiva del equipo de orientación del centro",
+        "Que es un requisito para la promoción del alumnado de secundaria"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El preámbulo señala que la acción tutorial, la orientación educativa y profesional y la colaboración con la familia y el entorno serán actuaciones relevantes e imprescindibles para el desarrollo integral del alumnado."
+    },
+    {
+      "question": "¿Qué implica un lenguaje apropiado en la comunicación centro-familia?",
+      "options": [
+        "Un tono y volumen adecuados, sin ser excesivamente teórico ni formal",
+        "Un lenguaje técnico que garantice precisión en la información transmitida",
+        "Un registro coloquial que evite cualquier tipo de formalidad",
+        "Un tono institucional que refuerce la autoridad del profesorado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El lenguaje de ambas partes debe tener un tono y un volumen adecuados, sin resultar excesivamente teórico ni formal, para favorecer una buena comunicación."
+    },
+    {
+      "question": "Un tutor mantiene contacto visual, sonríe y adopta una postura abierta al recibir a una familia. ¿Qué aspecto de la comunicación cuida?",
+      "options": [
+        "El lenguaje apropiado",
+        "La escucha activa",
+        "La comunicación no verbal",
+        "La competencia social y emocional"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El contacto visual, la sonrisa, los gestos y la posición corporal pertenecen a la comunicación no verbal, que favorece un clima comunicativo y de confianza."
+    },
+    {
+      "question": "¿En qué consiste la escucha activa en la relación con las familias?",
+      "options": [
+        "En registrar por escrito lo que cada familia comunica en la entrevista",
+        "En responder a cada cuestión de forma inmediata y concisa",
+        "En adoptar un tono empático que anticipe las preocupaciones de la familia",
+        "En marcar y respetar turnos de palabra, mostrar atención y comprender los mensajes"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La escucha activa requiere marcar turnos de palabra y respetarlos, mostrar atención y comprender los mensajes."
+    },
+    {
+      "question": "Dos adultos se interrumpen constantemente durante una reunión de tutoría. ¿Qué elemento de la comunicación familia-escuela se está descuidando?",
+      "options": [
+        "La escucha activa",
+        "El lenguaje apropiado",
+        "La motivación y confianza",
+        "La orientación positiva"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La escucha activa exige marcar y respetar turnos de palabra, mostrar atención y comprender los mensajes; interrumpirse la contradice."
+    },
+    {
+      "question": "¿Qué recoge la competencia social y emocional que debe desarrollar el profesorado para acompañar a las familias?",
+      "options": [
+        "Dominio de técnicas de evaluación del desarrollo familiar",
+        "Comunicación asertiva, empatía y expresividad emocional",
+        "Capacidad de resolver conflictos mediante la autoridad del cargo",
+        "Habilidad para diseñar programas de intervención familiar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Esta competencia incluye comunicación asertiva, empatía y expresividad emocional, con el fin de establecer una buena relación entre profesorado y familias."
+    },
+    {
+      "question": "¿Qué abarca la competencia de comunicación interpersonal del profesorado?",
+      "options": [
+        "Mantener un trato exclusivamente profesional con las familias",
+        "Delegar el contacto con las familias en el departamento de orientación",
+        "Dialogar y entenderse con compañeros y relacionarse con las familias de manera natural y profesional",
+        "Transmitir la información académica con claridad y de forma sistemática"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Implica capacidad de diálogo, comunicación y entendimiento con compañeros, relacionándose al mismo tiempo de manera natural y profesional con las familias."
+    },
+    {
+      "question": "¿Qué genera la buena comunicación según la habilidad de motivación, confianza y orientación positiva?",
+      "options": [
+        "Mayor control del profesorado sobre las decisiones de las familias",
+        "Reducción de las reuniones con las familias",
+        "Aceptación de las propuestas del centro sin cuestionarlas",
+        "Motivación y confianza, que permiten estrechar lazos"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La buena comunicación genera motivación y confianza, lo que permite estrechar lazos entre profesorado y familias."
+    },
+    {
+      "question": "¿Quiénes promueven la participación y colaboración de la familia en el centro?",
+      "options": [
+        "La acción tutorial y los departamentos de orientación",
+        "La inspección educativa y las administraciones locales",
+        "Las asociaciones de familias y el consejo escolar",
+        "El equipo directivo y el claustro de profesores"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El texto señala que tanto la acción tutorial como la labor de los departamentos de orientación promoverán la participación y colaboración de la familia."
+    },
+    {
+      "question": "¿Qué función cumple la tutoría dentro de la labor docente?",
+      "options": [
+        "Es una tarea administrativa que corresponde al tutor del grupo",
+        "Es una actividad complementaria al currículo, optativa para el profesorado",
+        "Personaliza el proceso de enseñanza-aprendizaje y garantiza un seguimiento individualizado, además de ser herramienta de comunicación",
+        "Es la herramienta para resolver los problemas de conducta del alumnado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La tutoría es una función del profesorado que personaliza el proceso de enseñanza-aprendizaje y garantiza el seguimiento individual, siendo una herramienta esencial de comunicación con estudiantes y familias."
+    },
+    {
+      "question": "Según Álvarez (2017), ¿quién está implicado en la acción tutorial?",
+      "options": [
+        "Cualquier docente, aunque no tenga asignado un grupo como tutor",
+        "El tutor del grupo y el departamento de orientación",
+        "El profesorado de las materias troncales y el equipo directivo",
+        "El profesor tutor y las familias del alumnado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La tutoría es un elemento inherente a la función docente y al currículo: todo profesor está implicado en la acción tutorial, aunque no se le asigne un grupo como tutor."
+    },
+    {
+      "question": "¿Cuál es la clasificación de las tutorías mencionada en la unidad?",
+      "options": [
+        "Presenciales y telemáticas",
+        "Grupales e individuales",
+        "Ordinarias y extraordinarias",
+        "Informativas y de seguimiento"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las tutorías se clasifican en grupales, a las que asisten todas las familias, e individuales, centradas en cuestiones personales del alumno."
+    },
+    {
+      "question": "Un tutor convoca a todas las familias para explicar la organización del curso. ¿Qué tipo de tutoría realiza?",
+      "options": [
+        "Individual",
+        "De seguimiento personalizado",
+        "Grupal",
+        "De orientación profesional"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las tutorías grupales reúnen a todas las familias del alumnado para tratar cuestiones que afectan a todo el grupo."
+    },
+    {
+      "question": "Un docente cita a una familia para hablar de la situación emocional de su hijo. ¿Qué tipo de tutoría es la más apropiada?",
+      "options": [
+        "Grupal, para comparar con las situaciones del resto de familias",
+        "Grupal, porque beneficia a toda la clase",
+        "Individual, para crear un vínculo de confianza y tratar cuestiones personales",
+        "Individual, aunque sin intervención del departamento de orientación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las tutorías individuales crean un vínculo de confianza y compromiso entre docente y familia y permiten tratar cuestiones personales del alumno."
+    },
+    {
+      "question": "¿Qué debe impulsar el servicio de orientación educativa respecto a las familias?",
+      "options": [
+        "La supervisión de los estilos parentales de las familias del centro",
+        "La colaboración y participación de la familia en los centros educativos",
+        "La resolución de los conflictos entre familias y profesorado por vía jurídica",
+        "El diseño del currículo en colaboración con las asociaciones de familias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los servicios de orientación educativa deben impulsar la colaboración y participación de la familia en los centros educativos."
+    },
+    {
+      "question": "¿Cuál de estas es una tarea que pueden desarrollar los servicios de orientación con las familias?",
+      "options": [
+        "Calificar el rendimiento del alumnado en las evaluaciones",
+        "Informar sobre los recursos del centro para atender las necesidades de su hijo o hija",
+        "Decidir la pertinencia de las medidas disciplinarias",
+        "Tutelar legalmente a los menores en situación de riesgo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre las tareas están informar sobre los recursos del centro, desarrollar acciones que favorezcan la cooperación familia-escuela y realizar formaciones para padres y madres."
+    },
+    {
+      "question": "Un orientador organiza una charla formativa para madres y padres sobre comunicación con adolescentes. ¿Qué tarea desempeña?",
+      "options": [
+        "Mediación en un conflicto familiar",
+        "Evaluación psicopedagógica del alumnado",
+        "Formación a familias para favorecer la cooperación con el centro",
+        "Gestión de la acción tutorial grupal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Llevar a cabo formaciones para padres y madres es una de las tareas de los servicios de orientación para favorecer la cooperación entre familia y escuela."
+    },
+    {
+      "question": "¿Qué recuerda la unidad sobre la participación en el proceso de enseñanza-aprendizaje?",
+      "options": [
+        "Que debe estar liderada por el equipo directivo del centro",
+        "Que es imprescindible la participación y colaboración de toda la comunidad educativa",
+        "Que depende de la disponibilidad de las familias y del profesorado",
+        "Que requiere el consenso previo de todos los sectores de la comunidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La nota subraya que la participación y colaboración de todos los miembros de la comunidad educativa es imprescindible en el proceso de enseñanza-aprendizaje."
+    },
+    {
+      "question": "¿Por qué la relación entre familia y rendimiento escolar es una responsabilidad que algunas familias asumen con más facilidad que otras?",
+      "options": [
+        "Porque el éxito académico no siempre forma parte de las aspiraciones culturales o prioridades de la familia",
+        "Porque el profesorado no valora el esfuerzo de las familias con menor formación",
+        "Porque las familias con estilos permisivos reciben menos orientación",
+        "Porque el éxito escolar depende exclusivamente de la capacidad del alumno"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El éxito académico, aunque deseado en las sociedades occidentales, no siempre forma parte de las aspiraciones culturales de una familia o de sus prioridades inmediatas, y a veces faltan herramientas socioafectivas y formativas."
+    },
+    {
+      "question": "Respecto a la libertad de elección educativa, ¿qué ocurre en la práctica?",
+      "options": [
+        "Es un derecho que se ejerce en igualdad de condiciones por las familias",
+        "Es un derecho limitado por la posición social, y las familias con más capital económico tienen más posibilidades de elegir",
+        "Es un derecho que depende de la proximidad geográfica al centro",
+        "Es un derecho que se ejerce en la enseñanza privada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Aunque es un derecho, está limitado por la posición social: quienes tienen más capital económico cuentan con más recursos, redes de contactos y acceso a información (Obiol, 2012)."
+    },
+    {
+      "question": "Además de mayor volumen de información, ¿qué necesitan las familias para elegir eficazmente centro educativo?",
+      "options": [
+        "Mayor disponibilidad horaria para visitar los centros",
+        "Capacidad para decodificar los códigos culturales que envuelven la información",
+        "Apoyo del departamento de orientación del centro de origen",
+        "Un nivel formativo equivalente al del profesorado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "No basta con acceder a más información; es preciso tener la capacidad de decodificar los códigos culturales que la envuelven (Obiol, 2012)."
+    },
+    {
+      "question": "Dos familias reciben la misma información sobre centros, pero solo una consigue elegir con éxito. ¿Qué factor explicaría mejor la diferencia?",
+      "options": [
+        "La posición económica y la red de contactos o los códigos culturales",
+        "El estilo parental que ejerce cada familia",
+        "La estructura familiar de cada una",
+        "El número de hijos que escolarizan en el centro"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La libertad de elección depende del capital económico, de la red de contactos y de la capacidad de decodificar los códigos culturales, no del estilo parental ni de la estructura familiar."
+    },
+    {
+      "question": "¿Cómo se estructura la participación familiar como colectivo?",
+      "options": [
+        "A través de asociaciones nacionales con normativa común",
+        "Mediante representantes designados por la administración",
+        "De forma diferente en cada comunidad educativa",
+        "Exclusivamente mediante el consejo escolar del centro"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El texto señala que, en términos de participación familiar como colectivo, cada comunidad educativa se estructura de forma diferente."
+    },
+    {
+      "question": "¿Qué evolución conceptual han experimentado las asociaciones de familias de alumnos?",
+      "options": [
+        "De AFA a AMPA y de AMPA a APA",
+        "De APA a AMPA y finalmente a AFA",
+        "De AMPA a APA y de APA a AFA",
+        "De APA a AFA y de AFA a AMPA"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se pasó de asociaciones de padres de alumnos (APA) a asociaciones de madres y padres (AMPA) y, finalmente, a asociaciones de familiares de alumnos/as (AFA), cuyo uso aún no es genérico."
+    },
+    {
+      "question": "¿Por qué la sigla AFA sustituye a AMPA en algunos centros?",
+      "options": [
+        "Porque incluye a los familiares en general, no solo a madres y padres, reflejando la diversidad familiar",
+        "Porque unifica las asociaciones de los centros públicos y privados",
+        "Porque permite federar las asociaciones a escala estatal",
+        "Porque refuerza la participación en el consejo escolar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La AFA es resultado de una evolución conceptual hacia una denominación más amplia (familiares) acorde con la diversidad familiar, aunque su uso no es todavía genérico."
+    },
+    {
+      "question": "¿Cuál es la finalidad de las asociaciones de familiares de alumnos?",
+      "options": [
+        "Defender colectivamente las demandas educativas",
+        "Gestionar los servicios complementarios del centro",
+        "Supervisar la labor docente y la evaluación del alumnado",
+        "Representar a los alumnos en el consejo escolar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Su finalidad es defender colectivamente las demandas educativas; estas asociaciones pueden federarse y confederarse."
+    },
+    {
+      "question": "¿Qué perspectiva defiende la CONCAPA?",
+      "options": [
+        "Una educación pública de calidad para mejorar la vida de niños y jóvenes",
+        "La perspectiva confesional de la educación",
+        "La libertad de elección educativa sin condicionamientos económicos",
+        "La participación de las familias en la gestión de los centros"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Confederación Católica Nacional de Padres de Familia y Padres de Alumnos (CONCAPA) defiende la perspectiva confesional de la educación."
+    },
+    {
+      "question": "¿Qué defiende la CEAPA?",
+      "options": [
+        "La educación confesional y la libertad de enseñanza",
+        "Una educación pública de calidad que mejore la vida de los niños y jóvenes",
+        "La enseñanza concertada con financiación pública",
+        "Una educación laica gestionada por las familias"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La Confederación Española de Asociaciones de Padres y Madres de Alumnos (CEAPA) aboga por una educación pública de calidad que permita mejorar la vida de niños y jóvenes."
+    },
+    {
+      "question": "¿Qué ocurrió con el movimiento asociativo de familias en España en los años setenta?",
+      "options": [
+        "Se desarrolló un auge de asociaciones vinculado a movimientos obreros y vecinales",
+        "Se produjo su desaparición por el cambio de régimen político",
+        "Se concentró en las confederaciones confesionales",
+        "Se limitó a los centros de titularidad privada"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Hubo un auge de asociaciones de familiares en los años setenta, de la mano de movimientos obreros y vecinales."
+    },
+    {
+      "question": "¿Qué rol asumen hoy, de forma colectiva, muchos padres y madres según la unidad?",
+      "options": [
+        "El de agentes activos en la vida de la escuela",
+        "El de gestores de los recursos del centro",
+        "El de consumidores, con menor disposición a participar activamente",
+        "El de mediadores entre el profesorado y el alumnado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Frente al auge de los setenta, hoy los padres y madres asumen más bien un rol de consumidores y presentan menor disposición a participar activamente de la vida escolar."
+    },
+    {
+      "question": "¿Qué son las escuelas de familia?",
+      "options": [
+        "Espacios de formación familiar para adquirir competencias y propuestas preventivas y de intervención, conectados con el centro escolar",
+        "Servicios del centro para escolarizar a menores en situación de vulnerabilidad",
+        "Programas de refuerzo académico dirigidos a los hijos de las familias",
+        "Asociaciones que representan a las familias ante la administración"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cano y Casado (2015) las definen como espacios de formación familiar que buscan adquirir y desarrollar competencias, preventivas y de intervención, para el desempeño del papel de madres y padres en conexión con el centro."
+    },
+    {
+      "question": "¿Qué enfoque tienen las escuelas de familia según Enríquez et al. (2018)?",
+      "options": [
+        "Un enfoque informativo basado en charlas de especialistas",
+        "Un enfoque terapéutico dirigido a familias en situación de riesgo",
+        "Un enfoque normativo orientado a corregir conductas parentales",
+        "Un enfoque participativo y proactivo adaptado a las particularidades del entorno y a los intereses de familias y escuelas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El enfoque es participativo y proactivo y responde a las particularidades del entorno y a los intereses de las familias y las escuelas."
+    },
+    {
+      "question": "¿Qué objetivo persiguen las escuelas de familia al promover la parentalidad positiva?",
+      "options": [
+        "Que las familias adopten un único modelo de crianza validado por el centro",
+        "Que las familias supervisen el trabajo del profesorado en el aula",
+        "Que las familias aprendan habilidades de comunicación que favorezcan un entorno seguro para sus hijos",
+        "Que las familias reduzcan su implicación en las tareas escolares"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mediante el aprendizaje de habilidades y competencias de comunicación se favorece un entorno seguro para el desarrollo de los hijos e hijas."
+    },
+    {
+      "question": "Un centro quiere que las familias aprendan estrategias de crianza y se sientan parte del proyecto educativo. ¿Qué iniciativa encaja mejor?",
+      "options": [
+        "Una escuela de familia con enfoque participativo",
+        "Un boletín informativo trimestral con los resultados académicos",
+        "Una reunión anual de inicio de curso con la dirección",
+        "Un buzón de sugerencias anónimo en la secretaría"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las escuelas de familia combinan formación en competencias parentales con conexión con el centro escolar y enfoque participativo. Las otras opciones son canales informativos o puntuales."
+    },
+    {
+      "question": "¿Qué propone el \"Recuerda\" de la unidad respecto a la Unidad didáctica 1?",
+      "options": [
+        "Retomar la importancia del papel de la escuela en el proceso de socialización",
+        "Repasar los factores que explican las desigualdades educativas",
+        "Revisar las teorías clásicas sobre la función social de la familia",
+        "Recordar el marco normativo de la participación de las familias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El recordatorio indica que en la UD1 se atiende a la importancia del papel de la escuela en el proceso de socialización."
+    },
+    {
+      "question": "¿Dónde se abordan las funciones de la familia en los órganos colegiados y el plan de acción tutorial?",
+      "options": [
+        "En la Unidad didáctica 3 de esta asignatura",
+        "En la Unidad didáctica 4 de Procesos y Contextos Educativos",
+        "En la Unidad didáctica 1 de Sociedad, Familia y Educación",
+        "En la Unidad didáctica 2 de Procesos y Contextos Educativos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La nota indica que en la Unidad didáctica 4 de Procesos y Contextos Educativos se abordan las funciones de la familia en los órganos colegiados y se analiza el plan de acción tutorial."
+    },
+    {
+      "question": "Según el resumen de la unidad, ¿qué sentido tiene la educación cuando no se construye en comunidad?",
+      "options": [
+        "Se plantea como reflexión sobre su sentido cuando falta confianza en las instituciones o no se valoran los conocimientos de las familias",
+        "Se concluye que pierde eficacia en los contextos urbanos",
+        "Se considera que continúa siendo eficaz si la escuela cumple su función académica",
+        "Se afirma que debe reforzarse el papel de la familia como sustituto de la escuela"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El cierre invita a reflexionar sobre qué sentido tiene la educación sin comunidad, sin confianza en las instituciones educativas o sin valorar los conocimientos de las familias."
+    },
+    {
+      "question": "Una familia formada por una pareja casada, sus hijos y los abuelos que viven con ellos, ¿cómo se clasifica por la extensión del grupo?",
+      "options": [
+        "Familia nuclear",
+        "Familia reconstituida",
+        "Familia monoparental",
+        "Familia extensa"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La convivencia de la pareja e hijos con otros parientes, como abuelos o tíos, define a la familia extensa. La nuclear se limita a la pareja y sus hijos."
+    },
+    {
+      "question": "Una pareja formada por dos mujeres con una hija conviven en su propia vivienda. ¿Qué rasgos de la familia tradicional se mantienen y cuál cambia?",
+      "options": [
+        "Se mantiene la heteroparentalidad y cambia la neolocalidad",
+        "Se mantiene la neolocalidad y cambia la heteroparentalidad",
+        "Se mantiene la patrilinealidad y cambia la neolocalidad",
+        "Se mantiene la extensión y cambia la patrilinealidad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El hogar propio mantiene la neolocalidad, mientras que una pareja del mismo sexo supone una familia homoparental, no heteroparental."
+    },
+    {
+      "question": "¿Por qué es preferible hablar de \"familias\" en lugar de \"la familia\" en un aula de secundaria?",
+      "options": [
+        "Porque las familias numerosas son mayoría entre el alumnado",
+        "Porque el profesorado no puede conocer la realidad concreta de cada hogar",
+        "Porque la diversidad familiar exige reconocer múltiples modelos de convivencia igualmente válidos",
+        "Porque la familia tradicional ya no existe en la sociedad actual"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El reconocimiento de la diversidad familiar implica entender que coexisten modelos distintos y válidos. La familia tradicional no ha desaparecido, aunque haya perdido predominio."
+    },
+    {
+      "question": "Un profesor pide al alumnado dibujar a \"papá, mamá y los hermanos\". ¿Qué crítica merece la actividad desde el enfoque de diversidad familiar?",
+      "options": [
+        "Invisibiliza a alumnado que convive en otras formas de familia y refuerza un único modelo",
+        "Resulta demasiado infantil para el alumnado de secundaria",
+        "Está desligada del currículo oficial de la materia",
+        "Genera comparaciones entre el nivel económico de las familias"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Proponer solo un modelo ignora a familias monoparentales, homoparentales, reconstituidas, entre otras, y no refleja la diversidad real."
+    },
+    {
+      "question": "¿Qué relación existe entre la urbanización y el predominio de la familia nuclear?",
+      "options": [
+        "La urbanización favorece la convivencia de varias generaciones en el mismo hogar",
+        "La urbanización debilita la conexión con la familia extensa y deja a la familia en su núcleo inmediato",
+        "La urbanización incrementa el número de familias numerosas especiales",
+        "La urbanización facilita que los progenitores compartan el cuidado con parientes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La distancia con el lugar de trabajo y la vida urbana debilitan el vínculo con la familia extensa, reduciendo la familia al núcleo más cercano."
+    },
+    {
+      "question": "Si se compara la reproducción asistida con la adopción, ¿qué diferencia es acertada?",
+      "options": [
+        "En la adopción el vínculo genético siempre existe con uno de los miembros de la pareja",
+        "En la reproducción asistida el menor es ajeno a la pareja y se integra legalmente",
+        "En la reproducción asistida el vínculo genético puede estar presente, mientras que en la adopción se integra legalmente a un menor ajeno",
+        "En ambas se mantiene la tutela del Estado sobre el menor"
+      ],
+      "correctAnswer": 2,
+      "explanation": "En la reproducción asistida puede existir vínculo genético con la pareja; en la adopción se acoge legalmente a un menor ajeno. Ninguna mantiene la tutela estatal, propia del acogimiento."
+    },
+    {
+      "question": "Una familia acoge temporalmente a un menor mientras se resuelve la situación de desamparo de sus padres biológicos. ¿Quién conserva la tutela?",
+      "options": [
+        "La familia acogedora",
+        "La familia biológica",
+        "Un juzgado de familia",
+        "El Estado"
+      ],
+      "correctAnswer": 3,
+      "explanation": "En el acogimiento familiar la familia ejerce la guarda y el cuidado, pero la tutela sigue en manos del Estado."
+    },
+    {
+      "question": "¿Qué situación justifica que un menor acogido regrese con su familia de origen?",
+      "options": [
+        "Que la situación que generó el desamparo cambie y la autoridad competente lo valore",
+        "Que la familia de acogida decida finalizar el acogimiento",
+        "Que el menor alcance la edad escolar obligatoria",
+        "Que se obtenga la conformidad del centro educativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "A diferencia de la adopción, el menor puede volver con su familia de origen si cambia la situación que generó el desamparo y así lo valora la autoridad competente."
+    },
+    {
+      "question": "Una familia numerosa con tres hijos y una madre soltera con un hijo, ¿cuál de las dos es biparental?",
+      "options": [
+        "Ninguna de las dos, por su configuración",
+        "La madre soltera con su hijo",
+        "Ambas, porque la clasificación depende de los hijos",
+        "Depende de si en la familia numerosa hay dos progenitores en el hogar"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La clasificación por número de progenitores no depende del número de hijos: la familia numerosa será biparental si hay dos progenitores, y la madre sola es monoparental (monomarental)."
+    },
+    {
+      "question": "¿Qué característica diferencia a un hogar de custodia compartida de una familia nuclear convencional?",
+      "options": [
+        "Que los menores conviven con un solo progenitor y visitan al otro",
+        "Que se transforma el hogar convencional y las dinámicas familiares, con cambios de domicilio",
+        "Que los progenitores abandonan sus responsabilidades educativas",
+        "Que los menores se integran en la familia extensa de uno de los progenitores"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La custodia compartida genera una transformación en los hogares convencionales y en las dinámicas familiares, con cambios frecuentes de domicilio."
+    },
+    {
+      "question": "Los estilos parentales democrático y autoritario ejercen control. ¿Qué los diferencia principalmente?",
+      "options": [
+        "La cantidad de normas que establecen en el hogar",
+        "La edad de los hijos a los que se aplican",
+        "El carácter coercitivo del control y el nivel de afecto",
+        "La participación de otros miembros de la familia en la crianza"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ambos controlan, pero el democrático lo hace sin coerción y con alto afecto, y el autoritario con coerción y bajo afecto."
+    },
+    {
+      "question": "Una madre muy cariñosa permite que su hijo decida el horario de estudio y no supervisa tareas. ¿Qué consecuencia es probable?",
+      "options": [
+        "Déficit en competencias sociales y escasa autoestima",
+        "Altos niveles de autonomía y responsabilidad",
+        "Alta autoestima con bajo control de impulsos y dificultad para seguir instrucciones",
+        "Baja tolerancia a la frustración por falta de afecto"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El afecto alto con bajo control corresponde al estilo permisivo, asociado a buena autoestima pero con poco control de impulsos y dificultades para seguir instrucciones."
+    },
+    {
+      "question": "Un adolescente se muestra inseguro al decidir y tiene escasas habilidades sociales; en casa se obedece sin discutir y casi no hay muestras de cariño. ¿Qué estilo es más probable?",
+      "options": [
+        "Permisivo",
+        "Negligente",
+        "Democrático",
+        "Autoritario"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Obediencia sin diálogo, poco afecto y déficits en toma de decisiones y competencias sociales apuntan al estilo autoritario."
+    },
+    {
+      "question": "¿Qué estilo parental se relaciona con una comunicación inexistente y límites poco definidos?",
+      "options": [
+        "Indiferente o negligente",
+        "Permisivo",
+        "Democrático",
+        "Autoritario"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el estilo indiferente los progenitores no establecen comunicación ni límites o normas claros. En el permisivo sí hay implicación afectiva."
+    },
+    {
+      "question": "¿Por qué la parentalidad positiva exige educar sin violencia?",
+      "options": [
+        "Porque la ley prohíbe cualquier forma de disciplina",
+        "Porque crecer en un entorno afectivo y sin violencia forma parte del interés superior del menor",
+        "Porque la violencia es eficaz a corto plazo con los menores varones",
+        "Porque los menores no distinguen entre disciplina y agresión"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La definición de la LOPIVI orienta la crianza a que el menor crezca en un entorno afectivo y sin violencia, desde el interés superior del niño. Esto no excluye la fijación de límites."
+    },
+    {
+      "question": "Si un padre responde a la mala conducta de su hijo con una conversación empática y valorando lo que ha hecho, ¿qué técnica usa?",
+      "options": [
+        "Retirada de cariño",
+        "Inducción",
+        "Calidez y afecto",
+        "Afirmación de poder"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La calidez y afecto implica responder con sensibilidad, valorar la conducta y reaccionar de modo empático y respetuoso, con efectos muy positivos en la conducta prosocial."
+    },
+    {
+      "question": "¿Qué diferencia hay entre inducción y afirmación de poder?",
+      "options": [
+        "La inducción explica las consecuencias de los actos y la afirmación de poder utiliza castigos o amenazas",
+        "La inducción retira privilegios y la afirmación de poder muestra decepción",
+        "La inducción ignora al hijo y la afirmación de poder utiliza la empatía",
+        "La inducción exige obediencia inmediata y la afirmación de poder fomenta la empatía"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La inducción enseña mediante explicación de consecuencias y fomenta la empatía; la afirmación de poder busca la obediencia mediante castigos, amenazas o retirada de privilegios."
+    },
+    {
+      "question": "Un padre deja de hablar a su hija durante días tras un mal comportamiento. ¿Cuál es el principal riesgo de esta técnica?",
+      "options": [
+        "Que no consiga ninguna obediencia a corto plazo",
+        "Que la hija se vuelva excesivamente permisiva con sus iguales",
+        "Que genere obediencia inmediata sin favorecer el desarrollo de conductas prosociales",
+        "Que la hija interiorice los valores familiares con mayor intensidad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La retirada de cariño puede producir obediencia inmediata, pero no favorece las conductas prosociales."
+    },
+    {
+      "question": "Un instituto detecta que una alumna embarazada empieza a faltar a clase. ¿Qué actuación se ajusta mejor a lo expuesto en la unidad?",
+      "options": [
+        "Aplicar el protocolo de absentismo ordinario sin atender a la situación",
+        "Acompañar su desarrollo personal y académico para evitar la deserción escolar",
+        "Derivar a la alumna a otro centro con apoyos específicos",
+        "Informar al resto del alumnado para generar apoyo en el grupo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se debe favorecer y acompañar el desarrollo personal y académico del alumnado en situación de maternidad o paternidad adolescente, evitando la deserción escolar."
+    },
+    {
+      "question": "Una familia sube fotos de su hijo menor a redes sociales de forma habitual. ¿Con qué fenómeno se relaciona?",
+      "options": [
+        "Violencia filioparental",
+        "Retirada de cariño",
+        "Parentalidad positiva",
+        "Sharenting"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El sharenting consiste en compartir en línea información sobre los hijos e hijas y se considera una situación de vulnerabilidad en el seno familiar."
+    },
+    {
+      "question": "¿Por qué la ruptura familiar requiere atención en el contexto educativo?",
+      "options": [
+        "Porque genera cambios que pueden afectar al bienestar emocional, la conducta y el rendimiento académico del alumnado",
+        "Porque obliga al centro a decidir la custodia del menor",
+        "Porque implica un cambio automático de centro educativo",
+        "Porque los progenitores pierden el derecho a participar en la escuela"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las repercusiones en los hijos son variadas y dependen de cada situación: emocionales, de conducta, económicas, sociales y académicas."
+    },
+    {
+      "question": "Un alumno de 14 años pierde a su madre. Su tutora observa conmoción, ira y dificultad para expresar emociones. ¿Cuál es la actitud más adecuada?",
+      "options": [
+        "Considerar que son signos de un trastorno y derivarlo de inmediato",
+        "Esperar a que el alumno hable por sí mismo sin intervenir",
+        "Entender estas reacciones como normales en el duelo y ofrecer acompañamiento en su proceso",
+        "Mantener su rutina escolar sin referencia a lo ocurrido"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las reacciones como conmoción, ira o dificultad para expresar emociones se consideran normales en el duelo infantil y adolescente; cada persona necesita sus tiempos y acompañamiento."
+    },
+    {
+      "question": "El duelo no solo aparece por fallecimiento. ¿En qué otra situación puede producirse?",
+      "options": [
+        "En la ruptura de la relación con un ser querido",
+        "En el cambio de centro educativo del menor",
+        "En el nacimiento de un hermano",
+        "En la incorporación de una nueva pareja de un progenitor"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El duelo es el proceso de adaptación emocional tras la pérdida de un ser querido, ya sea por fallecimiento o por ruptura."
+    },
+    {
+      "question": "¿Qué rasgo diferencia a la violencia filioparental de otras formas de violencia familiar?",
+      "options": [
+        "Que la ejercen los hijos o hijas hacia sus progenitores u otros miembros de la familia",
+        "Que la ejercen los progenitores hacia los hijos de forma sistemática",
+        "Que se produce en las familias monoparentales",
+        "Que no implica la existencia de un agresor y una víctima"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se refiere a la violencia de hijos o hijas hacia sus progenitores u otros familiares; sigue implicando agresor y víctima y puede darse en cualquier tipo de familia."
+    },
+    {
+      "question": "¿Por qué se considera que la violencia filioparental es una violencia \"oculta\"?",
+      "options": [
+        "Porque las víctimas no tienen acceso a servicios de apoyo",
+        "Porque está encerrada en el círculo familiar aunque crece exponencialmente",
+        "Porque afecta a familias con estilos parentales permisivos",
+        "Porque la comunidad educativa no tiene competencias para detectarla"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El pie de figura indica que está creciendo exponencialmente, pero sigue siendo una violencia oculta y encerrada en el círculo familiar."
+    },
+    {
+      "question": "¿Qué ventaja ofrece una tutoría individual frente a una grupal?",
+      "options": [
+        "Permite informar a todas las familias de los acuerdos del curso",
+        "Evita que el profesorado tenga que preparar información personalizada",
+        "Genera un vínculo de confianza y permite abordar cuestiones personales del alumno",
+        "Sustituye la necesidad de comunicación con el departamento de orientación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La tutoría individual crea un vínculo de confianza y compromiso entre docente y familia y trata cuestiones personales; la grupal aborda asuntos comunes al grupo."
+    },
+    {
+      "question": "Un docente de Matemáticas sin tutoría asignada recibe una pregunta de una familia sobre la evolución de su hijo. ¿Qué principio se aplica?",
+      "options": [
+        "Que la tutoría corresponde al tutor del grupo, por lo que debe derivarla",
+        "Que la acción tutorial es inherente a la función docente, y todo profesor está implicado",
+        "Que debe consultar primero con el equipo directivo",
+        "Que debe remitir la consulta al departamento de orientación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según Álvarez (2017), la tutoría es inherente a la función docente y al currículo, y todo profesor está implicado en la acción tutorial aunque no sea tutor de un grupo."
+    },
+    {
+      "question": "¿Qué ventaja tiene la participación de las familias en la toma de decisiones del centro?",
+      "options": [
+        "Reduce la influencia del profesorado en el proyecto educativo",
+        "Fortalece el consenso sobre el proyecto y favorece la inclusión de grupos tradicionalmente excluidos",
+        "Garantiza el éxito académico del alumnado de familias con menores recursos",
+        "Sustituye la labor del departamento de orientación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La participación amplía los recursos humanos, contribuye a mejorar resultados y a la inclusión de personas tradicionalmente excluidas."
+    },
+    {
+      "question": "Una familia de contexto desfavorecido muestra poca implicación en las reuniones. ¿Qué interpretación es coherente con la unidad?",
+      "options": [
+        "El éxito académico puede no formar parte de sus prioridades inmediatas o faltarles herramientas socioafectivas y formativas",
+        "Muestra un desinterés intencionado hacia la educación de sus hijos",
+        "Rechaza la autoridad del centro por principio",
+        "Es una consecuencia directa de su estilo parental permisivo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La unidad explica que el éxito académico no siempre forma parte de las aspiraciones o prioridades de la familia, y que a veces faltan herramientas para buscar soluciones alternativas."
+    },
+    {
+      "question": "Un centro decide que las reuniones con familias se hagan con lenguaje técnico y muy formal. ¿Qué principio de la comunicación familia-escuela incumple?",
+      "options": [
+        "La escucha activa",
+        "La comunicación no verbal",
+        "El lenguaje apropiado",
+        "La orientación positiva"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El lenguaje debe tener tono y volumen adecuados, sin ser excesivamente teórico ni formal, para facilitar el entendimiento mutuo."
+    },
+    {
+      "question": "¿Qué implica la corresponsabilidad entre escuela y familia?",
+      "options": [
+        "Que cada una asume funciones separadas sin interferir en las de la otra",
+        "Que la escuela asume las decisiones educativas y la familia las afectivas",
+        "Que la familia delega en la escuela la educación formal de los hijos",
+        "Que ambas comparten la responsabilidad de la educación y la socialización"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Se promueve retomar la idea de corresponsabilidad en la educación y la socialización entre escuela y familia, basada en el respeto mutuo y la colaboración."
+    },
+    {
+      "question": "¿Qué dos entidades destacan como grandes confederaciones de asociaciones de familias en España?",
+      "options": [
+        "CONCAPA y CEAPA",
+        "AMPA y AFA",
+        "APA y CONCAPA",
+        "CEAPA y AMPA"
+      ],
+      "correctAnswer": 0,
+      "explanation": "CONCAPA (confesional) y CEAPA (educación pública de calidad) son las dos grandes confederaciones destacadas. AMPA, APA y AFA son denominaciones de las asociaciones."
+    },
+    {
+      "question": "¿Cuál de estas afirmaciones sobre AFA, AMPA y APA es correcta?",
+      "options": [
+        "Son tres tipos de asociaciones con funciones distintas",
+        "Son denominaciones sucesivas de un mismo tipo de asociación, fruto de una evolución conceptual",
+        "Son asociaciones que representan a distintos niveles educativos",
+        "Son denominaciones de las confederaciones estatales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las AFA son el resultado de una evolución conceptual desde APA y AMPA; no son tipos distintos ni confederaciones."
+    },
+    {
+      "question": "¿Qué pretenden las escuelas de familia en conexión con el centro escolar?",
+      "options": [
+        "Sustituir a la escuela en la socialización de los menores",
+        "Evaluar las capacidades parentales de las familias",
+        "Desarrollar competencias preventivas y de intervención para el papel de madres y padres",
+        "Representar los intereses de las familias ante la administración"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Son espacios de formación familiar para adquirir competencias y propuestas, preventivas y de intervención, que faciliten el desempeño del papel parental en conexión con el centro."
+    },
+    {
+      "question": "¿Qué factor fue clave en el auge asociativo de familias de los años setenta?",
+      "options": [
+        "La implantación de la educación obligatoria",
+        "La influencia de los movimientos obreros y vecinales",
+        "La creación de la confederación confesional",
+        "La aprobación de la Ley del Divorcio"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El auge de asociaciones de familiares en los años setenta fue de la mano de movimientos obreros y vecinales."
+    },
+    {
+      "question": "Un centro quiere mejorar el vínculo con las familias. ¿Cuál de estas medidas es coherente con las claves propuestas?",
+      "options": [
+        "Aumentar la frecuencia de las circulares informativas",
+        "Establecer tiempos compartidos de calidad y elaborar un proyecto educativo consensuado",
+        "Limitar la comunicación a las tutorías individuales",
+        "Trasladar a las familias las decisiones pedagógicas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre las claves figuran establecer tiempos compartidos de calidad y construir un proyecto educativo sólido y consensuado con las familias."
+    },
+    {
+      "question": "¿Qué relación guarda la unidad entre familia y transformación social?",
+      "options": [
+        "La familia es una institución estática cuya función se mantiene constante",
+        "La familia refleja los cambios sociales, y su constitución diversa impulsa la transformación social",
+        "La familia depende de las políticas públicas para cambiar",
+        "La familia se transforma cuando se modifica la legislación"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La unidad refuerza la idea de transformación social a través de la familia, en su constitución diversa y en los aprendizajes de la vida en convivencia."
+    },
+    {
+      "question": "La cita de Juan Pablo II inicial presenta a la familia como:",
+      "options": [
+        "Un espacio de transmisión de tradiciones",
+        "La base de la sociedad donde las personas aprenden por primera vez los valores que las guían",
+        "Un grupo de apoyo económico para las personas más vulnerables",
+        "Una institución que complementa la labor de la escuela"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La cita afirma que la familia es la base de la sociedad y el lugar donde las personas aprenden por vez primera los valores que les guían durante la vida."
+    },
+    {
+      "question": "Una pareja que convive sin estar casada ni inscrita como pareja de hecho es considerada, a efectos de estado civil, como:",
+      "options": [
+        "Pareja de hecho con efectos equivalentes al matrimonio",
+        "Personas solteras",
+        "Unión civil sin derechos reconocidos",
+        "Cónyuges de facto"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La cohabitación sin vinculación legal lleva a efectos de estado civil a considerar a sus miembros como solteros, aunque socialmente actúen como un matrimonio."
+    },
+    {
+      "question": "¿Qué ocurre con la consideración legal de los hijos según el tipo de unión de sus progenitores?",
+      "options": [
+        "Los hijos de matrimonios religiosos tienen mayor reconocimiento legal que los de civiles",
+        "Los hijos de parejas de hecho y de matrimonios, civiles o religiosos, tienen la misma consideración legal",
+        "Los hijos de parejas de hecho no tienen consideración legal hasta que sus padres se casan",
+        "Los hijos de parejas cohabitantes tienen derechos respecto a un progenitor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los descendientes de parejas de hecho tienen la misma consideración legal que los provenientes de matrimonios, civiles o religiosos."
+    },
+    {
+      "question": "¿Qué diferencia hay entre familia heteroparental y familia tradicional?",
+      "options": [
+        "La heteroparental es un rasgo de la familia tradicional, que además es patrilineal y neolocal",
+        "Son sinónimos en todos los casos",
+        "La heteroparental excluye a los hijos y la tradicional los incluye",
+        "La heteroparental es propia de familias extensas y la tradicional de nucleares"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La heteroparentalidad (pareja de distinto sexo) es una de las características de la familia tradicional, junto con la patrilinealidad y la neolocalidad; no son sinónimos."
+    },
+    {
+      "question": "¿Qué función cumplen las familias según Martínez et al. (2018) para el desarrollo de individuos y sociedad?",
+      "options": [
+        "Funciones biológicas, económicas y educativas",
+        "Funciones políticas, jurídicas y religiosas",
+        "Funciones laborales, culturales y sanitarias",
+        "Funciones afectivas, recreativas y formativas"
+      ],
+      "correctAnswer": 0,
+      "explanation": "De la familia se esperan funciones biológicas, económicas y educativas que permiten el desarrollo de los individuos y de la sociedad."
+    },
+    {
+      "question": "¿Cuál es el papel de la comunicación en las familias funcionales?",
+      "options": [
+        "Es un recurso ocasional para resolver conflictos graves",
+        "Es el eje central de la relación entre los miembros de la familia",
+        "Es responsabilidad exclusiva de los progenitores hacia los hijos",
+        "Es un instrumento para transmitir normas y límites"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El pie de figura señala que la comunicación entre miembros de la familia es el eje central de la relación en las familias funcionales."
+    },
+    {
+      "question": "¿Cómo se relacionan los avances tecnológicos con la diversidad familiar?",
+      "options": [
+        "Cambian la manera de comunicación y relación de las familias y permiten nuevas formas de filiación",
+        "Reducen la necesidad de que las familias se comuniquen entre sí",
+        "Fomentan el predominio de la familia tradicional frente a otros modelos",
+        "Limitan la diversidad al sustituir los vínculos de parentesco"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los avances tecnológicos cambian la forma de comunicarse y relacionarse en las familias y, junto a los sociales, han dado lugar a nuevas formas de filiación como la reproducción asistida."
+    },
+    {
+      "question": "¿Qué efecto tiene el estilo democrático sobre la capacidad de seguir instrucciones de los hijos?",
+      "options": [
+        "Dificulta el seguimiento de las instrucciones por la falta de normas",
+        "Genera obediencia por temor a las consecuencias",
+        "No influye en esta capacidad, que depende de la edad",
+        "Les ayuda a adquirir competencias sociales y aprender a seguir instrucciones"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El estilo democrático ayuda a adquirir competencias sociales y a aprender a seguir instrucciones, mientras que el permisivo y el negligente dificultan este aprendizaje."
+    },
+    {
+      "question": "En una familia monoparental, ¿qué medida de la escuela contribuiría mejor a reducir su vulnerabilidad?",
+      "options": [
+        "Organizar tutorías flexibles y recursos que faciliten la conciliación con el trabajo remunerado",
+        "Exigir la presencia de ambos progenitores en las reuniones",
+        "Evitar cualquier referencia a la estructura familiar en el centro",
+        "Reducir el contacto con la familia para no aumentar su carga"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dado que la sobrecarga de responsabilidades limita el tiempo disponible, la flexibilidad en tutorías y recursos de conciliación ayuda a implicar a la familia sin aumentar su vulnerabilidad."
+    },
+    {
+      "question": "¿Qué finalidad tiene la parentalidad positiva respecto al derecho de participación del menor?",
+      "options": [
+        "Que el menor decida con autonomía en los asuntos familiares",
+        "Que el menor exprese su opinión, participe y sea tenido en cuenta en lo que le afecta",
+        "Que el menor acepte las decisiones adultas sin cuestionarlas",
+        "Que el menor delegue en la escuela la toma de decisiones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La definición legal incluye el derecho a expresar la opinión, participar y ser tomado en cuenta en los asuntos que le afecten, sin implicar autonomía total ni sumisión."
+    },
+    {
+      "question": "Un padre considera que una familia es disfuncional si sufre conflictos frecuentes. ¿Qué matiz aporta la unidad?",
+      "options": [
+        "Los conflictos son indicio de disfunción cuando superan cierto umbral",
+        "Las familias funcionales no tienen conflictos de ningún tipo",
+        "Las familias nunca están exentas de problemas; lo funcional es resolverlos con efectividad",
+        "Los conflictos en el hogar son resultado de estilos educativos permisivos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Lo que define a la familia funcional no es la ausencia de problemas, sino su capacidad de afrontarlos y resolverlos con relativa efectividad."
+    },
+    {
+      "question": "¿Qué ventaja ofrece la entrevista frente a la nota informativa como canal de comunicación con la familia?",
+      "options": [
+        "Permite el diálogo y el intercambio bidireccional de información",
+        "Garantiza un registro formal de los acuerdos alcanzados",
+        "Reduce el tiempo que el docente dedica a la comunicación",
+        "Evita la participación de la familia en la toma de decisiones"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La entrevista permite el diálogo y el intercambio de información, evitando que el docente sea único emisor y la familia simple receptora."
+    },
+    {
+      "question": "¿Qué ocurre con la monoparentalidad en los países desarrollados, según la unidad?",
+      "options": [
+        "Está en descenso por la mayor estabilidad de las parejas",
+        "Se limita a las situaciones de viudedad prematura",
+        "Es cada vez más habitual",
+        "Se concentra en los entornos rurales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las familias monoparentales son cada vez más habituales en los países desarrollados, ya sea por elección personal o por circunstancias sobrevenidas."
+    }
+  ]
+}

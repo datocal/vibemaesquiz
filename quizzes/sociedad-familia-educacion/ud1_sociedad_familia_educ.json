@@ -511,17 +511,6 @@
       "explanation": "El texto indica que Castells fue ministro de universidades entre 2020 y 2021, y lo describe como uno de los sociólogos españoles más relevantes."
     },
     {
-      "question": "Según la figura 3, la integración de las TIC en la sociedad dio lugar, para Castells, a un nuevo modelo de sociedad denominado:",
-      "options": [
-        "Sociedad líquida",
-        "Sociedad red",
-        "Sociedad del riesgo",
-        "Sociedad performativa"
-      ],
-      "correctAnswer": 1,
-      "explanation": "Castells afirma que la aparición e integración de las TIC reconstruyó el modelo de interacción social, dando lugar a la sociedad red. Lo líquido remite a Bauman y la performatividad a Butler."
-    },
-    {
       "question": "¿En qué unidad didáctica se desarrollarán más los procesos de performatividad de género propuestos por Judit Butler?",
       "options": [
         "Unidad didáctica 2",
@@ -773,17 +762,6 @@
       ],
       "correctAnswer": 2,
       "explanation": "El partido se define por el trabajo conjunto de individuos con orígenes, aspiraciones o intereses comunes. No es, por tanto, sinónimo de clase ni de estatus."
-    },
-    {
-      "question": "Según la figura 4 de la unidad, la relación entre riqueza y estatus es que:",
-      "options": [
-        "La riqueza determina el estatus sin excepciones",
-        "La riqueza y el estatus son independientes",
-        "El estatus es el origen directo de la riqueza",
-        "La riqueza suele conceder estatus, aunque hay muchas excepciones"
-      ],
-      "correctAnswer": 3,
-      "explanation": "La posesión de riqueza suele conceder estatus, pero hay muchas excepciones a esta regla, de modo que clase y estatus no coinciden necesariamente."
     },
     {
       "question": "¿Qué plantea Goldthorpe respecto de las clases sociales?",
@@ -1204,17 +1182,6 @@
       "explanation": "Responde a la perspectiva de estudio: la historia de vida individual (intrageneracional) o la comparación de generaciones (intergeneracional). La vertical y horizontal sí dependen de la dimensión del desplazamiento."
     },
     {
-      "question": "Según la figura 5, el término «ascensor social» se refiere a la movilidad:",
-      "options": [
-        "Horizontal",
-        "Intrageneracional",
-        "Intergeneracional",
-        "Vertical"
-      ],
-      "correctAnswer": 3,
-      "explanation": "El ascensor social alude a la movilidad vertical, es decir, a subir o bajar en la escala socioeconómica."
-    },
-    {
       "question": "¿Quién es el autor del artículo «¿Funciona el “ascensor social”?» recomendado en la sección «Llega más lejos»?",
       "options": [
         "Manuel Castells",
@@ -1488,17 +1455,6 @@
       ],
       "correctAnswer": 1,
       "explanation": "Martínez et al. señalan el impacto de la integración de un ser a la comunidad, de ahí la necesidad de reconocer y confortar el relacionamiento interno familiar."
-    },
-    {
-      "question": "La figura 6 indica que en la socialización primaria el aprendizaje es:",
-      "options": [
-        "Más lento que en etapas posteriores",
-        "Menos emocional que en la socialización secundaria",
-        "Equivalente al de etapas posteriores",
-        "Más acelerado que en etapas posteriores"
-      ],
-      "correctAnswer": 3,
-      "explanation": "El pie de la figura 6 señala que en la socialización primaria el aprendizaje es más acelerado que en etapas posteriores."
     },
     {
       "question": "¿Cuál de los siguientes aprendizajes es característico de la socialización primaria?",
@@ -2159,17 +2115,6 @@
       ],
       "correctAnswer": 1,
       "explanation": "La tercera parte aborda la socialización para comprender mejor la relación individuo-sociedad, dimensionar la estructura que soporta la sociedad humana y dilucidar el papel de cada ser."
-    },
-    {
-      "question": "Según la figura 9, los profesionales de la educación pueden cumplir un rol importante en:",
-      "options": [
-        "La socialización primaria, sustituyendo a la familia",
-        "La transmisión de la religión como agente primario",
-        "La guía de sus estudiantes en la compleja etapa de la socialización secundaria",
-        "La estructuración del tiempo y del espacio laboral del alumnado"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La figura 9 señala que los profesionales de la educación pueden guiar a sus estudiantes en la compleja etapa de la socialización secundaria."
     },
     {
       "question": "¿Cuál de las siguientes clasificaciones de agentes de socialización es correcta según Agulló-Tomás y Sánchez-Moreno (2003)?",

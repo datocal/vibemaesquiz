@@ -1193,17 +1193,6 @@
       "explanation": "El CEE atiende a alumnado con necesidades educativas especiales (NEE) de 3 a 21 años, según la tabla 1."
     },
     {
-      "question": "Un Instituto de Educación Secundaria (IES) imparte, según la tabla de denominaciones de la unidad:",
-      "options": [
-        "ESO y Bachillerato",
-        "ESO, Bachillerato y Formación Profesional",
-        "Bachillerato, Formación Profesional y Certificados de Profesionalidad",
-        "ESO, Bachillerato y enseñanzas de idiomas"
-      ],
-      "correctAnswer": 1,
-      "explanation": "El IES imparte ESO, Bachillerato y Formación Profesional. Los Certificados de Profesionalidad aparecen asociados a los CIFP."
-    },
-    {
       "question": "El Centro Integrado de Formación Profesional (CIFP) imparte:",
       "options": [
         "ESO, Bachillerato y Formación Profesional",
@@ -1235,28 +1224,6 @@
       ],
       "correctAnswer": 1,
       "explanation": "EPA o EPAPU son centros de Educación para Personas Adultas, que ofrecen formación a este colectivo."
-    },
-    {
-      "question": "Además de los centros recogidos en la tabla 1, la unidad menciona como centros no universitarios:",
-      "options": [
-        "Conservatorios, Escuelas Oficiales de Idiomas, escuelas superiores de arte dramático y de diseño, centros de formación y experimentación agraria y centros ocupacionales",
-        "Universidades de Provincia, institutos laborales y escuelas de aprendizaje",
-        "Centros rurales agrupados, escuelas-taller y centros de FIP",
-        "Colegios mayores, residencias escolares y aulas hospitalarias"
-      ],
-      "correctAnswer": 0,
-      "explanation": "Se citan conservatorios (música y danza), Escuela Oficial de Idiomas, escuelas superiores (arte dramático y diseño), centros de formación y experimentación agraria y centros ocupacionales."
-    },
-    {
-      "question": "Según la nota de la unidad, ¿quién puede determinar la denominación de otros centros públicos que ofrezcan enseñanzas agrupadas de forma distinta a la de la tabla 1?",
-      "options": [
-        "El Ministerio de Educación y Formación Profesional",
-        "El Consejo Escolar del Estado",
-        "Las comunidades autónomas, a través de sus Administraciones educativas",
-        "Los propios centros mediante su proyecto educativo"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Las comunidades autónomas, mediante sus Administraciones educativas, pueden determinar la denominación de otros centros públicos con enseñanzas agrupadas de modo distinto."
     },
     {
       "question": "Según Bolívar (2010), el contexto interno de un centro educativo hace referencia a:",

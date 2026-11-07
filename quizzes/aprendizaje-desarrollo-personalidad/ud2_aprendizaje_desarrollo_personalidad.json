@@ -82,17 +82,6 @@
       "explanation": "Pensamiento, lenguaje e inteligencia se vinculan a resolución de problemas, toma de decisiones y planificación. Captar y seleccionar corresponde a procesos básicos; la regulación, a los reguladores."
     },
     {
-      "question": "La jerarquía funcional de los procesos psicológicos de la figura 1 implica que:",
-      "options": [
-        "Los procesos superiores son más importantes que los básicos",
-        "Los procesos básicos sirven de soporte a los superiores y los reguladores modulan ambos niveles",
-        "Los procesos reguladores solo actúan cuando fallan los superiores",
-        "El aprendizaje es un proceso previo a los procesos básicos"
-      ],
-      "correctAnswer": 1,
-      "explanation": "La unidad explica que los básicos son soporte de los superiores, los reguladores modulan los otros niveles y el aprendizaje emerge de la interacción. La jerarquía es funcional, no de importancia."
-    },
-    {
       "question": "La percepción es posible gracias a:",
       "options": [
         "Los receptores sensoriales de los órganos de los sentidos",
@@ -104,17 +93,6 @@
       "explanation": "Los receptores sensoriales captan sonidos, luces, olores o texturas y los convierten en información interpretable por el cerebro. Las áreas de Broca y Wernicke pertenecen al lenguaje."
     },
     {
-      "question": "Según la tabla 1, ¿qué tipo de percepción es el segundo más utilizado para aprender en el día a día?",
-      "options": [
-        "Táctil",
-        "Visual",
-        "Olfativa",
-        "Auditiva"
-      ],
-      "correctAnswer": 3,
-      "explanation": "La percepción auditiva es descrita como el segundo tipo de información perceptiva más utilizado para aprender; la visual ocupa un papel principal en la adquisición de información."
-    },
-    {
       "question": "¿Qué tipos de percepción destaca la unidad por su papel en las emociones, y la gustativa además en la memoria?",
       "options": [
         "Visual y auditiva",
@@ -124,17 +102,6 @@
       ],
       "correctAnswer": 3,
       "explanation": "La olfativa influye en emociones y en la huella de la experiencia (atracción o repulsión); la gustativa interviene en emociones y memoria, por ejemplo al discriminar sabores o identificar algo tóxico."
-    },
-    {
-      "question": "¿Qué ejemplo de experiencia perceptiva se asocia a la percepción gustativa en la tabla 1?",
-      "options": [
-        "Tono, brillo o saturación",
-        "Fuerza del sonido o timbre",
-        "Dulce, salado, amargo o ácido",
-        "Presión o dolor agudo"
-      ],
-      "correctAnswer": 2,
-      "explanation": "Los sabores dulce, salado, amargo y ácido son los ejemplos de la percepción gustativa. Tono y saturación son visuales, timbre es auditivo y presión o dolor son táctiles."
     },
     {
       "question": "Un docente quiere que el alumnado capte matices como la ironía o el sarcasmo en la opinión de una persona. ¿Qué canal perceptivo conviene escoger?",
@@ -533,17 +500,6 @@
       "explanation": "Entre los factores personales de la percepción está la atención voluntaria: hay un número limitado de estímulos que podemos percibir, por lo que se focalizan unos y se desestiman otros."
     },
     {
-      "question": "¿Qué autora o autor se cita como fuente de la clasificación de los tipos de percepción de la tabla 1?",
-      "options": [
-        "Goldstein, 1998",
-        "Papalia y Martorell, 2021",
-        "Ormrod, 2005",
-        "Fernández, 2004"
-      ],
-      "correctAnswer": 1,
-      "explanation": "La tabla 1 indica como fuente a Papalia y Martorell (2021), con adaptación. Ormrod se cita para los factores extrínsecos de la atención."
-    },
-    {
       "question": "Respecto a la percepción extrasensorial mencionada por otros autores, ¿qué ejemplos incluye la unidad?",
       "options": [
         "Equilibrio y orientación",
@@ -885,17 +841,6 @@
       "explanation": "La unidad señala que la regulación se manifiesta en inhibición, exacerbación o distorsión de la respuesta emocional."
     },
     {
-      "question": "En la tabla 3 sobre el asco, ¿cómo suele responder un adulto en un contexto formal en comparación con un niño?",
-      "options": [
-        "Con una reacción más intensa e inmediata",
-        "Con la misma expresión facial pero menor fisiología",
-        "Con una respuesta modulada: disimula o muestra tensión muscular y sudoración ligera",
-        "Sin ninguna activación fisiológica"
-      ],
-      "correctAnswer": 2,
-      "explanation": "El adulto modula la respuesta según la situación (disimulo, tensión muscular, sudoración ligera), mientras que el niño muestra reacciones intensas, inmediatas y visibles. No desaparece la activación fisiológica."
-    },
-    {
       "question": "¿Qué dos criterios utiliza la unidad para clasificar las emociones?",
       "options": [
         "Intensidad y duración",
@@ -1048,17 +993,6 @@
       ],
       "correctAnswer": 1,
       "explanation": "Según la tabla 3, el niño tiene afrontamiento evidente (evitación, escape, rechazo brusco) mientras que el adulto se modula de acuerdo con la situación social."
-    },
-    {
-      "question": "¿Qué relación existe entre emoción y activación fisiológica en niños y adultos, según la tabla 3?",
-      "options": [
-        "El niño muestra reflejo de vómito o náusea; el adulto, tensión muscular y sudoración ligera",
-        "Ambos muestran el mismo efecto fisiológico",
-        "El adulto muestra reflejo de vómito y el niño sudoración ligera",
-        "Solo el niño muestra activación fisiológica"
-      ],
-      "correctAnswer": 0,
-      "explanation": "En el niño la respuesta es intensa (reflejo de vómito o náusea), mientras que en el adulto se atenúa a tensión muscular y sudoración ligera."
     },
     {
       "question": "Respecto a la emoción y la comunicación verbal, ¿cómo cambia la expresión a medida que nos socializamos?",
@@ -1928,17 +1862,6 @@
       ],
       "correctAnswer": 2,
       "explanation": "La memoria a corto plazo o de trabajo manipula, selecciona y codifica la información antes de almacenarla en la memoria a largo plazo."
-    },
-    {
-      "question": "La información que ingresa por los sentidos recorre, según la figura 5, el siguiente camino:",
-      "options": [
-        "Memoria a largo plazo, memoria a corto plazo y memoria sensorial",
-        "Memoria a corto plazo, memoria sensorial y memoria a largo plazo",
-        "Memoria sensorial, memoria a largo plazo y memoria a corto plazo",
-        "Memoria sensorial, memoria a corto plazo y memoria a largo plazo"
-      ],
-      "correctAnswer": 3,
-      "explanation": "La información llega primero a la memoria sensorial, pasa a la memoria a corto plazo donde se procesa y finalmente se almacena en la memoria a largo plazo."
     },
     {
       "question": "El modelo de Atkinson y Shiffrin pasó a denominarse modelo estructural porque:",

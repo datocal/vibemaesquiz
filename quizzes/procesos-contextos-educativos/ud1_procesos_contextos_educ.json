@@ -467,17 +467,6 @@
       "explanation": "Benaiges era un maestro Freinet que apostó por un modelo activo en un momento en que imperaba el modelo educativo tradicional."
     },
     {
-      "question": "Según la Tabla 1, ¿qué rasgo del alumnado corresponde al modelo educativo tradicional?",
-      "options": [
-        "Construye el conocimiento",
-        "Agente activo en el aprendizaje",
-        "Protagonista del aprendizaje",
-        "No elabora sus conocimientos"
-      ],
-      "correctAnswer": 3,
-      "explanation": "En la tabla, el alumno tradicional tiene papel pasivo y receptivo, trabaja de forma individual y no elabora sus conocimientos. Los otros rasgos pertenecen a los modelos activos."
-    },
-    {
       "question": "Según el texto, en la sociedad moderna los cambios se producen de manera más rápida y constante, por lo que:",
       "options": [
         "Resulta preferible mantener los modelos educativos consolidados",
@@ -1930,50 +1919,6 @@
       "explanation": "Su finalidad es obtener datos representativos del alumnado, los centros de las CC. AA. y el conjunto del Estado sobre las competencias clave adquiridas."
     },
     {
-      "question": "Según la Tabla 2, ¿qué se evalúa en la evaluación general del sistema?",
-      "options": [
-        "Competencias específicas vinculadas al currículo articulado en áreas o materias",
-        "Competencias clave a partir de los descriptores operativos del perfil de salida, no vinculados a áreas o materias",
-        "Contenidos de áreas y materias del último curso de etapa",
-        "Competencias digitales y cívicas del profesorado"
-      ],
-      "correctAnswer": 1,
-      "explanation": "La evaluación general valora competencias clave a partir de descriptores operativos del perfil de salida, no vinculados a áreas o materias. La de diagnóstico evalúa competencias específicas vinculadas al currículo."
-    },
-    {
-      "question": "Según la Tabla 2, ¿quién es responsable de la realización de la evaluación de diagnóstico?",
-      "options": [
-        "El INEE en colaboración con las administraciones educativas",
-        "El INEE de forma exclusiva",
-        "Las administraciones educativas",
-        "La Conferencia Sectorial de Educación"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La evaluación de diagnóstico la realizan las administraciones educativas; la general, el INEE en colaboración con ellas."
-    },
-    {
-      "question": "Respecto a la periodicidad, la tabla 2 indica que la evaluación general del sistema es:",
-      "options": [
-        "Anual",
-        "Bienal",
-        "Plurianual",
-        "Trienal"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La evaluación general es plurianual y la de diagnóstico es anual."
-    },
-    {
-      "question": "Según la Tabla 2, la evaluación de diagnóstico es de carácter:",
-      "options": [
-        "Muestral, con muestra representativa del conjunto del Estado",
-        "Muestral, con alumnado de las comunidades autónomas seleccionadas",
-        "Censal, con participación de todo el alumnado matriculado en los cursos a los que se dirige la prueba",
-        "Voluntaria, con participación de los centros que lo soliciten"
-      ],
-      "correctAnswer": 2,
-      "explanation": "La evaluación de diagnóstico es censal: participa todo el alumnado matriculado en los cursos a los que se dirige. La general es muestral."
-    },
-    {
       "question": "La evaluación general del sistema educativo es de carácter:",
       "options": [
         "Muestral, con una muestra representativa del conjunto del Estado y de las CC. AA.",
@@ -2126,17 +2071,6 @@
       ],
       "correctAnswer": 1,
       "explanation": "La evaluación nacional valora cómo el sistema prepara al alumnado para progresar con garantías de éxito, en el itinerario formativo y como ciudadano del siglo XXI."
-    },
-    {
-      "question": "Según la Tabla 2, el marco normativo de la evaluación de diagnóstico es:",
-      "options": [
-        "Estándares básicos metodológicos y científicos del INEE con las CC. AA.",
-        "Marco común de evaluación realizado por el INEE con los organismos correspondientes de las administraciones educativas",
-        "Directrices de la OCDE",
-        "Reglamento propio de cada centro"
-      ],
-      "correctAnswer": 1,
-      "explanation": "La evaluación de diagnóstico tiene un marco común realizado por el INEE con los organismos de las administraciones educativas; la general se basa en estándares básicos del INEE con las CC. AA. y la Conferencia Sectorial vela por la homogeneidad."
     },
     {
       "question": "Los resultados de las pruebas PISA establecen rankings entre países que:",

@@ -1,0 +1,2208 @@
+{
+  "title": "UD 2. Procesos psicológicos (Nivel medio)",
+  "description": "Cuestionario de nivel medio sobre la unidad 2: procesos psicológicos, percepción, atención, memoria, emoción, pensamiento, lenguaje, inteligencia y motivación.",
+  "category": "aprendizaje-desarrollo-personalidad",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "¿Cuáles son los procesos cognitivos básicos según la clasificación de la unidad?",
+      "options": [
+        "Pensamiento, lenguaje e inteligencia",
+        "Emoción, motivación y aprendizaje",
+        "Percepción, atención y memoria",
+        "Atención, lenguaje y motivación"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los procesos cognitivos básicos son la percepción, la atención y la memoria. Pensamiento, lenguaje e inteligencia son superiores, y emoción y motivación son reguladores."
+    },
+    {
+      "question": "¿Por qué se denomina «básicos» a la percepción, la atención y la memoria?",
+      "options": [
+        "Son los primeros en desarrollarse y a menudo actúan de forma automática",
+        "Requieren mayor control consciente y planificación",
+        "Son más importantes que el resto de los procesos",
+        "Surgen de la interacción de otros procesos entre sí"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se llaman básicos porque se desarrollan primero y con frecuencia operan de manera automática o inconsciente. La clasificación no implica mayor importancia, sino una jerarquía funcional."
+    },
+    {
+      "question": "Un alumno resuelve un problema complejo combinando análisis, toma de decisiones y planificación. ¿Qué tipo de procesos predominan?",
+      "options": [
+        "Procesos reguladores",
+        "Procesos cognitivos básicos",
+        "Procesos integradores",
+        "Procesos cognitivos superiores"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los procesos superiores (pensamiento, lenguaje, inteligencia) implican una elaboración compleja de la información, mayor control consciente y habilidades como resolver problemas o planificar."
+    },
+    {
+      "question": "¿Cuál es la función de los procesos reguladores, como la emoción y la motivación?",
+      "options": [
+        "Captar y retener la información del entorno",
+        "Facilitar o inhibir cómo, cuándo y con qué intensidad se activan otros procesos",
+        "Elaborar conclusiones lógicas a partir de premisas",
+        "Sustituir a los procesos básicos cuando estos fallan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los reguladores modulan y orientan el funcionamiento del resto de procesos, facilitando o inhibiendo la atención, la memoria o el pensamiento. No los sustituyen."
+    },
+    {
+      "question": "¿Cómo se entiende el aprendizaje dentro de la clasificación de procesos psicológicos?",
+      "options": [
+        "Como un proceso integrador que emerge de la interacción de los tres niveles",
+        "Como un proceso cognitivo básico previo a la percepción",
+        "Como un proceso regulador equivalente a la motivación",
+        "Como un proceso superior independiente de la memoria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El aprendizaje es un proceso integrador y resultado funcional de la interacción entre procesos básicos, superiores y reguladores. No es básico, ni solo regulador, ni independiente."
+    },
+    {
+      "question": "La jerarquía funcional de los procesos psicológicos implica que:",
+      "options": [
+        "Los procesos superiores son más importantes que los básicos",
+        "Los procesos básicos pueden eliminarse cuando se adquieren los superiores",
+        "Los procesos básicos sirven de soporte a los superiores sin ser menos importantes",
+        "Los procesos reguladores dependen de los superiores"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La clasificación refleja que los básicos sirven de soporte a los superiores, pero no establece que unos sean más importantes que otros. Todos operan de manera integrada."
+    },
+    {
+      "question": "Al afirmar que los procesos psicológicos son «acciones, no cosas», se quiere decir que:",
+      "options": [
+        "Son estructuras físicas localizadas en el cerebro",
+        "Son algo que el organismo hace, no algo que tiene",
+        "Son conductas observables por cualquier persona",
+        "Son hábitos aprendidos mediante la práctica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los procesos implican dinamismo: son algo que el organismo hace, es decir, una transformación mediante operaciones, y no una posesión estática."
+    },
+    {
+      "question": "¿Qué papel cumplen los receptores sensoriales en la percepción?",
+      "options": [
+        "Almacenan los estímulos de forma permanente",
+        "Deciden qué estímulos merecen atención",
+        "Elaboran conclusiones sobre el entorno",
+        "Captan los estímulos y los convierten en información que permite reconocer el entorno"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los receptores de los órganos sensoriales captan estímulos como luces o sonidos y los transforman en información comprensible. La selección corresponde a la atención y el almacenamiento a la memoria."
+    },
+    {
+      "question": "¿Qué tipo de percepción desempeña el papel principal en la adquisición de información, por ejemplo al identificar objetos, personas o gestos?",
+      "options": [
+        "Visual",
+        "Auditiva",
+        "Táctil",
+        "Gustativa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La percepción visual es la principal fuente de información. La auditiva es el segundo tipo más utilizado para aprender en el día a día."
+    },
+    {
+      "question": "La percepción olfativa tiene especial relevancia en el aprendizaje porque:",
+      "options": [
+        "Es el canal más usado para identificar ritmos",
+        "Permite discriminar con precisión las distancias",
+        "Influye en las emociones y en la huella que deja una experiencia",
+        "Resulta imprescindible para las tareas manipulativas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El olfato tiene un papel fundamental en las emociones y, a su vez, en la huella que una experiencia deja en nosotros (atracción o repulsión)."
+    },
+    {
+      "question": "Un docente quiere que sus alumnos puedan repasar una información tantas veces como necesiten. ¿Qué canal perceptivo le conviene elegir?",
+      "options": [
+        "El auditivo, porque capta los matices del tono",
+        "El visual, porque lo escrito puede releerse y revivirse",
+        "El táctil, porque favorece la manipulación",
+        "El gustativo, porque se asocia al placer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La vista permite releer lo escrito repetidamente. El oído es más adecuado para captar matices como la ironía y el tacto para tareas manipulativas."
+    },
+    {
+      "question": "Si se desea profundizar en las opiniones de una persona y captar la ironía o el sarcasmo, ¿qué canal resulta más adecuado?",
+      "options": [
+        "El visual mediante textos escritos",
+        "El táctil mediante material manipulativo",
+        "El gustativo mediante experiencias sensoriales",
+        "El auditivo, por el tono de voz"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El oído permite percibir matices como el tono de voz, que puede denotar ironía o sarcasmo, algo que se pierde en un texto escrito."
+    },
+    {
+      "question": "Para enseñar una tarea manipulativa, el canal perceptivo principal más recomendable es:",
+      "options": [
+        "El tacto",
+        "El olfato",
+        "El oído",
+        "La percepción social"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En el aprendizaje de tareas manipulativas se suele escoger el tacto como canal principal, por su relación con la presión, el dolor y la manipulación directa."
+    },
+    {
+      "question": "¿Qué describe el umbral mínimo de percepción?",
+      "options": [
+        "La diferencia mínima notable entre dos estímulos distintos",
+        "El nivel de intensidad a partir del cual el incremento deja de sentirse",
+        "El nivel mínimo de intensidad necesario para que un estímulo provoque una sensación",
+        "La cantidad de estímulos que se pueden atender a la vez"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El umbral mínimo es la cantidad mínima de intensidad que debe tener un estímulo para ser percibido. La diferencia notable corresponde al umbral diferencial y el techo al umbral máximo."
+    },
+    {
+      "question": "Una persona nota que una luz ha aumentado de brillo al compararla con la anterior. ¿Qué umbral interviene?",
+      "options": [
+        "Umbral mínimo",
+        "Umbral relativo o diferencial",
+        "Umbral máximo",
+        "Umbral de atención"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El umbral relativo o diferencial es la diferencia mínima de intensidad que se puede notar entre dos estímulos distintos."
+    },
+    {
+      "question": "Un sonido supera tanto la intensidad que, aunque aumente más, el oído ya no registra ese incremento. ¿Qué umbral se ha alcanzado?",
+      "options": [
+        "Umbral diferencial",
+        "Umbral mínimo",
+        "Umbral emocional",
+        "Umbral máximo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El umbral máximo es el nivel de intensidad a partir del cual, si el estímulo aumenta, el organismo ya no siente ese incremento."
+    },
+    {
+      "question": "¿Qué aportó la escuela de la Gestalt al estudio de la percepción?",
+      "options": [
+        "Defendió que el estímulo debe considerarse globalmente como un conjunto con sentido",
+        "Sostuvo que las percepciones se construyen sumando sensaciones aisladas",
+        "Describió los umbrales sensoriales mínimo y máximo",
+        "Clasificó los tipos de percepción según el sentido implicado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La Gestalt negó que las percepciones se construyeran a partir de sensaciones sueltas y planteó que percibimos estímulos como conjuntos con sentido, según leyes innatas."
+    },
+    {
+      "question": "Un adolescente no registra ciertos estímulos concretos por motivos emocionales. ¿Qué factor personal de la percepción ilustra esto?",
+      "options": [
+        "Atención voluntaria",
+        "Necesidades y deseos",
+        "Defensa perceptual",
+        "Umbral diferencial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La defensa perceptual consiste en la no percepción de determinados estímulos por motivos emocionales."
+    },
+    {
+      "question": "Una persona asustada confunde una sombra con alguien peligroso. ¿Qué factor de la percepción explica este error?",
+      "options": [
+        "Las necesidades y deseos",
+        "Los estados y disposiciones emocionales",
+        "El umbral máximo",
+        "La defensa perceptual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cuando el estado emocional está alterado, los estímulos se perciben acorde a ese estado. La defensa perceptual implicaría no percibir, no malinterpretar."
+    },
+    {
+      "question": "Una persona con mucha hambre detecta antes el olor de la comida que el resto de sus compañeros. ¿Qué factor lo explica?",
+      "options": [
+        "Los factores extrínsecos del ambiente",
+        "La defensa perceptual",
+        "El umbral relativo",
+        "Las necesidades y deseos, ligados a la motivación"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las carencias del organismo hacen que se perciban mejor los estímulos que satisfacen esa necesidad. Es un factor personal ligado a la motivación."
+    },
+    {
+      "question": "¿Cómo se dividen los factores intrínsecos de la percepción?",
+      "options": [
+        "En neurofisiológicos y personales o subjetivos",
+        "En visuales y auditivos",
+        "En primarios y secundarios",
+        "En voluntarios y automáticos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los factores intrínsecos, propios del sujeto, se dividen en neurofisiológicos (umbrales, programación innata) y personales o subjetivos (atención, necesidades, estados emocionales, defensa)."
+    },
+    {
+      "question": "Los factores extrínsecos de la percepción se diferencian de los intrínsecos en que:",
+      "options": [
+        "Dependen de las características individuales del sujeto",
+        "Dependen del estímulo percibido o del ambiente en que se encuentra el organismo",
+        "Están determinados por los umbrales sensoriales de cada persona",
+        "Se relacionan con el estado emocional de quien percibe"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los extrínsecos tienen que ver con el estímulo y con el ambiente. Los umbrales y el estado emocional son factores intrínsecos."
+    },
+    {
+      "question": "¿Cuál es la función principal de la atención respecto a la información sensorial?",
+      "options": [
+        "Almacenarla de forma permanente",
+        "Transmitirla desde el registro sensorial a la memoria de trabajo, actuando como filtro",
+        "Transformarla para llegar a conclusiones",
+        "Convertirla en lenguaje articulado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La atención es el encargado de pasar la información del registro sensorial a la memoria de trabajo y funciona como filtro ante una cantidad prácticamente infinita de estímulos."
+    },
+    {
+      "question": "Con la práctica, una tarea compleja requiere cada vez menos atención consciente. ¿Cómo se llama este proceso?",
+      "options": [
+        "Habituación emocional",
+        "Atención alternante",
+        "Defensa perceptual",
+        "Automatización"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La automatización es el proceso por el que una tarea compleja deja de serlo mediante la práctica; se repiten esquemas aprendidos sin conciencia plena."
+    },
+    {
+      "question": "Un adolescente que antes miraba constantemente las teclas ahora escribe sin mirarlas. ¿Qué ilustra este ejemplo?",
+      "options": [
+        "La automatización de una tarea",
+        "La atención sostenida",
+        "La incongruencia de un estímulo",
+        "El umbral diferencial"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Es un ejemplo de automatización: con la práctica la tarea deja de requerir atención plena y se ejecuta con esquemas ya aprendidos."
+    },
+    {
+      "question": "¿Qué tipo de atención se pone en juego al intentar dibujar un «6» en el aire con la mano y un «9» con la pierna?",
+      "options": [
+        "Atención selectiva",
+        "Atención sostenida",
+        "Atención dividida",
+        "Atención focalizada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La atención dividida es la capacidad de atender al menos a dos tareas a la vez; el nivel de atención en cada una disminuye cuantas más tareas simultáneas se manejan."
+    },
+    {
+      "question": "El efecto Stroop (nombrar el color de tinta de una palabra que designa otro color) se emplea para ilustrar:",
+      "options": [
+        "La atención sostenida",
+        "La atención selectiva, por la dificultad de ignorar un estímulo que compite",
+        "La automatización de la lectura",
+        "La atención alternante"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El efecto Stroop muestra lo difícil que resulta atender a un estímulo concreto (el color) cuando el sistema cognitivo tiende a atender a otro (la palabra)."
+    },
+    {
+      "question": "¿Qué sucede con el nivel de atención sostenida cuanto más se prolonga la tarea?",
+      "options": [
+        "Aumenta de forma progresiva",
+        "Se mantiene constante gracias a la concentración",
+        "Depende del tamaño del estímulo presentado",
+        "Se reduce gradualmente a medida que se carga el sistema atencional"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Cuanto más tiempo hay que permanecer en la tarea, más se carga el sistema de atención y el nivel de atención baja gradualmente. Es lo que llamamos concentración."
+    },
+    {
+      "question": "¿Con qué otro tipo de atención está relacionada la atención focalizada, hasta el punto de que muchos autores la engloban en ella?",
+      "options": [
+        "La selectiva",
+        "La dividida",
+        "La sostenida",
+        "La alternante"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La atención focalizada, que sigue un estímulo entre el ruido de otros, está relacionada con la selectiva y por ello muchos autores la incluyen en ella."
+    },
+    {
+      "question": "Muchos autores proponen englobar la atención alternante en otra modalidad por sus elementos comunes. ¿En cuál?",
+      "options": [
+        "En la sostenida",
+        "En la selectiva",
+        "En la dividida",
+        "En la focalizada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La atención alternante (pasar rápidamente de una tarea a otra) comparte elementos con la dividida, por lo que se propone integrarla en ella."
+    },
+    {
+      "question": "Atender a una llamada en una tienda con música alta y mucha gente hablando exige principalmente:",
+      "options": [
+        "Atención alternante entre varias tareas",
+        "Atención focalizada en la voz del interlocutor frente al ruido",
+        "Atención sostenida durante horas",
+        "Automatización de la escucha"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se trata de seguir un estímulo (la voz) entre el ruido de otros, que es la definición de atención focalizada."
+    },
+    {
+      "question": "Seguir una receta mientras se cocina, pasando de leer a manipular los ingredientes, es un ejemplo de:",
+      "options": [
+        "Atención selectiva",
+        "Atención sostenida",
+        "Atención focalizada",
+        "Atención alternante"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La atención alternante consiste en dejar de atender algo rápidamente para atender otra cosa, como alternar entre la receta y la cocina."
+    },
+    {
+      "question": "¿Qué factor extrínseco de la atención justifica el uso de distintos tamaños de letra en títulos y subtítulos?",
+      "options": [
+        "El tamaño",
+        "La novedad",
+        "La incongruencia",
+        "El significado personal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los estímulos más grandes que el resto captan mejor la atención, de ahí que se jerarquicen los títulos con tipografías de distinto tamaño."
+    },
+    {
+      "question": "Un profesor sube la voz al explicar un concepto clave. ¿Qué factor extrínseco de la atención está aprovechando?",
+      "options": [
+        "La novedad",
+        "El significado personal",
+        "La intensidad",
+        "Las expectativas de resultado"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los estímulos que destacan por una cualidad más intensa resaltan frente al resto; variar la intensidad de la voz enfatiza los temas clave."
+    },
+    {
+      "question": "Los docentes buscan constantemente nuevas formas de presentar la información porque:",
+      "options": [
+        "Los estímulos conocidos activan el arousal en exceso",
+        "Los estímulos presentados por primera vez absorben mejor los recursos cognitivos",
+        "Los estímulos repetidos facilitan la automatización",
+        "Las tareas nuevas reducen el estrés del alumnado"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La novedad es un factor extrínseco: lo presentado por primera vez tiende a captar mejor los recursos cognitivos de la persona."
+    },
+    {
+      "question": "¿Por qué un estímulo inusual o inesperado capta la atención según el texto?",
+      "options": [
+        "Porque coincide con los intereses del alumno",
+        "Porque provoca una emoción agradable",
+        "Porque reduce el nivel de activación",
+        "Porque la disonancia cognitiva genera incomodidad que motiva a investigar"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La incongruencia provoca disonancia cognitiva, una incomodidad que motiva a la persona a seguir investigando, lo que atrae su atención."
+    },
+    {
+      "question": "El docente emplea la frase «las clases aburridas pueden provocar la MUERTE por aburrimiento» para captar la atención. ¿Qué factor extrínseco aprovecha?",
+      "options": [
+        "La emoción que evocan ciertas palabras",
+        "El tamaño del estímulo",
+        "El estado personal transitorio",
+        "El nivel de arousal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ciertas palabras evocan fuertes emociones y pueden usarse para captar la atención, incluso cuando las connotaciones son negativas."
+    },
+    {
+      "question": "¿Qué ventaja tiene para el docente conocer los intereses, inquietudes y valores de su alumnado en relación con la atención?",
+      "options": [
+        "Permite reducir el tamaño de los estímulos",
+        "Evita la aparición de la fatiga",
+        "Los contenidos con significado personal captan la curiosidad del alumno",
+        "Elimina la necesidad de variar la intensidad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El significado personal es un factor extrínseco: los contenidos con un valor especial para el alumno captan su curiosidad, y conocer sus intereses facilita llegar a ellos."
+    },
+    {
+      "question": "Los factores intrínsecos de la atención se caracterizan por ser:",
+      "options": [
+        "Ajenos al control del sujeto",
+        "Generalmente conscientes y voluntarios por parte del adolescente",
+        "Dependientes del tamaño y la novedad del estímulo",
+        "Exclusivos de la atención sostenida"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los intrínsecos corresponden a cualidades del sujeto y suelen ser conscientes y voluntarios, por lo que el docente debe fomentarlos. Los extrínsecos dependen del estímulo."
+    },
+    {
+      "question": "Si las tareas no se ajustan a la edad y capacidades del alumnado, es probable que aparezcan aburrimiento, frustración o abandono. ¿Qué factor intrínseco de la atención se ve afectado?",
+      "options": [
+        "Nivel de activación",
+        "Estados personales transitorios",
+        "Motivación personal hacia la tarea",
+        "Expectativas de resultado"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las expectativas de resultado se resienten cuando las tareas están mal calibradas, lo que conduce a aburrimiento, frustración o abandono."
+    },
+    {
+      "question": "El hambre, el sueño o el estrés influyen en la atención como:",
+      "options": [
+        "Estados personales transitorios",
+        "Factores extrínsecos de intensidad",
+        "Umbrales de percepción",
+        "Expectativas de resultado"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El estrés y las necesidades fisiológicas no satisfechas son estados personales transitorios que modifican el nivel de atención."
+    },
+    {
+      "question": "¿Qué es el arousal y qué efecto tiene en la atención?",
+      "options": [
+        "Es la novedad del estímulo y orienta la curiosidad",
+        "Es la reacción emocional ante un estímulo y condiciona la expresión",
+        "Es el nivel de activación del sistema nervioso que permite activar los receptores que captan la información",
+        "Es la capacidad de pasar de una tarea a otra con rapidez"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El arousal es el nivel de activación del sistema nervioso y hace posible que se activen los receptores que captan la información."
+    },
+    {
+      "question": "Un docente consigue que una tarea poco atractiva resulte útil para los intereses particulares de sus alumnos. ¿Qué factor intrínseco de la atención refuerza?",
+      "options": [
+        "El arousal",
+        "La motivación personal hacia la tarea",
+        "La defensa perceptual",
+        "La automatización"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Aunque la tarea no interese al principio, dotarla de utilidad ligada a los intereses del alumno aumenta su participación e interés."
+    },
+    {
+      "question": "Se dice que la atención tiene capacidad limitada. ¿Qué implicación tiene esto?",
+      "options": [
+        "Se puede atender a un estímulo en cada momento",
+        "Se pueden gestionar varias tareas según la dificultad de ejecución que comporten",
+        "La atención no mejora con la práctica",
+        "La atención depende de los sentidos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según Ormrod, la atención es limitada pero puede gestionar varias tareas en función de su dificultad. Además, la práctica reduce la demanda gracias a la automatización."
+    },
+    {
+      "question": "La atención voluntaria influye en la percepción porque:",
+      "options": [
+        "Existe un número limitado de estímulos que se pueden percibir y se focaliza en unos desestimando otros",
+        "Aumenta los umbrales de percepción",
+        "Elimina la influencia de las emociones",
+        "Convierte todos los estímulos en información útil"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Como solo podemos percibir un número limitado de estímulos, la atención voluntaria dirige el foco hacia algunos y descarta otros."
+    },
+    {
+      "question": "¿Qué debe hacer el docente respecto a la percepción de su alumnado para elaborar las tareas?",
+      "options": [
+        "Asumir que todos perciben igual los estímulos",
+        "Evitar el uso de varios canales sensoriales",
+        "Ser consciente de su capacidad de percepción y de sus carencias para solicitar adaptaciones",
+        "Utilizar el canal visual por ser el principal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El docente debe conocer la capacidad perceptiva del alumnado y sus carencias para adaptar las tareas, ofreciendo contenidos variados en cuanto al canal."
+    },
+    {
+      "question": "Un alumno con ansiedad rinde peor en atención y memoria. ¿Qué tipo de proceso explica esta influencia?",
+      "options": [
+        "Un proceso regulador, que modula otros procesos",
+        "Un proceso básico, que capta información",
+        "Un proceso superior, que elabora conclusiones",
+        "Un proceso perceptivo, que fija umbrales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La emoción es un proceso regulador: influye facilitando o inhibiendo la activación de procesos como la atención o la memoria."
+    },
+    {
+      "question": "Además de centrar el análisis en una parte de la información, ¿qué otro beneficio aporta la atención al adolescente?",
+      "options": [
+        "Reduce el tiempo de respuesta ante un evento inesperado",
+        "Amplía el umbral máximo de percepción",
+        "Elimina las ilusiones ópticas",
+        "Aumenta la capacidad de la memoria sensorial"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Según LaBerge, la atención permite centrarse en parte de la información y también reduce el tiempo de respuesta ante un evento no esperado."
+    },
+    {
+      "question": "El objetivo final del docente al presentar contenidos en relación con la percepción es:",
+      "options": [
+        "Utilizar el canal más fácil para evitar adaptaciones",
+        "Reducir el número de estímulos a uno solo",
+        "Ofrecer contenidos adecuados al nivel perceptivo y variados en el canal, evitando la frustración",
+        "Evaluar el umbral de cada alumno con pruebas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El objetivo es presentar contenidos y tareas adecuados al nivel perceptivo del alumnado y variados en cuanto al canal, estimulando el desarrollo de los sentidos."
+    },
+    {
+      "question": "¿Por qué la percepción se considera uno de los procesos psicológicos más importantes?",
+      "options": [
+        "Porque almacena la información de forma permanente",
+        "Porque nos permite adaptarnos y actuar en el mundo en que vivimos",
+        "Porque elabora conclusiones lógicas a partir de premisas",
+        "Porque regula la intensidad de las emociones"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La percepción interpreta la información del entorno y permite adaptarse y actuar en él. Almacenar corresponde a la memoria, concluir al pensamiento y regular a emoción y motivación."
+    },
+    {
+      "question": "¿Cómo define la unidad la memoria?",
+      "options": [
+        "Proceso que filtra los estímulos del entorno según su relevancia",
+        "Proceso que transforma información para llegar a una conclusión",
+        "Capacidad o proceso mental por el que se almacena la información para recuperarla cuando sea necesario",
+        "Disposición interna que pone en marcha y mantiene la conducta"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La memoria almacena la información procesada para poder recuperarla después, incluso de forma involuntaria. Filtrar es función de la atención, transformar es del pensamiento."
+    },
+    {
+      "question": "¿Qué tres componentes o almacenes propone el modelo estructural de Atkinson y Shiffrin?",
+      "options": [
+        "Memoria icónica, ecoica y háptica",
+        "Memoria sensorial, a corto plazo y a largo plazo",
+        "Memoria declarativa, no declarativa y prospectiva",
+        "Memoria semántica, episódica y retrospectiva"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El modelo propone memoria sensorial, memoria a corto plazo (o de trabajo) y memoria a largo plazo. Las otras opciones pertenecen a otras clasificaciones."
+    },
+    {
+      "question": "¿Qué caracteriza a la memoria sensorial?",
+      "options": [
+        "Es ilimitada, sensorial y fugaz, y aún no es accesible a la consciencia",
+        "Es limitada a 7 ± 2 unidades y dura entre 5 y 20 segundos",
+        "Es de capacidad casi ilimitada y retiene información de forma permanente",
+        "Manipula, selecciona y codifica la información recibida"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La memoria sensorial recopila la información de forma ilimitada y fugaz sin que sea accesible a la consciencia. Las otras descripciones corresponden a la memoria a corto y largo plazo."
+    },
+    {
+      "question": "La memoria a corto plazo o de trabajo se caracteriza por:",
+      "options": [
+        "Capacidad casi ilimitada y almacenamiento permanente",
+        "Registro fugaz sin acceso a la consciencia",
+        "Capacidad limitada a 7 ± 2 unidades y duración de segundos",
+        "Almacenamiento exclusivo de hechos autobiográficos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La memoria a corto plazo manipula, selecciona y codifica la información, con una capacidad de 7 ± 2 unidades y una duración de entre 5 y 20 segundos."
+    },
+    {
+      "question": "¿Qué componentes de la memoria de trabajo mantienen la información activa de forma auditiva, visoespacial y multimodal respectivamente?",
+      "options": [
+        "Reserva episódica, bucle fonológico y agenda visoespacial",
+        "Agenda visoespacial, reserva episódica y bucle fonológico",
+        "Bucle fonológico, reserva episódica y agenda visoespacial",
+        "Bucle fonológico, agenda visoespacial y reserva episódica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El bucle fonológico es auditivo, la agenda visoespacial es visual y espacial, y la reserva episódica es multimodal."
+    },
+    {
+      "question": "Dividir el número 852648300145897458201 en grupos de tres cifras facilita recordarlo porque:",
+      "options": [
+        "Aprovecha la capacidad limitada de la memoria a corto plazo reduciendo las unidades",
+        "Aumenta la duración de la memoria sensorial",
+        "Convierte la información en memoria implícita",
+        "Elimina la necesidad de prestar atención"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Agrupar en siete elementos ajusta la información a la capacidad de 7 ± 2 unidades de la memoria a corto plazo. No elimina la atención ni cambia el tipo de memoria."
+    },
+    {
+      "question": "Si clasificamos la memoria según el órgano sensorial, ¿qué tipo corresponde a la información auditiva?",
+      "options": [
+        "Icónica",
+        "Háptica",
+        "Ecoica",
+        "Gustativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La memoria icónica es visual, la ecoica es auditiva y la háptica es táctil; además existen la olfativa y la gustativa."
+    },
+    {
+      "question": "La memoria a largo plazo, según Tulving, se divide en:",
+      "options": [
+        "Sensorial y de trabajo",
+        "Declarativa o explícita y no declarativa o implícita",
+        "Icónica y ecoica",
+        "Prospectiva y semántica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En función de sus contenidos, la memoria a largo plazo se divide en declarativa (explícita) y no declarativa (implícita)."
+    },
+    {
+      "question": "Aprender a montar en bicicleta y conservar esa destreza se relaciona con:",
+      "options": [
+        "La memoria declarativa semántica",
+        "La memoria no declarativa o implícita (saber hacer)",
+        "La memoria sensorial icónica",
+        "La memoria declarativa episódica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La memoria no declarativa almacena procesos y destrezas motoras (saber hacer) y no necesita intervención directa del lenguaje."
+    },
+    {
+      "question": "¿Qué tipo de memoria declarativa se utiliza al recordar las tablas de multiplicar o los afluentes del Duero?",
+      "options": [
+        "Episódica",
+        "Prospectiva",
+        "Retrospectiva",
+        "Semántica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La memoria semántica guarda hechos, conceptos y conocimiento del mundo. La episódica, en cambio, recoge experiencias personales."
+    },
+    {
+      "question": "Recordar con detalle el día de la propia graduación corresponde a la memoria:",
+      "options": [
+        "Episódica, de carácter autobiográfico",
+        "Semántica, de conocimiento del mundo",
+        "Prospectiva, de planes futuros",
+        "Ecoica, de información auditiva"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La memoria episódica se relaciona con el recuerdo de experiencias personales y es autobiográfica."
+    },
+    {
+      "question": "Recordar que hay que tomar un medicamento a una hora concreta es un ejemplo de memoria:",
+      "options": [
+        "Retrospectiva",
+        "Semántica",
+        "Prospectiva",
+        "Icónica"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La memoria prospectiva se refiere a planes o tareas que se llevarán a cabo en el futuro, a diferencia de la retrospectiva, que recuerda lo ya sucedido."
+    },
+    {
+      "question": "¿Qué diferencia a la memoria declarativa de la no declarativa?",
+      "options": [
+        "La declarativa es inconsciente y la no declarativa consciente",
+        "La declarativa dura segundos y la no declarativa años",
+        "La declarativa se evoca verbalmente y la no declarativa no precisa intervención directa del lenguaje",
+        "La declarativa es táctil y la no declarativa visual"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La declarativa almacena conocimientos que la persona puede evocar verbalmente; la no declarativa guarda procesos y destrezas sin necesidad directa del lenguaje."
+    },
+    {
+      "question": "Un estudiante duerme muy poco la noche previa al examen y le cuesta recordar. ¿Qué factor de la memoria está interviniendo?",
+      "options": [
+        "El contenido para memorizar",
+        "El estado neurofisiológico",
+        "El ejercicio",
+        "La relevancia de la información"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El estrés, el sueño, el cansancio o los cambios hormonales forman parte del estado neurofisiológico y pueden dificultar la memorización."
+    },
+    {
+      "question": "¿Cómo influye el paso del tiempo en la memoria a largo plazo?",
+      "options": [
+        "Fortalece automáticamente todos los recuerdos",
+        "Hace que sea más costoso encontrar un recuerdo tras un largo periodo",
+        "Convierte la información en memoria sensorial",
+        "No tiene ningún efecto sobre el almacén"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El tiempo hace mella en los recuerdos y puede costar encontrar uno en el almacén a largo plazo; además, de la duración en los sistemas de retención depende su almacenamiento permanente."
+    },
+    {
+      "question": "Un profesor propone ejercicios periódicos de recuperación de información. ¿Qué factor de la memoria aprovecha?",
+      "options": [
+        "El estado de ánimo",
+        "La atención",
+        "El ejercicio",
+        "Las emociones"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La memoria puede entrenarse y ejercitarla mejora la capacidad de retención."
+    },
+    {
+      "question": "Un contenido que se puede asociar con aprendizajes previos y resulta relevante se memoriza mejor. ¿A qué factor corresponde?",
+      "options": [
+        "Los contenidos para memorizar",
+        "El tiempo",
+        "El estado neurofisiológico",
+        "El ejercicio"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las características de los contenidos, como relevancia, posibilidad de asociación con aprendizajes previos o número de unidades de información, influyen en su memorización."
+    },
+    {
+      "question": "¿Por qué los contenidos que superan con facilidad la barrera de la atención se recuerdan mejor?",
+      "options": [
+        "Porque la atención transmite la información de los sentidos a la memoria de trabajo",
+        "Porque la atención aumenta el umbral máximo",
+        "Porque la atención sustituye a la memoria a largo plazo",
+        "Porque la atención elimina el olvido"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La atención es la vía por la que la información pasa del registro sensorial a la memoria de trabajo; lo que no se atiende difícilmente se retiene."
+    },
+    {
+      "question": "El personaje de Funes el memorioso sirve en la unidad para destacar que:",
+      "options": [
+        "La memoria perfecta es el objetivo de la educación",
+        "El olvido es también importante para la buena salud de la memoria",
+        "Las emociones impiden recordar",
+        "La memoria sensorial es ilimitada"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Funes, condenado a recordarlo todo, muestra que la buena salud de la memoria depende de que cierta información pueda olvidarse."
+    },
+    {
+      "question": "¿Cuál es el recorrido de la información en el modelo de almacenamiento dual?",
+      "options": [
+        "Memoria a largo plazo, memoria a corto plazo y memoria sensorial",
+        "Memoria sensorial, memoria a corto plazo y memoria a largo plazo",
+        "Memoria a corto plazo, memoria sensorial y memoria a largo plazo",
+        "Memoria sensorial, memoria a largo plazo y memoria a corto plazo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La información entra por los sentidos a la memoria sensorial, pasa a la memoria a corto plazo donde se manipula y se codifica, y se almacena finalmente en la memoria a largo plazo."
+    },
+    {
+      "question": "¿Cómo define la unidad la emoción?",
+      "options": [
+        "Un proceso psicológico adaptativo que recluta y coordina el resto de procesos ante situaciones que exigen respuesta rápida",
+        "Un proceso superior que transforma información para llegar a conclusiones",
+        "Un mecanismo que filtra los estímulos sensoriales",
+        "Un estado de disposición interna que mantiene la conducta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Para Fernández-Abascal et al., la emoción es un proceso adaptativo que recluta y coordina los demás procesos cuando la situación exige una respuesta rápida y efectiva."
+    },
+    {
+      "question": "¿Con qué comienza la respuesta emocional?",
+      "options": [
+        "Con la expresión facial",
+        "Con la regulación social de la emoción",
+        "Con la respuesta fisiológica",
+        "Con la valoración de la situación que se está viviendo"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La respuesta emocional empieza cuando evaluamos una situación; esa valoración inicial produce una activación en el organismo."
+    },
+    {
+      "question": "¿Cuáles son los cuatro aspectos de la activación emocional?",
+      "options": [
+        "Sentimiento subjetivo, expresión corporal, estrategia de afrontamiento y respuesta fisiológica",
+        "Percepción, atención, memoria y lenguaje",
+        "Valoración, regulación, inhibición y distorsión",
+        "Emoción primaria, secundaria, positiva y negativa"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La activación se compone de sentimiento subjetivo, expresión corporal, estrategia de afrontamiento y activación o respuesta fisiológica."
+    },
+    {
+      "question": "El aumento del ritmo cardiaco y la sudoración ante una situación estresante pertenecen a:",
+      "options": [
+        "El sentimiento subjetivo",
+        "La estrategia de afrontamiento",
+        "La expresión corporal",
+        "La activación o respuesta fisiológica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los cambios corporales internos como el ritmo cardiaco o la sudoración constituyen la respuesta fisiológica; los gestos y posturas son expresión corporal."
+    },
+    {
+      "question": "¿Qué papel tiene la segunda valoración o segundo filtro en el proceso emocional?",
+      "options": [
+        "Desencadena la emoción primaria",
+        "Las normas culturales y las experiencias previas modulan cómo se expresa la emoción",
+        "Mide la intensidad del sentimiento subjetivo con autoinformes",
+        "Determina la duración de la memoria emocional"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La expresión de la emoción pasa por un segundo filtro formado por normas culturales y experiencias previas, que regulan cómo la mostramos."
+    },
+    {
+      "question": "Un niño escupe una comida desagradable y un adulto en una situación formal disimula su asco. ¿Qué explica esta diferencia?",
+      "options": [
+        "Que el adulto no siente la emoción",
+        "Que el niño tiene menor activación fisiológica",
+        "Que el asco es una emoción neutra",
+        "La regulación y el ajuste de la expresión emocional según lo socialmente apropiado"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Con la socialización aprendemos a regular y ajustar la expresión emocional según las normas sociales y la experiencia previa; la emoción existe, pero se modula."
+    },
+    {
+      "question": "La regulación emocional puede manifestarse como:",
+      "options": [
+        "Inhibición, exacerbación o distorsión de la respuesta emocional",
+        "Percepción, atención o memoria",
+        "Emoción primaria, secundaria o neutra",
+        "Umbral mínimo, máximo o diferencial"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las experiencias previas y el entorno influyen en la regulación, que puede inhibir, exacerbar o distorsionar la respuesta emocional."
+    },
+    {
+      "question": "El sentimiento subjetivo se mide y observa principalmente mediante:",
+      "options": [
+        "La conducta motora",
+        "Autoinformes, que pueden exagerar o minimizar",
+        "Registros de la comunicación verbal observada",
+        "Pruebas de coeficiente intelectual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El sentimiento subjetivo se evalúa mediante autoinformes, con el riesgo de exageración o minimización por parte de la persona."
+    },
+    {
+      "question": "¿Qué caracteriza a las emociones primarias?",
+      "options": [
+        "Carecen de rasgos de reconocimiento universales",
+        "Se desencadenan por estímulos con significado personal",
+        "Utilizan la primera vía de procesamiento y su respuesta es más universal, con expresión facial específica",
+        "No generan ninguna reacción en la persona"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Las primarias usan la primera vía de procesamiento y presentan una respuesta más universal, como el miedo ante un peligro inminente. Las otras opciones describen secundarias o neutras."
+    },
+    {
+      "question": "Ante una situación de ansiedad, una persona llora y otra huye. ¿Qué tipo de emoción ilustra esta variabilidad?",
+      "options": [
+        "Primaria",
+        "Secundaria",
+        "Neutra",
+        "Positiva"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las emociones secundarias no tienen una forma característica de afrontamiento ni rasgos universales y dependen del significado que el estímulo tiene para la persona."
+    },
+    {
+      "question": "La felicidad se clasifica como emoción positiva porque:",
+      "options": [
+        "Genera sentimientos agradables y la situación se valora como beneficiosa, movilizando escasos recursos de afrontamiento",
+        "Genera un sentimiento desagradable y exige muchos recursos",
+        "No produce ninguna reacción en el organismo",
+        "Prepara la aparición de un estado emocional posterior"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las emociones positivas generan sentimientos agradables, se valoran como beneficiosas y movilizan pocos recursos de afrontamiento."
+    },
+    {
+      "question": "La ira y el asco se consideran emociones negativas porque:",
+      "options": [
+        "Facilitan los vínculos sociales",
+        "Se valora la situación como dañina y se movilizan muchos recursos de afrontamiento",
+        "Son de tipo secundario",
+        "Carecen de respuesta fisiológica"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las negativas generan sentimiento desagradable, la situación se valora como dañina y se movilizan muchos recursos de afrontamiento."
+    },
+    {
+      "question": "¿Por qué la sorpresa se clasifica como emoción neutra?",
+      "options": [
+        "Porque su finalidad es facilitar la aparición de un estado emocional posterior",
+        "Porque no tiene expresión facial",
+        "Porque produce placer moderado",
+        "Porque se activa por la segunda vía de procesamiento"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las emociones neutras no producen una reacción propia y su finalidad es preparar la aparición de otro estado emocional posterior."
+    },
+    {
+      "question": "Además de la función adaptativa, ¿qué otras dos funciones tiene la emoción?",
+      "options": [
+        "Perceptiva y atencional",
+        "Cognitiva y mnemónica",
+        "Social y motivacional",
+        "Lingüística y cognitiva"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La emoción tiene función adaptativa, social (permite predecir la conducta de los demás) y motivacional (energiza la conducta)."
+    },
+    {
+      "question": "El miedo nos protege y el asco nos hace rechazar algo en mal estado. ¿Qué función de la emoción ilustran?",
+      "options": [
+        "Función social",
+        "Función adaptativa",
+        "Función motivacional",
+        "Función lingüística"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La función adaptativa ayuda a ejecutar conductas eficaces adecuándose a las exigencias del entorno."
+    },
+    {
+      "question": "La alegría favorece los vínculos y la ira puede generar confrontación. ¿Qué función emocional muestra esto?",
+      "options": [
+        "Adaptativa",
+        "Motivacional",
+        "Cognitiva",
+        "Social"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La función social permite que los demás puedan predecir la conducta y resulta útil en las relaciones interpersonales."
+    },
+    {
+      "question": "La cólera facilita conductas defensivas y la sorpresa genera atención. ¿Qué función se ejemplifica?",
+      "options": [
+        "Motivacional, porque la emoción energiza la conducta",
+        "Social, porque predice la conducta ajena",
+        "Adaptativa, porque protege del peligro",
+        "Perceptiva, porque aumenta los umbrales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La función motivacional implica que una emoción facilita o da fuerza para que surjan conductas motivadas, es decir, energiza la conducta."
+    },
+    {
+      "question": "Un estudiante nervioso por un examen olvida contenidos que sabía. ¿Qué relación entre emoción y memoria ilustra?",
+      "options": [
+        "Las emociones mejoran la recuperación de los datos",
+        "Las emociones pueden facilitar o reprimir la recuperación o el aprendizaje de la información",
+        "Las emociones no afectan a la memoria a largo plazo",
+        "Las emociones influyen en la memoria sensorial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre los factores de la memoria, las emociones pueden facilitar la recuperación o el aprendizaje, pero también reprimirlos."
+    },
+    {
+      "question": "La expresión corporal de la emoción se manifiesta en:",
+      "options": [
+        "El sentimiento de pérdida de control",
+        "El aumento de la frecuencia cardiaca",
+        "La decisión de evitar el desencadenante",
+        "Gestos, posturas y expresiones faciales"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La expresión corporal incluye gestos, posturas o expresiones faciales; el sentimiento es subjetivo y el afrontamiento es la decisión conductual."
+    },
+    {
+      "question": "Evitar, escapar o rechazar el estímulo que desencadena un asco corresponde a:",
+      "options": [
+        "La estrategia de afrontamiento",
+        "El sentimiento subjetivo",
+        "La respuesta fisiológica",
+        "El segundo filtro cultural"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La estrategia de afrontamiento implica cómo reaccionamos o qué decisiones tomamos ante la emoción: evitación, escape o rechazo."
+    },
+    {
+      "question": "Comparando niño y adulto ante el asco, la conducta del adulto tiende a ser:",
+      "options": [
+        "Más intensa, inmediata y visible",
+        "Más modulada según la situación, con disimulo o expresión contenida",
+        "Idéntica, pues la emoción no cambia con la edad",
+        "Más impulsiva, con rechazo brusco"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el adulto la respuesta se modula de acuerdo con la situación (disimulo, gesto leve), mientras que en el niño es intensa, inmediata y visible."
+    },
+    {
+      "question": "¿Por qué la emoción se describe como un factor que influye en otros procesos, mientras que en el apartado de emoción se describen sus funciones?",
+      "options": [
+        "Porque la emoción no se ve afectada por otros procesos",
+        "Porque en los apartados anteriores aparecía como factor y aquí se describe qué hace la emoción",
+        "Porque las funciones son factores de la memoria",
+        "Porque la emoción es un proceso superior"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La unidad aclara que, en los procesos anteriores, la emoción aparecía como factor influyente; en su propio apartado se describe su función y no los factores que influyen en ella."
+    },
+    {
+      "question": "Si un alumno recuerda mejor una clase en la que hubo una anécdota divertida que otra neutra, ¿qué se pone de manifiesto?",
+      "options": [
+        "La emoción facilita la memorización de los contenidos asociados",
+        "La memoria sensorial es ilimitada",
+        "El umbral diferencial es bajo",
+        "La atención sostenida decae con el tiempo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las emociones suscitadas por los contenidos pueden facilitar el aprendizaje y la recuperación, por lo que el contenido emocional se recuerda mejor."
+    },
+    {
+      "question": "La comunicación verbal de una emoción cambia con la socialización: en niños puede ser florida y en adultos:",
+      "options": [
+        "Más intensa",
+        "Escasa",
+        "Idéntica",
+        "Predominantemente corporal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según el texto, la comunicación verbal observada va cambiando a medida que nos socializamos, siendo florida en niños y escasa en adultos."
+    },
+    {
+      "question": "El segundo filtro de la emoción puede llevar a que la conducta motora:",
+      "options": [
+        "Se oriente a que los demás no reconozcan nuestro estado emocional",
+        "Anule el sentimiento subjetivo",
+        "Elimine la valoración inicial",
+        "Sustituya la respuesta fisiológica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Por normas culturales y experiencias previas, la conducta motora puede encaminarse a ocultar el estado emocional, e incluso sesgarse la respuesta fisiológica."
+    },
+    {
+      "question": "¿En qué se diferencia el proceso emocional de la mera percepción de un estímulo?",
+      "options": [
+        "En que la emoción implica una valoración de la situación que desencadena una activación del organismo",
+        "En que la emoción carece de componente corporal",
+        "En que la percepción incluye la estrategia de afrontamiento",
+        "En que la emoción depende de los umbrales sensoriales"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La emoción parte de la evaluación de la situación y produce activación (sentimiento, expresión, afrontamiento, respuesta fisiológica), mientras que la percepción interpreta información sensorial."
+    },
+    {
+      "question": "Un docente que quiere aprovechar el vínculo entre memoria y emoción debería:",
+      "options": [
+        "Evitar cualquier contenido con carga afectiva",
+        "Asociar contenidos a situaciones que generen emociones adecuadas, sabiendo que pueden facilitar o inhibir el recuerdo",
+        "Eliminar la atención del alumno para reducir la emoción",
+        "Presentar los contenidos con una intensidad uniforme"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las emociones modulan el aprendizaje y la recuperación; el docente puede aprovecharlas con criterio, consciente de que también pueden reprimir el recuerdo."
+    },
+    {
+      "question": "¿Qué ocurre con la información de la memoria sensorial que no pasa a la memoria a corto plazo?",
+      "options": [
+        "Se almacena de forma permanente",
+        "No llega a procesarse, pues el procesamiento ocurre en el almacén de corto plazo",
+        "Se convierte en memoria episódica",
+        "Pasa directamente a la memoria a largo plazo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La información en la memoria sensorial es fugaz y no se procesa hasta que pasa al almacén de corto plazo, donde se manipula, selecciona y codifica."
+    },
+    {
+      "question": "Según la unidad, el modelo de Atkinson y Shiffrin pasó a llamarse modelo estructural porque:",
+      "options": [
+        "Se eliminaron los almacenes sensoriales",
+        "Se modificó para integrar nuevas ideas y procesos descubiertos con posterioridad",
+        "Se limitó a describir la memoria declarativa",
+        "Se sustituyó por la teoría de Gestalt"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El modelo dual sufrió modificaciones para incorporar nuevos descubrimientos, y así pasó a denominarse modelo estructural de Atkinson y Shiffrin."
+    },
+    {
+      "question": "¿Qué tipo de memoria recoge acciones o eventos que ya sucedieron?",
+      "options": [
+        "Prospectiva",
+        "Semántica",
+        "Sensorial",
+        "Retrospectiva"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La memoria retrospectiva se refiere a acciones o eventos pasados, mientras que la prospectiva guarda planes o tareas futuras. La semántica almacena conceptos y la sensorial es fugaz."
+    },
+    {
+      "question": "¿Cómo se define el pensamiento o razonamiento en la unidad?",
+      "options": [
+        "El proceso mental que transforma una información original para llegar a una conclusión",
+        "El proceso que capta estímulos mediante los órganos sensoriales",
+        "El almacén que retiene información durante largos periodos",
+        "El estado interno que orienta y mantiene la conducta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El pensamiento transforma la información original con la finalidad de alcanzar una conclusión. Captar estímulos es percepción y orientar la conducta es motivación."
+    },
+    {
+      "question": "¿Por qué el pensamiento se considera un proceso cognitivo complejo o superior?",
+      "options": [
+        "Porque es el primero en desarrollarse",
+        "Porque requiere la activación conjunta del sistema cognitivo, incluyendo percepción, atención, memoria y lenguaje",
+        "Porque actúa de manera automática e inconsciente",
+        "Porque es observable por otras personas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En el pensamiento intervienen procesos más básicos, por lo que requiere activación conjunta del sistema cognitivo. Además es una conducta inaccesible a otros."
+    },
+    {
+      "question": "¿Cuál es la función del pensamiento?",
+      "options": [
+        "Filtrar estímulos irrelevantes del entorno",
+        "Almacenar información para recuperarla después",
+        "Analizar, evaluar, clasificar, comparar y aplicar conocimientos para resolver problemas",
+        "Regular la intensidad de las respuestas emocionales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El pensamiento analiza, evalúa, clasifica, compara, hace juicios y aplica conocimientos con el fin de resolver problemas y generar nuevas situaciones."
+    },
+    {
+      "question": "¿Qué relación guarda el pensamiento con las emociones?",
+      "options": [
+        "El pensamiento no influye en las emociones",
+        "Las emociones son anteriores al pensamiento en todos los casos",
+        "Las emociones sustituyen al pensamiento en la resolución de problemas",
+        "La naturaleza de los pensamientos (positivos, negativos) contribuye a generar las emociones"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El texto señala que se configura el origen de los pensamientos y su naturaleza, y de este modo se generan las emociones."
+    },
+    {
+      "question": "Un alumno observa que varios compuestos metálicos conducen la electricidad y concluye que los metales la conducen. ¿Qué razonamiento ha empleado?",
+      "options": [
+        "Inductivo",
+        "Deductivo",
+        "Hipotético-deductivo",
+        "Heurístico"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El razonamiento inductivo parte de eventos particulares para formular una conclusión general, es decir, va de lo específico a lo general."
+    },
+    {
+      "question": "Un alumno parte de la premisa general «todos los mamíferos tienen pulmones» y concluye que un delfín los tiene. ¿Qué razonamiento ha empleado?",
+      "options": [
+        "Inductivo",
+        "Deductivo",
+        "Intuitivo",
+        "Hipotético-inductivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El razonamiento deductivo parte de lo general para llegar a una conclusión lógica que está incluida en sus premisas."
+    },
+    {
+      "question": "¿Qué disciplinas utilizan predominantemente el razonamiento deductivo?",
+      "options": [
+        "La psicología y la sociología",
+        "La historia y la geografía",
+        "La biología y la literatura",
+        "Las matemáticas, la geometría y la física teórica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las matemáticas, la geometría y la física teórica emplean sobre todo el método deductivo, que parte de premisas generales."
+    },
+    {
+      "question": "El razonamiento hipotético-deductivo se caracteriza por ser:",
+      "options": [
+        "Una combinación de deductivo e inductivo y el paradigma más usado",
+        "Un atajo mental rápido y poco preciso",
+        "Un razonamiento exclusivo de la infancia",
+        "Una forma de pensamiento ajena a la ciencia"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Combina el razonamiento deductivo y el inductivo, porque la búsqueda de leyes generales exige acudir a ambos procedimientos; es el paradigma más usado."
+    },
+    {
+      "question": "¿Qué son los heurísticos?",
+      "options": [
+        "Reglas formales de la lógica proposicional",
+        "Atajos mentales que permiten decidir rápido con una probabilidad aceptable de acertar",
+        "Estrategias de memorización por agrupación",
+        "Componentes de la memoria de trabajo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los heurísticos son juicios rápidos con precisión aceptable que evitan saturar el sistema cognitivo, aunque pueden llevar a errores."
+    },
+    {
+      "question": "¿Qué riesgo implica el uso de heurísticos?",
+      "options": [
+        "Saturan los recursos atencionales",
+        "Impiden el razonamiento inductivo",
+        "Pueden provocar juicios incorrectos",
+        "Anulan la memoria a largo plazo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Aunque ahorran recursos atencionales, los heurísticos pueden llevar a errores y a juicios incorrectos, según Tversky y Kahneman."
+    },
+    {
+      "question": "¿Cuál de los siguientes es un factor del pensamiento desde la lógica?",
+      "options": [
+        "El umbral diferencial",
+        "La estructura de la proposición planteada",
+        "El nivel de arousal",
+        "La atención sostenida"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre los factores del pensamiento se encuentran el sujeto pensante, el objeto, la actividad de pensar, la expresión mediante el lenguaje y la estructura de la proposición."
+    },
+    {
+      "question": "¿Qué papel tiene el lenguaje respecto al pensamiento según los factores del pensamiento?",
+      "options": [
+        "Materializa y expresa el pensamiento abstracto",
+        "Es un resultado de la memoria sensorial",
+        "Sustituye al sujeto pensante",
+        "Estudia la lógica proposicional"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El pensamiento, hasta ahora abstracto, debe materializarse y expresarse mediante el lenguaje."
+    },
+    {
+      "question": "El pensamiento se describe como una conducta inaccesible para los demás porque:",
+      "options": [
+        "Se produce de manera inconsciente",
+        "Se manifiesta en la comunicación no verbal",
+        "Es la respuesta que emite el sujeto y que él mismo puede observar",
+        "Depende de los factores ambientales"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El pensamiento es una respuesta que únicamente puede ser observada por quien piensa; los demás acceden a él a través de su expresión."
+    },
+    {
+      "question": "¿Cómo define la unidad el lenguaje?",
+      "options": [
+        "Un sistema de reglas y símbolos universal entre países",
+        "Un proceso mental que filtra estímulos",
+        "El proceso por el que los seres humanos nos comunicamos a través de la lengua",
+        "La capacidad de adquirir conocimientos nuevos"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El lenguaje es el proceso por el que nos comunicamos mediante la lengua, y además es una herramienta eficaz para adquirir aprendizajes."
+    },
+    {
+      "question": "¿Qué es la lengua según la unidad?",
+      "options": [
+        "Un reflejo innato universal",
+        "Un sistema ordenado de reglas y símbolos que permiten la comunicación",
+        "Una forma de comunicación no verbal",
+        "Un conjunto de áreas cerebrales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La lengua consiste en un sistema organizado de reglas (incluidos sonidos articulados) y símbolos que permiten la comunicación."
+    },
+    {
+      "question": "Respecto a la lengua de signos, la unidad afirma que:",
+      "options": [
+        "Es universal y única para todos los países",
+        "Carece de variantes dentro de un mismo país",
+        "Cada país tiene la suya, incluso puede haber varias, aunque existe un sistema de signos internacional pactado",
+        "Es un tipo de comunicación no verbal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La lengua de signos no es universal; cada país tiene la suya e incluso varias, como los dialectos. Existe un sistema de signos internacional pactado."
+    },
+    {
+      "question": "¿En qué hemisferio se sitúan las áreas de Broca y Wernicke, implicadas en el lenguaje?",
+      "options": [
+        "Hemisferio izquierdo",
+        "Hemisferio derecho",
+        "En ambos por igual",
+        "En el cerebelo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las áreas cerebrales implicadas en el lenguaje, de Broca y de Wernicke, se sitúan en el hemisferio izquierdo."
+    },
+    {
+      "question": "Algunos autores consideran el lenguaje una herramienta del pensamiento porque:",
+      "options": [
+        "El lenguaje está determinado por la forma en que pensamos",
+        "El pensamiento depende de la lengua materna del emisor",
+        "El lenguaje carece de carácter social",
+        "Ambos son procesos básicos"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Se afirma que el lenguaje está determinado por la forma en la que pensamos, hasta el punto de verse como herramienta del pensamiento; además tiene carácter social."
+    },
+    {
+      "question": "Un árbitro pita «falta» y el hincha lo describe como «juego viril». ¿Qué característica de la comunicación verbal ilustra?",
+      "options": [
+        "Paralenguaje",
+        "Relatividad lingüística y sesgo conceptual",
+        "Proxémica",
+        "Automatización"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hay cierta relatividad lingüística: existe un sesgo conceptual que hace que el mismo hecho se describa de forma distinta según el punto de vista."
+    },
+    {
+      "question": "Las connotaciones del lenguaje implican que:",
+      "options": [
+        "El significado de un símbolo es idéntico para todos",
+        "Los símbolos pierden significado con la clase social",
+        "El lenguaje no verbal sustituye al verbal",
+        "Un símbolo puede interpretarse de forma distinta por la asociación afectiva-cognitiva que se le da"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Las connotaciones generan interpretaciones diferentes de un símbolo, derivadas de la asociación afectiva y cognitiva y no de su significado literal."
+    },
+    {
+      "question": "El tono, el ritmo y el volumen con los que se dicen las cosas constituyen:",
+      "options": [
+        "El paralenguaje, que informa del estado emocional y aumenta la eficacia del lenguaje",
+        "La relatividad lingüística",
+        "La estructura del pensamiento",
+        "El código de la comunicación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El paralenguaje es la manera en que se dicen las cosas (tono, ritmo, volumen) y forma parte de la comunicación no verbal."
+    },
+    {
+      "question": "El espacio físico que ocupan dos personas al comunicarse, que varía según la intimidad o el estatus, forma parte de:",
+      "options": [
+        "La comunicación verbal",
+        "La comunicación no verbal",
+        "La producción lingüística",
+        "El canal del mensaje"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El lugar físico que se ocupa durante la comunicación es un rasgo de la comunicación no verbal, junto con movimientos, postura, mirada y paralenguaje."
+    },
+    {
+      "question": "La postura corporal y la dirección de la mirada informan principalmente de:",
+      "options": [
+        "El nivel de inteligencia cristalizada",
+        "La clase social del hablante",
+        "El código de la lengua usada",
+        "El estado (relajado o tenso) y la actitud (positiva o negativa) de la persona"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La postura informa del estado y la actitud, y la mirada es un modo de acercarse o alejarse de la persona."
+    },
+    {
+      "question": "Cuando el interés o la atención de quien escucha influyen en la comunicación, el factor implicado es el relacionado con:",
+      "options": [
+        "El emisor",
+        "El receptor",
+        "El código",
+        "El canal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "En los factores relacionados con el receptor influye la atención o el interés del que recibe la conversación."
+    },
+    {
+      "question": "El uso de dobles sentidos puede confundir el mensaje. ¿Con qué factor de la comunicación se relaciona?",
+      "options": [
+        "El contexto",
+        "El canal",
+        "El mensaje",
+        "El emisor"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los factores relacionados con el mensaje incluyen la posible confusión por dobles sentidos."
+    },
+    {
+      "question": "El conocimiento de las reglas de la lengua y la capacidad de codificar y decodificar el mensaje pertenecen a los factores relacionados con:",
+      "options": [
+        "El código",
+        "El contexto",
+        "El receptor",
+        "El emisor"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El código incluye el conocimiento de las reglas, la articulación del sonido y la capacidad de codificar y decodificar; la escolarización influye en ello."
+    },
+    {
+      "question": "La caligrafía, el acento, las pausas o la entonación se relacionan con el factor del:",
+      "options": [
+        "Contexto",
+        "Emisor",
+        "Mensaje",
+        "Canal"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Los factores relacionados con el canal abarcan caligrafía, acento, agilidad en los movimientos, pausas, velocidad y entonación."
+    },
+    {
+      "question": "Asegurarse de que aquello a lo que se refiere el mensaje es fácilmente identificable por ambas partes atañe al factor:",
+      "options": [
+        "Código",
+        "Canal",
+        "Contexto",
+        "Emisor"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los factores relacionados con el contexto exigen cerciorarse de que el referente del mensaje sea identificable por ambas partes."
+    },
+    {
+      "question": "¿Cómo entienden la inteligencia la mayoría de los psicólogos?",
+      "options": [
+        "Como la capacidad para adquirir conocimientos nuevos y resolver problemas, adaptándose a nuevas experiencias",
+        "Como la cantidad de información almacenada en la memoria",
+        "Como el resultado del cociente intelectual",
+        "Como una habilidad de tipo verbal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Aunque la definición es controvertida, se entiende como la capacidad de adquirir conocimientos y resolver problemas, adaptarse a nuevas experiencias y manipular conceptos abstractos."
+    },
+    {
+      "question": "¿Qué crítica importante se hace a la evaluación mediante el CI?",
+      "options": [
+        "Que es imposible de aplicar en niños",
+        "Que las pruebas se concentran en capacidades útiles en la escuela",
+        "Que mide la inteligencia emocional",
+        "Que ignora la memoria a corto plazo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Según Papalia y Martorell, las pruebas de CI se concentran en capacidades útiles en la escuela, lo que limita su alcance."
+    },
+    {
+      "question": "Para Wechsler, la inteligencia es:",
+      "options": [
+        "Un conjunto de ocho capacidades independientes",
+        "Una capacidad creativa, analítica y práctica",
+        "Una habilidad general y global para comprender el mundo, adaptarse y afrontar desafíos",
+        "El resultado de la inteligencia fluida y la cristalizada"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Wechsler la concibe como una capacidad global. Diseñó escalas como el WISC-V para niños y el WAIS-IV para adultos."
+    },
+    {
+      "question": "El WISC-V y el WAIS-IV son:",
+      "options": [
+        "Teorías de la inteligencia múltiple",
+        "Pruebas de memoria sensorial",
+        "Escalas de inteligencia de Wechsler para niños y adultos respectivamente",
+        "Tests de personalidad de Cattell"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Wechsler diseñó el WISC-V (escala para niños) y el WAIS-IV (para adultos), de las más utilizadas para medir el CI."
+    },
+    {
+      "question": "¿Qué propuso Spearman en 1904 sobre la inteligencia?",
+      "options": [
+        "Un factor g general como motor central de todas las habilidades, junto a factores específicos",
+        "Tres elementos: experiencial, componencial y contextual",
+        "Ocho inteligencias independientes",
+        "Dos dimensiones: fluida y cristalizada"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Spearman describió el factor g o global, motor central de las habilidades, junto con capacidades específicas (factor S)."
+    },
+    {
+      "question": "¿Quiénes desarrollaron la teoría bifactorial de la inteligencia?",
+      "options": [
+        "Sternberg y Gardner",
+        "Cattell y Horn",
+        "Wechsler y Spearman",
+        "Tulving y Baddeley"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cattell y Horn describieron dos dimensiones interrelacionadas: inteligencia fluida y cristalizada."
+    },
+    {
+      "question": "La inteligencia fluida se caracteriza por ser:",
+      "options": [
+        "Cultural y mediada por la educación y la experiencia",
+        "Creativa y empírica",
+        "Genética e instintiva, usada para adquirir aprendizajes sin que medien conocimientos previos",
+        "Práctica y dependiente del contexto"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La inteligencia fluida permite inferir, relacionar y extrapolar sin conocimientos previos. La cristalizada es cultural y la creativa o práctica pertenecen a Sternberg."
+    },
+    {
+      "question": "Un alumno aplica el vocabulario y las relaciones matemáticas aprendidos en el colegio. ¿Qué tipo de inteligencia emplea?",
+      "options": [
+        "Fluida",
+        "Contextual",
+        "Espiritual",
+        "Cristalizada"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La inteligencia cristalizada es cultural y enriquece conceptos adquiridos, como la lectura, las relaciones matemáticas o el conteo."
+    },
+    {
+      "question": "¿Qué plantea la teoría de Cattell sobre la relación entre ambos tipos de inteligencia?",
+      "options": [
+        "La cristalizada es la base de la fluida",
+        "Son independientes y no interactúan",
+        "La fluida puede ser la base de la cristalizada, pues es necesaria para que esta aumente",
+        "Ambas desaparecen con la edad al mismo ritmo"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Se plantea que la inteligencia fluida es necesaria para que la cristalizada pueda aumentar; el aprendizaje depende en última instancia de la fluida."
+    },
+    {
+      "question": "¿Cuáles son los tres elementos de la teoría triárquica de Sternberg?",
+      "options": [
+        "Fluido, cristalizado y espiritual",
+        "Experiencial (creativa), componencial (analítica) y contextual (práctica)",
+        "Lingüístico, lógico y espacial",
+        "Genético, ambiental y social"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sternberg identifica el elemento experiencial o creativo, el componencial o analítico y el contextual o práctico."
+    },
+    {
+      "question": "Crear una historia original se asocia, según Sternberg, con la inteligencia:",
+      "options": [
+        "Creativa",
+        "Analítica",
+        "Práctica",
+        "Cristalizada"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La inteligencia creativa (elemento experiencial) ayuda a formular nuevas ideas y relacionar hechos inconexos, como crear una historia."
+    },
+    {
+      "question": "Adquirir vocabulario y resolver problemas abstractos se relaciona con la inteligencia:",
+      "options": [
+        "Práctica",
+        "Creativa",
+        "Analítica",
+        "Fluida"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La inteligencia analítica (elemento componencial) permite pensar de forma abstracta, procesar información y resolver problemas, y se relaciona con habilidades verbales."
+    },
+    {
+      "question": "Plantar un huerto y adaptarse con éxito al ambiente es un ejemplo de inteligencia:",
+      "options": [
+        "Analítica",
+        "Creativa",
+        "Cristalizada",
+        "Práctica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La inteligencia práctica (elemento contextual) se relaciona con la capacidad de adaptarse y relacionarse con el ambiente."
+    },
+    {
+      "question": "Según Gardner, las inteligencias múltiples son:",
+      "options": [
+        "Independientes entre sí, pero relacionadas, y pueden ser entrenadas y evaluadas",
+        "Un único factor general medible con el CI",
+        "Dependientes entre sí hasta no poder separarse",
+        "Fijas e inmodificables por el entrenamiento"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Gardner plantea inteligencias especializadas e independientes (se puede ser hábil en una y poco en otra), pero relacionadas, entrenables y evaluables."
+    },
+    {
+      "question": "¿Cuántas inteligencias planteó Gardner inicialmente y cuántas añade en sus escritos más recientes?",
+      "options": [
+        "Cinco al inicio y siete después",
+        "Ocho al inicio y nueve después, con la inteligencia espiritual",
+        "Siete al inicio y ocho después, con la emocional",
+        "Nueve al inicio y doce después"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La idea primera de Gardner fue de al menos ocho; luego habla de nueve al añadir la espiritual. Con otros autores se llega a doce."
+    },
+    {
+      "question": "Un alumno es muy hábil en música pero tiene dificultades en cálculo. ¿Qué teoría lo explica mejor?",
+      "options": [
+        "La teoría del factor g de Spearman",
+        "La teoría de las inteligencias múltiples de Gardner",
+        "La escala de Wechsler como habilidad global",
+        "La inteligencia cristalizada de Cattell"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gardner defiende inteligencias independientes: se puede destacar mucho en una y poco en otra. Spearman y Wechsler hablan de una capacidad general."
+    },
+    {
+      "question": "¿En qué dos grandes grupos se clasifican los factores que influyen en la inteligencia?",
+      "options": [
+        "Intrínsecos y extrínsecos",
+        "Genéticos y ambientales",
+        "Cognitivos y emocionales",
+        "Verbales y no verbales"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los factores que influyen en la inteligencia son genéticos (código genético) y ambientales (entorno en que se nace y vive)."
+    },
+    {
+      "question": "Nutrición, abuso de sustancias, peso al nacer y problemas perinatales son factores ambientales de tipo:",
+      "options": [
+        "Biológico",
+        "Climático",
+        "Social",
+        "Cultural"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Son factores ambientales biológicos. Los climáticos incluyen contaminación o temperaturas extremas y los sociales y culturales la escolarización o la familia."
+    },
+    {
+      "question": "El nivel de escolarización y el tipo de familia se consideran factores ambientales:",
+      "options": [
+        "Biológicos",
+        "Climáticos",
+        "Genéticos",
+        "Sociales y culturales"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El nivel de escolarización y la familia pertenecen al grupo de factores sociales y culturales dentro de los ambientales."
+    },
+    {
+      "question": "Los niveles de contaminación del ambiente o las temperaturas extremas son factores ambientales:",
+      "options": [
+        "Sociales",
+        "Climáticos",
+        "Biológicos",
+        "Genéticos"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Entre los factores ambientales, los climáticos incluyen la contaminación del ambiente y las temperaturas extremas."
+    },
+    {
+      "question": "Los factores genéticos de la inteligencia se definen como:",
+      "options": [
+        "Los relacionados con la nutrición y el peso al nacer",
+        "Los relacionados con la escolarización",
+        "Los que el individuo trae ya en su código genético y determinan algunas capacidades y su desarrollo intelectual",
+        "Los que dependen de la contaminación ambiental"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los factores genéticos están en el código genético del individuo y determinan algunas capacidades; los demás son ejemplos de factores ambientales."
+    },
+    {
+      "question": "En la producción lingüística, ¿qué supone la generación de una expresión según Fernández-Abascal et al.?",
+      "options": [
+        "Una intención comunicativa por parte del emisor o hablante",
+        "Una respuesta automática sin finalidad",
+        "Un proceso del hemisferio derecho",
+        "La activación del paralenguaje"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La generación de una expresión lingüística supone una intención comunicativa del emisor; esta producción se realiza en tres fases."
+    },
+    {
+      "question": "¿Cómo se define la motivación en la unidad?",
+      "options": [
+        "Un estado o disposición interna que pone en marcha, orienta, impulsa y mantiene una conducta",
+        "Un proceso que filtra los estímulos según su relevancia",
+        "Una capacidad para resolver problemas nuevos",
+        "Un almacén de información de capacidad limitada"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La motivación es una disposición interna que activa, dirige y mantiene la conducta. Filtrar es atención, resolver problemas es inteligencia y el almacén es la memoria."
+    },
+    {
+      "question": "¿Por qué se destaca la motivación en el contexto educativo?",
+      "options": [
+        "Porque sustituye a la inteligencia en el aprendizaje",
+        "Porque es, probablemente, el mejor indicador de la satisfacción y el rendimiento académico del alumnado",
+        "Porque depende por completo de la familia",
+        "Porque no se ve afectada por el profesor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Se señala como probablemente el mejor indicador de satisfacción y rendimiento académico. No depende de un único agente: interactúan alumno, profesor y entorno."
+    },
+    {
+      "question": "La motivación no puede reducirse a un proceso cognitivo porque:",
+      "options": [
+        "Carece de relación con el aprendizaje",
+        "Es un proceso puramente fisiológico",
+        "Es independiente de las emociones",
+        "Tiene naturaleza social y resulta de la interacción entre el individuo y quienes le rodean"
+      ],
+      "correctAnswer": 3,
+      "explanation": "La motivación tiene una naturaleza marcadamente social y se configura en la interacción del individuo con su entorno, por lo que no es solo cognitiva."
+    },
+    {
+      "question": "¿Qué implicación tiene para el docente la naturaleza social de la motivación?",
+      "options": [
+        "Debe delegar la motivación en el alumno",
+        "Debe construirla conjuntamente con el estudiante, sin depositar toda la responsabilidad en él",
+        "Debe evitar influir en ella",
+        "Debe medirla mediante el CI"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La motivación debe construirse entre profesor y estudiante; el docente no puede cargar toda la responsabilidad en el alumno."
+    },
+    {
+      "question": "¿Qué afirma la unidad sobre el entorno y la motivación?",
+      "options": [
+        "La motivación se produce en el vacío",
+        "La motivación depende de factores genéticos fijos",
+        "El entorno puede estimularla o inhibirla, y la forma de plantear la actividad del profesor influye",
+        "La desmotivación es culpa del alumno"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La motivación o desmotivación se produce en un entorno que puede estimularla o inhibirla, y es importante conocer qué características de la actividad docente influyen."
+    },
+    {
+      "question": "¿De cuáles de estos factores depende la motivación del alumno?",
+      "options": [
+        "Autoestima, autoconcepto, relaciones con iguales, mensajes del profesor, necesidades, creencias y metas",
+        "Del umbral de percepción y la memoria sensorial",
+        "Del cociente intelectual del alumno",
+        "De la recompensa externa recibida"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La motivación es un fenómeno complejo con variables internas y externas: autoestima, autoconcepto, iguales, mensajes del profesor, necesidades, creencias y metas."
+    },
+    {
+      "question": "Un alumno estudia historia porque disfruta aprendiendo y le genera curiosidad. ¿Qué tipo de motivación muestra?",
+      "options": [
+        "Extrínseca",
+        "Intrínseca",
+        "Social",
+        "Neutra"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La motivación intrínseca viene desde dentro de uno mismo, sin depender de recompensas externas."
+    },
+    {
+      "question": "Un alumno estudia solo para obtener un premio o para evitar un castigo. ¿Qué motivación predomina?",
+      "options": [
+        "Intrínseca",
+        "Cristalizada",
+        "Extrínseca",
+        "Atencional"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cuando lo que genera la motivación es un incentivo, una recompensa o la evitación de un castigo, se trata de motivación extrínseca."
+    },
+    {
+      "question": "La motivación se clasifica en la unidad dentro de los procesos:",
+      "options": [
+        "Cognitivos básicos",
+        "Cognitivos superiores",
+        "Integradores",
+        "Reguladores"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Emoción y motivación son procesos reguladores que modulan la activación de otros procesos. El aprendizaje es el proceso integrador."
+    },
+    {
+      "question": "¿En qué unidad se abordarán con más profundidad la motivación y su relación con el aprendizaje?",
+      "options": [
+        "En la Unidad didáctica 4",
+        "En la Unidad didáctica 1",
+        "En la Unidad didáctica 3",
+        "En la Unidad didáctica 5"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La nota del texto indica que la motivación y los factores que influyen en ella y en el aprendizaje se abordarán en la Unidad didáctica 4."
+    },
+    {
+      "question": "Una profesora comenta a un alumno que «no vale para esto». ¿Qué aspecto de la motivación se ve afectado negativamente?",
+      "options": [
+        "El umbral mínimo de percepción",
+        "Los mensajes recibidos del profesor, que influyen en autoestima y autoconcepto",
+        "La capacidad de la memoria sensorial",
+        "La inteligencia fluida"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los mensajes del profesor son un factor de la motivación del alumno y repercuten en su autoestima y autoconcepto."
+    },
+    {
+      "question": "¿Cómo describe la unidad la relación entre los procesos estudiados?",
+      "options": [
+        "Operan de forma aislada, uno detrás de otro",
+        "Están profundamente interrelacionados y operan de manera integrada",
+        "Los superiores anulan a los básicos",
+        "Los reguladores interactúan con el resto"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Aunque algunos se consideran más elementales y otros más complejos, todos están interrelacionados y operan de forma integrada."
+    },
+    {
+      "question": "¿Cuál es el objeto de estudio de la psicología básica o general, según la unidad?",
+      "options": [
+        "Los procesos psicológicos",
+        "El desarrollo físico del adolescente",
+        "Los contextos educativos",
+        "Las estructuras familiares"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La unidad aborda el conocimiento del adolescente desde los procesos psicológicos, objeto de estudio de la psicología básica o general."
+    },
+    {
+      "question": "El aprendizaje emerge, según la unidad, de la interacción dinámica de procesos como:",
+      "options": [
+        "Percepción, atención, memoria, emoción y motivación",
+        "Inteligencia y lenguaje",
+        "Percepción y pensamiento",
+        "Emoción y motivación"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El proceso de aprendizaje emerge de la interacción de percepción, atención, memoria, emoción y motivación, entre otros."
+    },
+    {
+      "question": "Un docente presenta un esquema con letras de gran tamaño y colores intensos para los conceptos clave. ¿Qué factores combina?",
+      "options": [
+        "Factores intrínsecos de la atención",
+        "Factores extrínsecos de la atención: tamaño e intensidad",
+        "Factores neurofisiológicos de la percepción",
+        "Factores genéticos de la inteligencia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tamaño e intensidad son factores extrínsecos, propios del estímulo, que ayudan a captar la atención."
+    },
+    {
+      "question": "Un alumno llega a clase con hambre y sueño y no consigue concentrarse. ¿Qué factor de la atención explica el problema?",
+      "options": [
+        "Incongruencia del estímulo",
+        "Significado personal",
+        "Novedad",
+        "Estados personales transitorios"
+      ],
+      "correctAnswer": 3,
+      "explanation": "El hambre, el sueño y el cansancio son necesidades fisiológicas no satisfechas que afectan al nivel de atención como estados transitorios."
+    },
+    {
+      "question": "Un profesor empieza la clase con un objeto inesperado sobre la mesa que despierta la curiosidad del grupo. ¿Qué factor extrínseco aprovecha?",
+      "options": [
+        "La incongruencia, por ser un estímulo inusual",
+        "El arousal fisiológico",
+        "La automatización",
+        "El umbral relativo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los estímulos inusuales o inesperados captan mejor la atención por la disonancia cognitiva que provocan y que motiva a investigar."
+    },
+    {
+      "question": "Un docente entrega el temario en bloques de siete conceptos con subgrupos. ¿Qué característica de la memoria está teniendo en cuenta?",
+      "options": [
+        "La capacidad ilimitada de la memoria sensorial",
+        "La permanencia de la memoria a largo plazo",
+        "La limitación de unidades de la memoria a corto plazo",
+        "El carácter implícito de la memoria no declarativa"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La memoria a corto plazo admite 7 ± 2 unidades, por lo que descomponer la información en pocos elementos favorece su retención."
+    },
+    {
+      "question": "Un alumno no comprende una instrucción porque la frase admite dos interpretaciones. ¿Qué factor de la comunicación está fallando?",
+      "options": [
+        "El canal",
+        "El receptor",
+        "El contexto",
+        "El mensaje"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Entre los factores del mensaje está la confusión causada por dobles sentidos."
+    },
+    {
+      "question": "Un docente detecta que un alumno tiene dificultades para ver bien la pizarra. ¿Cuál es la actuación más acorde con la unidad?",
+      "options": [
+        "Mantener el canal visual para todos",
+        "Ignorarlo mientras rinda en las pruebas",
+        "Solicitar o realizar adaptaciones y emplear otros canales perceptivos",
+        "Aumentar la duración de las tareas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El docente debe ser consciente de las carencias de percepción para solicitar o realizar adaptaciones y variar los canales por los que se presentan los contenidos."
+    },
+    {
+      "question": "Una profesora relaciona un problema de física con el mundo de los videojuegos, que le interesa a su alumnado. ¿Qué factores favorece?",
+      "options": [
+        "El umbral máximo y la defensa perceptual",
+        "El significado personal y la motivación hacia la tarea",
+        "La memoria sensorial y la inteligencia cristalizada",
+        "La atención alternante y el paralenguaje"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vincular contenidos con intereses del alumnado les da significado personal (factor extrínseco) y aumenta su motivación hacia la tarea (factor intrínseco)."
+    },
+    {
+      "question": "Si una tarea es demasiado difícil para la edad del alumnado, lo más probable es que aparezca:",
+      "options": [
+        "Mayor automatización",
+        "Frustración y abandono por expectativas de resultado mal calibradas",
+        "Una mejora de la memoria sensorial",
+        "Un aumento del umbral diferencial"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las tareas mal ajustadas a la edad y capacidades generan aburrimiento, frustración o abandono, al afectar a las expectativas de resultado."
+    },
+    {
+      "question": "Un profesor plantea sesiones de dos horas sin pausas. ¿Qué problema atencional es previsible?",
+      "options": [
+        "Descenso gradual de la atención sostenida por carga del sistema",
+        "Aumento de la atención alternante",
+        "Incremento de la atención selectiva",
+        "Desaparición del arousal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "En tareas largas la atención sostenida decae gradualmente, por lo que conviene introducir pausas y variar actividades."
+    },
+    {
+      "question": "Un alumno toma apuntes, mira la pizarra y escucha al profesor, pasando de una a otra actividad. ¿Qué tipo de atención predomina?",
+      "options": [
+        "Atención alternante",
+        "Atención sostenida",
+        "Atención focalizada",
+        "Atención inconsciente"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pasar rápidamente de una tarea a otra es la atención alternante, que muchos autores integran en la atención dividida."
+    },
+    {
+      "question": "Una ilusión óptica que parece moverse al acercarse o alejarse muestra que:",
+      "options": [
+        "La atención se divide sin límite",
+        "Existen errores en la percepción",
+        "El umbral mínimo es inexistente",
+        "La memoria sensorial es permanente"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Las ilusiones ópticas son un ejemplo de errores de la percepción, en los que lo percibido no coincide con el estímulo real."
+    },
+    {
+      "question": "¿A qué se refiere la percepción social?",
+      "options": [
+        "A cómo las personas percibimos a quienes nos rodean",
+        "A la intensidad de los sonidos del entorno",
+        "A la discriminación de sabores",
+        "Al equilibrio y la orientación del cuerpo"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La percepción social es la forma en que percibimos a los demás; el equilibrio y la orientación corresponden a la propiocepción."
+    },
+    {
+      "question": "El equilibrio y la orientación corporal se asocian con:",
+      "options": [
+        "La percepción social",
+        "La percepción térmica",
+        "La propiocepción",
+        "La percepción extrasensorial"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Algunos autores hablan de propiocepción (equilibrio, orientación), percepción espacial, social, térmica y extrasensorial, además de la clásica por sentidos."
+    },
+    {
+      "question": "Un docente muestra varios casos concretos y pide al grupo que formule una regla general. ¿Qué razonamiento promueve?",
+      "options": [
+        "Deductivo",
+        "Inductivo",
+        "Heurístico",
+        "Prospectivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Partir de casos particulares para extraer una conclusión general es razonamiento inductivo, de lo específico a lo general."
+    },
+    {
+      "question": "Un docente enuncia una ley general y pide aplicarla a ejercicios concretos. ¿Qué razonamiento promueve?",
+      "options": [
+        "Inductivo",
+        "Deductivo",
+        "Intuitivo",
+        "Hipotético-inductivo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Aplicar una premisa general a casos concretos para obtener una conclusión lógica es razonamiento deductivo."
+    },
+    {
+      "question": "Un grupo formula una hipótesis, la contrasta con datos y ajusta la teoría. ¿Qué tipo de razonamiento es?",
+      "options": [
+        "Puramente deductivo",
+        "Puramente inductivo",
+        "Hipotético-deductivo",
+        "Heurístico"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Combina deducción e inducción: se parte de una hipótesis general y se contrasta con datos, y es el paradigma más usado."
+    },
+    {
+      "question": "Un alumno decide rápidamente en un examen, guiándose por una corazonada con buena probabilidad de acierto. ¿Qué ha empleado?",
+      "options": [
+        "Un heurístico",
+        "Un razonamiento deductivo estricto",
+        "Memoria prospectiva",
+        "Inteligencia contextual"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Los heurísticos son atajos para decidir rápido con una probabilidad más o menos alta de acertar, aunque pueden inducir a error."
+    },
+    {
+      "question": "Una persona de edad avanzada resuelve con soltura problemas gracias a su experiencia y cultura. ¿Qué inteligencia emplea principalmente?",
+      "options": [
+        "Fluida",
+        "Cristalizada",
+        "Creativa",
+        "Espiritual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "La inteligencia cristalizada es cultural y está mediada por la educación y la experiencia, a diferencia de la fluida, que no depende de aprendizajes previos."
+    },
+    {
+      "question": "Un alumno resuelve un puzle completamente nuevo infiriendo reglas sin conocimientos previos. ¿Qué tipo de inteligencia pone en juego?",
+      "options": [
+        "Cristalizada",
+        "Práctica",
+        "Fluida",
+        "Lingüística"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La inteligencia fluida permite inferir, relacionar y extrapolar sin que medien aprendizajes previos."
+    },
+    {
+      "question": "Recordar cuál es la capital de Francia es un ejemplo de memoria:",
+      "options": [
+        "Episódica",
+        "Prospectiva",
+        "Icónica",
+        "Semántica"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Se trata de un hecho del conocimiento del mundo, propio de la memoria semántica, que forma parte de la declarativa."
+    },
+    {
+      "question": "Recordar el primer día en el instituto con las sensaciones vividas es un ejemplo de memoria:",
+      "options": [
+        "Episódica",
+        "Semántica",
+        "Implícita",
+        "Ecoica"
+      ],
+      "correctAnswer": 0,
+      "explanation": "La memoria episódica se relaciona con experiencias personales y autobiográficas."
+    },
+    {
+      "question": "¿Qué diferencia a una emoción primaria de una secundaria?",
+      "options": [
+        "La primaria tiene respuesta más universal y la secundaria depende del significado personal del estímulo",
+        "La primaria es positiva y la secundaria negativa",
+        "La primaria carece de expresión facial y la secundaria la tiene específica",
+        "La primaria se genera tras la segunda valoración cultural"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Las primarias presentan una respuesta más universal y esperable; las secundarias carecen de rasgos universales y se desencadenan por estímulos con significado personal."
+    },
+    {
+      "question": "El miedo ante un peligro inminente es un ejemplo de emoción:",
+      "options": [
+        "Secundaria",
+        "Neutra",
+        "Primaria",
+        "Positiva"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El miedo ante un peligro inminente utiliza la primera vía de procesamiento y tiene una expresión característica, por lo que es primaria."
+    },
+    {
+      "question": "Un profesor enfatiza una idea con el tono de su voz y pausas. ¿Qué elemento de la comunicación no verbal usa?",
+      "options": [
+        "Proxémica",
+        "Postura corporal",
+        "Paralenguaje",
+        "Relatividad lingüística"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El paralenguaje es la manera de decir las cosas (tono, ritmo, volumen, pausas) y aumenta la eficacia del mensaje."
+    },
+    {
+      "question": "Un centro diversifica las actividades para potenciar la música, el movimiento y el trabajo en equipo además de la lógica. ¿Qué teoría sigue?",
+      "options": [
+        "Teoría bifactorial de Cattell y Horn",
+        "Teoría del factor g de Spearman",
+        "Escalas de Wechsler",
+        "Teoría de las inteligencias múltiples de Gardner"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Gardner defiende varias inteligencias entrenables y evaluables, por lo que conviene atender más de una capacidad en el aula."
+    },
+    {
+      "question": "Emoción y motivación se agrupan como procesos reguladores porque:",
+      "options": [
+        "Modulan la activación de otros procesos como la atención, la memoria o el pensamiento",
+        "Son los primeros en desarrollarse",
+        "Son las operaciones mentales más complejas",
+        "Se estudian en la memoria sensorial"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ambos influyen facilitando o inhibiendo cómo, cuándo y con qué intensidad se activan los procesos cognitivos."
+    },
+    {
+      "question": "Un alumno no oye a su profesora cuando susurra porque el estímulo está por debajo del umbral. ¿De qué umbral se trata?",
+      "options": [
+        "Máximo",
+        "Diferencial",
+        "Mínimo",
+        "Relativo a la atención"
+      ],
+      "correctAnswer": 2,
+      "explanation": "El umbral mínimo es el nivel de intensidad que debe tener un estímulo para provocar una sensación; por debajo de él no se percibe."
+    },
+    {
+      "question": "Según el resumen de la unidad, ¿qué función cumple cada proceso en la secuencia de tratamiento de la información?",
+      "options": [
+        "La percepción capta, la atención filtra, la memoria almacena, el pensamiento transforma y el lenguaje comunica",
+        "La memoria capta, la percepción filtra y el lenguaje almacena",
+        "La atención almacena, el pensamiento capta y la percepción comunica",
+        "El lenguaje filtra, la emoción almacena y la inteligencia capta"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El resumen indica que la percepción capta la información, la atención la filtra, la memoria la almacena y recupera, el pensamiento la transforma y el lenguaje permite comunicarla."
+    },
+    {
+      "question": "Un docente combina explicación oral, esquema escrito y práctica manipulativa en una misma sesión. ¿Qué principio perceptivo aplica?",
+      "options": [
+        "Presentar contenidos variados en cuanto al canal para facilitar el aprendizaje",
+        "Reducir los estímulos para evitar la automatización",
+        "Eliminar el canal auditivo",
+        "Mantener un único estímulo constante"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Variar los canales (oído, vista, tacto) permite aprender los contenidos, evita la frustración y estimula el desarrollo de los sentidos."
+    },
+    {
+      "question": "Un alumno ansioso comprende el tema pero se bloquea al exponerlo oralmente. ¿Qué relación entre procesos se ilustra?",
+      "options": [
+        "La percepción sustituye al lenguaje",
+        "La emoción como proceso regulador puede inhibir procesos como el pensamiento y el lenguaje",
+        "La memoria sensorial elimina la ansiedad",
+        "La inteligencia fluida impide hablar"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los procesos reguladores facilitan o inhiben la activación de los cognitivos; una emoción intensa puede bloquear la expresión pese a haber comprendido el contenido."
+    },
+    {
+      "question": "El reto del docente respecto a los procesos psicológicos consiste en:",
+      "options": [
+        "Memorizar sus definiciones para evaluarlas",
+        "Ser consciente de su alcance sobre el aprendizaje y de los factores que permiten mejorarlos para adaptar sus materiales",
+        "Evitar que el alumnado experimente emociones",
+        "Limitar el aprendizaje al canal visual"
+      ],
+      "correctAnswer": 1,
+      "explanation": "El resumen señala que el docente debe conocer el alcance de estos procesos y los factores que los mejoran para adaptar materiales y lograr resultados óptimos."
+    },
+    {
+      "question": "La percepción térmica, mencionada por algunos autores, se refiere a:",
+      "options": [
+        "La percepción de distancias y profundidad",
+        "El equilibrio y la orientación del cuerpo",
+        "La percepción de la temperatura",
+        "Los presentimientos e intuiciones"
+      ],
+      "correctAnswer": 2,
+      "explanation": "La percepción térmica es la de la temperatura. Las distancias son percepción espacial, el equilibrio es propiocepción y los presentimientos, percepción extrasensorial."
+    },
+    {
+      "question": "¿Por qué el lenguaje es especialmente relevante en el contexto educativo?",
+      "options": [
+        "Es una herramienta eficaz para la adquisición de nuevos aprendizajes además de medio de comunicación",
+        "Es el único medio de acceso al pensamiento ajeno",
+        "Es un proceso básico que se desarrolla antes que la percepción",
+        "Elimina la influencia de las emociones sobre el aprendizaje"
+      ],
+      "correctAnswer": 0,
+      "explanation": "El lenguaje permite comunicarse y es una herramienta eficaz para aprender. Es un proceso superior, no básico, y no anula la influencia emocional."
+    },
+    {
+      "question": "¿En qué existe desacuerdo entre los psicólogos respecto a la inteligencia?",
+      "options": [
+        "En que sirva para resolver problemas",
+        "En que permita adaptarse a nuevas experiencias",
+        "En que se relacione con conceptos abstractos",
+        "En la manera de medirla: CI o suma del desempeño en tareas"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Hay consenso general en entenderla como capacidad de adquirir conocimientos y resolver problemas, pero no en cómo medirla: con el CI o como suma del desempeño en distintas tareas."
+    },
+    {
+      "question": "¿Por qué los heurísticos resultan necesarios para el sistema cognitivo?",
+      "options": [
+        "Garantizan conclusiones exactas",
+        "Evitan saturar el sistema cognitivo y consumir tantos recursos atencionales",
+        "Sustituyen al razonamiento deductivo en matemáticas",
+        "Reemplazan a la memoria a largo plazo"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Los heurísticos permiten decidir con rapidez y precisión aceptable, ahorrando recursos atencionales, aunque no garantizan exactitud y pueden llevar a error."
+    },
+    {
+      "question": "¿Qué distingue a los procesos superiores de los básicos en cuanto al control consciente?",
+      "options": [
+        "Los básicos requieren mayor control consciente",
+        "Ambos actúan de manera automática",
+        "Los superiores requieren mayor control consciente y los básicos actúan a menudo de forma automática",
+        "Ambos son inaccesibles a la consciencia"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Los básicos suelen actuar de forma automática o inconsciente, mientras que los superiores implican elaboración más compleja y mayor control consciente."
+    }
+  ]
+}

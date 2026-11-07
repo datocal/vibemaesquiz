@@ -19,6 +19,3 @@ npm-debug.log*
 
 *.DS_Store
 contenidos/
-
-# Optional: Claude settings (uncomment if you don't want to share)
-.claude/settings.local.json
