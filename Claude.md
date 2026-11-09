@@ -88,7 +88,7 @@ Static HTML/CSS/JS quiz application with no frameworks or build tools. Uses ES6 
 1. URL param: `?mode=random` (global) or `?mode=random&category=categoryId` (category-specific)
 2. Load ALL quizzes (or quizzes from specific category)
 3. Extract all questions with metadata
-4. Select 10 random questions
+4. Select 30 random questions
 5. Create new quiz object with mixed difficulty/category
 6. Shuffle and initialize
 
@@ -148,8 +148,8 @@ Static HTML/CSS/JS quiz application with no frameworks or build tools. Uses ES6 
 
 - **Category Organization**: Quizzes organized by category for better navigation
 - **Shuffling**: Questions and options shuffled automatically on every load
-- **Global Random Party**: 10 questions from all quizzes across all categories
-- **Category Random Party**: 10 questions from specific category only
+- **Global Random Party**: 30 questions from all quizzes across all categories
+- **Category Random Party**: 30 questions from specific category only
 - **Dynamic Loading**: Categories and quizzes loaded from manifest.json
 - **Progress Tracking**: Live progress bar and question counter
 - **Immediate Feedback**: Shows correct answer with explanation

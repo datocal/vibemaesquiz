@@ -89,7 +89,7 @@ class QuizController {
             : 'A random selection of questions from all available quizzes';
 
         const randomQuiz = RandomQuizGenerator.createRandomQuiz(allQuizzes, {
-            count: 10,
+            count: 30,
             title,
             description
         });

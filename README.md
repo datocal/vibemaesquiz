@@ -5,8 +5,8 @@ A modern, lightweight quiz application built with vanilla HTML, CSS, and JavaScr
 ## Features
 
 - **Category Organization**: Browse quizzes organized by category for easy navigation
-- **Global Random Party Mode**: Generate a quiz with 10 random questions from ALL available quizzes
-- **Category Random Party Mode**: Generate a quiz with 10 random questions from a specific category
+- **Global Random Party Mode**: Generate a quiz with 30 random questions from ALL available quizzes
+- **Category Random Party Mode**: Generate a quiz with 30 random questions from a specific category
 - **Question & Answer Shuffling**: Questions and answer options are automatically shuffled for variety
 - **Multiple Quiz Selection**: Browse and select from various quizzes within each category
 - **Dynamic Quiz Loading**: Categories and quizzes are loaded dynamically from a manifest file

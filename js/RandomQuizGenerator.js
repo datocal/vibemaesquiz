@@ -109,14 +109,14 @@ export class RandomQuizGenerator {
      * Creates a random quiz from multiple quizzes
      * @param {Array} quizzes - Array of source quiz objects
      * @param {Object} options - Configuration options
-     * @param {number} options.count - Number of questions to select (default: 10)
+     * @param {number} options.count - Number of questions to select (default: 30)
      * @param {string} options.title - Title for the random quiz
      * @param {string} options.description - Description for the random quiz
      * @returns {Object} A new quiz object with random questions
      */
     static createRandomQuiz(quizzes, options = {}) {
         const {
-            count = 20,
+            count = 30,
             title = 'Random Party Quiz',
             description = 'A random selection of questions from all available quizzes'
         } = options;

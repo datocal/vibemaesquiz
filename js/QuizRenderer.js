@@ -71,8 +71,8 @@ export class QuizRenderer {
             : 'quiz.html?mode=random';
 
         const description = categoryId
-            ? '¡10 preguntas aleatorias de esta categoría!'
-            : '¡Desafíate a ti mismo con 10 preguntas aleatorias de todos los cuestionarios disponibles!';
+            ? '¡30 preguntas aleatorias de esta categoría!'
+            : '¡Desafíate a ti mismo con 30 preguntas aleatorias de todos los cuestionarios disponibles!';
 
         return `
             <a href="${url}" class="quiz-card quiz-card--random">
@@ -85,7 +85,7 @@ export class QuizRenderer {
                     <span class="quiz-card__difficulty quiz-card__difficulty--medium">
                         Mixed
                     </span>
-                    <span>10 Questions</span>
+                    <span>30 Questions</span>
                 </div>
             </a>
         `;
