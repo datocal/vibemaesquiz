@@ -50,7 +50,7 @@ class QuizController {
      * Initializes a regular quiz from a file
      * @param {HTMLElement} container - Container element
      * @param {string} quizFile - Quiz filename
-     * @param {boolean} sampleMode - If true, creates a 10-question sample
+     * @param {boolean} sampleMode - If true, creates a 20-question sample
      */
     async initRegularQuiz(container, quizFile, sampleMode = false) {
         this.isSampleMode = sampleMode;
@@ -143,6 +143,12 @@ class QuizController {
             button.addEventListener('click', (e) => this.handleOptionClick(e));
         });
 
+        // Add event listener to skip button
+        const skipBtn = document.getElementById('skipBtn');
+        if (skipBtn) {
+            skipBtn.addEventListener('click', () => this.handleSkip());
+        }
+
         // Add event listener to next button
         const nextBtn = document.getElementById('nextBtn');
         if (nextBtn) {
@@ -174,6 +180,15 @@ class QuizController {
         );
 
         this.isAnswered = true;
+    }
+
+    handleSkip() {
+        if (this.isAnswered) {
+            return;
+        }
+        this.quizManager.skipQuestion();
+        this.isAnswered = true;
+        this.handleNextQuestion();
     }
 
     handleNextQuestion() {

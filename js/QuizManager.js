@@ -5,6 +5,8 @@
 
 import { RandomQuizGenerator } from './RandomQuizGenerator.js';
 
+const WRONG_ANSWER_PENALTY = 1 / 3;
+
 export class QuizManager {
     constructor() {
         this.currentQuiz = null;
@@ -146,7 +148,7 @@ export class QuizManager {
     /**
      * Loads a specific quiz by filename (with category path support)
      * @param {string} filename - The quiz filename (can include category path like "lomloe/lomloe.json")
-     * @param {boolean} sampleMode - If true, creates a 10-question sample from quizzes with >30 questions
+     * @param {boolean} sampleMode - If true, creates a 20-question sample from quizzes with >30 questions
      * @returns {Promise<Object>} The quiz data
      */
     async loadQuiz(filename, sampleMode = false) {
@@ -167,7 +169,7 @@ export class QuizManager {
             // If sample mode is requested and quiz has more than 30 questions, create a sample
             if (sampleMode && quiz.questions.length > 30) {
                 console.log('Creating sample quiz...');
-                quiz = RandomQuizGenerator.createSampleQuiz(quiz, 10);
+                quiz = RandomQuizGenerator.createSampleQuiz(quiz, 20);
                 console.log('Sample quiz created, questions:', quiz.questions?.length);
             }
 
@@ -319,6 +321,23 @@ export class QuizManager {
     }
 
     /**
+     * Skips the current question (no points gained or lost)
+     */
+    skipQuestion() {
+        if (!this.getCurrentQuestion()) {
+            throw new Error('No current question available');
+        }
+
+        this.answers[this.currentQuestionIndex] = {
+            questionIndex: this.currentQuestionIndex,
+            selectedAnswer: null,
+            isCorrect: false,
+            skipped: true,
+            timestamp: new Date().toISOString()
+        };
+    }
+
+    /**
      * Moves to the next question
      * @returns {boolean} True if there are more questions, false if quiz is complete
      */
@@ -369,16 +388,23 @@ export class QuizManager {
      */
     getResults() {
         const total = this.getTotalQuestions();
-        const percentage = Math.round((this.score / total) * 100);
+        const correct = this.score;
+        const skipped = this.answers.filter(a => a && a.skipped).length;
+        const wrong = total - correct - skipped;
+
+        // Scoring: +1 per right answer, -1/3 per wrong answer, 0 for skipped
+        const points = correct - wrong * WRONG_ANSWER_PENALTY;
+        const grade = total > 0 ? Math.max(0, (points / total) * 10) : 0;
+        const percentage = Math.round(grade * 10);
 
         let message = '';
-        if (percentage === 100) {
+        if (grade >= 10) {
             message = 'Perfect! You\'re a true expert!';
-        } else if (percentage >= 80) {
+        } else if (grade >= 8) {
             message = 'Excellent work! You really know your stuff!';
-        } else if (percentage >= 60) {
+        } else if (grade >= 6) {
             message = 'Good job! Keep learning and you\'ll master this!';
-        } else if (percentage >= 40) {
+        } else if (grade >= 4) {
             message = 'Not bad! Review the material and try again!';
         } else {
             message = 'Keep studying! Practice makes perfect!';
@@ -386,6 +412,11 @@ export class QuizManager {
 
         return {
             score: this.score,
+            correct,
+            wrong,
+            skipped,
+            points,
+            grade,
             total,
             percentage,
             message,

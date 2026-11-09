@@ -117,7 +117,7 @@ export class QuizRenderer {
                         <a href="quiz.html?quiz=${encodeURIComponent(quizPath)}&sample=true" class="quick-quiz-btn">
                             <span class="quick-quiz-btn__icon">⚡</span>
                             <span class="quick-quiz-btn__text">Quick Quiz</span>
-                            <span class="quick-quiz-btn__detail">10 preguntas aleatorias</span>
+                            <span class="quick-quiz-btn__detail">20 preguntas aleatorias</span>
                         </a>` : '';
             return `
                 <div class="quiz-card quiz-card--with-actions">
@@ -180,6 +180,9 @@ export class QuizRenderer {
                 </ul>
             </div>
             <div class="navigation">
+                <button id="skipBtn" class="btn btn--secondary">
+                    Skip Question
+                </button>
                 <button id="nextBtn" class="btn btn--primary" style="display: none;">
                     Next Question
                 </button>
@@ -227,7 +230,11 @@ export class QuizRenderer {
         `;
         questionCard.insertAdjacentHTML('beforeend', feedbackHtml);
 
-        // Show next button
+        // Hide skip button, show next button
+        const skipBtn = document.getElementById('skipBtn');
+        if (skipBtn) {
+            skipBtn.style.display = 'none';
+        }
         const nextBtn = document.getElementById('nextBtn');
         if (nextBtn) {
             nextBtn.style.display = 'block';
@@ -273,6 +280,7 @@ export class QuizRenderer {
         const resultsContainer = document.getElementById('resultsContainer');
         const finalScore = document.getElementById('finalScore');
         const scorePercentage = document.getElementById('scorePercentage');
+        const resultsBreakdown = document.getElementById('resultsBreakdown');
         const resultsMessage = document.getElementById('resultsMessage');
 
         if (quizContainer) {
@@ -284,11 +292,16 @@ export class QuizRenderer {
         }
 
         if (finalScore) {
-            finalScore.textContent = `${results.score}/${results.total}`;
+            finalScore.textContent = `${results.grade.toFixed(2)}/10`;
         }
 
         if (scorePercentage) {
             scorePercentage.textContent = `${results.percentage}%`;
+        }
+
+        if (resultsBreakdown) {
+            resultsBreakdown.textContent =
+                `✓ ${results.correct} correct · ✗ ${results.wrong} wrong · ⏭ ${results.skipped} skipped`;
         }
 
         if (resultsMessage) {

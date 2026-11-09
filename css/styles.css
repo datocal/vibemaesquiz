@@ -520,6 +520,7 @@ body {
 .navigation {
     display: flex;
     justify-content: flex-end;
+    gap: var(--spacing-md);
     margin-top: var(--spacing-xl);
 }
 
@@ -574,6 +575,12 @@ body {
 .score-percentage {
     font-size: var(--font-size-xl);
     font-weight: var(--font-weight-semibold);
+}
+
+.results__breakdown {
+    font-size: var(--font-size-base, 1rem);
+    color: var(--color-neutral-600);
+    margin-bottom: var(--spacing-md);
 }
 
 .results__message {
